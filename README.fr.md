@@ -21,7 +21,7 @@ Ou vous scannez ce QR code, il vous connectera automatiquement au réseau :
 
 ![WiFi](_media/wlan.png)
 
-## Les chambres
+## Die Zimmer
 
 ![Detailansicht](_media/thebox-map-detail.png)
 
@@ -35,7 +35,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 1.  Troupeau
 2.  Bouilloire
-3.  Geschirr, Besteck
+3.  Vaisselle couverts
 4.  Réfrigérateur
 5.  Pizza de
 6.  Eau minérale
@@ -73,11 +73,11 @@ Passwort: thebox
 
 #### Couloir
 
-Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'étagère au cas où tu voudrais me dire quelque chose.
+Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
 
 ## Vérifier
 
-Le**Remise des clés**nous discutons individuellement.**Literie**vous pouvez le laisser. Le**Vaisselle**et le**Ordures**Je le fais aussi.
+Le**Remise des clés**nous discutons individuellement.**Literie**vous pouvez le laisser. Le**Abwasch**et le**Ordures**Je le fais aussi.
 
 > **Court:**Laissez la clé là, fermez la porte, c'est tout.
 
