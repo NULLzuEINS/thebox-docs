@@ -46,7 +46,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 ### Tu cuarto
 
-**los colchones**solo se colocan uno encima del otro para guardarlos. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
+**los colchones**solo se colocan uno encima del otro para guardarlos. Puedes distribuirlos según tus necesidades. Si reemplazas los cojines del sofá por un colchón, será una buena cama.
 
 **El ordenador**y el**drucker**eres bienvenido a usarlo.
 
@@ -61,11 +61,11 @@ Passwort: thebox
 2.  Computadora
 3.  Mandos a distancia para luces y electricidad.
 
-**¿La luz no se enciende o parpadea violentamente?**Utilice los controles remotos.
+**¿La luz no se enciende o parpadea mucho?**Utilice los controles remotos.
 
 #### baño
 
-**La ducha**puedes usarlo mientras estás de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
+**La ducha**puedes usarlo mientras estás de pie. No importa si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
 **Muere Alexa**en la pared se llama “Computadora” y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
