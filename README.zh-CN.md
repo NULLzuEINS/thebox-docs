@@ -20,7 +20,7 @@ Passwort: landungsbruecken
 
 ## 房间
 
-!\[[thebox-map-detail.png]]
+!\[[资产/thebox-map-detail.png]]
 
 ### 厨房
 
