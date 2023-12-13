@@ -8,7 +8,7 @@ Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjour
 
 Vous obtenez deux paires de clés, chacune avec une clé pour le bas et une pour le haut. Il y a aussi une clé sur un porte-clés que vous pouvez utiliser pour verrouiller votre chambre.
 
-### accès Internet
+### Internetzugang
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -46,7 +46,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 **Les matelas**se trouvent uniquement les uns sur les autres pour le stockage. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
 
-**L'ordinateur**et le**Drucker**vous êtes invités à l'utiliser.
+**L'ordinateur**et le**Drucker** könnt ihr gern benutzen.
 
 ```txt
 Nutzer:   thebox
@@ -59,12 +59,11 @@ Passwort: thebox
 2.  Ordinateur
 3.  Télécommandes pour lumières et électricité
 
-**La lumière ne s'allume pas ou clignote énormément ?**
-Benutze die Fernbedienungen.
+**La lumière ne s'allume pas ou clignote énormément ?**Utilisez les télécommandes.
 
 #### salle de bain
 
-**La douche**vous pouvez l'utiliser debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+**La douche**vous pouvez l'utiliser debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 **Meurs Alexa**sur le mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
