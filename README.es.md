@@ -2,6 +2,8 @@
 
 ¡Hola y bienvenidos a la “Caja”! Cuando viajo, también me gusta alojarme en AirBnB y a veces desearía tener un papel con toda la información necesaria sobre alojamiento, check-in y check-out y este es mi intento de mejorarlo:
 
+![logo](assets/artwork/thebox-logo-invert.svg ":size=400:align=center")
+
 ## Registrarse
 
 ### Llave
@@ -17,7 +19,7 @@ Passwort: landungsbruecken
 
 O escaneas este código QR, te conectará automáticamente a la red:
 
-\|![WiFi](assets/wlan.png)
+![WiFi](assets/wlan.png)
 
 ## Las habitaciones
 
@@ -25,7 +27,11 @@ O escaneas este código QR, te conectará automáticamente a la red:
 
 ### Cocina
 
-Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunadamente, solo se puede lavar en el lavabo del baño.
+Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunadamente, solo se puede lavar en el lavabo del baño. Pero hay un recipiente especial para lavar los platos.
+
+| ![Küche](assets/rooms/kueche.jpg ":size=200")              | ![Küche](assets/rooms/kueche-werkstatt-01.jpg ":size=200") |
+| ---------------------------------------------------------- | ---------------------------------------------------------- |
+| ![Küche](assets/rooms/kueche-werkstatt-02.jpg ":size=200") | ![Küche](assets/rooms/kueche-kuehlschrank.jpg ":size=200") |
 
 **Las siguientes cosas están disponibles para usted:**
 
@@ -42,7 +48,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 ### Tu cuarto
 
-**los colchones** liegen nur zu Lagerung übereinander. Ihr könnt sie nach euren Bedürfnissen verteilen. Wenn ihr die Kissen auf der Couch durch eine Matratze ersetzt, eignet sie sich gut als Bett.
+**los colchones**solo se colocan uno encima del otro para guardarlos. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
 
 **El ordenador**y el**drucker**eres bienvenido a usarlo.
 
@@ -81,7 +87,7 @@ El**Entrega de llaves**discutimos individualmente.**Lecho**puedes dejarlo encend
 
 ## Consejos
 
-Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada uno_Siguientebicicletas_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
+Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada uno_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento.
 
 ## ¿Preguntas?
 
