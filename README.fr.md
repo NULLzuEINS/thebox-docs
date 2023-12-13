@@ -46,7 +46,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ### Ta chambre
 
-**Les matelas**se trouvent uniquement les uns sur les autres pour le stockage. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
+**Die Matratzen**se trouvent uniquement les uns sur les autres pour le stockage. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
 
 **L'ordinateur**et le**Drucker**vous êtes invités à l'utiliser.
 
@@ -65,9 +65,9 @@ Passwort: thebox
 
 #### salle de bain
 
-**La douche**vous pouvez l'utiliser debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+**La douche**vous pouvez l'utiliser debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
-**Meurs Alexa**sur le mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
+**Meurs Alexa**sur le mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Computer, spiele Deutschlandfunk Nova_"
 
 **les serviettes**Vous pourrez l'accrocher à tous les crochets et ranger vos affaires n'importe où.
 
@@ -77,7 +77,7 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 
 ## Vérifier
 
-Le**Remise des clés**nous discutons individuellement.**Literie**vous pouvez le laisser. Le**Vaisselle**et le**Ordures**Je le fais aussi.
+Le**Remise des clés**nous discutons individuellement.**Literie** könnt ihr drauf lassen. Den **Abwasch**et le**Ordures**Je le fais aussi.
 
 > **Court:**Laissez la clé là, fermez la porte, c'est tout.
 
