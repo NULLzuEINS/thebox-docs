@@ -42,11 +42,11 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 7.  Station de recharge de téléphone portable sur l'étagère
 8.  Machine à laver
 
-**Le poêle ne fonctionne pas ?**Veuillez dire « Ordinateur, établi allumé »
+**Herd funktioniert nicht?**Veuillez dire « Ordinateur, établi allumé »
 
 ### Ta chambre
 
-**Les matelas**se trouvent uniquement les uns sur les autres pour le stockage. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
+**Les matelas**se trouvent uniquement les uns sur les autres pour le stockage. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
 
 **L'ordinateur**et le**Drucker**vous êtes invités à l'utiliser.
 
@@ -65,7 +65,7 @@ Passwort: thebox
 
 #### salle de bain
 
-**La douche**vous pouvez l'utiliser debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+**La douche**vous pouvez l'utiliser debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 **Meurs Alexa**sur le mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
