@@ -42,7 +42,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 #### Ta chambre
 
-**Les matelas**se trouvent uniquement les uns sur les autres pour le stockage. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
+**Les matelas**se trouvent uniquement les uns sur les autres pour le stockage. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
 
 **L'ordinateur**et le**Drucker**vous êtes invités à l'utiliser.
 
@@ -61,7 +61,7 @@ Passwort: thebox
 
 #### salle de bain
 
-**La douche**vous pouvez l'utiliser debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+**La douche**vous pouvez l'utiliser debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 **Meurs Alexa**sur le mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
@@ -207,7 +207,7 @@ Pour alimenter le microcontrôleur, vous avez besoin d'une alimentation. L’acc
 Pour protéger le capteur et le microcontrôleur, vous avez besoin d'un boîtier. Le boîtier doit être étanche et un peu résistant aux températures élevées et aux rayons UV.
 Utiliser**PETG**c'est bon pour les prototypes. Il n'est pas étanche et peut être détruit par les rayons UV. Utiliser**PETG**pour une utilisation à long terme. Il est imperméable et résistant aux UV. Vous pouvez aussi utiliser**abdos**. Il est imperméable et résistant aux UV.
 
-Même**Tupperware**est une bonne option. Il est imperméable et résistant aux UV.
+Même**tupperware**est une bonne option. Il est imperméable et résistant aux UV.
 
 ### Microcontrôleur
 
