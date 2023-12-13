@@ -2,7 +2,7 @@
 
 ¡Hola y bienvenidos a la “Caja”! Cuando viajo, también me gusta alojarme en AirBnB y a veces desearía tener un papel con toda la información necesaria sobre alojamiento, check-in y check-out y este es mi intento de mejorarlo:
 
-![logo](assets/artwork/thebox-logo-invert.svg ":size=400:align=center")
+![logo](_media/artwork/thebox-logo-invert.svg ":size=400:align=center")
 
 ## Registrarse
 
@@ -19,7 +19,7 @@ Passwort: landungsbruecken
 
 O escaneas este código QR, te conectará automáticamente a la red:
 
-\|![WiFi](assets/wlan.png)
+![WiFi](_media/wlan.png)
 
 ## Las habitaciones
 
@@ -29,9 +29,18 @@ O escaneas este código QR, te conectará automáticamente a la red:
 
 Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunadamente, solo se puede lavar en el lavabo del baño. Pero hay un recipiente especial para lavar los platos.
 
-| ![Küche](assets/rooms/kueche.jpg ":size=200")              | ![Küche](assets/rooms/kueche-werkstatt-01.jpg ":size=200") |
-| ---------------------------------------------------------- | ---------------------------------------------------------- |
-| ![Küche](assets/rooms/kueche-werkstatt-02.jpg ":size=200") | ![Küche](assets/rooms/kueche-kuehlschrank.jpg ":size=200") |
+\|
+
+![Küche](_media/rooms/kueche.jpg ":size=200")\|![Küche](_media/rooms/kueche-werkstatt-01.jpg ":size=200")
+
+
+
+
+\|
+
+![Küche](_media/rooms/kueche-werkstatt-02.jpg ":size=200")\|![Küche](_media/rooms/kueche-kuehlschrank.jpg ":size=200")
+
+\|
 
 **Las siguientes cosas están disponibles para usted:**
 
@@ -63,7 +72,7 @@ Passwort: thebox
 2.  Computadora
 3.  Mandos a distancia para luces y electricidad.
 
-**¿La luz no se enciende o parpadea violentamente?**Utilice los controles remotos.
+**Das Licht geht nicht an, oder blinkt ganz wild?**Utilice los controles remotos.
 
 #### baño
 
@@ -79,7 +88,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 ## Verificar
 
-El**Entrega de llaves**discutimos individualmente.**Lecho**puedes dejarlo encendido. El**Lavar**y el**Basura**Yo también lo hago.
+Die **Entrega de llaves**discutimos individualmente.**Lecho**puedes dejarlo encendido. El**Lavar**y el**Basura**Yo también lo hago.
 
 > **Corto:**Deja la llave ahí, cierra la puerta y listo.
 
@@ -91,7 +100,7 @@ Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada u
 
 ## ¿Preguntas?
 
-Si tienes alguna pregunta o necesitas ayuda, estaré encantado de ayudarte. Si tienes prisa, lo mejor es hacerlo por teléfono. `+49 170 73 53 067` . También puede utilizar la aplicación de mensajería preinstalada con funcionalidad limitada (SMS). De lo contrario, tengo una libreta y un bolígrafo en el pasillo.
+Si tienes alguna pregunta o necesitas ayuda, estaré encantado de ayudarte. Si tienes prisa, lo mejor es hacerlo por teléfono.`+49 170 73 53 067`. También puede utilizar la aplicación de mensajería preinstalada con funcionalidad limitada (SMS). De lo contrario, tengo una libreta y un bolígrafo en el pasillo.
 
 ¡Les deseo una agradable estancia en Leipzig!
 andré
