@@ -59,7 +59,8 @@ Passwort: thebox
 2.  Ordinateur
 3.  Télécommandes pour lumières et électricité
 
-**La lumière ne s'allume pas ou clignote énormément ?**Utilisez les télécommandes.
+**La lumière ne s'allume pas ou clignote énormément ?**
+Benutze die Fernbedienungen.
 
 #### salle de bain
 
