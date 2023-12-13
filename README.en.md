@@ -6,7 +6,7 @@ Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB
 
 ### Key
 
-You get two pairs of keys, each with one key for the bottom and one for the top. There is also a key on a key chain that you can use to lock your room.
+You get two pairs of keys, each with one key for the bottom and one for the top. There is also a key on a keychain that you can use to lock your room.
 
 ### Internet access
 
@@ -52,4 +52,4 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 * * *
 
-_Made with ❤️ by[docsify](https://docsify.js.org/)_
+_Made with ❤️ by [docsify](https://docsify.js.org/)_
