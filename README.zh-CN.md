@@ -2,6 +2,8 @@
 
 您好，欢迎来到“盒子”！当我旅行时，我也喜欢住在爱彼迎 (AirBnB)，有时我希望能有一张纸，其中包含有关住宿、入住和退房的所有必要信息，这是我改进的尝试：
 
+![logo](assets/artwork/thebox-logo-invert.svg ":size=400:align=center")
+
 ## 报到
 
 ### 钥匙
@@ -17,7 +19,7 @@ Passwort: landungsbruecken
 
 或者您扫描此二维码，它会自动将您连接到网络：
 
-\|![WiFi](assets/wlan.png)
+![WiFi](assets/wlan.png)
 
 ## 房间
 
@@ -25,7 +27,11 @@ Passwort: landungsbruecken
 
 ### 厨房
 
-由于我通常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗漱只能在浴室的水槽里进行。
+由于我通常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗漱只能在浴室的水槽里进行。但有一个专门的容器可以用来清洗。
+
+| ![Küche](assets/rooms/kueche.jpg ":size=200")              | ![Küche](assets/rooms/kueche-werkstatt-01.jpg ":size=200") |
+| ---------------------------------------------------------- | ---------------------------------------------------------- |
+| ![Küche](assets/rooms/kueche-werkstatt-02.jpg ":size=200") | ![Küche](assets/rooms/kueche-kuehlschrank.jpg ":size=200") |
 
 **您可以使用以下内容：**
 
