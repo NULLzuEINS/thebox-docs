@@ -57,7 +57,7 @@ Passwort: thebox
 2.  Computer
 3.  Remote controls for lights and electricity
 
-**The light doesn't come on or blinks wildly?**Use the remote controls.
+**The light doesn't come on or flashes wildly?**Use the remote controls.
 
 #### bathroom
 
