@@ -2,6 +2,8 @@
 
 Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB's and sometimes I wish I had a piece of paper with all the necessary information about accommodation, check-in and check-out and this is my attempt to make it better:
 
+![logo](assets/artwork/thebox-logo-invert.svg ":size=400:align=center")
+
 ## Checkin
 
 ### Key
@@ -17,15 +19,19 @@ Passwort: landungsbruecken
 
 Or you scan this QR code, it will automatically connect you to the network:
 
-\|![WiFi](assets/wlan.png)
+![WiFi](assets/wlan.png)
 
 ## The rooms
 
 ![Detailansicht](assets/thebox-map-detail.png)
 
-### Kitchen
+### Küche
 
-Since I usually eat downstairs with my family, the kitchen is very spartan. Unfortunately, washing up can only be done in the sink in the bathroom.
+Since I usually eat downstairs with my family, the kitchen is very spartan. Unfortunately, washing up can only be done in the sink in the bathroom. But there is a special container for washing up.
+
+| ![Küche](assets/rooms/kueche.jpg ":size=200")              | ![Küche](assets/rooms/kueche-werkstatt-01.jpg ":size=200") |
+| ---------------------------------------------------------- | ---------------------------------------------------------- |
+| ![Küche](assets/rooms/kueche-werkstatt-02.jpg ":size=200") | ![Küche](assets/rooms/kueche-kuehlschrank.jpg ":size=200") |
 
 **The following things are available to you:**
 
