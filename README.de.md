@@ -20,7 +20,7 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 ## Die Zimmer
 
-!\[[thebox-map-detail.png]]
+!\[[Assets/thebox-map-detail.png]]
 
 ### Küche
 
@@ -93,7 +93,7 @@ André
 
 # die Kiste
 
-> Bei diesem Projekt geht es um einen intelligenten Wassertank. Es misst den Wasserstand und sendet die Daten an einen Server. Über den Server kann die Wasserpumpe gesteuert werden. Die Steuerung der Pumpe kann über ein Webinterface oder über einen Telegram-Bot erfolgen. Zur Messung des Wasserstands kommt ein Ultraschallsensor HC-SR04 zum Einsatz. Die Daten werden über ein LoRaWAN-Gateway an TTN gesendet.
+> This project is about a smart water tank. It measures the water level and sends the data to a server. The server can be used to control the water pump. The pump can be controlled via a web interface or via a telegram bot. It uses a  HC-SR04 ultrasonic sensor to measure the water level. The data is sent to TTN via a LoRaWAN gateway.
 
 ?> Das Originaldokument wurde verfasst[Englisch](README.md). Die Übersetzung erfolgte mit Google Translate. Wenn Sie Fehler finden, versuchen Sie diese bitte zu ignorieren. Danke schön!
 
@@ -128,7 +128,7 @@ André
 5.  **Debuggen**
     1.  Serieller Monitor
     2.  TTN-Konsole
-    3.  MQTT-Client
+    3.  MQTT Client
     4.  Tücken
 6.  **Datentechnik**
     1.  Knoten ROT
@@ -230,7 +230,7 @@ Sehen Sie auf der TTN-Karte nach, ob sich in Ihrer Nähe ein Gateway befindet. W
 2.  [Strom zum Controller](#power-to-controller)
 3.  [Fehlerbehebung](#trouble-shooting)
 
-### Sensor zum Controller
+### Sensor to controller
 
 Dieses Beispiel zeigt, wie der HC-SR04-Sensor am Mikrocontroller montiert wird. Der Sensor wird über ein 4-poliges Kabel mit dem Mikrocontroller verbunden. Das gelbe Kabel ist das Auslösekabel. Das blaue Kabel ist das Echokabel. Das rote Kabel ist das 5V-Kabel. Das schwarze Kabel ist das Erdungskabel.
 
