@@ -31,7 +31,7 @@ Passwort: landungsbruecken
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-**次のものが利用可能です。**
+**Folgende Dinge stehen euch zur Verfügung:**
 
 1.  群れ
 2.  ケトル
