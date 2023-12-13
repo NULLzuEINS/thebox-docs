@@ -2,7 +2,7 @@
 
 您好，欢迎来到“盒子”！当我旅行时，我也喜欢住在爱彼迎 (AirBnB)，有时我希望能有一张纸，其中包含有关住宿、入住和退房的所有必要信息，这是我改进的尝试：
 
-![logo](assets/artwork/thebox-logo-invert.svg ":size=400:align=center")
+![logo](_media/artwork/thebox-logo-invert.svg ":size=400:align=center")
 
 ## 报到
 
@@ -19,13 +19,7 @@ Passwort: landungsbruecken
 
 或者您扫描此二维码，它会自动将您连接到网络：
 
-<<<<<<< HEAD
-![WiFi](assets/wlan.png)
-=======
-\|
-
 ![WiFi](_media/wlan.png)
->>>>>>> 59edf2a (Rename assets folder)
 
 ## 房间
 
@@ -35,9 +29,18 @@ Passwort: landungsbruecken
 
 由于我通常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗漱只能在浴室的水槽里进行。但有一个专门的容器可以用来清洗。
 
-| ![Küche](assets/rooms/kueche.jpg ":size=200")              | ![Küche](assets/rooms/kueche-werkstatt-01.jpg ":size=200") |
-| ---------------------------------------------------------- | ---------------------------------------------------------- |
-| ![Küche](assets/rooms/kueche-werkstatt-02.jpg ":size=200") | ![Küche](assets/rooms/kueche-kuehlschrank.jpg ":size=200") |
+\|
+
+![Küche](_media/rooms/kueche.jpg ":size=200")\|![Küche](_media/rooms/kueche-werkstatt-01.jpg ":size=200")
+
+
+
+
+\|
+
+![Küche](_media/rooms/kueche-werkstatt-02.jpg ":size=200")\|![Küche](_media/rooms/kueche-kuehlschrank.jpg ":size=200")
+
+\|
 
 **您可以使用以下内容：**
 
@@ -56,7 +59,7 @@ Passwort: landungsbruecken
 
 **床垫**只能相互叠放在一起存放。您可以根据您的需要分发它们。如果你把沙发上的枕头换成床垫，那就是一张好床了。
 
-**电脑**和**德鲁克**欢迎您使用它。
+**电脑**和**德鲁克** könnt ihr gern benutzen.
 
 ```txt
 Nutzer:   thebox
@@ -97,7 +100,7 @@ Passwort: thebox
 
 ## 问题？
 
-如果您有任何疑问或需要支持，我将很乐意为您提供帮助。如果您赶时间，最好通过电话联系 `+49 170 73 53 067` 。您还可以使用功能有限的预装消息应用程序 (SMS)。除此之外，我在走廊里有一个记事本和一支笔。
+如果您有任何疑问或需要支持，我将很乐意为您提供帮助。如果您赶时间，最好通过电话联系`+49 170 73 53 067`。您还可以使用功能有限的预装消息应用程序 (SMS)。除此之外，我在走廊里有一个记事本和一支笔。
 
 祝您在莱比锡过得愉快！
 安德烈
