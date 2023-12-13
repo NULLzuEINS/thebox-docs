@@ -46,7 +46,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ### Your room
 
-**The mattresses**only lie on top of each other for storage. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
+**The mattresses**only lie on top of each other for storage. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
 
 **The Computer**and the**Drucker**you are welcome to use it.
 
