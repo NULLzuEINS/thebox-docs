@@ -46,9 +46,9 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ### Ta chambre
 
-**Les matelas**se trouvent uniquement les uns sur les autres pour le stockage. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
+**Les matelas**se trouvent uniquement les uns sur les autres pour le stockage. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
 
-**L'ordinateur**et le**Drucker**vous êtes invités à l'utiliser.
+**L'ordinateur**et le**Drucker** könnt ihr gern benutzen.
 
 ```txt
 Nutzer:   thebox
