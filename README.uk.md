@@ -1,12 +1,12 @@
 # Коробка
 
-Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen:
+Привіт і ласкаво просимо до «Скриньки»! Коли я подорожую, я також люблю зупинятися в AirBnB, і іноді мені шкода, щоб у мене був аркуш паперу з усією необхідною інформацією про проживання, реєстрацію та виселення, і це моя спроба зробити це краще:
 
 ## Перевірь
 
 ### ключ
 
-Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du euer Zimmer abschließen kannst.
+Ви отримуєте дві пари ключів, кожна з яких має один ключ для нижньої та один для верхньої частини. Також на брелоку є ключ, яким можна замкнути свою кімнату.
 
 ### Доступ в інтернет
 
@@ -39,7 +39,7 @@ Passwort: landungsbruecken
 4.  Холодильник
 5.  Піцаоф
 6.  Мінеральна вода
-7.  Handy-Aufladestation im Regal
+7.  Станція для зарядки мобільного телефону на полиці
 8.  пральна машина
 
 **Плита не працює?**Будь ласка, скажіть:
@@ -48,7 +48,7 @@ Passwort: landungsbruecken
 
 #### Ваша кімната
 
-**Матраци** liegen nur zu Lagerung
+**Матраци**призначені лише для зберігання
 
 * * *
 
