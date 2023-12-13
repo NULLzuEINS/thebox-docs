@@ -1,6 +1,6 @@
 # 盒子
 
-您好，欢迎来到“盒子”！当我旅行时，我也喜欢住在爱彼迎 (AirBnB)，有时我希望能有一张纸，其中包含有关住宿、入住和退房的所有必要信息，这是我改进的尝试：
+您好，欢迎来到“盒子”！当我旅行时，我也喜欢住在爱彼迎 (AirBnB)，有时我希望能有一张纸，其中包含有关住宿、入住和退房的所有必要信息，这是我的尝试，以使其变得更好：
 
 ![logo](_media/artwork/thebox-logo-invert.svg ":size=400:align=center")
 
@@ -42,11 +42,11 @@ Passwort: landungsbruecken
 7.  架子上的手机充电站
 8.  洗衣机
 
-**炉子不工作？**请说“计算机，工作台已打开”
+**炉子不工作？** Bitte sage "Computer, Werkbank an"
 
 ### 你的房间
 
-**床垫**只能相互叠放在一起存放。您可以根据您的需要分发它们。如果你把沙发上的枕头换成床垫，那就是一张好床了。
+**床垫**只能相互叠放在一起存放。您可以根据您的需要分发它们。如果你把沙发上的垫子换成床垫，它就是一张好床。
 
 **电脑**和**德鲁克**欢迎您使用它。
 
@@ -61,11 +61,11 @@ Passwort: thebox
 2.  电脑
 3.  远程控制灯光和电力
 
-**灯不亮或疯狂闪烁？**使用遥控器。
+**Das Licht geht nicht an, oder blinkt ganz wild?**使用遥控器。
 
 #### 浴室
 
-**沐浴**您可以站立时使用它。如果地面有点湿也没有问题。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
+**沐浴**您可以站立时使用它。地面稍微湿一点也没关系。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
 
 **亚历克斯**墙上的“Computer”（计算机）也可以播放您喜欢的音乐或收音机。例如“_电脑上，玩 Deutschlandfunk Nova_"
 
@@ -89,7 +89,7 @@ Passwort: thebox
 
 ## 问题？
 
-Wenn ihr Fragen habt, oder Unterstützung benötigt, stehe ich euch gern zur Verfügung. Wenn es eilig ist, dann besten via Telefon `+49 170 73 53 067`。您还可以使用功能有限的预装消息应用程序 (SMS)。除此之外，我在走廊里有一个记事本和一支笔。
+如果您有任何疑问或需要支持，我将很乐意为您提供帮助。如果您赶时间，最好通过电话联系`+49 170 73 53 067` . Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS). Ansonsten habe ich im Flur einen Notizblock und einen Stift.
 
 祝您在莱比锡过得愉快！
 安德烈
