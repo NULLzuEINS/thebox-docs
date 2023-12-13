@@ -29,7 +29,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-**Folgende Dinge stehen euch zur Verfügung:**
+#### Les éléments suivants sont à votre disposition
 
 1.  Troupeau
 2.  Bouilloire
@@ -40,34 +40,42 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 7.  Station de recharge de téléphone portable sur l'étagère
 8.  Machine à laver
 
-**Le poêle ne fonctionne pas ?**Veuillez dire « Ordinateur, établi allumé »
+#### FAQ - Cuisine
+
+1.  Le poêle ne fonctionne pas ? s'il te plaît dis
+    > "Ordinateur, établi et"
+2.  Où puis-je me laver ? Cela ne fonctionne que dans la salle de bain. Il existe un récipient spécial pour laver la vaisselle.
 
 ### Ta chambre
 
-**Les matelas**se trouvent uniquement les uns sur les autres pour le stockage. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
 
-**L'ordinateur**et le**Drucker**vous êtes invités à l'utiliser.
+Vous êtes invités à utiliser l’ordinateur et l’imprimante.
+
+#### Les informations de connexion à l'ordinateur sont
 
 ```txt
 Nutzer:   thebox
 Passwort: thebox
 ```
 
-**Les éléments suivants sont à votre disposition :**
+#### Les éléments suivants sont à votre disposition
 
 1.  Tous les meubles et lits
 2.  Ordinateur
 3.  Télécommandes pour lumières et électricité
 
-**La lumière ne s'allume pas ou clignote énormément ?**Utilisez les télécommandes.
+#### FAQ - Votre chambre
+
+1.  La lumière ne s'allume pas ou clignote énormément. Utilisez les petites télécommandes aux boutons colorés.
 
 #### salle de bain
 
-**La douche**vous pouvez l'utiliser debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
-**Meurs Alexa**sur le mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
+L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
-**les serviettes**Vous pourrez l'accrocher à tous les crochets et ranger vos affaires n'importe où.
+Vous pouvez accrocher des serviettes à tous les crochets et ranger vos affaires n'importe où.
 
 #### Couloir
 
@@ -75,9 +83,11 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 
 ## Vérifier
 
-Le**Remise des clés**nous discutons individuellement.**Literie**vous pouvez le laisser. Le**Vaisselle**et le**Ordures**Je le fais aussi.
+-   Nous discuterons individuellement de la remise des clés.
+-   Vous pouvez y laisser de la literie.
+-   Je fais aussi la vaisselle et sors les poubelles.
 
-> **Court:**Laissez la clé là, fermez la porte, c'est tout.
+> Version courte : Laissez la clé là, fermez la porte, c'est tout. 😀
 
 * * *
 
@@ -87,11 +97,11 @@ Avec l'application Leipzig MOVE, vous bénéficiez de 10 trajets gratuits de 15 
 
 ## Des questions?
 
-Si vous avez des questions ou avez besoin d'aide, je serai heureux de vous aider. Si vous êtes pressé, il est préférable de le faire par téléphone<a href="tel:+491707353067">+49 170 73 53 067</a>. Vous pouvez également utiliser l'application de messagerie préinstallée avec des fonctionnalités limitées (SMS). Sinon, j'ai un bloc-notes et un stylo dans le couloir.
+Si vous avez des questions ou avez besoin d'aide, je serai heureux de vous aider. Si vous êtes pressé, il est préférable de le faire par téléphone <a href="tel:+491707353067">+49 170 73 53 067</a>. Vous pouvez également utiliser l'application de messagerie préinstallée avec des fonctionnalités limitées (SMS). Sinon, j'ai un bloc-notes et un stylo dans le couloir.
 
 Je vous souhaite un bon séjour à Leipzig !
 André
 
 * * *
 
-_Réalisé avec ❤️ par[docsifier](https://docsify.js.org/)_
+_Réalisé avec ❤️ par [docsifier](https://docsify.js.org/)_
