@@ -91,8 +91,8 @@ Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada u
 
 Si tienes alguna pregunta o necesitas ayuda, estaré encantado de ayudarte. Si tienes prisa, lo mejor es hacerlo por teléfono.<a href="tel:+491707353067">+49 170 73 53 067</a>. También puede utilizar la aplicación de mensajería preinstalada con funcionalidad limitada (SMS). De lo contrario, tengo una libreta y un bolígrafo en el pasillo.
 
-Ich wünsche einen schönen Aufenthalt in Leipzig!
-André
+¡Les deseo una agradable estancia en Leipzig!
+andré
 
 * * *
 
