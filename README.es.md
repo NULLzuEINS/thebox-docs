@@ -1,6 +1,6 @@
 # La caja
 
-Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen:
+¡Hola y bienvenidos a la “Caja”! Cuando viajo, también me gusta alojarme en AirBnB y a veces desearía tener un papel con toda la información necesaria sobre alojamiento, check-in y check-out y este es mi intento de mejorarlo:
 
 ![logo](_media/artwork/thebox-logo-invert.svg ":size=400:align=center")
 
@@ -38,17 +38,17 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 3.  platos cubiertos
 4.  Refrigerador
 5.  Pizza de
-6.  Agua mineral
+6.  Mineralwasser
 7.  Estación de carga de teléfonos móviles en el estante.
 8.  lavadora
 
-**¿La estufa no funciona?** Bitte sage "Computer, Werkbank an"
+**¿La estufa no funciona?**Por favor diga "Computadora, mesa de trabajo encendida"
 
-### Tu cuarto
+### Dein Zimmer
 
-**los colchones**solo se colocan uno encima del otro para guardarlos. Puedes distribuirlos según tus necesidades. Si reemplazas los cojines del sofá por un colchón, será una buena cama.
+**los colchones**solo se colocan uno encima del otro para guardarlos. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
 
-**El ordenador** und den **Drucker**eres bienvenido a usarlo.
+**El ordenador**y el**drucker**eres bienvenido a usarlo.
 
 ```txt
 Nutzer:   thebox
@@ -61,13 +61,14 @@ Passwort: thebox
 2.  Computadora
 3.  Mandos a distancia para luces y electricidad.
 
-**¿La luz no se enciende o parpadea mucho?**Utilice los controles remotos.
+**¿La luz no se enciende o parpadea mucho?**
+Benutze die Fernbedienungen.
 
 #### baño
 
 **La ducha**puedes usarlo mientras estás de pie. No importa si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
-**Muere Alexa**en la pared se llama “Computadora” y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
+**Die Alexa**en la pared se llama “Computadora” y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
 **toallas**Puedes colgarlo en todos los ganchos y poner tus cosas en cualquier lugar.
 
