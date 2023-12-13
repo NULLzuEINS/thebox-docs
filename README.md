@@ -29,17 +29,7 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
 
-| 
-
-![Küche](_media/rooms/kueche.jpg ':size=200') | ![Küche](_media/rooms/kueche-werkstatt-01.jpg ':size=200')
-
- |
-| --- | --- |
-| 
-
-![Küche](_media/rooms/kueche-werkstatt-02.jpg ':size=200') | ![Küche](_media/rooms/kueche-kuehlschrank.jpg ':size=200')
-
- |
+![Küche](_media/rooms/kueche.jpg ':size=200')
 
 **Folgende Dinge stehen euch zur Verfügung:**
 
