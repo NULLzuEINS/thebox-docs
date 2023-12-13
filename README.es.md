@@ -21,10 +21,6 @@ O escaneas este código QR, te conectará automáticamente a la red:
 
 ## Las habitaciones
 
-![Raumplan](assets/thebox-map.png)
-
-### Vista de detalles
-
 ![Detailansicht](assets/thebox-map-detail.png)
 
 ### Cocina
