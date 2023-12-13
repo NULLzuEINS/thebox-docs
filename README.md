@@ -21,10 +21,6 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 ## Die Zimmer
 
-![Raumplan](assets/thebox-map.png)
-
-### Detailsansicht
-
 ![Detailansicht](assets/thebox-map-detail.png)
 
 ### Küche
