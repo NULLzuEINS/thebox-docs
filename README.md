@@ -16,7 +16,8 @@ Passwort: landungsbruecken
 ```
 
 Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
-![[assets/wlan.png|400]]
+
+| ![WiFi](assets/wlan.png)
 
 ## Die Zimmer
 
@@ -24,7 +25,7 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 ### Küche
 
-Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. 
+Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer.
 
 **Folgende Dinge stehen euch zur Verfügung:**
 
@@ -91,6 +92,12 @@ Ein schönen Aufenthalt in Leipzig!
 André
 
 ---
+
+
+
+
+
+
 
 # thebox
 
