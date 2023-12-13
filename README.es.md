@@ -35,7 +35,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 2.  Pava
 3.  platos cubiertos
 4.  Refrigerador
-5.  Pizza de
+5.  Pizzaof
 6.  Agua mineral
 7.  Estación de carga de teléfonos móviles en el estante.
 8.  lavadora
@@ -75,7 +75,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 ## Verificar
 
-El**Entrega de llaves**discutimos individualmente.**Lecho**puedes dejarlo encendido. El**Lavar**y el**Basura**Yo también lo hago.
+El**Entrega de llaves**discutimos individualmente.**Bettzeug**puedes dejarlo encendido. El**Lavar**y el**Basura**Yo también lo hago.
 
 > **Corto:**Deja la llave ahí, cierra la puerta y listo.
 
