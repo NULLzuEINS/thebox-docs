@@ -2,7 +2,7 @@
 
 Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjourner dans des AirBnB et parfois j'aimerais avoir un morceau de papier avec toutes les informations nécessaires sur l'hébergement, l'enregistrement et le départ et voici ma tentative pour l'améliorer :
 
-![logo](assets/artwork/thebox-logo-invert.svg ":size=400:align=center")
+![logo](_media/artwork/thebox-logo-invert.svg ":size=400:align=center")
 
 ## Enregistrement
 
@@ -19,13 +19,7 @@ Passwort: landungsbruecken
 
 Ou vous scannez ce QR code, il vous connectera automatiquement au réseau :
 
-<<<<<<< HEAD
-![WiFi](assets/wlan.png)
-=======
-\|
-
 ![WiFi](_media/wlan.png)
->>>>>>> a2260d1 (refactor: Folder structure)
 
 ## Les chambres
 
@@ -35,9 +29,18 @@ Ou vous scannez ce QR code, il vous connectera automatiquement au réseau :
 
 Comme je mange habituellement en bas avec ma famille, la cuisine est très spartiate. Malheureusement, la vaisselle ne peut être faite que dans le lavabo de la salle de bain. Mais il existe un récipient spécial pour faire la vaisselle.
 
-| ![Küche](assets/rooms/kueche.jpg ":size=200")              | ![Küche](assets/rooms/kueche-werkstatt-01.jpg ":size=200") |
-| ---------------------------------------------------------- | ---------------------------------------------------------- |
-| ![Küche](assets/rooms/kueche-werkstatt-02.jpg ":size=200") | ![Küche](assets/rooms/kueche-kuehlschrank.jpg ":size=200") |
+\|
+
+![Küche](_media/rooms/kueche.jpg ":size=200")\|![Küche](_media/rooms/kueche-werkstatt-01.jpg ":size=200")
+
+
+
+
+\|
+
+![Küche](_media/rooms/kueche-werkstatt-02.jpg ":size=200")\|![Küche](_media/rooms/kueche-kuehlschrank.jpg ":size=200")
+
+\|
 
 **Les éléments suivants sont à votre disposition :**
 
@@ -97,7 +100,7 @@ Avec l'application Leipzig MOVE, vous bénéficiez de 10 trajets gratuits de 15 
 
 ## Des questions?
 
-Si vous avez des questions ou avez besoin d'aide, je serai heureux de vous aider. Si vous êtes pressé, il est préférable de le faire par téléphone `+49 170 73 53 067` . Vous pouvez également utiliser l'application de messagerie préinstallée avec des fonctionnalités limitées (SMS). Sinon, j'ai un bloc-notes et un stylo dans le couloir.
+Si vous avez des questions ou avez besoin d'aide, je serai heureux de vous aider. Si vous êtes pressé, il est préférable de le faire par téléphone`+49 170 73 53 067`. Vous pouvez également utiliser l'application de messagerie préinstallée avec des fonctionnalités limitées (SMS). Sinon, j'ai un bloc-notes et un stylo dans le couloir.
 
 Je vous souhaite un bon séjour à Leipzig !
 André
