@@ -1,6 +1,6 @@
 # 盒子
 
-您好，欢迎来到“盒子”！当我旅行时，我也喜欢住在爱彼迎 (AirBnB)，有时我希望能有一张纸，其中包含有关住宿、入住和退房的所有必要信息，这是我改进的尝试：
+您好，欢迎来到“盒子”！当我旅行时，我也喜欢住在爱彼迎 (AirBnB)，有时我希望能有一张纸，其中包含有关住宿、入住和退房的所有必要信息，这是我的尝试，以使其变得更好：
 
 ![logo](_media/artwork/thebox-logo-invert.svg ":size=400:align=center")
 
@@ -46,7 +46,7 @@ Passwort: landungsbruecken
 
 ### 你的房间
 
-**床垫**只能相互叠放在一起存放。您可以根据您的需要分发它们。如果你把沙发上的枕头换成床垫，那就是一张好床了。
+**床垫**只能相互叠放在一起存放。您可以根据您的需要分发它们。如果你把沙发上的垫子换成床垫，它就是一张好床。
 
 **电脑**和**德鲁克**欢迎您使用它。
 
@@ -65,7 +65,7 @@ Passwort: thebox
 
 #### 浴室
 
-**沐浴**您可以站立时使用它。如果地面有点湿也没有问题。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
+**沐浴**您可以站立时使用它。地面稍微湿一点也没关系。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
 
 **亚历克斯**墙上的“Computer”（计算机）也可以播放您喜欢的音乐或收音机。例如“_电脑上，玩 Deutschlandfunk Nova_"
 
@@ -85,7 +85,7 @@ Passwort: thebox
 
 ## 尖端
 
-使用 Leipzig MOVE 应用程序，您可以免费乘坐 10 次，每次 15 分钟_下一个自行车_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
+使用 Leipzig MOVE 应用程序，您可以免费乘坐 10 次，每次 15 分钟_下一个自行车_。请注意，如果您不在主要街道上停放自行车（地图上的紫色），费用会更高。电动滑板车只能停放在某些停车位。
 
 ## 问题？
 
