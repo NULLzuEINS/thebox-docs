@@ -20,7 +20,7 @@ O escaneas este código QR, te conectará automáticamente a la red:
 
 ## Las habitaciones
 
-!\[[thebox-mapa-detalle.png]]
+!\[[activos/thebox-map-detail.png]]
 
 ### Cocina
 
