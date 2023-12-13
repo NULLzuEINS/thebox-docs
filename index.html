@@ -41,11 +41,13 @@
         window.$docsify = {
             themeColor: '#333333',
             basePath: 'https://raw.githubusercontent.com/nullzueins/thebox-docs/main/',
-            coverpage: true,
             maxLevel: 3,
             mergeNavbar: false,
             name: 'TheBox',
-            coverpage: ['/', '/de/'],
+            coverpage: {
+                '/': '_coverpage.md',
+                '/en/': '_coverpage.md',
+            },
             repo: 'nullzueins/thebox-docs',
             loadSidebar: false,
             plugins: []
@@ -54,4 +56,5 @@
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
+
 </html>
