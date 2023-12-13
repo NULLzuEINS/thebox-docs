@@ -6,7 +6,7 @@ Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB
 
 ### Key
 
-You get two pairs of keys, each with one key for the bottom and one for the top. There is also a key on a keychain that you can use to lock your room.
+You get two pairs of keys, each with one key for the bottom and one for the top. There is also a key on a key chain that you can use to lock your room.
 
 ### Internet access
 
@@ -15,7 +15,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Or you scan this QR code, it will automatically connect you to the network:
+Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 \|![WiFi](assets/wlan.png)
 
@@ -34,7 +34,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 3.  Dishes cutlery
 4.  Refrigerator
 5.  Pizzaof
-6.  Mineral water
+6.  Mineralwasser
 7.  Cell phone charging station on the shelf
 8.  washing machine
 
@@ -44,7 +44,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 #### Your room
 
-**The mattresses**are for storage only
+**The mattresses** liegen nur zu Lagerung
 
 * * *
 
