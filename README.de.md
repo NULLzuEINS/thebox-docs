@@ -49,7 +49,7 @@
 
 ### Schnellstart – Einführung
 
-Der Schnellstart richtet sich an Personen, die sofort loslegen und umfassende Kenntnisse über IoT mit dem Arudino Framework erwerben möchten. Wenn Sie verstehen möchten, wie es funktioniert, können Sie das lesen[Dokumentation](#hardware).
+Der Schnellstart richtet sich an Personen, die sofort loslegen und fundierte Kenntnisse über IoT mit dem Arudino Framework erwerben möchten. Wenn Sie verstehen möchten, wie es funktioniert, können Sie das lesen[Dokumentation](#hardware).
 
 ### Schnellstart – Hardware-Übersicht
 
@@ -74,7 +74,7 @@ Sie benötigen folgende Teile:
 1.  [Sensoren](#Sensors)
 2.  [Stromversorgung](#Power-supply)
 3.  [Gehäuse](#Housing)
-4.  [Microcontroller](#Microcontroller)
+4.  [Mikrocontroller](#Microcontroller)
 5.  [Tor](#Gateway)
 
 ### Sensoren
@@ -139,7 +139,7 @@ Sehen Sie auf der TTN-Karte nach, ob sich in Ihrer Nähe ein Gateway befindet. W
 
 ### Sensor zum Controller
 
-Dieses Beispiel zeigt, wie der HC-SR04-Sensor an den Mikrocontroller montiert wird. Der Sensor wird über ein 4-poliges Kabel mit dem Mikrocontroller verbunden. Das gelbe Kabel ist das Auslösekabel. Das blaue Kabel ist das Echokabel. Das rote Kabel ist das 5V-Kabel. Das schwarze Kabel ist das Erdungskabel.
+Dieses Beispiel zeigt, wie der HC-SR04-Sensor am Mikrocontroller montiert wird. Der Sensor wird über ein 4-poliges Kabel mit dem Mikrocontroller verbunden. Das gelbe Kabel ist das Auslösekabel. Das blaue Kabel ist das Echokabel. Das rote Kabel ist das 5V-Kabel. Das schwarze Kabel ist das Erdungskabel.
 
 ![Schema for ultra sonic sensor](_media/schema/schema-thebox-ultrasonic.png)
 
