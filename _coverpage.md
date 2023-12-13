@@ -23,7 +23,7 @@
 
 <!-- background image -->
 
-![](_media/bg.png)
+![](_media/rooms/kueche-herd.jpg)
 
 <!-- background color -->
 
