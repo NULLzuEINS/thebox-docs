@@ -21,10 +21,6 @@ Passwort: landungsbruecken
 
 ## 房间
 
-![Raumplan](assets/thebox-map.png)
-
-### 详细视图
-
 ![Detailansicht](assets/thebox-map-detail.png)
 
 ### 厨房
@@ -33,7 +29,7 @@ Passwort: landungsbruecken
 
 **您可以使用以下内容：**
 
-1.  Herd
+1.  一群
 2.  壶
 3.  餐具餐具
 4.  冰箱
