@@ -21,10 +21,6 @@ Passwort: landungsbruecken
 
 ## Кімнати
 
-![Raumplan](assets/thebox-map.png)
-
-### Детальний вигляд
-
 ![Detailansicht](assets/thebox-map-detail.png)
 
 ### кухня
