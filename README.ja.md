@@ -4,7 +4,7 @@
 
 ![logo](_media/artwork/thebox-logo-invert.svg ":size=400:align=center")
 
-## Checkin
+## チェックイン
 
 ### 鍵
 
@@ -29,18 +29,7 @@ Passwort: landungsbruecken
 
 普段家族と一緒に下の階で食事をしているので、キッチンはとてもスパルタンです。残念ながら、洗い物はバスルームのシンクでのみ可能です。ただし、食器を洗うための専用の容器があります。
 
-｜
-
-![Küche](_media/rooms/kueche.jpg ":size=200")｜![Küche](_media/rooms/kueche-werkstatt-01.jpg ":size=200")
-
-
-
-
-｜
-
-![Küche](_media/rooms/kueche-werkstatt-02.jpg ":size=200") \| ![Küche](_media/rooms/kueche-kuehlschrank.jpg ":size=200")
-
-｜
+![Küche](_media/rooms/kueche.jpg ":size=200")
 
 **次のものが利用可能です。**
 
@@ -57,7 +46,7 @@ Passwort: landungsbruecken
 
 ### あなたの部屋
 
-**マットレス** liegen nur zu Lagerung übereinander. Ihr könnt sie nach euren Bedürfnissen verteilen. Wenn ihr die Kissen auf der Couch durch eine Matratze ersetzt, eignet sie sich gut als Bett.
+**マットレス**保管する場合は重ねて置くだけです。ニーズに応じて配布できます。ソファの枕をマットレスに置き換えれば、立派なベッドになります。
 
 **コンピュータ**そしてその**ドラッカー**ぜひご利用ください。
 
@@ -80,7 +69,7 @@ Passwort: thebox
 
 **ダイ・アレクサ**壁にある「コンピューター」は、お気に入りの音楽やラジオを再生することもできます。例：「_コンピューター、Deutschlandfunk Nova をプレイしてください_”
 
-**タオル**すべてのフックに掛けて、どこにでも物を置くことができます。
+**タオル** kannst Du an allen Haken aufhängen und deine Sachen überall abstellen.
 
 #### 廊下
 
