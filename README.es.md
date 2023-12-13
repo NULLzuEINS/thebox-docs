@@ -29,25 +29,14 @@ O escaneas este código QR, te conectará automáticamente a la red:
 
 Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunadamente, solo se puede lavar en el lavabo del baño. Pero hay un recipiente especial para lavar los platos.
 
-\|
-
-![Küche](_media/rooms/kueche.jpg ":size=200")\|![Küche](_media/rooms/kueche-werkstatt-01.jpg ":size=200")
-
-
-
-
-\|
-
-![Küche](_media/rooms/kueche-werkstatt-02.jpg ":size=200")\|![Küche](_media/rooms/kueche-kuehlschrank.jpg ":size=200")
-
-\|
+![Küche](_media/rooms/kueche.jpg ":size=200")
 
 **Las siguientes cosas están disponibles para usted:**
 
-1.  Rebaño
-2.  Pava
+1.  Herd
+2.  Wasserkocher
 3.  platos cubiertos
-4.  Refrigerador
+4.  Kühlschrank
 5.  Pizza de
 6.  Agua mineral
 7.  Estación de carga de teléfonos móviles en el estante.
@@ -72,13 +61,13 @@ Passwort: thebox
 2.  Computadora
 3.  Mandos a distancia para luces y electricidad.
 
-**Das Licht geht nicht an, oder blinkt ganz wild?**Utilice los controles remotos.
+**¿La luz no se enciende o parpadea violentamente?**Utilice los controles remotos.
 
 #### baño
 
 **La ducha**puedes usarlo mientras estás de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
-**Muere Alexa**en la pared se llama “Computadora” y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
+**Die Alexa**en la pared se llama “Computadora” y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
 **toallas**Puedes colgarlo en todos los ganchos y poner tus cosas en cualquier lugar.
 
@@ -88,7 +77,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 ## Verificar
 
-Die **Entrega de llaves**discutimos individualmente.**Lecho**puedes dejarlo encendido. El**Lavar**y el**Basura**Yo también lo hago.
+El**Entrega de llaves**discutimos individualmente.**Lecho**puedes dejarlo encendido. El**Lavar**y el**Basura**Yo también lo hago.
 
 > **Corto:**Deja la llave ahí, cierra la puerta y listo.
 
