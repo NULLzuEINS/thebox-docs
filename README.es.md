@@ -38,13 +38,13 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 3.  platos cubiertos
 4.  Refrigerador
 5.  Pizza de
-6.  Mineralwasser
+6.  Agua mineral
 7.  Estación de carga de teléfonos móviles en el estante.
 8.  lavadora
 
 **¿La estufa no funciona?**Por favor diga "Computadora, mesa de trabajo encendida"
 
-### Dein Zimmer
+### Tu cuarto
 
 **los colchones**solo se colocan uno encima del otro para guardarlos. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
 
@@ -61,14 +61,13 @@ Passwort: thebox
 2.  Computadora
 3.  Mandos a distancia para luces y electricidad.
 
-**¿La luz no se enciende o parpadea mucho?**
-Benutze die Fernbedienungen.
+**¿La luz no se enciende o parpadea violentamente?**Utilice los controles remotos.
 
 #### baño
 
-**La ducha**puedes usarlo mientras estás de pie. No importa si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
+**La ducha**puedes usarlo mientras estás de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
-**Die Alexa**en la pared se llama “Computadora” y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
+**Muere Alexa**en la pared se llama “Computadora” y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
 **toallas**Puedes colgarlo en todos los ganchos y poner tus cosas en cualquier lugar.
 
@@ -78,7 +77,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 ## Verificar
 
-El**Entrega de llaves**discutimos individualmente.**Lecho**puedes dejarlo encendido. El**Lavar**y el**Basura** mach ich auch.
+El**Entrega de llaves**discutimos individualmente.**Lecho**puedes dejarlo encendido. El**Lavar**y el**Basura**Yo también lo hago.
 
 > **Corto:**Deja la llave ahí, cierra la puerta y listo.
 
@@ -90,10 +89,10 @@ Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada u
 
 ## ¿Preguntas?
 
-Si tienes alguna pregunta o necesitas ayuda, estaré encantado de ayudarte. Si tienes prisa, lo mejor es hacerlo por teléfono.`+49 170 73 53 067`. También puede utilizar la aplicación de mensajería preinstalada con funcionalidad limitada (SMS). De lo contrario, tengo una libreta y un bolígrafo en el pasillo.
+Si tienes alguna pregunta o necesitas ayuda, estaré encantado de ayudarte. Si tienes prisa, lo mejor es hacerlo por teléfono.<a href="tel:+491707353067">+49 170 73 53 067</a>. También puede utilizar la aplicación de mensajería preinstalada con funcionalidad limitada (SMS). De lo contrario, tengo una libreta y un bolígrafo en el pasillo.
 
-¡Les deseo una agradable estancia en Leipzig!
-andré
+Ich wünsche einen schönen Aufenthalt in Leipzig!
+André
 
 * * *
 
