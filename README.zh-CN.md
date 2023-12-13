@@ -29,18 +29,7 @@ Passwort: landungsbruecken
 
 由于我通常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗漱只能在浴室的水槽里进行。但有一个专门的容器可以用来清洗。
 
-\|
-
-![Küche](_media/rooms/kueche.jpg ":size=200")\|![Küche](_media/rooms/kueche-werkstatt-01.jpg ":size=200")
-
-
-
-
-\|
-
-![Küche](_media/rooms/kueche-werkstatt-02.jpg ":size=200")\|![Küche](_media/rooms/kueche-kuehlschrank.jpg ":size=200")
-
-\|
+![Küche](_media/rooms/kueche.jpg ":size=200")
 
 **您可以使用以下内容：**
 
@@ -59,7 +48,7 @@ Passwort: landungsbruecken
 
 **床垫**只能相互叠放在一起存放。您可以根据您的需要分发它们。如果你把沙发上的枕头换成床垫，那就是一张好床了。
 
-**电脑**和**德鲁克** könnt ihr gern benutzen.
+**电脑**和**德鲁克**欢迎您使用它。
 
 ```txt
 Nutzer:   thebox
