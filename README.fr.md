@@ -2,6 +2,8 @@
 
 Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjourner dans des AirBnB et parfois j'aimerais avoir un morceau de papier avec toutes les informations nécessaires sur l'hébergement, l'enregistrement et le départ et voici ma tentative pour l'améliorer :
 
+![logo](assets/artwork/thebox-logo-invert.svg ":size=400:align=center")
+
 ## Enregistrement
 
 ### Clé
@@ -17,7 +19,7 @@ Passwort: landungsbruecken
 
 Ou vous scannez ce QR code, il vous connectera automatiquement au réseau :
 
-\|![WiFi](assets/wlan.png)
+![WiFi](assets/wlan.png)
 
 ## Les chambres
 
@@ -25,7 +27,11 @@ Ou vous scannez ce QR code, il vous connectera automatiquement au réseau :
 
 ### Cuisine
 
-Comme je mange habituellement en bas avec ma famille, la cuisine est très spartiate. Malheureusement, la vaisselle ne peut être faite que dans le lavabo de la salle de bain.
+Comme je mange habituellement en bas avec ma famille, la cuisine est très spartiate. Malheureusement, la vaisselle ne peut être faite que dans le lavabo de la salle de bain. Mais il existe un récipient spécial pour faire la vaisselle.
+
+| ![Küche](assets/rooms/kueche.jpg ":size=200")              | ![Küche](assets/rooms/kueche-werkstatt-01.jpg ":size=200") |
+| ---------------------------------------------------------- | ---------------------------------------------------------- |
+| ![Küche](assets/rooms/kueche-werkstatt-02.jpg ":size=200") | ![Küche](assets/rooms/kueche-kuehlschrank.jpg ":size=200") |
 
 **Les éléments suivants sont à votre disposition :**
 
