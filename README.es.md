@@ -44,7 +44,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 ### Tu cuarto
 
-**los colchones**solo se colocan uno encima del otro para guardarlos. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
+**los colchones**solo se colocan uno encima del otro para guardarlos. Puedes distribuirlos según tus necesidades. Si reemplazas los cojines del sofá por un colchón, será una buena cama.
 
 **El ordenador**y el**drucker**eres bienvenido a usarlo.
 
@@ -67,7 +67,7 @@ Passwort: thebox
 
 **Muere Alexa**en la pared se llama “Computadora” y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
-**Handtücher**Puedes colgarlo en todos los ganchos y poner tus cosas en cualquier lugar.
+**toallas**Puedes colgarlo en todos los ganchos y poner tus cosas en cualquier lugar.
 
 #### Pasillo
 
