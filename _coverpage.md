@@ -10,7 +10,7 @@
 
 [🇨🇳](README.zh-CN.md) ‧
 [🇫🇷](README.fr.md) ‧
-[🇩🇪](README.de.md) ‧
+[🇬🇧](README.en.md) ‧
 [🇪🇸](README.es.md) ‧
 [🇯🇵](README.ja.md) ‧
 [🇺🇦](README.uk.md)

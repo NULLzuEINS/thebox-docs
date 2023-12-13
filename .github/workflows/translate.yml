@@ -26,10 +26,10 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: fr
-      - name: Adding README - German
+      - name: Adding README - English
         uses: dephraiim/translate-readme@main
         with:
-          LANG: de
+          LANG: en
       - name: Adding README - Japanese
         uses: dephraiim/translate-readme@main
         with:
