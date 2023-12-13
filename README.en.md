@@ -65,7 +65,7 @@ Passwort: thebox
 
 #### bathroom
 
-**The shower**you can use it while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+**Die Dusche**you can use it while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 **Die Alexa**on the wall is called “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
