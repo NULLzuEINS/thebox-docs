@@ -2,11 +2,9 @@
 
 ![logo](_media/thebox-green.png ':size=400')
 
-![](_media/rooms/zimmer-one.jpg)
-
 # TheBox
 
-> **TheBox** on **AirBNB** 🦄 !
+> **Appartement** in Leipzig on **AirBNB** 🦄
 
 <div style="font-size: 1.6rem">
 
