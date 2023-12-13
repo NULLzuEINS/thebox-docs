@@ -29,7 +29,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-**The following things are available to you:**
+#### The following things are available to you
 
 1.  Herd
 2.  Kettle
@@ -40,34 +40,42 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 7.  Cell phone charging station on the shelf
 8.  washing machine
 
-**Stove not working?**Please say "Computer, workbench on"
+#### FAQ - Kitchen
+
+1.  Stove not working? please say
+    > "Computer, Workbench an"
+2.  Where can I wash up? This only works in the bathroom. There is a special container for washing dishes.
 
 ### Your room
 
-**The mattresses**only lie on top of each other for storage. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
 
-**The Computer**and the**Drucker**you are welcome to use it.
+You are welcome to use the computer and printer.
+
+#### The login details for the computer are
 
 ```txt
 Nutzer:   thebox
 Passwort: thebox
 ```
 
-**The following things are available to you:**
+#### The following things are available to you
 
 1.  All furniture and beds
 2.  Computer
 3.  Remote controls for lights and electricity
 
-**The light doesn't come on or blinks wildly?**Use the remote controls.
+#### FAQ - Your room
+
+1.  The light doesn't come on or flashes wildly. Use the small remote controls with the colorful buttons.
 
 #### bathroom
 
-**The shower**you can use it while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
-**Die Alexa**on the wall is called “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
+The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
-**towels**You can hang it on all hooks and put your things anywhere.
+You can hang towels on all hooks and put your things anywhere.
 
 #### Hallway
 
@@ -75,9 +83,11 @@ You are welcome to leave your shoes here. I also have a small notepad on the she
 
 ## Checkout
 
-Die**Key handover**we discuss individually.**Bedding**you can leave it on. The**Abwasch**and the**Garbage** mach ich auch.
+-   We will discuss the key handover individually.
+-   You can leave bedding on it.
+-   I also wash the dishes and take out the trash.
 
-> **Kurz:**Leave the key there, close the door, that's it.
+> Short version: Leave the key there, close the door, that's it. 😀
 
 * * *
 
@@ -87,11 +97,11 @@ With the Leipzig MOVE app, you get 10 free rides of 15 minutes each_Nextbikes_. 
 
 ## Questions?
 
-If you have any questions or need support, I will be happy to help you. If you're in a hurry, it's best to do so via telephone<a href="tel:+491707353067">+49 170 73 53 067</a>. You can also use the pre-installed messenger app with limited functionality (SMS). Otherwise, I have a notepad and a pen in the hallway.
+If you have any questions or need support, I will be happy to help you. If you're in a hurry, it's best to do so via telephone <a href="tel:+491707353067">+49 170 73 53 067</a>. You can also use the pre-installed messenger app with limited functionality (SMS). Otherwise, I have a notepad and a pen in the hallway.
 
-Ich wünsche einen schönen Aufenthalt in Leipzig!
-André
+I wish you a nice stay in Leipzig!
+Andre
 
 * * *
 
-_Made with ❤️ by[docsify](https://docsify.js.org/)_
+_Made with ❤️ by [docsify](https://docsify.js.org/)_
