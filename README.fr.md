@@ -29,22 +29,11 @@ Ou vous scannez ce QR code, il vous connectera automatiquement au réseau :
 
 Comme je mange habituellement en bas avec ma famille, la cuisine est très spartiate. Malheureusement, la vaisselle ne peut être faite que dans le lavabo de la salle de bain. Mais il existe un récipient spécial pour faire la vaisselle.
 
-\|
-
-![Küche](_media/rooms/kueche.jpg ":size=200")\|![Küche](_media/rooms/kueche-werkstatt-01.jpg ":size=200")
-
-
-
-
-\|
-
-![Küche](_media/rooms/kueche-werkstatt-02.jpg ":size=200")\|![Küche](_media/rooms/kueche-kuehlschrank.jpg ":size=200")
-
-\|
+![Küche](_media/rooms/kueche.jpg ":size=200")
 
 **Les éléments suivants sont à votre disposition :**
 
-1.  Troupeau
+1.  Herd
 2.  Bouilloire
 3.  Vaisselle couverts
 4.  Réfrigérateur
