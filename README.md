@@ -90,7 +90,7 @@ Mit der Leipzig MOVE App, bekommt ihr 10 Freifahrten à 15 Minuten für die *Nex
 
 ## Fragen?
 
-Wenn ihr Fragen habt, oder Unterstützung benötigt, stehe ich euch gern zur Verfügung. Wenn es eilig ist, dann besten via Telefon `+49 170 73 53 067` . Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS). Ansonsten habe ich im Flur einen Notizblock und einen Stift.
+Wenn ihr Fragen habt, oder Unterstützung benötigt, stehe ich euch gern zur Verfügung. Wenn es eilig ist, dann besten via Telefon <a href="tel:+491707353067">+49 170 73 53 067</a> . Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS). Ansonsten habe ich im Flur einen Notizblock und einen Stift.
 
 Ich wünsche einen schönen Aufenthalt in Leipzig!
 André
