@@ -2,7 +2,7 @@
 
 Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB's and sometimes I wish I had a piece of paper with all the necessary information about accommodation, check-in and check-out and this is my attempt to make it better:
 
-![logo](assets/artwork/thebox-logo-invert.svg ":size=400:align=center")
+![logo](_media/artwork/thebox-logo-invert.svg ":size=400:align=center")
 
 ## Checkin
 
@@ -19,25 +19,28 @@ Passwort: landungsbruecken
 
 Or you scan this QR code, it will automatically connect you to the network:
 
-<<<<<<< HEAD
-![WiFi](assets/wlan.png)
-=======
-\|
-
 ![WiFi](_media/wlan.png)
->>>>>>> a2260d1 (refactor: Folder structure)
 
 ## The rooms
 
 ![Detailansicht](_media/thebox-map-detail.png)
 
-### Küche
+### Kitchen
 
 Since I usually eat downstairs with my family, the kitchen is very spartan. Unfortunately, washing up can only be done in the sink in the bathroom. But there is a special container for washing up.
 
-| ![Küche](assets/rooms/kueche.jpg ":size=200")              | ![Küche](assets/rooms/kueche-werkstatt-01.jpg ":size=200") |
-| ---------------------------------------------------------- | ---------------------------------------------------------- |
-| ![Küche](assets/rooms/kueche-werkstatt-02.jpg ":size=200") | ![Küche](assets/rooms/kueche-kuehlschrank.jpg ":size=200") |
+\|
+
+![Küche](_media/rooms/kueche.jpg ":size=200")\|![Küche](_media/rooms/kueche-werkstatt-01.jpg ":size=200")
+
+
+
+
+\|
+
+![Küche](_media/rooms/kueche-werkstatt-02.jpg ":size=200")\|![Küche](_media/rooms/kueche-kuehlschrank.jpg ":size=200")
+
+\|
 
 **The following things are available to you:**
 
@@ -97,7 +100,7 @@ With the Leipzig MOVE app, you get 10 free rides of 15 minutes each_Nextbikes_. 
 
 ## Questions?
 
-If you have any questions or need support, I will be happy to help you. If you're in a hurry, it's best to do so via telephone `+49 170 73 53 067` . You can also use the pre-installed messenger app with limited functionality (SMS). Otherwise, I have a notepad and a pen in the hallway.
+Wenn ihr Fragen habt, oder Unterstützung benötigt, stehe ich euch gern zur Verfügung. Wenn es eilig ist, dann besten via Telefon `+49 170 73 53 067`. You can also use the pre-installed messenger app with limited functionality (SMS). Otherwise, I have a notepad and a pen in the hallway.
 
 I wish you a nice stay in Leipzig!
 Andre
