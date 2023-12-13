@@ -42,13 +42,13 @@ Passwort: landungsbruecken
 7.  架子上的手机充电站
 8.  洗衣机
 
-**炉子不工作？** Bitte sage "Computer, Werkbank an"
+**炉子不工作？**请说“计算机，工作台已打开”
 
 ### 你的房间
 
 **床垫**只能相互叠放在一起存放。您可以根据您的需要分发它们。如果你把沙发上的垫子换成床垫，它就是一张好床。
 
-**电脑**和**德鲁克**欢迎您使用它。
+**电脑** und den **德鲁克**欢迎您使用它。
 
 ```txt
 Nutzer:   thebox
@@ -61,7 +61,7 @@ Passwort: thebox
 2.  电脑
 3.  远程控制灯光和电力
 
-**Das Licht geht nicht an, oder blinkt ganz wild?**使用遥控器。
+**灯不亮或疯狂闪烁？**使用遥控器。
 
 #### 浴室
 
