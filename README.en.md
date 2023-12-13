@@ -21,10 +21,6 @@ Or you scan this QR code, it will automatically connect you to the network:
 
 ## The rooms
 
-![Raumplan](assets/thebox-map.png)
-
-### Detail view
-
 ![Detailansicht](assets/thebox-map-detail.png)
 
 ### Kitchen
@@ -52,4 +48,4 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 * * *
 
-_Made with ❤️ by [docsify](https://docsify.js.org/)_
+_Made with ❤️ by[docsify](https://docsify.js.org/)_
