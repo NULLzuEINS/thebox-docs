@@ -27,10 +27,10 @@ Passwort: landungsbruecken
 
 由于我通常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗漱只能在浴室的水槽里进行。
 
-**Folgende Dinge stehen euch zur Verfügung:**
+**您可以使用以下内容：**
 
 1.  一群
-2.  Wasserkocher
+2.  壶
 3.  餐具餐具
 4.  冰箱
 5.  披萨
@@ -63,7 +63,7 @@ Passwort: thebox
 
 **沐浴**您可以站立时使用它。如果地面有点湿也没有问题。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
 
-**亚历克斯** an der Wand hört auf den Namen "Computer" und spielt dir auch Deine Lieblingsmusik oder Radio. Z.B. "_电脑上，玩 Deutschlandfunk Nova_"
+**亚历克斯**墙上的“Computer”（计算机）也可以播放您喜欢的音乐或收音机。例如“_电脑上，玩 Deutschlandfunk Nova_"
 
 **毛巾**您可以将它挂在所有挂钩上，并将您的物品放在任何地方。
 
