@@ -1,6 +1,6 @@
 # La caja
 
-¡Hola y bienvenidos a la “Caja”! Cuando viajo, también me gusta alojarme en AirBnB y a veces desearía tener un papel con toda la información necesaria sobre alojamiento, check-in y check-out y este es mi intento de mejorarlo:
+Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen:
 
 ![logo](_media/artwork/thebox-logo-invert.svg ":size=400:align=center")
 
@@ -42,13 +42,13 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 7.  Estación de carga de teléfonos móviles en el estante.
 8.  lavadora
 
-**¿La estufa no funciona?**Por favor diga "Computadora, mesa de trabajo encendida"
+**¿La estufa no funciona?** Bitte sage "Computer, Werkbank an"
 
 ### Tu cuarto
 
 **los colchones**solo se colocan uno encima del otro para guardarlos. Puedes distribuirlos según tus necesidades. Si reemplazas los cojines del sofá por un colchón, será una buena cama.
 
-**El ordenador**y el**drucker**eres bienvenido a usarlo.
+**El ordenador** und den **Drucker**eres bienvenido a usarlo.
 
 ```txt
 Nutzer:   thebox
@@ -77,7 +77,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 ## Verificar
 
-El**Entrega de llaves**discutimos individualmente.**Lecho**puedes dejarlo encendido. El**Lavar**y el**Basura**Yo también lo hago.
+El**Entrega de llaves**discutimos individualmente.**Lecho**puedes dejarlo encendido. El**Lavar**y el**Basura** mach ich auch.
 
 > **Corto:**Deja la llave ahí, cierra la puerta y listo.
 
