@@ -8,19 +8,19 @@ Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjour
 
 Vous obtenez deux paires de clés, chacune avec une clé pour le bas et une pour le haut. Il y a aussi une clé sur un porte-clés que vous pouvez utiliser pour verrouiller votre chambre.
 
-### Internetzugang
+### accès Internet
 
 ```txt
 SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
+Ou vous scannez ce QR code, il vous connectera automatiquement au réseau :
 !\[[actifs/wlan.png|400]]
 
 ## Les chambres
 
-!\[[thebox-map-detail.png]]
+!\[[actifs/thebox-map-detail.png]]
 
 ### Cuisine
 
@@ -41,7 +41,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 #### Ta chambre
 
-**Die Matratzen**se trouvent uniquement les uns sur les autres pour le stockage. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
+**Les matelas**se trouvent uniquement les uns sur les autres pour le stockage. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
 
 **L'ordinateur**et le**Drucker**vous êtes invités à l'utiliser.
 
@@ -56,7 +56,7 @@ Passwort: thebox
 2.  Ordinateur
 3.  Télécommandes pour lumières et électricité
 
-**Das Licht geht nicht an, oder blinkt ganz wild?**Utilisez les télécommandes.
+**La lumière ne s'allume pas ou clignote énormément ?**Utilisez les télécommandes.
 
 #### salle de bain
 
@@ -80,7 +80,7 @@ Le**Remise des clés**nous discutons individuellement.**Literie**vous pouvez le 
 
 ## Conseils
 
-Avec l'application Leipzig MOVE, vous bénéficiez de 10 trajets gratuits de 15 minutes chacun_Nextbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement.
+Avec l'application Leipzig MOVE, vous bénéficiez de 10 trajets gratuits de 15 minutes chacun_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement.
 
 ## Des questions?
 
@@ -95,7 +95,7 @@ André
 
 > Ce projet concerne un réservoir d'eau intelligent. Il mesure le niveau d'eau et envoie les données à un serveur. Le serveur peut être utilisé pour contrôler la pompe à eau. La pompe peut être contrôlée via une interface Web ou via un robot télégramme. Il utilise un capteur à ultrasons HC-SR04 pour mesurer le niveau d'eau. Les données sont envoyées à TTN via une passerelle LoRaWAN.
 
-?> Le document original a été rédigé en[ English](README.md). La traduction a été réalisée avec Google Translate. Si vous trouvez des erreurs, essayez de les ignorer. Merci!
+?> Le document original a été rédigé en[Anglais](README.md). La traduction a été réalisée avec Google Translate. Si vous trouvez des erreurs, essayez de les ignorer. Merci!
 
 * * *
 
@@ -133,7 +133,7 @@ André
 6.  **Ingénierie des données**
     1.  Nœud ROUGE
     2.  Grafana
-    3.  Alexa Skill
+    3.  Compétence Alexa
     4.  Azure Connect
 
 * * *
@@ -160,7 +160,7 @@ Vous avez besoin des pièces suivantes :
 1.  Connectez votre carte à votre ordinateur et
 2.  Cliquez sur le bouton suivant :
 
-?> Si vous souhaitez en savoir plus sur le processus de flashage, vous pouvez lire le[documentation de configuration](#Setup).
+?> If you want to know more about the flashing process, you can read the [documentation de configuration](#Setup).
 
 ## Matériel
 
@@ -170,7 +170,7 @@ Vous avez besoin des pièces suivantes :
 4.  [Microcontrôleur](#Microcontroller)
 5.  [passerelle](#Gateway)
 
-### Sensors
+### Capteurs
 
 Pour mesurer le niveau d'eau, vous avez besoin d'un capteur. Ce n’est pas une tâche facile de trouver un capteur étanche et pouvant être utilisé dans un réservoir d’eau. Les capteurs suivants sont pris en charge et recommandés :
 
@@ -196,10 +196,10 @@ Si vous souhaitez utiliser ce projet pendant une longue période, nous vous reco
 
 Pour alimenter le microcontrôleur, vous avez besoin d'une alimentation. L’accu 18650 est la meilleure option. C'est bon marché et vous pouvez le recharger avec un panneau solaire. Mais vous pouvez également utiliser une banque d'alimentation ou une alimentation USB.
 
-| Partie                                                  | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![18650 battery](_media/hardware/hardware-18650.svg)    | Il existe de nombreux types de piles. Les plus courants sont le lithium-ion, le lithium polymère et le lithium fer phosphate. Le**18650 battery**est une batterie Lithium Ion. C'est la meilleure option pour ce projet. C'est bon marché et vous pouvez le recharger avec un panneau solaire. Il est composé de Lithium Ion et peut être chargé jusqu'à 500 fois. La batterie 18650 a une tension de 3,7 V et peut avoir une capacité d’environ 2 200 mAh. Le panneau solaire a une tension de 5V et une puissance de 2W. Le panneau solaire peut charger la batterie en 3 heures. Notre capteur a besoin de 5V et 100mA. Le microcontrôleur a besoin de 5 V et 100 mA. Il nous faut donc deux accus 18650 et un régulateur de tension pour obtenir 5V. La batterie n'est pas étanche. Il faut le mettre dans un boîtier étanche. Faites également attention aux températures élevées. La batterie peut exploser si elle est trop chaude. Nous recommandons cette batterie si vous souhaitez l'utiliser pendant une longue période. |
-| ![Solar panel](_media/hardware/hardware-solarpanel.svg) | **Panneau solaire:**Puisque nous sommes dans notre jardin, nous pouvons utiliser un panneau solaire. Il est étanche et peut être utilisé sous la pluie. Il est en silicium polycristallin et a une puissance de 2W. Si vous achetez un panneau solaire, vous devez vous assurer qu'il dispose d'une sortie 5 V avec au moins 400 mA. Pour charger nos batteries, nous avons besoin d'un contrôleur de charge. Heureusement, le microcontrôleur intègre un contrôleur de charge. Nous pouvons donc utiliser le panneau solaire directement.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Partie                                                  | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![18650 battery](_media/hardware/hardware-18650.svg)    | Il existe de nombreux types de piles. Les plus courants sont le lithium-ion, le lithium polymère et le lithium fer phosphate. Le**Batterie 18650**est une batterie Lithium Ion. C'est la meilleure option pour ce projet. C'est bon marché et vous pouvez le recharger avec un panneau solaire. Il est composé de Lithium Ion et peut être chargé jusqu'à 500 fois. La batterie 18650 a une tension de 3,7 V et peut avoir une capacité d’environ 2 200 mAh. Le panneau solaire a une tension de 5V et une puissance de 2W. Le panneau solaire peut charger la batterie en 3 heures. Notre capteur a besoin de 5V et 100mA. Le microcontrôleur a besoin de 5 V et 100 mA. Il nous faut donc deux accus 18650 et un régulateur de tension pour obtenir 5V. La batterie n'est pas étanche. Il faut le mettre dans un boîtier étanche. Faites également attention aux températures élevées. La batterie peut exploser si elle est trop chaude. Nous recommandons cette batterie si vous souhaitez l'utiliser pendant une longue période. |
+| ![Solar panel](_media/hardware/hardware-solarpanel.svg) | **Panneau solaire:**Puisque nous sommes dans notre jardin, nous pouvons utiliser un panneau solaire. Il est étanche et peut être utilisé sous la pluie. Il est en silicium polycristallin et a une puissance de 2W. Si vous achetez un panneau solaire, vous devez vous assurer qu'il dispose d'une sortie 5 V avec au moins 400 mA. Pour charger nos batteries, nous avons besoin d'un contrôleur de charge. Heureusement, le microcontrôleur intègre un contrôleur de charge. Nous pouvons donc utiliser le panneau solaire directement.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ### Logement
 
@@ -227,7 +227,7 @@ Consultez la carte TTN pour voir s'il y a une passerelle près de chez vous. S'i
 ## 3. Assemblage
 
 1.  [Capteur à contrôleur](#sensor-to-controller)
-2.  [Power to controller](#power-to-controller)
+2.  [Alimentation du contrôleur](#power-to-controller)
 3.  [Dépannage](#trouble-shooting)
 
 ### Capteur à contrôleur
