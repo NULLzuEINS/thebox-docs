@@ -1,6 +1,6 @@
 # La boîte
 
-Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen:
+Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjourner dans des AirBnB et parfois j'aimerais avoir un morceau de papier avec toutes les informations nécessaires sur l'hébergement, l'enregistrement et le départ et voici ma tentative pour l'améliorer :
 
 ![logo](_media/artwork/thebox-logo-invert.svg ":size=400:align=center")
 
@@ -10,7 +10,7 @@ Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch
 
 Vous obtenez deux paires de clés, chacune avec une clé pour le bas et une pour le haut. Il y a aussi une clé sur un porte-clés que vous pouvez utiliser pour verrouiller votre chambre.
 
-### Internetzugang
+### accès Internet
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -27,7 +27,7 @@ Ou vous scannez ce QR code, il vous connectera automatiquement au réseau :
 
 ### Cuisine
 
-Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
+Comme je mange habituellement en bas avec ma famille, la cuisine est très spartiate. Malheureusement, la vaisselle ne peut être faite que dans le lavabo de la salle de bain. Mais il existe un récipient spécial pour faire la vaisselle.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -46,7 +46,7 @@ Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abw
 
 ### Ta chambre
 
-**Die Matratzen**se trouvent uniquement les uns sur les autres pour le stockage. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
+**Les matelas**se trouvent uniquement les uns sur les autres pour le stockage. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
 
 **L'ordinateur**et le**Drucker**vous êtes invités à l'utiliser.
 
@@ -65,19 +65,19 @@ Passwort: thebox
 
 #### salle de bain
 
-**La douche**vous pouvez l'utiliser debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+**La douche**vous pouvez l'utiliser debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 **Meurs Alexa**sur le mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
 **les serviettes**Vous pourrez l'accrocher à tous les crochets et ranger vos affaires n'importe où.
 
-#### Flur
+#### Couloir
 
 Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'étagère au cas où tu voudrais me dire quelque chose.
 
 ## Vérifier
 
-Le**Remise des clés** besprechen wir individuell. **Literie**vous pouvez le laisser. Le**Vaisselle** und den **Ordures**Je le fais aussi.
+Le**Remise des clés**nous discutons individuellement.**Literie**vous pouvez le laisser. Le**Vaisselle**et le**Ordures**Je le fais aussi.
 
 > **Court:**Laissez la clé là, fermez la porte, c'est tout.
 
