@@ -6,7 +6,7 @@ Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB
 
 ### Key
 
-You get two pairs of keys, each with one key for the bottom and one for the top. There is also a key on a key chain that you can use to lock your room.
+You get two pairs of keys, each with one key for the bottom and one for the top. There is also a key on a keychain that you can use to lock your room.
 
 ### Internet access
 
@@ -40,7 +40,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 7.  Cell phone charging station on the shelf
 8.  washing machine
 
-**Stove not working?**Please say "Computer, workbench on"
+**Herd funktioniert nicht?**Please say "Computer, workbench on"
 
 ### Your room
 
@@ -59,11 +59,11 @@ Passwort: thebox
 2.  Computer
 3.  Remote controls for lights and electricity
 
-**The light doesn't come on or flashes wildly?**Use the remote controls.
+**The light doesn't come on or blinks wildly?**Use the remote controls.
 
 #### bathroom
 
-**The shower**you can use it while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+**The shower**you can use it while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 **Die Alexa**on the wall is called “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
@@ -71,7 +71,7 @@ Passwort: thebox
 
 #### Hallway
 
-You are welcome to leave your shoes here. I also have a small notepad on the shelf in case you want to tell me something.
+Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
 
 ## Checkout
 
