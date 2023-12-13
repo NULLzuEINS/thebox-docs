@@ -65,7 +65,7 @@ Passwort: thebox
 
 #### ванна кімната
 
-**Душ**Ви можете використовувати його стоячи. Не біда, якщо земля трохи промокне. Увімкніть воду лише на 1/3 і повісьте килимок для ванної над обігрівачем, щоб він висох.
+**Душ** kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und häng den Badewannenvorleger  zum trocknen über der Heizung auf.
 
 **Помри Алекса**на стіні називається «Комп'ютер» і також грає улюблена музика або радіо. наприклад "_Комп’ютер, грай у Deutschlandfunk Nova_"
 
