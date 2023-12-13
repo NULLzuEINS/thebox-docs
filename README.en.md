@@ -8,7 +8,7 @@ Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB
 
 ### Key
 
-You get two pairs of keys, each with one key for the bottom and one for the top. There is also a key on a key chain that you can use to lock your room.
+You get two pairs of keys, each with one key for the bottom and one for the top. There is also a key on a keychain that you can use to lock your room.
 
 ### Internet access
 
@@ -35,7 +35,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 1.  Herd
 2.  Kettle
-3.  Dishes cutlery
+3.  Geschirr, Besteck
 4.  Refrigerator
 5.  Pizzaof
 6.  Mineral water
@@ -46,7 +46,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ### Your room
 
-**The mattresses**only lie on top of each other for storage. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
+**The mattresses**only lie on top of each other for storage. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
 
 **The Computer**and the**Drucker**you are welcome to use it.
 
@@ -61,11 +61,11 @@ Passwort: thebox
 2.  Computer
 3.  Remote controls for lights and electricity
 
-**The light doesn't come on or flashes wildly?**Use the remote controls.
+**The light doesn't come on or blinks wildly?**Use the remote controls.
 
 #### bathroom
 
-**The shower**you can use it while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+**The shower**you can use it while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 **Die Alexa**on the wall is called “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
