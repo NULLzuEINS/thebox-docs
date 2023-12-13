@@ -20,7 +20,7 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 ## Die Zimmer
 
-![[thebox-map-detail.png]]
+![[assets/thebox-map-detail.png]]
 
 ### Küche
 
@@ -56,7 +56,7 @@ Passwort: thebox
 2. Computer
 3. Fernbedienungen für Licht und Strom
 
-**Das Licht geht nicht an, oder blinkt ganz wild?** 
+**Das Licht geht nicht an, oder blinkt ganz wild?**
 Benutze die Fernbedienungen.
 
 #### Badezimmer
