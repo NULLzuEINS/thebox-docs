@@ -20,7 +20,7 @@ Passwort: landungsbruecken
 
 ## 部屋
 
-！「[thebox-map-detail.png]」
+！「[資産/thebox-map-detail.png]」
 
 ### 台所
 
@@ -62,7 +62,7 @@ Passwort: thebox
 
 **にわか雨**立ったまま使用できます。多少地面が濡れても問題ありません。水を1/3にして、バスマットをヒーターの上に掛けて乾燥させます。
 
-**アレクサ死ね**壁にある「コンピューター」は、お気に入りの音楽やラジオを再生することもできます。例：「_Computer, spiele Deutschlandfunk Nova_”
+**アレクサ死ね**壁にある「コンピューター」は、お気に入りの音楽やラジオを再生することもできます。例：「_コンピューター、Deutschlandfunk Nova をプレイしてください_”
 
 **タオル**すべてのフックに掛けて、どこにでも物を置くことができます。
 
@@ -226,7 +226,7 @@ TTN マップをチェックして、近くにゲートウェイがあるかど�
 
 ## 3. 組み立て
 
-1.  [Sensor to controller](#sensor-to-controller)
+1.  [センサーからコントローラーまで](#sensor-to-controller)
 2.  [コントローラーへの電源供給](#power-to-controller)
 3.  [トラブルシューティング](#trouble-shooting)
 
