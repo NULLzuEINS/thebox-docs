@@ -31,7 +31,7 @@ Passwort: landungsbruecken
 
 1.  群れ
 2.  ケトル
-3.  食器カトラリー
+3.  Geschirr, Besteck
 4.  冷蔵庫
 5.  ピザオブ
 6.  ミネラルウォーター
@@ -44,8 +44,8 @@ Passwort: landungsbruecken
 
 #### あなたの部屋
 
-**マットレス**保管のみを目的としています
+**Die Matratzen** liegen nur zu Lagerung
 
 * * *
 
-_❤️で作りました[文書化する](https://docsify.js.org/)_
+_Made with ❤️ by [文書化する](https://docsify.js.org/)_
