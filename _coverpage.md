@@ -2,6 +2,8 @@
 
 ![logo](assets/thebox-green.png ':size=400')
 
+![logo](assets/artwork/thebox-logo-invert.svg ':size=400:align=center')
+
 # TheBox
 
 > **TheBox** on **AirBNB** 🦄 !
