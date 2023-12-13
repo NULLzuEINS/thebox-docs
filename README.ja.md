@@ -2,9 +2,9 @@
 
 こんにちは、「ボックス」へようこそ！私も旅行するときは AirBnB に泊まるのが好きですが、宿泊施設、チェックイン、チェックアウトに関する必要な情報がすべて記載された紙があればいいのにと思うことがあります。これはそれを改善するための私の試みです。
 
-![logo](assets/artwork/thebox-logo-invert.svg ":size=400:align=center")
+![logo](_media/artwork/thebox-logo-invert.svg ":size=400:align=center")
 
-## チェックイン
+## Checkin
 
 ### 鍵
 
@@ -19,7 +19,7 @@ Passwort: landungsbruecken
 
 または、この QR コードをスキャンすると、自動的にネットワークに接続されます。
 
-｜![WiFi](assets/wlan.png)
+![WiFi](_media/wlan.png)
 
 ## 部屋
 
@@ -29,9 +29,18 @@ Passwort: landungsbruecken
 
 普段家族と一緒に下の階で食事をしているので、キッチンはとてもスパルタンです。残念ながら、洗い物はバスルームのシンクでのみ可能です。ただし、食器を洗うための専用の容器があります。
 
-| ![Küche](assets/rooms/kueche.jpg ":size=200")              | ![Küche](assets/rooms/kueche-werkstatt-01.jpg ":size=200") |
-| ---------------------------------------------------------- | ---------------------------------------------------------- |
-| ![Küche](assets/rooms/kueche-werkstatt-02.jpg ":size=200") | ![Küche](assets/rooms/kueche-kuehlschrank.jpg ":size=200") |
+｜
+
+![Küche](_media/rooms/kueche.jpg ":size=200")｜![Küche](_media/rooms/kueche-werkstatt-01.jpg ":size=200")
+
+
+
+
+｜
+
+![Küche](_media/rooms/kueche-werkstatt-02.jpg ":size=200") \| ![Küche](_media/rooms/kueche-kuehlschrank.jpg ":size=200")
+
+｜
 
 **次のものが利用可能です。**
 
@@ -48,7 +57,7 @@ Passwort: landungsbruecken
 
 ### あなたの部屋
 
-**マットレス**保管する場合は重ねて置くだけです。ニーズに応じて配布できます。ソファの枕をマットレスに置き換えれば、立派なベッドになります。
+**マットレス** liegen nur zu Lagerung übereinander. Ihr könnt sie nach euren Bedürfnissen verteilen. Wenn ihr die Kissen auf der Couch durch eine Matratze ersetzt, eignet sie sich gut als Bett.
 
 **コンピュータ**そしてその**ドラッカー**ぜひご利用ください。
 
@@ -91,7 +100,7 @@ Leipzig MOVE アプリを使用すると、1 回につき 15 分間の乗車を 
 
 ## 質問がありますか?
 
-ご質問がある場合やサポートが必要な場合は、喜んでお手伝いさせていただきます。お急ぎの場合はお電話がおすすめです `+49 170 73 53 067` 。機能が制限されたプリインストールされたメッセンジャー アプリ (SMS) を使用することもできます。それ以外の場合は、廊下にメモ帳とペンがあります。
+ご質問がある場合やサポートが必要な場合は、喜んでお手伝いさせていただきます。お急ぎの場合はお電話がおすすめです`+49 170 73 53 067`。機能が制限されたプリインストールされたメッセンジャー アプリ (SMS) を使用することもできます。それ以外の場合は、廊下にメモ帳とペンがあります。
 
 ライプツィヒでの素敵なご滞在をお祈りしております。
 アンドレ
