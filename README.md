@@ -1,8 +1,6 @@
 # TheBox
 
-Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen:
-
-![logo](_media/artwork/thebox-logo-invert.svg ':size=400:align=center')
+Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
 
 ## Checkin
 
@@ -19,12 +17,12 @@ Passwort: landungsbruecken
 
 Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
-![WiFi](_media/wlan.png)
+![WiFi](_media/wlan.png ':size=200')
 
 ## Die Zimmer
 
 ![Detailansicht](_media/thebox-map-detail.png)
-
+    
 ### Küche
 
 Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.

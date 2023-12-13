@@ -1,10 +1,10 @@
 <!-- _coverpage.md -->
 
-![logo](_media/thebox-green.png ':size=400')
+![logo](_media/thebox-logo-art.png ':size=200')
 
 # TheBox
 
-> **Appartement** in Leipzig on **AirBNB** 🦄
+> **Appartement** in Leipzig on [AirBnB](https://www.airbnb.de/rooms/638113290220817516?preview_for_ml=true&source_impression_id=p3_1702474313_zzOPpN9yz5Y9dSNR) 🦄
 
 <div style="font-size: 1.6rem">
 
@@ -16,9 +16,3 @@
 [🇺🇦](README.uk.md)
 
 </div>
-
-[AirBnB](https://www.airbnb.de/rooms/638113290220817516?preview_for_ml=true&source_impression_id=p3_1702474313_zzOPpN9yz5Y9dSNR)
-
-<!-- background color -->
-
-![color](#333333)
