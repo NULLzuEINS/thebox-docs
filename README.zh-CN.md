@@ -19,11 +19,17 @@ Passwort: landungsbruecken
 
 或者您扫描此二维码，它会自动将您连接到网络：
 
+<<<<<<< HEAD
 ![WiFi](assets/wlan.png)
+=======
+\|
+
+![WiFi](_media/wlan.png)
+>>>>>>> 59edf2a (Rename assets folder)
 
 ## 房间
 
-![Detailansicht](assets/thebox-map-detail.png)
+![Detailansicht](_media/thebox-map-detail.png)
 
 ### 厨房
 
@@ -91,7 +97,7 @@ Passwort: thebox
 
 ## 问题？
 
-如果您有任何疑问或需要支持，我将很乐意为您提供帮助。如果您赶时间，最好通过电话联系`+49 170 73 53 067`。您还可以使用功能有限的预装消息应用程序 (SMS)。除此之外，我在走廊里有一个记事本和一支笔。
+如果您有任何疑问或需要支持，我将很乐意为您提供帮助。如果您赶时间，最好通过电话联系 `+49 170 73 53 067` 。您还可以使用功能有限的预装消息应用程序 (SMS)。除此之外，我在走廊里有一个记事本和一支笔。
 
 祝您在莱比锡过得愉快！
 安德烈

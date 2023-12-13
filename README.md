@@ -2,7 +2,7 @@
 
 Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen:
 
-![logo](assets/artwork/thebox-logo-invert.svg ':size=400:align=center')
+![logo](_media/artwork/thebox-logo-invert.svg ':size=400:align=center')
 
 ## Checkin
 
@@ -19,19 +19,27 @@ Passwort: landungsbruecken
 
 Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
-![WiFi](assets/wlan.png)
+![WiFi](_media/wlan.png)
 
 ## Die Zimmer
 
-![Detailansicht](assets/thebox-map-detail.png)
+![Detailansicht](_media/thebox-map-detail.png)
 
 ### Küche
 
 Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
 
-| ![Küche](assets/rooms/kueche.jpg ':size=200') | ![Küche](assets/rooms/kueche-werkstatt-01.jpg ':size=200') |
+| 
+
+![Küche](_media/rooms/kueche.jpg ':size=200') | ![Küche](_media/rooms/kueche-werkstatt-01.jpg ':size=200')
+
+ |
 | --- | --- |
-| ![Küche](assets/rooms/kueche-werkstatt-02.jpg ':size=200') | ![Küche](assets/rooms/kueche-kuehlschrank.jpg ':size=200') |
+| 
+
+![Küche](_media/rooms/kueche-werkstatt-02.jpg ':size=200') | ![Küche](_media/rooms/kueche-kuehlschrank.jpg ':size=200')
+
+ |
 
 **Folgende Dinge stehen euch zur Verfügung:**
 

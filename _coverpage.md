@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 
-![logo](assets/thebox-green.png ':size=400')
+![logo](_media/thebox-green.png ':size=400')
 
-![logo](assets/artwork/thebox-logo-invert.svg ':size=400:align=center')
+![logo](_media/artwork/thebox-logo-invert.svg ':size=400:align=center')
 
 # TheBox
 
@@ -20,6 +20,10 @@
 </div>
 
 [AirBnB](https://www.airbnb.de/rooms/638113290220817516?preview_for_ml=true&source_impression_id=p3_1702474313_zzOPpN9yz5Y9dSNR)
+
+<!-- background image -->
+
+![](_media/bg.png)
 
 <!-- background color -->
 

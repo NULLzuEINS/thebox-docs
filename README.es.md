@@ -19,11 +19,11 @@ Passwort: landungsbruecken
 
 O escaneas este código QR, te conectará automáticamente a la red:
 
-![WiFi](assets/wlan.png)
+\|![WiFi](assets/wlan.png)
 
 ## Las habitaciones
 
-![Detailansicht](assets/thebox-map-detail.png)
+![Detailansicht](_media/thebox-map-detail.png)
 
 ### Cocina
 
@@ -91,7 +91,7 @@ Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada u
 
 ## ¿Preguntas?
 
-Si tienes alguna pregunta o necesitas ayuda, estaré encantado de ayudarte. Si tienes prisa, lo mejor es hacerlo por teléfono.`+49 170 73 53 067`. También puede utilizar la aplicación de mensajería preinstalada con funcionalidad limitada (SMS). De lo contrario, tengo una libreta y un bolígrafo en el pasillo.
+Si tienes alguna pregunta o necesitas ayuda, estaré encantado de ayudarte. Si tienes prisa, lo mejor es hacerlo por teléfono. `+49 170 73 53 067` . También puede utilizar la aplicación de mensajería preinstalada con funcionalidad limitada (SMS). De lo contrario, tengo una libreta y un bolígrafo en el pasillo.
 
 ¡Les deseo una agradable estancia en Leipzig!
 andré
