@@ -35,7 +35,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 2.  Pava
 3.  platos cubiertos
 4.  Refrigerador
-5.  Pizzaof
+5.  Pizza de
 6.  Agua mineral
 7.  Estación de carga de teléfonos móviles en el estante.
 8.  lavadora
@@ -59,15 +59,15 @@ Passwort: thebox
 2.  Computadora
 3.  Mandos a distancia para luces y electricidad.
 
-**¿La luz no se enciende o parpadea violentamente?**Utilice los controles remotos.
+**¿La luz no se enciende o parpadea mucho?**Utilice los controles remotos.
 
 #### baño
 
-**La ducha**puedes usarlo mientras estás de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
+**La ducha**puedes usarlo mientras estás de pie. No importa si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
 **Muere Alexa**en la pared se llama “Computadora” y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
-**toallas**Puedes colgarlo en todos los ganchos y poner tus cosas en cualquier lugar.
+**Handtücher**Puedes colgarlo en todos los ganchos y poner tus cosas en cualquier lugar.
 
 #### Pasillo
 
@@ -75,7 +75,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 ## Verificar
 
-El**Entrega de llaves**discutimos individualmente.**Bettzeug**puedes dejarlo encendido. El**Lavar**y el**Basura**Yo también lo hago.
+El**Entrega de llaves**discutimos individualmente.**Lecho**puedes dejarlo encendido. El**Lavar**y el**Basura**Yo también lo hago.
 
 > **Corto:**Deja la llave ahí, cierra la puerta y listo.
 
