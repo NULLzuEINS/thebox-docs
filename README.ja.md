@@ -21,10 +21,6 @@ Passwort: landungsbruecken
 
 ## 部屋
 
-![Raumplan](assets/thebox-map.png)
-
-### 詳細図
-
 ![Detailansicht](assets/thebox-map-detail.png)
 
 ### 台所
