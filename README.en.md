@@ -40,11 +40,11 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 7.  Cell phone charging station on the shelf
 8.  washing machine
 
-**Herd funktioniert nicht?**Please say "Computer, workbench on"
+**Stove not working?**Please say "Computer, workbench on"
 
 ### Your room
 
-**The mattresses**only lie on top of each other for storage. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
+**The mattresses**only lie on top of each other for storage. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
 
 **The Computer**and the**Drucker**you are welcome to use it.
 
@@ -71,11 +71,11 @@ Passwort: thebox
 
 #### Hallway
 
-Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
+You are welcome to leave your shoes here. I also have a small notepad on the shelf in case you want to tell me something.
 
 ## Checkout
 
-Die**Key handover**we discuss individually.**Bedding**you can leave it on. The**Washing up**and the**Garbage**I do it too.
+Die**Key handover**we discuss individually.**Bedding**you can leave it on. The**Abwasch**and the**Garbage** mach ich auch.
 
 > **Kurz:**Leave the key there, close the door, that's it.
 
@@ -89,8 +89,8 @@ With the Leipzig MOVE app, you get 10 free rides of 15 minutes each_Nextbikes_. 
 
 If you have any questions or need support, I will be happy to help you. If you're in a hurry, it's best to do so via telephone<a href="tel:+491707353067">+49 170 73 53 067</a>. You can also use the pre-installed messenger app with limited functionality (SMS). Otherwise, I have a notepad and a pen in the hallway.
 
-I wish you a nice stay in Leipzig!
-Andre
+Ich wünsche einen schönen Aufenthalt in Leipzig!
+André
 
 * * *
 
