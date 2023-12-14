@@ -153,7 +153,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 -   El horario habitual de salida es a las 11 a.m.
 -   Si desea dejar su equipaje el día de salida y recogerlo más tarde ese mismo día, podemos organizarlo individualmente.
 
-## limpieza
+## Reinigung
 
 -   Puedes dejar ropa de cama encima.
 -   También lavo los platos y
@@ -165,7 +165,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada uno_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento.
 
-# Fragen?
+# ¿Preguntas?
 
 Si tienes alguna pregunta o necesitas ayuda, estaré encantado de ayudarte. Si tienes prisa, lo mejor es hacerlo por teléfono. <a href="tel:+491707353067">+49 170 73 53 067</a>. También puede utilizar la aplicación de mensajería preinstalada con funcionalidad limitada (SMS). De lo contrario, tengo una libreta y un bolígrafo en el pasillo.
 
