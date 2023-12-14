@@ -6,9 +6,9 @@ Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjour
 
 Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des installations. Voici juste un bref aperçu :
 
-![Küche](_media/rooms/kueche.jpg ":size=144:align=left:class=img-zoomable:")
+![Küche](_media/rooms/kueche.jpg ":size=144"){ : .img-zoomabl }
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":size=200 .img-zoomable")
 
 ![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
@@ -22,7 +22,7 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 Vous obtenez deux paires de clés, chacune avec une clé pour le bas et une pour le haut. Il y a aussi une clé sur un porte-clés que vous pouvez utiliser pour verrouiller votre chambre.
 
-## accès Internet
+## Internetzugang
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -106,7 +106,7 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 ## nettoyage
 
 -   Vous pouvez y laisser de la literie.
--   Das Geschirr spüle ich auch ab und 
+-   Je fais aussi la vaisselle et
 -   Je sors aussi les poubelles.
 
 > Version courte : Laissez la clé là, fermez la porte, c'est tout. 😀
