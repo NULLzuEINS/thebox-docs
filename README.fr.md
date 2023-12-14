@@ -1,4 +1,4 @@
-# Willkommen
+# Accueillir
 
 Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjourner dans des AirBnB et parfois j'aimerais avoir un morceau de papier avec toutes les informations nécessaires sur l'hébergement, l'enregistrement et le départ et c'est ma tentative de l'améliorer.
 
@@ -6,27 +6,15 @@ Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjour
 
 Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des installations. Voici juste un bref aperçu :
 
-[lien](/README.en.md ":data-zoom-src=\_media/rooms/kueche.jpg")
-
 <div class="grid">
 
 ![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![logo](https://docsify.js.org/_media/icon.svg ":class=img-zoomable")
 
 </div>
 
 # Enregistrement
 
-## Schlüssel
+## Clé
 
 Vous obtenez deux paires de clés, chacune avec une clé pour le bas et une pour le haut. Il y a aussi une clé sur un porte-clés que vous pouvez utiliser pour verrouiller votre chambre.
 
@@ -56,7 +44,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 1.  Troupeau
 2.  Bouilloire
 3.  Vaisselle couverts
-4.  Réfrigérateur
+4.  Kühlschrank
 5.  Pizza de
 6.  Eau minérale
 7.  Station de recharge de téléphone portable sur l'étagère
@@ -70,7 +58,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ## Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
 
 Vous êtes invités à utiliser l’ordinateur et l’imprimante.
 
@@ -93,7 +81,7 @@ Passwort: thebox
 
 ### salle de bain
 
-Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und häng den Badewannenvorleger  zum trocknen über der Heizung auf.
+Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
@@ -115,7 +103,7 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 
 -   Vous pouvez y laisser de la literie.
 -   Je fais aussi la vaisselle et
--   den Müll bring ich auch raus.
+-   Je sors aussi les poubelles.
 
 > Version courte : Laissez la clé là, fermez la porte, c'est tout. 😀
 
