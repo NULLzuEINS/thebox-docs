@@ -38,7 +38,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 5.  Pizzaof
 6.  Mineral water
 7.  Cell phone charging station on the shelf
-8.  washing machine
+8.  Waschmaschine
 
 #### FAQ - Kitchen
 
@@ -48,11 +48,11 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ### Your room
 
-The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
 
 You are welcome to use the computer and printer.
 
-#### The login details for the computer are
+#### Die Zugangsdaten fü den Computer sind
 
 ```txt
 Nutzer:   thebox
@@ -71,7 +71,7 @@ Passwort: thebox
 
 #### bathroom
 
-You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und häng den Badewannenvorleger  zum trocknen über der Heizung auf.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
@@ -87,7 +87,7 @@ You are welcome to leave your shoes here. I also have a small notepad on the she
 -   You can leave bedding on it.
 -   I also wash the dishes and take out the trash.
 
-> Short version: Leave the key there, close the door, that's it. 😀
+> Kurzfassung: Schlüssel da lassen, Tür zuziehen, das wars. 😀
 
 * * *
 
