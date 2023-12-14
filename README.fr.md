@@ -48,7 +48,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ### Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
 
 Vous êtes invités à utiliser l’ordinateur et l’imprimante.
 
@@ -85,7 +85,7 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 
 -   Nous discuterons individuellement de la remise des clés.
 -   Vous pouvez y laisser de la literie.
--   Je fais également la vaisselle et sors les poubelles.
+-   Je fais aussi la vaisselle et sors les poubelles.
 
 > Version courte : Laissez la clé là, fermez la porte, c'est tout. 😀
 
