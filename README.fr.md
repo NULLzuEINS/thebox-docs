@@ -7,12 +7,10 @@ Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjour
 Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des installations. Voici juste un bref aperçu :
 
 <div class='grid'>
-
-    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-
+<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
 </div>
 
 <div class="grid">
@@ -77,7 +75,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ## Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
 
 Vous êtes invités à utiliser l’ordinateur et l’imprimante.
 
@@ -139,4 +137,4 @@ André
 
 * * *
 
-_Réalisé avec ❤️ par [docsify](https://docsify.js.org/)_
+_Réalisé avec ❤️ par [docsifier](https://docsify.js.org/)_
