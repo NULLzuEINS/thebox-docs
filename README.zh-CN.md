@@ -56,7 +56,7 @@
 
 ## 钥匙
 
-Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du Dein Zimmer abschließen kannst.
+您将获得两对钥匙，每对钥匙位于底部，另一对用于顶部。钥匙链上还有一把钥匙，可以用来锁房间。
 
 ## 互联网
 
@@ -98,7 +98,7 @@ Passwort: landungsbruecken
 
 ## 你的房间
 
-床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的枕头换成床垫，那就是一张好床了。
+床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的垫子换成床垫，它就是一张好床。
 
 欢迎您使用电脑和打印机。
 
@@ -121,7 +121,7 @@ Passwort: thebox
 
 ### 浴室
 
-Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und häng den Badewannenvorleger  zum trocknen über der Heizung auf.
+您可以站着使用淋浴。地面稍微湿一点也没关系。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
 
 墙上的 Alexa 名称为“计算机”，还可以播放您最喜欢的音乐或收音机。例如“_电脑上，玩 Deutschlandfunk Nova_"
 
@@ -131,7 +131,7 @@ Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Bo
 
 欢迎您把鞋子留在这里。我的架子上还有一个小记事本，以防你想告诉我一些事情。
 
-# Sonstiges
+# 各种各样的
 
 ## 智能家居
 
@@ -141,7 +141,8 @@ Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Bo
 
 ## 温度和湿度
 
-温度和湿度通过传感器自动测量。我用它们来防止霉菌形成。它们又小又白，通常放在门框上。
+温度和湿度通过传感器自动测量。我用它们来防止霉菌形成。它们又小又白，通常放在门框上。您可以使用部分测量数据
+在走廊的镜子里读你的故事。
 
 # 查看
 
@@ -153,7 +154,7 @@ Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Bo
 
 ## 打扫
 
--   Bettzeug kannst Du drauf lassen.
+-   您可以在上面留下床上用品。
 -   我也洗碗
 -   我也倒垃圾。
 
@@ -167,8 +168,8 @@ Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Bo
 
 如果您有任何疑问或需要支持，我将很乐意为您提供帮助。如果您赶时间，最好通过电话联系 <a href="tel:+491707353067">+49 170 73 53 067</a>。您还可以使用功能有限的预装消息应用程序 (SMS)。除此之外，我在走廊里有一个记事本和一支笔。
 
-祝您在莱比锡过得愉快！
-安德烈
+Ich wünsche einen schönen Aufenthalt in Leipzig!
+André
 
 * * *
 
