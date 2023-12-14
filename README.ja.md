@@ -4,7 +4,7 @@
 
 ## ピクチャー
 
-Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
+私のAirBnBでは、すべての部屋と設備の詳細な概要をご覧いただけます。以下に簡単な概要を示します。
 
 <div class="grid">
 
@@ -89,7 +89,7 @@ Passwort: landungsbruecken
 
 ## 台所
 
-Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
+普段家族と一緒に下の階で食事をしているので、キッチンはとてもスパルタンです。残念ながら、洗い物はバスルームのシンクでのみ可能です。ただし、食器を洗うための専用の容器があります。
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -112,7 +112,7 @@ Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abw
 
 ## あなたの部屋
 
-マットレスは保管目的でのみ重ねて置かれます。ニーズに応じて配布できます。ソファの枕をマットレスに置き換えれば、立派なベッドになります。
+マットレスは保管目的でのみ重ねて置かれます。ニーズに応じて配布できます。ソファのクッションをマットレスに置き換えれば、立派なベッドになります。
 
 パソコンとプリンターをご利用いただけますので、ぜひご利用ください。
 
@@ -129,9 +129,9 @@ Passwort: thebox
 2.  コンピューター
 3.  照明や電気のリモコン
 
-### FAQ - Dein Zimmer
+### FAQ - お部屋について
 
-1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
+1.  ライトが点灯したり、激しく点滅したりしません。カラフルなボタンが付いた小さなリモコンを使用してください。
 
 ### バスルーム
 
@@ -145,7 +145,7 @@ Passwort: thebox
 
 靴をここに預けていただいても結構です。何か言いたいことがある場合に備えて、棚の上に小さなメモ帳もあります。
 
-# Checkout
+# チェックアウト
 
 ## 鍵
 
@@ -155,15 +155,15 @@ Passwort: thebox
 
 ## クリーニング
 
--   寝具を置いたままにできます。
--   お皿も洗ってますし、
+-   寝具類はそのまま置いておいても大丈夫です。
+-   食器も洗ってますし、
 -   ゴミも出します。
 
 > 短いバージョン: 鍵をそこに置いて、ドアを閉めて、それだけです。 😀
 
 # チップ
 
-Leipzig MOVE アプリを使用すると、1 回につき 15 分間の乗車を 10 回無料で利用できます_ネクストバイク_。自転車を大通り（地図上の紫色）に駐車しない場合は、料金が高くなることに注意してください。電動スクーターは、特定の駐車スペースにのみ駐車できます。
+Leipzig MOVE アプリを使用すると、1 回あたり 15 分間の乗車を 10 回無料で利用できます_ネクストバイク_。自転車を大通り（地図上の紫色）に駐車しない場合は、料金が高くなることに注意してください。電動スクーターは、特定の駐車スペースにのみ駐車できます。
 
 # 質問がありますか?
 
