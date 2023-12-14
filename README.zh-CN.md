@@ -56,7 +56,7 @@
 
 ## 钥匙
 
-您将获得两对钥匙，每对钥匙位于底部，另一对用于顶部。钥匙链上还有一把钥匙，可以用来锁房间。
+Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du Dein Zimmer abschließen kannst.
 
 ## 互联网
 
@@ -121,7 +121,7 @@ Passwort: thebox
 
 ### 浴室
 
-您可以站着使用淋浴。如果地面有点湿也没有问题。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
+Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und häng den Badewannenvorleger  zum trocknen über der Heizung auf.
 
 墙上的 Alexa 名称为“计算机”，还可以播放您最喜欢的音乐或收音机。例如“_电脑上，玩 Deutschlandfunk Nova_"
 
@@ -130,6 +130,18 @@ Passwort: thebox
 ### 门厅
 
 欢迎您把鞋子留在这里。我的架子上还有一个小记事本，以防你想告诉我一些事情。
+
+# Sonstiges
+
+## 智能家居
+
+公寓内有Alexa语音助手。例如，您可以用“计算机”这个名字来称呼他们，并让他们玩 Deutschlandfunk Nova。这些设备连接到互联网，也可以用作闹钟或计时器。如果您不想使用它，只需将其从电源上拔掉即可。
+
+您的房间里没有语音助手。架子上的篮子里只有路由器和一台小电脑。
+
+## 温度和湿度
+
+温度和湿度通过传感器自动测量。我用它们来防止霉菌形成。它们又小又白，通常放在门框上。
 
 # 查看
 
@@ -141,7 +153,7 @@ Passwort: thebox
 
 ## 打扫
 
--   您可以在上面留下床上用品。
+-   Bettzeug kannst Du drauf lassen.
 -   我也洗碗
 -   我也倒垃圾。
 
@@ -153,7 +165,7 @@ Passwort: thebox
 
 # 问题？
 
-如果您有任何疑问或需要支持，我将很乐意为您提供帮助。如果您赶时间，最好通过电话联系 <a href="tel:+491707353067">+49 170 73 53 067</a>. Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS). Ansonsten habe ich im Flur einen Notizblock und einen Stift.
+如果您有任何疑问或需要支持，我将很乐意为您提供帮助。如果您赶时间，最好通过电话联系 <a href="tel:+491707353067">+49 170 73 53 067</a>。您还可以使用功能有限的预装消息应用程序 (SMS)。除此之外，我在走廊里有一个记事本和一支笔。
 
 祝您在莱比锡过得愉快！
 安德烈
