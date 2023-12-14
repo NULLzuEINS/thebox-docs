@@ -10,7 +10,7 @@ Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die
 
 ![Küche](_media/rooms/kueche.jpg ':size=200 .img-zoomable')
 
-![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
+![Küche](_media/rooms/kueche.jpg ':size=144x144')
 
 ![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
 
