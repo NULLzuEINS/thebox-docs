@@ -6,17 +6,21 @@ Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB
 
 On my AirBnB you get a detailed overview of all the rooms and the facilities. Here is just a brief overview:
 
-![Küche](_media/rooms/kueche.jpg ":size=144"){: .img-zoomable }
+<div class="grid">
 
-![Küche](_media/rooms/kueche.jpg ":size=200 .img-zoomable")
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
-![Küche](_media/rooms/kueche.jpg ":size=144x144")
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
+
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
 ![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
 ![logo](https://docsify.js.org/_media/icon.svg ":class=img-zoomable")
+
+</div>
 
 # Checkin
 
@@ -64,7 +68,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ## Your room
 
-The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
 
 You are welcome to use the computer and printer.
 
@@ -79,7 +83,7 @@ Passwort: thebox
 
 1.  All furniture and beds
 2.  Computer
-3.  Fernbedienungen für Licht und Strom
+3.  Remote controls for lights and electricity
 
 ### FAQ - Your room
 
@@ -87,7 +91,7 @@ Passwort: thebox
 
 ### bathroom
 
-You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
