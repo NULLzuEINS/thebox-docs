@@ -93,9 +93,18 @@ Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notiz
 
 # Checkout
 
-- Die Schlüsselübergabe besprechen wir individuell.
+## Schlüssel 
+
+- Je nach dem welcher Wochentag ist, können wir uns persönlich verabschieden, oder du legst einfach die Schlüssel auf den Schreibtisch und ziehst die Tür hinter Dir zu.
+- Der reguläre Zeitpunkt für den Checkout ist 11 Uhr.
+- Wenn Du am Tag der Abreise noch dein Gepäck dalassen möchtest und erst später am Tag abholen möchtest, können wir uns das individuell verabreden.
+
+## Reinigung
+
 - Bettzeug kannst Du drauf lassen.
-- Das Geschirr spüle ich auch ab und den Müll bring ich auch raus.
+- Das Geschirr spüle ich auch ab und 
+- den Müll bring ich auch raus.
+
 
 > Kurzfassung: Schlüssel da lassen, Tür zuziehen, das wars. 😀
 
