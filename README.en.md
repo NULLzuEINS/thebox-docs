@@ -6,7 +6,15 @@ Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB
 
 On my AirBnB you get a detailed overview of all the rooms and the facilities. Here is just a brief overview:
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":size=144:align=left:class=img-zoomable:")
+
+![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+
+![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+
+![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+
+![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
 # Checkin
 
@@ -54,7 +62,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ## Your room
 
-The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
 
 You are welcome to use the computer and printer.
 
@@ -65,19 +73,19 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Folgende Dinge stehen euch zur Verfügung
+### The following things are available to you
 
 1.  All furniture and beds
 2.  Computer
 3.  Remote controls for lights and electricity
 
-### FAQ - Dein Zimmer
+### FAQ - Your room
 
 1.  The light doesn't come on or flashes wildly. Use the small remote controls with the colorful buttons.
 
 ### bathroom
 
-You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
@@ -109,7 +117,7 @@ With the Leipzig MOVE app, you get 10 free rides of 15 minutes each_Nextbikes_. 
 
 # Questions?
 
-Wenn ihr Fragen habt, oder Unterstützung benötigt, stehe ich euch gern zur Verfügung. Wenn es eilig ist, dann besten via Telefon <a href="tel:+491707353067">+49 170 73 53 067</a>. You can also use the pre-installed messenger app with limited functionality (SMS). Otherwise, I have a notepad and a pen in the hallway.
+If you have any questions or need support, I will be happy to help you. If you're in a hurry, it's best to do so via telephone <a href="tel:+491707353067">+49 170 73 53 067</a>. You can also use the pre-installed messenger app with limited functionality (SMS). Otherwise, I have a notepad and a pen in the hallway.
 
 I wish you a nice stay in Leipzig!
 Andre
