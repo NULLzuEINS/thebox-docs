@@ -12,7 +12,7 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 
 ## Key
 
-Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du Dein Zimmer abschließen kannst.
+You get two pairs of keys, each with one key for the bottom and one for the top. There is also a key on a keychain that you can use to lock your room.
 
 ## Internet access
 
@@ -54,7 +54,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ## Your room
 
-The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
 
 You are welcome to use the computer and printer.
 
@@ -65,19 +65,19 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### The following things are available to you
+### Folgende Dinge stehen euch zur Verfügung
 
 1.  All furniture and beds
 2.  Computer
 3.  Remote controls for lights and electricity
 
-### FAQ - Your room
+### FAQ - Dein Zimmer
 
 1.  The light doesn't come on or flashes wildly. Use the small remote controls with the colorful buttons.
 
 ### bathroom
 
-Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und häng den Badewannenvorleger  zum trocknen über der Heizung auf.
+You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
@@ -89,9 +89,17 @@ You are welcome to leave your shoes here. I also have a small notepad on the she
 
 # Checkout
 
--   Die Schlüsselübergabe besprechen wir individuell.
+## Key
+
+-   Depending on what day of the week it is, we can say goodbye in person, or you can simply put the keys on the desk and close the door behind you.
+-   The regular checkout time is 11 a.m.
+-   If you would like to leave your luggage behind on the day of departure and only pick it up later in the day, we can arrange this individually.
+
+## cleaning
+
 -   You can leave bedding on it.
--   I also wash the dishes and take out the trash.
+-   I also wash the dishes and
+-   I also take out the trash.
 
 > Short version: Leave the key there, close the door, that's it. 😀
 
@@ -101,7 +109,7 @@ With the Leipzig MOVE app, you get 10 free rides of 15 minutes each_Nextbikes_. 
 
 # Questions?
 
-If you have any questions or need support, I will be happy to help you. If you're in a hurry, it's best to do so via telephone <a href="tel:+491707353067">+49 170 73 53 067</a>. You can also use the pre-installed messenger app with limited functionality (SMS). Otherwise, I have a notepad and a pen in the hallway.
+Wenn ihr Fragen habt, oder Unterstützung benötigt, stehe ich euch gern zur Verfügung. Wenn es eilig ist, dann besten via Telefon <a href="tel:+491707353067">+49 170 73 53 067</a>. You can also use the pre-installed messenger app with limited functionality (SMS). Otherwise, I have a notepad and a pen in the hallway.
 
 I wish you a nice stay in Leipzig!
 Andre
