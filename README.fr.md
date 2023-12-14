@@ -10,7 +10,7 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 <figure>
 
-![Zimmer - Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
+<img src="_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
 </figure>
@@ -52,16 +52,16 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 <figure>
 
-![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
+![Küche](_media/rooms/kueche-kuehlschrank.jpg ":class=img-zoomable")
 
-<figcaption>Küche - Herd</figcaption>
+<figcaption>Küche - Kühlschrank</figcaption>
 </figure>
 
 <figure>
 
-![Badezimmer](_media/rooms/badezimmer.jpg ":class=img-zoomable")
+![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
 
-<figcaption>Badezimmer</figcaption>
+<figcaption>Küche - Herd</figcaption>
 </figure>
 
 </div>
@@ -106,7 +106,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ### FAQ - Cuisine
 
-1.  Le poêle ne fonctionne pas ? s'il te plaît dis
+1.  Herd funktioniert nicht? Bitte sage
     > "Ordinateur, établi et"
 2.  Où puis-je me laver ? Cela ne fonctionne que dans la salle de bain. Il existe un récipient spécial pour laver la vaisselle.
 
