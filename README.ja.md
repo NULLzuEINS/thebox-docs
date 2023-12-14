@@ -4,7 +4,7 @@
 
 ## ピクチャー
 
-私のAirBnBでは、すべての部屋と設備の詳細な概要をご覧いただけます。以下に簡単な概要を示します。
+Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
 <div class="grid">
 
@@ -89,7 +89,7 @@ Passwort: landungsbruecken
 
 ## 台所
 
-普段家族と一緒に下の階で食事をしているので、キッチンはとてもスパルタンです。残念ながら、洗い物はバスルームのシンクでのみ可能です。ただし、食器を洗うための専用の容器があります。
+Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -129,9 +129,9 @@ Passwort: thebox
 2.  コンピューター
 3.  照明や電気のリモコン
 
-### FAQ - お部屋について
+### FAQ - Dein Zimmer
 
-1.  ライトが点灯したり激しく点滅したりしません。カラフルなボタンが付いた小さなリモコンを使用してください。
+1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
 
 ### バスルーム
 
@@ -145,11 +145,11 @@ Passwort: thebox
 
 靴をここに預けていただいても結構です。何か言いたいことがある場合に備えて、棚の上に小さなメモ帳もあります。
 
-# チェックアウト
+# Checkout
 
 ## 鍵
 
--   Je nach dem welcher Wochentag ist, können wir uns persönlich verabschieden, oder du legst einfach die Schlüssel auf den Schreibtisch und ziehst die Tür hinter Dir zu.
+-   曜日に応じて、直接お別れを言うこともできますし、鍵を机の上に置いて後ろ手にドアを閉めることもできます。
 -   通常のチェックアウト時間は午前11時です。
 -   ご出発日に荷物を預けて、後日受け取りをご希望の場合は、個別に手配させていただきます。
 
@@ -163,11 +163,11 @@ Passwort: thebox
 
 # チップ
 
-Mit der Leipzig MOVE App, bekommt ihr 10 Freifahrten à 15 Minuten für die _ネクストバイク_。自転車を大通り（地図上の紫色）に駐車しない場合は、料金が高くなることに注意してください。電動スクーターは、特定の駐車スペースにのみ駐車できます。
+Leipzig MOVE アプリを使用すると、1 回につき 15 分間の乗車を 10 回無料で利用できます_ネクストバイク_。自転車を大通り（地図上の紫色）に駐車しない場合は、料金が高くなることに注意してください。電動スクーターは、特定の駐車スペースにのみ駐車できます。
 
 # 質問がありますか?
 
-ご質問がある場合やサポートが必要な場合は、喜んでお手伝いさせていただきます。お急ぎの場合はお電話がおすすめです <a href="tel:+491707353067">＋４９ １７０ ７３ ５３ ０６７</a>. Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS). Ansonsten habe ich im Flur einen Notizblock und einen Stift.
+ご質問がある場合やサポートが必要な場合は、喜んでお手伝いさせていただきます。お急ぎの場合はお電話がおすすめです <a href="tel:+491707353067">＋４９ １７０ ７３ ５３ ０６７</a>。機能が制限されたプリインストールされたメッセンジャー アプリ (SMS) を使用することもできます。それ以外の場合は、廊下にメモ帳とペンがあります。
 
 ライプツィヒでの素敵なご滞在をお祈りしております。
 アンドレ
