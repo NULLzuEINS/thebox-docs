@@ -10,7 +10,7 @@
 
 <figure>
 
-<img src="_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
+<img src="/_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
 </figure>
@@ -45,20 +45,6 @@
 
 <figure>
 
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-<figcaption>Küche</figcaption>
-</figure>
-
-<figure>
-
-![Küche](_media/rooms/kueche-kuehlschrank.jpg ":class=img-zoomable")
-
-<figcaption>Küche - Kühlschrank</figcaption>
-</figure>
-
-<figure>
-
 ![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
 
 <figcaption>Küche - Herd</figcaption>
@@ -72,7 +58,7 @@
 
 您将获得两对钥匙，每对钥匙位于底部，另一对用于顶部。钥匙链上还有一把钥匙，可以用来锁房间。
 
-## Internetzugang
+## 互联网
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -150,7 +136,7 @@ Passwort: thebox
 ## 钥匙
 
 -   根据一周中的哪一天，我们可以亲自道别，或者您也可以简单地将钥匙放在桌子上，然后关上身后的门。
--   正常退房时间为上午 11 点。
+-   Der reguläre Zeitpunkt für den Checkout ist 11 Uhr.
 -   如果您想在出发当天寄存行李并仅在当天晚些时候领取，我们可以单独安排。
 
 ## 打扫
