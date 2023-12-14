@@ -68,7 +68,7 @@ Passwort: landungsbruecken
 
 ## 你的房间
 
-床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的垫子换成床垫，它就是一张好床。
+床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的枕头换成床垫，那就是一张好床了。
 
 欢迎您使用电脑和打印机。
 
@@ -82,7 +82,7 @@ Passwort: thebox
 ### 以下内容可供您使用
 
 1.  所有家具和床
-2.  Computer
+2.  电脑
 3.  远程控制灯光和电力
 
 ### 常见问题 - 您的房间
@@ -99,7 +99,7 @@ Passwort: thebox
 
 ### 门厅
 
-欢迎您把鞋子留在这里。我的架子上还有一个小记事本，以防你想告诉我一些事情。
+欢迎您把鞋子留在这里。我的架子上还有一个小记事本，方便你告诉我一些事情。
 
 # 查看
 
@@ -119,7 +119,7 @@ Passwort: thebox
 
 # 尖端
 
-使用 Leipzig MOVE 应用程序，您可以免费乘坐 10 次，每次 15 分钟_下一个自行车_。请注意，如果您不在主要街道上停放自行车（地图上的紫色），费用会更高。电动滑板车只能停放在某些停车位。
+使用 Leipzig MOVE 应用程序，您可以免费乘坐 10 次，每次 15 分钟_下一个自行车_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
 # 问题？
 
