@@ -6,7 +6,7 @@ Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjour
 
 Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des installations. Voici juste un bref aperçu :
 
-![Küche](_media/rooms/kueche.jpg ":size=144"){ : .img-zoomabl }
+![Küche](_media/rooms/kueche.jpg ":size=144"){: .img-zoomable }
 
 ![Küche](_media/rooms/kueche.jpg ":size=200 .img-zoomable")
 
@@ -16,13 +16,15 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 ![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
+![logo](https://docsify.js.org/_media/icon.svg ":class=img-zoomable")
+
 # Enregistrement
 
 ## Clé
 
 Vous obtenez deux paires de clés, chacune avec une clé pour le bas et une pour le haut. Il y a aussi une clé sur un porte-clés que vous pouvez utiliser pour verrouiller votre chambre.
 
-## Internetzugang
+## accès Internet
 
 ```txt
 SSID:     hamburg-bei-nacht
