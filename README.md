@@ -6,6 +6,15 @@ Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch
 
 Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
+<div class='grid'>
+
+    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+
+</div>
+
 <div class="grid">
 
 ![Küche](_media/rooms/kueche.jpg ':class=img-zoomable')
