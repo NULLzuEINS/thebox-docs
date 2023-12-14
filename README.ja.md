@@ -7,12 +7,10 @@
 私のAirBnBでは、すべての部屋と設備の詳細な概要をご覧いただけます。以下に簡単な概要を示します。
 
 <div class='grid'>
-
-    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-
+<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
 </div>
 
 <div class="grid">
@@ -77,7 +75,7 @@ Passwort: landungsbruecken
 
 ## あなたの部屋
 
-マットレスは保管目的でのみ重ねて置かれます。ニーズに応じて配布できます。ソファの枕をマットレスに置き換えれば、立派なベッドになります。
+マットレスは保管目的でのみ重ねて置かれます。ニーズに応じて配布できます。ソファのクッションをマットレスに置き換えれば、立派なベッドになります。
 
 パソコンとプリンターをご利用いただけますので、ぜひご利用ください。
 
@@ -90,13 +88,13 @@ Passwort: thebox
 
 ### 以下のものがご利用いただけます
 
-1.  Alle Möbel und Betten
+1.  すべての家具とベッド
 2.  コンピューター
 3.  照明や電気のリモコン
 
 ### FAQ - お部屋について
 
-1.  ライトが点灯したり激しく点滅したりしません。カラフルなボタンが付いた小さなリモコンを使用してください。
+1.  ライトが点灯したり、激しく点滅したりしません。カラフルなボタンが付いた小さなリモコンを使用してください。
 
 ### バスルーム
 
@@ -120,8 +118,8 @@ Passwort: thebox
 
 ## クリーニング
 
--   寝具を置いたままにできます。
--   お皿も洗ってますし、
+-   寝具類はそのまま置いておいても大丈夫です。
+-   食器も洗ってますし、
 -   ゴミも出します。
 
 > 短いバージョン: 鍵をそこに置いて、ドアを閉めて、それだけです。 😀
