@@ -10,20 +10,6 @@ En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las
 
 <figure>
 
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-<figcaption>Küche</figcaption>
-</figure>
-
-<figure>
-
-![Badezimmer](_media/rooms/badezimmer.jpg ":class=img-zoomable")
-
-<figcaption>Badezimmer</figcaption>
-</figure>
-
-<figure>
-
 ![Zimmer - Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
@@ -31,9 +17,51 @@ En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las
 
 <figure>
 
+![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Schreibtisch</figcaption>
+</figure>
+
+<figure>
+
+![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Schreibtisch</figcaption>
+</figure>
+
+<figure>
+
 ![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two.jpg ":class=img-zoomable")
 
 <figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
+</figure>
+
+<figure>
+
+![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two-wide.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
+</figure>
+
+<figure>
+
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
+
+<figcaption>Küche</figcaption>
+</figure>
+
+<figure>
+
+![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
+
+<figcaption>Küche - Herd</figcaption>
+</figure>
+
+<figure>
+
+![Badezimmer](_media/rooms/badezimmer.jpg ":class=img-zoomable")
+
+<figcaption>Badezimmer</figcaption>
 </figure>
 
 </div>
@@ -99,15 +127,15 @@ Passwort: thebox
 
 1.  Todos los muebles y camas.
 2.  Computadora
-3.  Fernbedienungen für Licht und Strom
+3.  Mandos a distancia para luces y electricidad.
 
 ### Preguntas frecuentes - Tu habitación
 
 1.  La luz no se enciende o parpadea violentamente. Utilice los pequeños mandos a distancia con botones de colores.
 
-### Badezimmer
+### baño
 
-Puedes utilizar la ducha estando de pie. No importa si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
+Puedes utilizar la ducha estando de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
@@ -137,7 +165,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada uno_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento.
 
-# ¿Preguntas?
+# Fragen?
 
 Si tienes alguna pregunta o necesitas ayuda, estaré encantado de ayudarte. Si tienes prisa, lo mejor es hacerlo por teléfono. <a href="tel:+491707353067">+49 170 73 53 067</a>. También puede utilizar la aplicación de mensajería preinstalada con funcionalidad limitada (SMS). De lo contrario, tengo una libreta y un bolígrafo en el pasillo.
 
