@@ -10,20 +10,6 @@ Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die
 
 <figure>
 
-![Küche](_media/rooms/kueche.jpg ':class=img-zoomable')
-
-<figcaption>Küche</figcaption>
-</figure>
-
-<figure>
-
-![Badezimmer](_media/rooms/badezimmer.jpg ':class=img-zoomable')
-
-<figcaption>Badezimmer</figcaption>
-</figure>
-
-<figure>
-
 ![Zimmer - Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ':class=img-zoomable')
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
@@ -31,9 +17,53 @@ Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die
 
 <figure>
 
+![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable')
+
+<figcaption>Zimmer - Schreibtisch</figcaption>
+</figure>
+
+<figure>
+
+![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ':class=img-zoomable')
+
+<figcaption>Zimmer - Schreibtisch</figcaption>
+</figure>
+
+
+<figure>
+
 ![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two.jpg ':class=img-zoomable')
 
 <figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
+</figure>
+
+<figure>
+
+![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two-wide.jpg ':class=img-zoomable')
+
+<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
+</figure>
+
+
+<figure>
+
+![Küche](_media/rooms/kueche.jpg ':class=img-zoomable')
+
+<figcaption>Küche</figcaption>
+</figure>
+
+<figure>
+
+![Küche](_media/rooms/kueche-herd.jpg ':class=img-zoomable')
+
+<figcaption>Küche - Herd</figcaption>
+</figure>
+
+<figure>
+
+![Badezimmer](_media/rooms/badezimmer.jpg ':class=img-zoomable')
+
+<figcaption>Badezimmer</figcaption>
 </figure>
 
 </div>
