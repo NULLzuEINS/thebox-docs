@@ -6,17 +6,21 @@ Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjour
 
 Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des installations. Voici juste un bref aperçu :
 
-![Küche](_media/rooms/kueche.jpg ":size=144"){: .img-zoomable }
+<div class="grid">
 
-![Küche](_media/rooms/kueche.jpg ":size=200 .img-zoomable")
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
-![Küche](_media/rooms/kueche.jpg ":size=144x144")
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
+
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
 ![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
 ![logo](https://docsify.js.org/_media/icon.svg ":class=img-zoomable")
+
+</div>
 
 # Enregistrement
 
@@ -64,7 +68,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ## Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
 
 Vous êtes invités à utiliser l’ordinateur et l’imprimante.
 
@@ -87,7 +91,7 @@ Passwort: thebox
 
 ### salle de bain
 
-Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und häng den Badewannenvorleger  zum trocknen über der Heizung auf.
+Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
