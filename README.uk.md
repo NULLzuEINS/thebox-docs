@@ -6,12 +6,7 @@
 
 На моєму AirBnB ви отримуєте детальний огляд усіх номерів і зручностей. Ось лише короткий огляд:
 
-<div class='grid'>
-<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-</div>
+[посилання](/README.en.md ":data-zoom-src=\_media/rooms/kueche.jpg")
 
 <div class="grid">
 
@@ -70,7 +65,7 @@ Passwort: landungsbruecken
 ### FAQ - Кухня
 
 1.  Плита не працює? будь ласка, скажи
-    > «Комп’ютер, робочий стіл»
+    > «Комп’ютер, Workbench»
 2.  Де я можу помитися? Це працює лише у ванній кімнаті. Є спеціальна ємність для миття посуду.
 
 ## Ваша кімната
@@ -94,7 +89,7 @@ Passwort: thebox
 
 ### FAQ - Ваша кімната
 
-1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
+1.  Лампа не світиться або дико блимає. Використовуйте маленькі пульти дистанційного керування з кольоровими кнопками.
 
 ### ванна кімната
 
@@ -113,7 +108,7 @@ Alexa на стіні має назву «Комп’ютер» і також в
 ## ключ
 
 -   Залежно від того, який сьогодні день тижня, ми можемо попрощатися особисто, або ви можете просто покласти ключі на стіл і зачинити за собою двері.
--   Звичайний час виписки – 11:00.
+-   Звичайний час виписки - 11:00.
 -   Якщо ви бажаєте залишити свій багаж у день відправлення та забрати його лише пізніше, ми можемо організувати це індивідуально.
 
 ## очищення
