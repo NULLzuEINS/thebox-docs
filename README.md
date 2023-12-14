@@ -143,9 +143,8 @@ In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal
 
 ## Temperatur und Feuchtigkeit
 
-Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen.
-
-
+Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst
+Du im Spiegel im Flur ablesen.
 
 # Checkout
 
