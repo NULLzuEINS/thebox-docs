@@ -79,7 +79,7 @@ The mattresses are placed on top of each other for storage purposes only. You ca
 
 You are welcome to use the computer and printer.
 
-### The login details for the computer are
+### Die Zugangsdaten fü den Computer sind
 
 ```txt
 Nutzer:   thebox
