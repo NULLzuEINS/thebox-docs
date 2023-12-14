@@ -72,7 +72,7 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 
 You get two pairs of keys, each with one key for the bottom and one for the top. There is also a key on a keychain that you can use to lock your room.
 
-## Internet access
+## Internetzugang
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -114,7 +114,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
 
-Den Computer und den Drucker kannst Du gern benutzen.
+You are welcome to use the computer and printer.
 
 ### The login details for the computer are
 
@@ -143,7 +143,7 @@ You can hang towels on all hooks and put your things anywhere.
 
 ### Hallway
 
-Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
+You are welcome to leave your shoes here. I also have a small notepad on the shelf in case you want to tell me something.
 
 # Checkout
 
