@@ -10,20 +10,6 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 
 <figure>
 
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-<figcaption>Küche</figcaption>
-</figure>
-
-<figure>
-
-![Badezimmer](_media/rooms/badezimmer.jpg ":class=img-zoomable")
-
-<figcaption>Badezimmer</figcaption>
-</figure>
-
-<figure>
-
 ![Zimmer - Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
@@ -31,9 +17,51 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 
 <figure>
 
+![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Schreibtisch</figcaption>
+</figure>
+
+<figure>
+
+![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Schreibtisch</figcaption>
+</figure>
+
+<figure>
+
 ![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two.jpg ":class=img-zoomable")
 
 <figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
+</figure>
+
+<figure>
+
+![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two-wide.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
+</figure>
+
+<figure>
+
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
+
+<figcaption>Küche</figcaption>
+</figure>
+
+<figure>
+
+![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
+
+<figcaption>Küche - Herd</figcaption>
+</figure>
+
+<figure>
+
+![Badezimmer](_media/rooms/badezimmer.jpg ":class=img-zoomable")
+
+<figcaption>Badezimmer</figcaption>
 </figure>
 
 </div>
@@ -86,7 +114,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
 
-You are welcome to use the computer and printer.
+Den Computer und den Drucker kannst Du gern benutzen.
 
 ### The login details for the computer are
 
@@ -107,7 +135,7 @@ Passwort: thebox
 
 ### bathroom
 
-You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
@@ -115,7 +143,7 @@ You can hang towels on all hooks and put your things anywhere.
 
 ### Hallway
 
-You are welcome to leave your shoes here. I also have a small notepad on the shelf in case you want to tell me something.
+Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
 
 # Checkout
 
