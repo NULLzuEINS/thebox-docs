@@ -133,6 +133,20 @@ Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstel
 
 Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
 
+# Sonstiges
+
+## Smart Home
+
+In der Wohnung befinden sich Alexa Sprachassistenten. Du kannst sie mit dem Namen "Computer" ansprechen und Dir zum Beispiel Deutschlandfunk Nova spielen lassen. Die Geräte sind mit dem Internet verbunden und können auch als Wecker oder Timer genutzt werden. Wenn Du sie nicht nutzen möchtest, kannst Du sie auch einfach vom Strom trennen.
+
+In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
+
+## Temperatur und Feuchtigkeit
+
+Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen.
+
+
+
 # Checkout
 
 ## Schlüssel 
