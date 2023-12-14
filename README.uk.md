@@ -10,7 +10,7 @@
 
 <figure>
 
-![Zimmer - Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
+<img src="_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
 </figure>
@@ -52,16 +52,16 @@
 
 <figure>
 
-![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
+![Küche](_media/rooms/kueche-kuehlschrank.jpg ":class=img-zoomable")
 
-<figcaption>Küche - Herd</figcaption>
+<figcaption>Küche - Kühlschrank</figcaption>
 </figure>
 
 <figure>
 
-![Badezimmer](_media/rooms/badezimmer.jpg ":class=img-zoomable")
+![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
 
-<figcaption>Badezimmer</figcaption>
+<figcaption>Küche - Herd</figcaption>
 </figure>
 
 </div>
@@ -129,7 +129,7 @@ Passwort: thebox
 2.  комп'ютер
 3.  Пульти дистанційного керування світлом та електрикою
 
-### FAQ - Ваша кімната
+### FAQ - Dein Zimmer
 
 1.  Лампа не світиться або дико блимає. Використовуйте маленькі пульти дистанційного керування з кольоровими кнопками.
 
@@ -159,7 +159,7 @@ Alexa на стіні має назву «Комп’ютер» і також в
 -   Я також мию посуд і
 -   Я також виношу сміття.
 
-> Kurzfassung: Schlüssel da lassen, Tür zuziehen, das wars. 😀
+> Коротка версія: залиш ключ там, закрий двері, і все. 😀
 
 # Поради
 
