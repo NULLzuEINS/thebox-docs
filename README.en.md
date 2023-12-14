@@ -6,21 +6,9 @@ Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB
 
 On my AirBnB you get a detailed overview of all the rooms and the facilities. Here is just a brief overview:
 
-[link](/README.en.md ":data-zoom-src=\_media/rooms/kueche.jpg")
-
 <div class="grid">
 
 ![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![logo](https://docsify.js.org/_media/icon.svg ":class=img-zoomable")
 
 </div>
 
@@ -59,7 +47,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 4.  Refrigerator
 5.  Pizzaof
 6.  Mineral water
-7.  Handy-Aufladestation im Regal
+7.  Cell phone charging station on the shelf
 8.  washing machine
 
 ### FAQ - Kitchen
@@ -70,7 +58,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ## Your room
 
-The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
 
 You are welcome to use the computer and printer.
 
