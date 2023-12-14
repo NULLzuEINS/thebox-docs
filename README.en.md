@@ -10,7 +10,7 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 
 <figure>
 
-![Zimmer - Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
+<img src="_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
 </figure>
@@ -52,16 +52,16 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 
 <figure>
 
-![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
+![Küche](_media/rooms/kueche-kuehlschrank.jpg ":class=img-zoomable")
 
-<figcaption>Küche - Herd</figcaption>
+<figcaption>Küche - Kühlschrank</figcaption>
 </figure>
 
 <figure>
 
-![Badezimmer](_media/rooms/badezimmer.jpg ":class=img-zoomable")
+![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
 
-<figcaption>Badezimmer</figcaption>
+<figcaption>Küche - Herd</figcaption>
 </figure>
 
 </div>
@@ -104,7 +104,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 7.  Cell phone charging station on the shelf
 8.  washing machine
 
-### FAQ - Kitchen
+### FAQ - Küche
 
 1.  Stove not working? please say
     > "Computer, Workbench an"
@@ -133,7 +133,7 @@ Passwort: thebox
 
 1.  The light doesn't come on or flashes wildly. Use the small remote controls with the colorful buttons.
 
-### Badezimmer
+### bathroom
 
 You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
@@ -153,15 +153,15 @@ You are welcome to leave your shoes here. I also have a small notepad on the she
 -   The regular checkout time is 11 a.m.
 -   If you would like to leave your luggage behind on the day of departure and only pick it up later in the day, we can arrange this individually.
 
-## cleaning
+## Reinigung
 
 -   You can leave bedding on it.
--   I also wash the dishes and
+-   Das Geschirr spüle ich auch ab und 
 -   I also take out the trash.
 
 > Short version: Leave the key there, close the door, that's it. 😀
 
-# Tips
+# Tipps
 
 With the Leipzig MOVE app, you get 10 free rides of 15 minutes each_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces.
 
