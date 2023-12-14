@@ -8,7 +8,33 @@
 
 <div class="grid">
 
+<figure>
+
 ![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
+
+<figcaption>Küche</figcaption>
+</figure>
+
+<figure>
+
+![Badezimmer](_media/rooms/badezimmer.jpg ":class=img-zoomable")
+
+<figcaption>Badezimmer</figcaption>
+</figure>
+
+<figure>
+
+![Zimmer - Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
+</figure>
+
+<figure>
+
+![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
+</figure>
 
 </div>
 
@@ -58,7 +84,7 @@ Passwort: landungsbruecken
 
 ## 你的房间
 
-床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的垫子换成床垫，它就是一张好床。
+床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的枕头换成床垫，那就是一张好床了。
 
 欢迎您使用电脑和打印机。
 
@@ -89,7 +115,7 @@ Passwort: thebox
 
 ### 门厅
 
-欢迎您把鞋子留在这里。我的架子上还有一个小记事本，以防你想告诉我一些事情。
+欢迎您把鞋子留在这里。我的架子上还有一个小记事本，方便你告诉我一些事情。
 
 # 查看
 
