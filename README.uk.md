@@ -10,20 +10,6 @@
 
 <figure>
 
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-<figcaption>Küche</figcaption>
-</figure>
-
-<figure>
-
-![Badezimmer](_media/rooms/badezimmer.jpg ":class=img-zoomable")
-
-<figcaption>Badezimmer</figcaption>
-</figure>
-
-<figure>
-
 ![Zimmer - Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
@@ -31,9 +17,51 @@
 
 <figure>
 
+![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Schreibtisch</figcaption>
+</figure>
+
+<figure>
+
+![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Schreibtisch</figcaption>
+</figure>
+
+<figure>
+
 ![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two.jpg ":class=img-zoomable")
 
 <figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
+</figure>
+
+<figure>
+
+![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two-wide.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
+</figure>
+
+<figure>
+
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
+
+<figcaption>Küche</figcaption>
+</figure>
+
+<figure>
+
+![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
+
+<figcaption>Küche - Herd</figcaption>
+</figure>
+
+<figure>
+
+![Badezimmer](_media/rooms/badezimmer.jpg ":class=img-zoomable")
+
+<figcaption>Badezimmer</figcaption>
 </figure>
 
 </div>
@@ -79,7 +107,7 @@ Passwort: landungsbruecken
 ### FAQ - Кухня
 
 1.  Плита не працює? будь ласка, скажи
-    > «Комп’ютер, Workbench»
+    > «Комп’ютер, робочий стіл»
 2.  Де я можу помитися? Це працює лише у ванній кімнаті. Є спеціальна ємність для миття посуду.
 
 ## Ваша кімната
@@ -122,7 +150,7 @@ Alexa на стіні має назву «Комп’ютер» і також в
 ## ключ
 
 -   Залежно від того, який сьогодні день тижня, ми можемо попрощатися особисто, або ви можете просто покласти ключі на стіл і зачинити за собою двері.
--   Звичайний час виписки - 11:00.
+-   Звичайний час виписки – 11:00.
 -   Якщо ви бажаєте залишити свій багаж у день відправлення та забрати його лише пізніше, ми можемо організувати це індивідуально.
 
 ## очищення
