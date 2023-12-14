@@ -112,7 +112,7 @@ Passwort: landungsbruecken
 
 ## 你的房间
 
-床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的枕头换成床垫，那就是一张好床了。
+床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的垫子换成床垫，它就是一张好床。
 
 欢迎您使用电脑和打印机。
 
@@ -125,7 +125,7 @@ Passwort: thebox
 
 ### 以下内容可供您使用
 
-1.  所有家具和床
+1.  Alle Möbel und Betten
 2.  电脑
 3.  远程控制灯光和电力
 
@@ -135,7 +135,7 @@ Passwort: thebox
 
 ### 浴室
 
-您可以站着使用淋浴。如果地面有点湿也没有问题。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
+您可以站着使用淋浴。地面稍微湿一点也没关系。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
 
 墙上的 Alexa 名称为“计算机”，还可以播放您最喜欢的音乐或收音机。例如“_电脑上，玩 Deutschlandfunk Nova_"
 
@@ -143,7 +143,7 @@ Passwort: thebox
 
 ### 门厅
 
-欢迎您把鞋子留在这里。我的架子上还有一个小记事本，以防你想告诉我一些事情。
+Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
 
 # 查看
 
