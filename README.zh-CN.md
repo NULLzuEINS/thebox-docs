@@ -6,21 +6,9 @@
 
 在我的爱彼迎上，您可以详细了解所有房间和设施。这里只是一个简短的概述：
 
-[关联](/README.en.md ":data-zoom-src=\_media/rooms/kueche.jpg")
-
 <div class="grid">
 
 ![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![logo](https://docsify.js.org/_media/icon.svg ":class=img-zoomable")
 
 </div>
 
@@ -70,7 +58,7 @@ Passwort: landungsbruecken
 
 ## 你的房间
 
-床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的枕头换成床垫，那就是一张好床了。
+床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的垫子换成床垫，它就是一张好床。
 
 欢迎您使用电脑和打印机。
 
@@ -101,7 +89,7 @@ Passwort: thebox
 
 ### 门厅
 
-欢迎您把鞋子留在这里。我的架子上还有一个小记事本，方便你告诉我一些事情。
+欢迎您把鞋子留在这里。我的架子上还有一个小记事本，以防你想告诉我一些事情。
 
 # 查看
 
