@@ -10,11 +10,11 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 
 ![Küche](_media/rooms/kueche.jpg ":size=200 .img-zoomable")
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":size=144x144")
 
 ![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
 ![logo](https://docsify.js.org/_media/icon.svg ":class=img-zoomable")
 
@@ -79,7 +79,7 @@ Passwort: thebox
 
 1.  All furniture and beds
 2.  Computer
-3.  Remote controls for lights and electricity
+3.  Fernbedienungen für Licht und Strom
 
 ### FAQ - Your room
 
