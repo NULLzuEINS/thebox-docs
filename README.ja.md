@@ -1,8 +1,10 @@
 # いらっしゃいませ
 
-Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
+こんにちは、「ボックス」へようこそ！私も旅行するときは AirBnB に泊まるのが好きですが、宿泊施設、チェックイン、チェックアウトに関する必要な情報がすべて記載された紙があればいいのにと思うことがあります。これはそれを改善するための私の試みです。
 
 ## ピクチャー
+
+私のAirBnBでは、すべての部屋と設備の詳細な概要をご覧いただけます。以下に簡単な概要を示します。
 
 ![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
@@ -42,7 +44,7 @@ Passwort: landungsbruecken
 5.  ピザオブ
 6.  ミネラルウォーター
 7.  棚にある携帯電話の充電ステーション
-8.  洗濯機
+8.  Waschmaschine
 
 ### FAQ - キッチン
 
@@ -52,7 +54,7 @@ Passwort: landungsbruecken
 
 ## あなたの部屋
 
-マットレスは保管目的でのみ重ねて置かれます。ニーズに応じて配布できます。ソファのクッションをマットレスに置き換えれば、立派なベッドになります。
+マットレスは保管目的でのみ重ねて置かれます。ニーズに応じて配布できます。ソファの枕をマットレスに置き換えれば、立派なベッドになります。
 
 パソコンとプリンターをご利用いただけますので、ぜひご利用ください。
 
@@ -71,13 +73,13 @@ Passwort: thebox
 
 ### FAQ - お部屋について
 
-1.  ライトが点灯したり、激しく点滅したりしません。カラフルなボタンが付いた小さなリモコンを使用してください。
+1.  ライトが点灯したり激しく点滅したりしません。カラフルなボタンが付いた小さなリモコンを使用してください。
 
 ### バスルーム
 
 立ったままシャワーが使えます。多少地面が濡れても問題ありません。水を1/3にして、バスマットをヒーターの上に掛けて乾燥させます。
 
-壁にある Alexa は「コンピューター」という名前で、お気に入りの音楽やラジオも再生します。例：「_コンピューター、Deutschlandfunk Nova をプレイしてください_”
+壁にある Alexa は「コンピューター」という名前で、お気に入りの音楽やラジオも再生します。例：「_Computer, spiele Deutschlandfunk Nova_”
 
 すべてのフックにタオルを掛けて、どこにでも物を置くことができます。
 
@@ -88,14 +90,14 @@ Passwort: thebox
 # チェックアウト
 
 -   鍵の受け渡しについては個別にご相談させていただきます。
--   寝具類はそのまま置いておいても大丈夫です。
+-   寝具を置いたままにできます。
 -   食器も洗ってゴミ出しもします。
 
 > 短いバージョン: 鍵をそこに置いて、ドアを閉めて、それだけです。 😀
 
 # チップ
 
-Leipzig MOVE アプリを使用すると、1 回あたり 15 分間の乗車を 10 回無料で利用できます_ネクストバイク_。自転車を大通り（地図上の紫色）に駐車しない場合は、料金が高くなることに注意してください。電動スクーターは、特定の駐車スペースにのみ駐車できます。
+Leipzig MOVE アプリを使用すると、1 回につき 15 分間の乗車を 10 回無料で利用できます_ネクストバイク_。自転車を大通り（地図上の紫色）に駐車しない場合は、料金が高くなることに注意してください。電動スクーターは、特定の駐車スペースにのみ駐車できます。
 
 # 質問がありますか?
 
