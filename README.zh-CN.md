@@ -1,14 +1,14 @@
 # 欢迎
 
-您好，欢迎来到“盒子”！当我旅行时，我也喜欢住在爱彼迎，有时我希望能有一张纸，上面有关于住宿、入住和退房的所有必要信息，这是我试图让它变得更好的尝试。
+Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
 
 ## 图片
 
 在我的爱彼迎上，您可以详细了解所有房间和设施。这里只是一个简短的概述：
 
-![Küche](_media/rooms/kueche.jpg ":size=144:align=left:class=img-zoomable:")
+![Küche](_media/rooms/kueche.jpg ":size=144"){: .img-zoomabl }
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":size=200 .img-zoomable")
 
 ![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
@@ -103,7 +103,7 @@ Passwort: thebox
 -   正常退房时间为上午 11 点。
 -   如果您想在出发当天寄存行李并仅在当天晚些时候领取，我们可以单独安排。
 
-## 打扫
+## Reinigung
 
 -   您可以在上面留下床上用品。
 -   我也洗碗
@@ -119,8 +119,8 @@ Passwort: thebox
 
 如果您有任何疑问或需要支持，我将很乐意为您提供帮助。如果您赶时间，最好通过电话联系 <a href="tel:+491707353067">+49 170 73 53 067</a>。您还可以使用功能有限的预装消息应用程序 (SMS)。除此之外，我在走廊里有一个记事本和一支笔。
 
-祝您在莱比锡过得愉快！
-安德烈
+Ich wünsche einen schönen Aufenthalt in Leipzig!
+André
 
 * * *
 
