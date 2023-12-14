@@ -6,12 +6,7 @@
 
 En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las instalaciones. Aquí hay sólo una breve descripción general:
 
-<div class='grid'>
-<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-</div>
+[enlace](/README.en.md ":data-zoom-src=\_media/rooms/kueche.jpg")
 
 <div class="grid">
 
@@ -94,11 +89,11 @@ Passwort: thebox
 
 ### Preguntas frecuentes - Tu habitación
 
-1.  La luz no se enciende o parpadea violentamente. Utilice los pequeños mandos a distancia con botones de colores.
+1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
 
 ### baño
 
-Puedes utilizar la ducha estando de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
+Puedes utilizar la ducha estando de pie. No importa si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
