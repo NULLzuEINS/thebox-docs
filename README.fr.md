@@ -8,7 +8,33 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 <div class="grid">
 
+<figure>
+
 ![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
+
+<figcaption>Küche</figcaption>
+</figure>
+
+<figure>
+
+![Badezimmer](_media/rooms/badezimmer.jpg ":class=img-zoomable")
+
+<figcaption>Badezimmer</figcaption>
+</figure>
+
+<figure>
+
+![Zimmer - Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
+</figure>
+
+<figure>
+
+![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
+</figure>
 
 </div>
 
@@ -44,7 +70,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 1.  Troupeau
 2.  Bouilloire
 3.  Vaisselle couverts
-4.  Kühlschrank
+4.  Réfrigérateur
 5.  Pizza de
 6.  Eau minérale
 7.  Station de recharge de téléphone portable sur l'étagère
@@ -58,7 +84,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ## Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
 
 Vous êtes invités à utiliser l’ordinateur et l’imprimante.
 
@@ -101,7 +127,7 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 
 ## nettoyage
 
--   Vous pouvez y laisser de la literie.
+-   Bettzeug kannst Du drauf lassen.
 -   Je fais aussi la vaisselle et
 -   Je sors aussi les poubelles.
 
