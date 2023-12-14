@@ -4,7 +4,16 @@
 
 ## 图片
 
-在我的爱彼迎上，您可以详细了解所有房间和设施。这里只是一个简短的概述：
+Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
+
+<div class='grid'>
+
+    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+
+</div>
 
 <div class="grid">
 
@@ -43,7 +52,7 @@ Passwort: landungsbruecken
 
 ![Detailansicht](_media/thebox-map-detail.png)
 
-## 厨房
+## Küche
 
 由于我通常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗漱只能在浴室的水槽里进行。但有一个专门的容器可以用来清洗。
 
@@ -119,7 +128,7 @@ Passwort: thebox
 
 # 尖端
 
-使用 Leipzig MOVE 应用程序，您可以免费乘坐 10 次，每次 15 分钟_下一个自行车_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
+使用 Leipzig MOVE 应用程序，您可以免费乘坐 10 次，每次 15 分钟_下一个自行车_。请注意，如果您不在主要街道上停放自行车（地图上的紫色），费用会更高。电动滑板车只能停放在某些停车位。
 
 # 问题？
 
