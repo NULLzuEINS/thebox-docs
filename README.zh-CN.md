@@ -1,6 +1,10 @@
-# 盒子
+# 欢迎
 
 您好，欢迎来到“盒子”！当我旅行时，我也喜欢住在爱彼迎，有时我希望能有一张纸，上面有关于住宿、入住和退房的所有必要信息，这是我试图让它变得更好的尝试。
+
+## 图片
+
+![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
 # 报到
 
@@ -15,7 +19,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
+或者您扫描此二维码，它会自动将您连接到网络：
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -32,12 +36,12 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 ### 以下内容可供您使用
 
 1.  一群
-2.  壶
+2.  Wasserkocher
 3.  餐具餐具
 4.  冰箱
 5.  披萨
 6.  矿泉水
-7.  Handy-Aufladestation im Regal
+7.  架子上的手机充电站
 8.  洗衣机
 
 ### 常见问题解答 - 厨房
@@ -48,7 +52,7 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 ## 你的房间
 
-床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的枕头换成床垫，那就是一张好床了。
+床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的垫子换成床垫，它就是一张好床。
 
 欢迎您使用电脑和打印机。
 
@@ -71,7 +75,7 @@ Passwort: thebox
 
 ### 浴室
 
-您可以站着使用淋浴。如果地面有点湿也没有问题。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
+您可以站着使用淋浴。地面稍微湿一点也没关系。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
 
 墙上的 Alexa 名称为“计算机”，还可以播放您最喜欢的音乐或收音机。例如“_电脑上，玩 Deutschlandfunk Nova_"
 
@@ -85,7 +89,7 @@ Passwort: thebox
 
 -   我们将单独讨论密钥移交。
 -   您可以在上面留下床上用品。
--   Das Geschirr spüle ich auch ab und den Müll bring ich auch raus.
+-   我还洗碗并倒垃圾。
 
 > 简短版本：把钥匙留在那里，关上门，就这样。 😀
 
