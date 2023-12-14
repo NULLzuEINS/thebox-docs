@@ -152,7 +152,7 @@ Leyendote en el espejo del pasillo.
 -   El horario habitual de salida es a las 11 a.m.
 -   Si desea dejar su equipaje el día de salida y recogerlo más tarde ese mismo día, podemos organizarlo individualmente.
 
-## limpieza
+## Reinigung
 
 -   Puedes dejar ropa de cama encima.
 -   También lavo los platos y
