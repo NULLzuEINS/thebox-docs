@@ -4,15 +4,13 @@
 
 ## 图片
 
-Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
+在我的爱彼迎上，您可以详细了解所有房间和设施。这里只是一个简短的概述：
 
 <div class='grid'>
-
-    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-
+<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
 </div>
 
 <div class="grid">
@@ -52,7 +50,7 @@ Passwort: landungsbruecken
 
 ![Detailansicht](_media/thebox-map-detail.png)
 
-## Küche
+## 厨房
 
 由于我通常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗漱只能在浴室的水槽里进行。但有一个专门的容器可以用来清洗。
 
@@ -77,7 +75,7 @@ Passwort: landungsbruecken
 
 ## 你的房间
 
-床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的枕头换成床垫，那就是一张好床了。
+床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的垫子换成床垫，它就是一张好床。
 
 欢迎您使用电脑和打印机。
 
@@ -108,7 +106,7 @@ Passwort: thebox
 
 ### 门厅
 
-欢迎您把鞋子留在这里。我的架子上还有一个小记事本，方便你告诉我一些事情。
+欢迎您把鞋子留在这里。我的架子上还有一个小记事本，以防你想告诉我一些事情。
 
 # 查看
 
@@ -132,7 +130,7 @@ Passwort: thebox
 
 # 问题？
 
-如果您有任何疑问或需要支持，我将很乐意为您提供帮助。如果您赶时间，最好通过电话联系 <a href="tel:+491707353067">+49 170 73 53 067</a>。您还可以使用功能有限的预装消息应用程序 (SMS)。除此之外，我在走廊里有一个记事本和一支笔。
+Wenn ihr Fragen habt, oder Unterstützung benötigt, stehe ich euch gern zur Verfügung. Wenn es eilig ist, dann besten via Telefon <a href="tel:+491707353067">+49 170 73 53 067</a>。您还可以使用功能有限的预装消息应用程序 (SMS)。除此之外，我在走廊里有一个记事本和一支笔。
 
 祝您在莱比锡过得愉快！
 安德烈
