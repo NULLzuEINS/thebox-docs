@@ -1,4 +1,4 @@
-# Accueillir
+# Willkommen
 
 Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjourner dans des AirBnB et parfois j'aimerais avoir un morceau de papier avec toutes les informations nécessaires sur l'hébergement, l'enregistrement et le départ et c'est ma tentative de l'améliorer.
 
@@ -6,12 +6,7 @@ Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjour
 
 Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des installations. Voici juste un bref aperçu :
 
-<div class='grid'>
-<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-</div>
+[lien](/README.en.md ":data-zoom-src=\_media/rooms/kueche.jpg")
 
 <div class="grid">
 
@@ -31,7 +26,7 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 # Enregistrement
 
-## Clé
+## Schlüssel
 
 Vous obtenez deux paires de clés, chacune avec une clé pour le bas et une pour le haut. Il y a aussi une clé sur un porte-clés que vous pouvez utiliser pour verrouiller votre chambre.
 
@@ -64,8 +59,8 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 4.  Réfrigérateur
 5.  Pizza de
 6.  Eau minérale
-7.  Handy-Aufladestation im Regal
-8.  Waschmaschine
+7.  Station de recharge de téléphone portable sur l'étagère
+8.  Machine à laver
 
 ### FAQ - Cuisine
 
@@ -98,7 +93,7 @@ Passwort: thebox
 
 ### salle de bain
 
-Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und häng den Badewannenvorleger  zum trocknen über der Heizung auf.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
@@ -113,7 +108,7 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 ## Clé
 
 -   Selon le jour de la semaine, nous pouvons vous dire au revoir en personne ou vous pouvez simplement poser les clés sur le bureau et fermer la porte derrière vous.
--   Der reguläre Zeitpunkt für den Checkout ist 11 Uhr.
+-   L'heure habituelle de départ est 11 heures.
 -   Si vous souhaitez laisser vos bagages le jour du départ et les récupérer seulement plus tard dans la journée, nous pouvons organiser cela individuellement.
 
 ## nettoyage
