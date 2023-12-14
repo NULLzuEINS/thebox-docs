@@ -65,7 +65,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
+O escaneas este código QR, te conectará automáticamente a la red:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -98,7 +98,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 ## Tu cuarto
 
-Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
+Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas los cojines del sofá por un colchón, será una buena cama.
 
 Le invitamos a utilizar la computadora y la impresora.
 
@@ -121,7 +121,7 @@ Passwort: thebox
 
 ### baño
 
-Puedes utilizar la ducha estando de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
+Puedes utilizar la ducha estando de pie. No importa si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
@@ -141,7 +141,8 @@ No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene 
 
 ## temperatura y humedad
 
-La temperatura y la humedad se miden automáticamente a través de los sensores. Los uso para prevenir la formación de moho. Son pequeños y blancos y normalmente se encuentran en los marcos de las puertas.
+La temperatura y la humedad se miden automáticamente a través de los sensores. Los uso para prevenir la formación de moho. Son pequeños y blancos y normalmente se encuentran en los marcos de las puertas. Puedes utilizar parte de los datos de medición.
+Leyendote en el espejo del pasillo.
 
 # Verificar
 
