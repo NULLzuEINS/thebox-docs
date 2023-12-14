@@ -6,7 +6,7 @@
 
 私のAirBnBでは、すべての部屋と設備の詳細な概要をご覧いただけます。以下に簡単な概要を示します。
 
-![Küche](_media/rooms/kueche.jpg ":size=144"){: .img-zoomabl }
+![Küche](_media/rooms/kueche.jpg ":size=144"){: .img-zoomable }
 
 ![Küche](_media/rooms/kueche.jpg ":size=200 .img-zoomable")
 
@@ -15,6 +15,8 @@
 ![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
 ![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+
+![logo](https://docsify.js.org/_media/icon.svg ":class=img-zoomable")
 
 # チェックイン
 
@@ -119,8 +121,8 @@ Leipzig MOVE アプリを使用すると、1 回につき 15 分間の乗車を 
 
 ご質問がある場合やサポートが必要な場合は、喜んでお手伝いさせていただきます。お急ぎの場合はお電話がおすすめです <a href="tel:+491707353067">＋４９ １７０ ７３ ５３ ０６７</a>。機能が制限されたプリインストールされたメッセンジャー アプリ (SMS) を使用することもできます。それ以外の場合は、廊下にメモ帳とペンがあります。
 
-ライプツィヒでの素敵なご滞在をお祈りしております。
-アンドレ
+Ich wünsche einen schönen Aufenthalt in Leipzig!
+André
 
 * * *
 
