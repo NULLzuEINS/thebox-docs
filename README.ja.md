@@ -6,6 +6,15 @@
 
 私のAirBnBでは、すべての部屋と設備の詳細な概要をご覧いただけます。以下に簡単な概要を示します。
 
+<div class='grid'>
+
+    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+
+</div>
+
 <div class="grid">
 
 ![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
@@ -24,7 +33,7 @@
 
 # チェックイン
 
-## Schlüssel
+## 鍵
 
 キーは 2 組あり、それぞれに下部に 1 つと上部に 1 つのキーがあります。キーチェーンには鍵も付いており、部屋の施錠に使用できます。
 
@@ -81,8 +90,8 @@ Passwort: thebox
 
 ### 以下のものがご利用いただけます
 
-1.  すべての家具とベッド
-2.  Computer
+1.  Alle Möbel und Betten
+2.  コンピューター
 3.  照明や電気のリモコン
 
 ### FAQ - お部屋について
