@@ -54,16 +54,16 @@ Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die
 
 <figure>
 
-![Küche](_media/rooms/kueche-herd.jpg ':class=img-zoomable')
+![Küche](_media/rooms/kueche-kuehlschrank.jpg ':class=img-zoomable')
 
-<figcaption>Küche - Herd</figcaption>
+<figcaption>Küche - Kühlschrank</figcaption>
 </figure>
 
 <figure>
 
-![Badezimmer](_media/rooms/badezimmer.jpg ':class=img-zoomable')
+![Küche](_media/rooms/kueche-herd.jpg ':class=img-zoomable')
 
-<figcaption>Badezimmer</figcaption>
+<figcaption>Küche - Herd</figcaption>
 </figure>
 
 </div>
