@@ -58,7 +58,7 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 Vous obtenez deux paires de clés, chacune avec une clé pour le bas et une pour le haut. Il y a aussi une clé sur un porte-clés que vous pouvez utiliser pour verrouiller votre chambre.
 
-## accès Internet
+## Internetzugang
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -86,7 +86,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 3.  Vaisselle couverts
 4.  Réfrigérateur
 5.  Pizza de
-6.  Mineralwasser
+6.  Eau minérale
 7.  Station de recharge de téléphone portable sur l'étagère
 8.  Machine à laver
 
@@ -98,7 +98,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ## Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
 
 Vous êtes invités à utiliser l’ordinateur et l’imprimante.
 
@@ -111,8 +111,8 @@ Passwort: thebox
 
 ### Les éléments suivants sont à votre disposition
 
-1.  Tous les meubles et lits
-2.  Ordinateur
+1.  Alle Möbel und Betten
+2.  Computer
 3.  Télécommandes pour lumières et électricité
 
 ### FAQ - Votre chambre
@@ -121,7 +121,7 @@ Passwort: thebox
 
 ### salle de bain
 
-Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
@@ -141,7 +141,8 @@ Il n'y a pas d'assistant vocal dans votre chambre. Le panier sur l'étagère con
 
 ## température et humidité
 
-La température et l'humidité sont automatiquement mesurées via les capteurs. Je les utilise pour éviter la formation de moisissures. Ils sont petits et blancs et reposent généralement sur les encadrements de portes.
+La température et l'humidité sont automatiquement mesurées via les capteurs. Je les utilise pour éviter la formation de moisissures. Ils sont petits et blancs et reposent généralement sur les encadrements de portes. Vous pouvez utiliser une partie des données de mesure
+Je te lis dans le miroir du couloir.
 
 # Vérifier
 
