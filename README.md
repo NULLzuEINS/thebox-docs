@@ -10,7 +10,7 @@ Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die
 
 <figure>
 
-<img src="_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
+<img src="/_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
 </figure>
@@ -44,20 +44,6 @@ Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die
 <figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
 </figure>
 
-
-<figure>
-
-![Küche](_media/rooms/kueche.jpg ':class=img-zoomable')
-
-<figcaption>Küche</figcaption>
-</figure>
-
-<figure>
-
-![Küche](_media/rooms/kueche-kuehlschrank.jpg ':class=img-zoomable')
-
-<figcaption>Küche - Kühlschrank</figcaption>
-</figure>
 
 <figure>
 
