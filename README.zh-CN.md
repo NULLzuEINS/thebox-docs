@@ -4,7 +4,7 @@
 
 ## 图片
 
-在我的爱彼迎上，您可以详细了解所有房间和设施。这里只是一个简短的概述：
+Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
 <div class='grid'>
 <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
@@ -35,7 +35,7 @@
 
 您将获得两对钥匙，每对钥匙位于底部，另一对用于顶部。钥匙链上还有一把钥匙，可以用来锁房间。
 
-## Internetzugang
+## 互联网
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -50,9 +50,9 @@ Passwort: landungsbruecken
 
 ![Detailansicht](_media/thebox-map-detail.png)
 
-## Küche
+## 厨房
 
-Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
+由于我通常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗漱只能在浴室的水槽里进行。但有一个专门的容器可以用来清洗。
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -100,7 +100,7 @@ Passwort: thebox
 
 您可以站着使用淋浴。地面稍微湿一点也没关系。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
 
-墙上的 Alexa 名称为“计算机”，还可以播放您最喜欢的音乐或收音机。例如“_Computer, spiele Deutschlandfunk Nova_"
+墙上的 Alexa 名称为“计算机”，还可以播放您最喜欢的音乐或收音机。例如“_电脑上，玩 Deutschlandfunk Nova_"
 
 您可以将毛巾挂在所有挂钩上，并将物品放在任何地方。
 
@@ -113,10 +113,10 @@ Passwort: thebox
 ## 钥匙
 
 -   根据一周中的哪一天，我们可以亲自道别，或者您也可以简单地将钥匙放在桌子上，然后关上身后的门。
--   Der reguläre Zeitpunkt für den Checkout ist 11 Uhr.
+-   正常退房时间为上午 11 点。
 -   如果您想在出发当天寄存行李并仅在当天晚些时候领取，我们可以单独安排。
 
-## Reinigung
+## 打扫
 
 -   您可以在上面留下床上用品。
 -   我也洗碗
@@ -130,7 +130,7 @@ Passwort: thebox
 
 # 问题？
 
-如果您有任何疑问或需要支持，我将很乐意为您提供帮助。如果您赶时间，最好通过电话联系 <a href="tel:+491707353067">+49 170 73 53 067</a>. Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS). Ansonsten habe ich im Flur einen Notizblock und einen Stift.
+如果您有任何疑问或需要支持，我将很乐意为您提供帮助。如果您赶时间，最好通过电话联系 <a href="tel:+491707353067">+49 170 73 53 067</a>。您还可以使用功能有限的预装消息应用程序 (SMS)。除此之外，我在走廊里有一个记事本和一支笔。
 
 祝您在莱比锡过得愉快！
 安德烈
