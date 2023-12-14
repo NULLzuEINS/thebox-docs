@@ -10,20 +10,6 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 <figure>
 
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-<figcaption>Küche</figcaption>
-</figure>
-
-<figure>
-
-![Badezimmer](_media/rooms/badezimmer.jpg ":class=img-zoomable")
-
-<figcaption>Badezimmer</figcaption>
-</figure>
-
-<figure>
-
 ![Zimmer - Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
@@ -31,9 +17,51 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 <figure>
 
+![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Schreibtisch</figcaption>
+</figure>
+
+<figure>
+
+![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Schreibtisch</figcaption>
+</figure>
+
+<figure>
+
 ![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two.jpg ":class=img-zoomable")
 
 <figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
+</figure>
+
+<figure>
+
+![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two-wide.jpg ":class=img-zoomable")
+
+<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
+</figure>
+
+<figure>
+
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
+
+<figcaption>Küche</figcaption>
+</figure>
+
+<figure>
+
+![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
+
+<figcaption>Küche - Herd</figcaption>
+</figure>
+
+<figure>
+
+![Badezimmer](_media/rooms/badezimmer.jpg ":class=img-zoomable")
+
+<figcaption>Badezimmer</figcaption>
 </figure>
 
 </div>
@@ -107,7 +135,7 @@ Passwort: thebox
 
 ### salle de bain
 
-Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
@@ -127,7 +155,7 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 
 ## nettoyage
 
--   Bettzeug kannst Du drauf lassen.
+-   Vous pouvez y laisser de la literie.
 -   Je fais aussi la vaisselle et
 -   Je sors aussi les poubelles.
 
