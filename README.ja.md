@@ -10,7 +10,7 @@
 
 <figure>
 
-<img src="_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
+<img src="/_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
 </figure>
@@ -41,20 +41,6 @@
 ![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two-wide.jpg ":class=img-zoomable")
 
 <figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-<figcaption>Küche</figcaption>
-</figure>
-
-<figure>
-
-![Küche](_media/rooms/kueche-kuehlschrank.jpg ":class=img-zoomable")
-
-<figcaption>Küche - Kühlschrank</figcaption>
 </figure>
 
 <figure>
@@ -102,7 +88,7 @@ Passwort: landungsbruecken
 5.  ピザオブ
 6.  ミネラルウォーター
 7.  棚にある携帯電話の充電ステーション
-8.  洗濯機
+8.  Waschmaschine
 
 ### FAQ - キッチン
 
@@ -112,7 +98,7 @@ Passwort: landungsbruecken
 
 ## あなたの部屋
 
-マットレスは保管目的でのみ重ねて置かれます。ニーズに応じて配布できます。ソファのクッションをマットレスに置き換えれば、立派なベッドになります。
+Die Matratzen liegen nur zu Lagerung übereinander. Ihr könnt sie nach euren Bedürfnissen verteilen. Wenn ihr die Kissen auf der Couch durch eine Matratze ersetzt, eignet sie sich gut als Bett.
 
 パソコンとプリンターをご利用いただけますので、ぜひご利用ください。
 
@@ -156,7 +142,7 @@ Passwort: thebox
 ## クリーニング
 
 -   寝具類はそのまま置いておいても大丈夫です。
--   食器も洗ってますし、
+-   Das Geschirr spüle ich auch ab und 
 -   ゴミも出します。
 
 > 短いバージョン: 鍵をそこに置いて、ドアを閉めて、それだけです。 😀
@@ -167,7 +153,7 @@ Leipzig MOVE アプリを使用すると、1 回あたり 15 分間の乗車を 
 
 # 質問がありますか?
 
-ご質問がある場合やサポートが必要な場合は、喜んでお手伝いさせていただきます。お急ぎの場合はお電話がおすすめです <a href="tel:+491707353067">＋４９ １７０ ７３ ５３ ０６７</a>。機能が制限されたプリインストールされたメッセンジャー アプリ (SMS) を使用することもできます。それ以外の場合は、廊下にメモ帳とペンがあります。
+Wenn ihr Fragen habt, oder Unterstützung benötigt, stehe ich euch gern zur Verfügung. Wenn es eilig ist, dann besten via Telefon <a href="tel:+491707353067">＋４９ １７０ ７３ ５３ ０６７</a>。機能が制限されたプリインストールされたメッセンジャー アプリ (SMS) を使用することもできます。それ以外の場合は、廊下にメモ帳とペンがあります。
 
 ライプツィヒでの素敵なご滞在をお祈りしております。
 アンドレ
