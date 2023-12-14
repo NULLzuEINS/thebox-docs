@@ -72,7 +72,7 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 
 You get two pairs of keys, each with one key for the bottom and one for the top. There is also a key on a keychain that you can use to lock your room.
 
-## Internetzugang
+## Internet access
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -112,7 +112,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ## Your room
 
-The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
 
 You are welcome to use the computer and printer.
 
@@ -133,9 +133,9 @@ Passwort: thebox
 
 1.  The light doesn't come on or flashes wildly. Use the small remote controls with the colorful buttons.
 
-### bathroom
+### Badezimmer
 
-You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
