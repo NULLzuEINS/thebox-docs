@@ -58,7 +58,7 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 Vous obtenez deux paires de clés, chacune avec une clé pour le bas et une pour le haut. Il y a aussi une clé sur un porte-clés que vous pouvez utiliser pour verrouiller votre chambre.
 
-## Internetzugang
+## accès Internet
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -109,10 +109,10 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Les éléments suivants sont à votre disposition
+### Folgende Dinge stehen euch zur Verfügung
 
-1.  Alle Möbel und Betten
-2.  Computer
+1.  Tous les meubles et lits
+2.  Ordinateur
 3.  Télécommandes pour lumières et électricité
 
 ### FAQ - Votre chambre
@@ -164,7 +164,7 @@ Je te lis dans le miroir du couloir.
 
 Avec l'application Leipzig MOVE, vous bénéficiez de 10 trajets gratuits de 15 minutes chacun_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement.
 
-# Des questions?
+# Fragen?
 
 Si vous avez des questions ou avez besoin d'aide, je serai heureux de vous aider. Si vous êtes pressé, il est préférable de le faire par téléphone <a href="tel:+491707353067">+49 170 73 53 067</a>. Vous pouvez également utiliser l'application de messagerie préinstallée avec des fonctionnalités limitées (SMS). Sinon, j'ai un bloc-notes et un stylo dans le couloir.
 
