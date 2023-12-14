@@ -10,7 +10,7 @@ Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die
 
 <figure>
 
-<img src="/_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
+![Zimmer -  Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ':class=img-zoomable')
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
 </figure>
