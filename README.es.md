@@ -6,6 +6,15 @@
 
 En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las instalaciones. Aquí hay sólo una breve descripción general:
 
+<div class='grid'>
+
+    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+
+</div>
+
 <div class="grid">
 
 ![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
@@ -103,7 +112,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 # Verificar
 
-## Schlüssel
+## Llave
 
 -   Dependiendo del día de la semana que sea, podemos despedirnos en persona, o simplemente puedes dejar las llaves en el escritorio y cerrar la puerta detrás de ti.
 -   El horario habitual de salida es a las 11 a.m.
