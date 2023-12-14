@@ -7,12 +7,10 @@
 En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las instalaciones. Aquí hay sólo una breve descripción general:
 
 <div class='grid'>
-
-    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-
+<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
 </div>
 
 <div class="grid">
@@ -77,7 +75,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 ## Tu cuarto
 
-Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
+Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas los cojines del sofá por un colchón, será una buena cama.
 
 Le invitamos a utilizar la computadora y la impresora.
 
