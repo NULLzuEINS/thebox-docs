@@ -6,7 +6,15 @@
 
 En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las instalaciones. Aquí hay sólo una breve descripción general:
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":size=144:align=left:class=img-zoomable:")
+
+![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+
+![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+
+![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+
+![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
 # Registrarse
 
@@ -54,7 +62,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 ## Tu cuarto
 
-Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas los cojines del sofá por un colchón, será una buena cama.
+Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
 
 Le invitamos a utilizar la computadora y la impresora.
 
@@ -77,13 +85,13 @@ Passwort: thebox
 
 ### baño
 
-Puedes utilizar la ducha estando de pie. No importa si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
+Puedes utilizar la ducha estando de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
 Puedes colgar toallas en todos los ganchos y poner tus cosas en cualquier lugar.
 
-### Flur
+### Pasillo
 
 Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el estante por si quieres contarme algo.
 
