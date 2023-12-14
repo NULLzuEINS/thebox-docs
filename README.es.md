@@ -6,17 +6,21 @@
 
 En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las instalaciones. Aquí hay sólo una breve descripción general:
 
-![Küche](_media/rooms/kueche.jpg ":size=144"){: .img-ampliable }
+<div class="grid">
 
-![Küche](_media/rooms/kueche.jpg ":size=200 .img-zoomable")
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
-![Küche](_media/rooms/kueche.jpg ":size=144x144")
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
+
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
 ![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
 ![logo](https://docsify.js.org/_media/icon.svg ":class=img-zoomable")
+
+</div>
 
 # Registrarse
 
@@ -53,18 +57,18 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 4.  Refrigerador
 5.  Pizza de
 6.  Agua mineral
-7.  Handy-Aufladestation im Regal
-8.  Waschmaschine
+7.  Estación de carga de teléfonos móviles en el estante.
+8.  lavadora
 
 ### Preguntas frecuentes - Cocina
 
-1.  ¿La estufa no funciona? por favor di
+1.  Herd funktioniert nicht? Bitte sage
     > "Computadora, banco de trabajo y"
 2.  ¿Dónde puedo lavarme? Esto sólo funciona en el baño. Hay un recipiente especial para lavar los platos.
 
 ## Tu cuarto
 
-Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
+Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas los cojines del sofá por un colchón, será una buena cama.
 
 Le invitamos a utilizar la computadora y la impresora.
 
@@ -75,9 +79,9 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Las siguientes cosas están disponibles para usted
+### Folgende Dinge stehen euch zur Verfügung
 
-1.  Todos los muebles y camas.
+1.  Alle Möbel und Betten
 2.  Computadora
 3.  Mandos a distancia para luces y electricidad.
 
@@ -91,7 +95,7 @@ Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Bo
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
-Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstellen.
+Puedes colgar toallas en todos los ganchos y poner tus cosas en cualquier lugar.
 
 ### Pasillo
 
