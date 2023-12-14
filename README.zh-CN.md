@@ -6,12 +6,7 @@
 
 在我的爱彼迎上，您可以详细了解所有房间和设施。这里只是一个简短的概述：
 
-<div class='grid'>
-<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-</div>
+[关联](/README.en.md ":data-zoom-src=\_media/rooms/kueche.jpg")
 
 <div class="grid">
 
@@ -98,7 +93,7 @@ Passwort: thebox
 
 ### 浴室
 
-您可以站着使用淋浴。如果地面有点湿也没有问题。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
+您可以站着使用淋浴。地面稍微湿一点也没关系。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
 
 墙上的 Alexa 名称为“计算机”，还可以播放您最喜欢的音乐或收音机。例如“_电脑上，玩 Deutschlandfunk Nova_"
 
@@ -106,7 +101,7 @@ Passwort: thebox
 
 ### 门厅
 
-欢迎您把鞋子留在这里。我的架子上还有一个小记事本，以防你想告诉我一些事情。
+欢迎您把鞋子留在这里。我的架子上还有一个小记事本，方便你告诉我一些事情。
 
 # 查看
 
