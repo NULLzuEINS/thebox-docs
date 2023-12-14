@@ -6,9 +6,9 @@ Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB
 
 On my AirBnB you get a detailed overview of all the rooms and the facilities. Here is just a brief overview:
 
-![Küche](_media/rooms/kueche.jpg ":size=144:align=left:class=img-zoomable:")
+![Küche](_media/rooms/kueche.jpg ":size=144"){: .img-zoomabl }
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":size=200 .img-zoomable")
 
 ![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
@@ -33,7 +33,7 @@ Or you scan this QR code, it will automatically connect you to the network:
 
 ![WiFi](_media/wlan.png ":size=200")
 
-# The rooms
+# Die Zimmer
 
 ![Detailansicht](_media/thebox-map-detail.png)
 
