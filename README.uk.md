@@ -6,6 +6,15 @@
 
 На моєму AirBnB ви отримуєте детальний огляд усіх номерів і зручностей. Ось лише короткий огляд:
 
+<div class='grid'>
+
+    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+
+</div>
+
 <div class="grid">
 
 ![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
