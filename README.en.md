@@ -10,7 +10,7 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 
 <figure>
 
-<img src="_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
+<img src="/_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
 </figure>
@@ -41,20 +41,6 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 ![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two-wide.jpg ":class=img-zoomable")
 
 <figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-<figcaption>Küche</figcaption>
-</figure>
-
-<figure>
-
-![Küche](_media/rooms/kueche-kuehlschrank.jpg ":class=img-zoomable")
-
-<figcaption>Küche - Kühlschrank</figcaption>
 </figure>
 
 <figure>
@@ -104,7 +90,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 7.  Cell phone charging station on the shelf
 8.  washing machine
 
-### FAQ - Küche
+### FAQ - Kitchen
 
 1.  Stove not working? please say
     > "Computer, Workbench an"
@@ -153,25 +139,25 @@ You are welcome to leave your shoes here. I also have a small notepad on the she
 -   The regular checkout time is 11 a.m.
 -   If you would like to leave your luggage behind on the day of departure and only pick it up later in the day, we can arrange this individually.
 
-## Reinigung
+## cleaning
 
 -   You can leave bedding on it.
--   Das Geschirr spüle ich auch ab und 
+-   I also wash the dishes and
 -   I also take out the trash.
 
 > Short version: Leave the key there, close the door, that's it. 😀
 
-# Tipps
+# Tips
 
 With the Leipzig MOVE app, you get 10 free rides of 15 minutes each_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces.
 
 # Questions?
 
-If you have any questions or need support, I will be happy to help you. If you're in a hurry, it's best to do so via telephone <a href="tel:+491707353067">+49 170 73 53 067</a>. You can also use the pre-installed messenger app with limited functionality (SMS). Otherwise, I have a notepad and a pen in the hallway.
+Wenn ihr Fragen habt, oder Unterstützung benötigt, stehe ich euch gern zur Verfügung. Wenn es eilig ist, dann besten via Telefon <a href="tel:+491707353067">+49 170 73 53 067</a>. You can also use the pre-installed messenger app with limited functionality (SMS). Otherwise, I have a notepad and a pen in the hallway.
 
 I wish you a nice stay in Leipzig!
 Andre
 
 * * *
 
-_Made with ❤️ by [docsify](https://docsify.js.org/)_
+_Made with ❤️ by  [docsify](https://docsify.js.org/)_
