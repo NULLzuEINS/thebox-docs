@@ -10,11 +10,11 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 ![Küche](_media/rooms/kueche.jpg ":size=200 .img-zoomable")
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":size=144x144")
 
 ![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
 ![logo](https://docsify.js.org/_media/icon.svg ":class=img-zoomable")
 
@@ -87,7 +87,7 @@ Passwort: thebox
 
 ### salle de bain
 
-Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und häng den Badewannenvorleger  zum trocknen über der Heizung auf.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
