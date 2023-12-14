@@ -64,8 +64,8 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 4.  Réfrigérateur
 5.  Pizza de
 6.  Eau minérale
-7.  Station de recharge de téléphone portable sur l'étagère
-8.  Machine à laver
+7.  Handy-Aufladestation im Regal
+8.  Waschmaschine
 
 ### FAQ - Cuisine
 
@@ -75,7 +75,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ## Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
 
 Vous êtes invités à utiliser l’ordinateur et l’imprimante.
 
@@ -98,7 +98,7 @@ Passwort: thebox
 
 ### salle de bain
 
-Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
@@ -113,14 +113,14 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 ## Clé
 
 -   Selon le jour de la semaine, nous pouvons vous dire au revoir en personne ou vous pouvez simplement poser les clés sur le bureau et fermer la porte derrière vous.
--   L'heure habituelle de départ est 11 heures.
+-   Der reguläre Zeitpunkt für den Checkout ist 11 Uhr.
 -   Si vous souhaitez laisser vos bagages le jour du départ et les récupérer seulement plus tard dans la journée, nous pouvons organiser cela individuellement.
 
 ## nettoyage
 
 -   Vous pouvez y laisser de la literie.
 -   Je fais aussi la vaisselle et
--   Je sors aussi les poubelles.
+-   den Müll bring ich auch raus.
 
 > Version courte : Laissez la clé là, fermez la porte, c'est tout. 😀
 
