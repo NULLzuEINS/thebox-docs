@@ -4,13 +4,13 @@
 
 ## Картинки
 
-На моєму AirBnB ви отримуєте детальний огляд усіх номерів і зручностей. Ось лише короткий огляд:
+Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
 <div class="grid">
 
 <figure>
 
-<img src="_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
+<img src="/_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
 </figure>
@@ -41,20 +41,6 @@
 ![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two-wide.jpg ":class=img-zoomable")
 
 <figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-<figcaption>Küche</figcaption>
-</figure>
-
-<figure>
-
-![Küche](_media/rooms/kueche-kuehlschrank.jpg ":class=img-zoomable")
-
-<figcaption>Küche - Kühlschrank</figcaption>
 </figure>
 
 <figure>
@@ -129,7 +115,7 @@ Passwort: thebox
 2.  комп'ютер
 3.  Пульти дистанційного керування світлом та електрикою
 
-### FAQ - Dein Zimmer
+### FAQ - Ваша кімната
 
 1.  Лампа не світиться або дико блимає. Використовуйте маленькі пульти дистанційного керування з кольоровими кнопками.
 
@@ -163,7 +149,7 @@ Alexa на стіні має назву «Комп’ютер» і також в
 
 # Поради
 
-З додатком Leipzig MOVE ви отримуєте 10 безкоштовних поїздок по 15 хвилин кожна_Nextbikes_. Зауважте, що це коштує дорожче, якщо ви не паркуєте велосипеди на головних вулицях (фіолетовий на карті). Електроскутери можна паркувати лише на певних паркувальних місцях.
+Mit der Leipzig MOVE App, bekommt ihr 10 Freifahrten à 15 Minuten für die _Nextbikes_. Зауважте, що це коштує дорожче, якщо ви не паркуєте велосипеди на головних вулицях (фіолетовий на карті). Електроскутери можна паркувати лише на певних паркувальних місцях.
 
 # Запитання?
 
