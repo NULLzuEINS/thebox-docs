@@ -6,10 +6,14 @@ Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch
 
 Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
+![Küche](_media/rooms/kueche.jpg ':size=144:align=left:class=img-zoomable')
+
 ![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
+
 ![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
+
 ![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
-![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
+
 ![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
 
 # Checkin
@@ -95,16 +99,15 @@ Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notiz
 
 ## Schlüssel 
 
-- Je nach dem welcher Wochentag ist, können wir uns persönlich verabschieden, oder du legst einfach die Schlüssel auf den Schreibtisch und ziehst die Tür hinter Dir zu.
-- Der reguläre Zeitpunkt für den Checkout ist 11 Uhr.
-- Wenn Du am Tag der Abreise noch dein Gepäck dalassen möchtest und erst später am Tag abholen möchtest, können wir uns das individuell verabreden.
+* Je nach dem welcher Wochentag ist, können wir uns persönlich verabschieden, oder du legst einfach die Schlüssel auf den Schreibtisch und ziehst die Tür hinter Dir zu.
+* Der reguläre Zeitpunkt für den Checkout ist 11 Uhr.
+* Wenn Du am Tag der Abreise noch dein Gepäck dalassen möchtest und erst später am Tag abholen möchtest, können wir uns das individuell verabreden.
 
 ## Reinigung
 
-- Bettzeug kannst Du drauf lassen.
-- Das Geschirr spüle ich auch ab und 
-- den Müll bring ich auch raus.
-
+* Bettzeug kannst Du drauf lassen.
+* Das Geschirr spüle ich auch ab und 
+* den Müll bring ich auch raus.
 
 > Kurzfassung: Schlüssel da lassen, Tür zuziehen, das wars. 😀
 
@@ -114,11 +117,11 @@ Mit der Leipzig MOVE App, bekommt ihr 10 Freifahrten à 15 Minuten für die *Nex
 
 # Fragen?
 
-Wenn ihr Fragen habt, oder Unterstützung benötigt, stehe ich euch gern zur Verfügung. Wenn es eilig ist, dann besten via Telefon&nbsp;<a href="tel:+491707353067">+49 170 73 53 067</a>. Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS). Ansonsten habe ich im Flur einen Notizblock und einen Stift.
+Wenn ihr Fragen habt, oder Unterstützung benötigt, stehe ich euch gern zur Verfügung. Wenn es eilig ist, dann besten via Telefon&nbsp; <a href="tel:+491707353067">+49 170 73 53 067</a>. Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS). Ansonsten habe ich im Flur einen Notizblock und einen Stift.
 
 Ich wünsche einen schönen Aufenthalt in Leipzig!
 André
 
 ---
 
-*Made with ❤️ by &nbsp;[docsify](https://docsify.js.org/)*
+*Made with ❤️ by &nbsp; [docsify](https://docsify.js.org/)*
