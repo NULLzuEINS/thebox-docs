@@ -10,7 +10,7 @@
 
 <figure>
 
-![Zimmer - Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
+<img src="_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
 </figure>
@@ -52,16 +52,16 @@
 
 <figure>
 
-![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
+![Küche](_media/rooms/kueche-kuehlschrank.jpg ":class=img-zoomable")
 
-<figcaption>Küche - Herd</figcaption>
+<figcaption>Küche - Kühlschrank</figcaption>
 </figure>
 
 <figure>
 
-![Badezimmer](_media/rooms/badezimmer.jpg ":class=img-zoomable")
+![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
 
-<figcaption>Badezimmer</figcaption>
+<figcaption>Küche - Herd</figcaption>
 </figure>
 
 </div>
@@ -72,7 +72,7 @@
 
 您将获得两对钥匙，每对钥匙位于底部，另一对用于顶部。钥匙链上还有一把钥匙，可以用来锁房间。
 
-## 互联网
+## Internetzugang
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -125,7 +125,7 @@ Passwort: thebox
 
 ### 以下内容可供您使用
 
-1.  Alle Möbel und Betten
+1.  所有家具和床
 2.  电脑
 3.  远程控制灯光和电力
 
@@ -143,7 +143,7 @@ Passwort: thebox
 
 ### 门厅
 
-Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
+欢迎您把鞋子留在这里。我的架子上还有一个小记事本，以防你想告诉我一些事情。
 
 # 查看
 
