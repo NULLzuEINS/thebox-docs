@@ -6,21 +6,9 @@ Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch
 
 Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
-[link](/README.en.md ':data-zoom-src=_media/rooms/kueche.jpg')
-
 <div class="grid">
 
 ![Küche](_media/rooms/kueche.jpg ':class=img-zoomable')
-
-![Küche](_media/rooms/kueche.jpg  ':class=img-zoomable')
-
-![Küche](_media/rooms/kueche.jpg  ':class=img-zoomable')
-
-![Küche](_media/rooms/kueche.jpg  ':class=img-zoomable')
-
-![Küche](_media/rooms/kueche.jpg ':class=img-zoomable')
-
-![logo](https://docsify.js.org/_media/icon.svg ':class=img-zoomable')
 
 </div>
 
