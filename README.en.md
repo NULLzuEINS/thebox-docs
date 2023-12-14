@@ -98,9 +98,9 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ## Your room
 
-The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
 
-Den Computer und den Drucker kannst Du gern benutzen.
+You are welcome to use the computer and printer.
 
 ### The login details for the computer are
 
@@ -121,7 +121,7 @@ Passwort: thebox
 
 ### bathroom
 
-You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
@@ -141,7 +141,8 @@ There are no voice assistants in your room. The basket on the shelf only contain
 
 ## temperature and humidity
 
-The temperature and humidity are automatically measured via the sensors. I use them to prevent mold formation. They are small and white and usually lie on door frames.
+The temperature and humidity are automatically measured via the sensors. I use them to prevent mold formation. They are small and white and usually lie on door frames. You can use part of the measurement data
+Reading you in the mirror in the hallway.
 
 # Checkout
 
@@ -161,7 +162,7 @@ The temperature and humidity are automatically measured via the sensors. I use t
 
 # Tips
 
-Mit der Leipzig MOVE App, bekommt ihr 10 Freifahrten à 15 Minuten für die _Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces.
+With the Leipzig MOVE app, you get 10 free rides of 15 minutes each_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces.
 
 # Questions?
 
