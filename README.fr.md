@@ -156,7 +156,7 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 ## nettoyage
 
 -   Vous pouvez y laisser de la literie.
--   Je fais aussi la vaisselle et
+-   Das Geschirr spüle ich auch ab und 
 -   Je sors aussi les poubelles.
 
 > Version courte : Laissez la clé là, fermez la porte, c'est tout. 😀
