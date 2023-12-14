@@ -6,9 +6,9 @@
 
 私のAirBnBでは、すべての部屋と設備の詳細な概要をご覧いただけます。以下に簡単な概要を示します。
 
-![Küche](_media/rooms/kueche.jpg ":size=144:align=left:class=img-zoomable:")
+![Küche](_media/rooms/kueche.jpg ":size=144"){: .img-zoomabl }
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":size=200 .img-zoomable")
 
 ![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
