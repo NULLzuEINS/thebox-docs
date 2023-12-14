@@ -65,7 +65,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-O escaneas este código QR, te conectará automáticamente a la red:
+Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -130,6 +130,18 @@ Puedes colgar toallas en todos los ganchos y poner tus cosas en cualquier lugar.
 ### Pasillo
 
 Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el estante por si quieres contarme algo.
+
+# Misceláneas
+
+## Casa inteligente
+
+Hay asistentes de voz Alexa en el apartamento. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Los dispositivos están conectados a Internet y también pueden utilizarse como despertadores o temporizadores. Si no desea utilizarlo, simplemente puede desconectarlo de la fuente de alimentación.
+
+No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene el enrutador y una pequeña computadora.
+
+## temperatura y humedad
+
+La temperatura y la humedad se miden automáticamente a través de los sensores. Los uso para prevenir la formación de moho. Son pequeños y blancos y normalmente se encuentran en los marcos de las puertas.
 
 # Verificar
 
