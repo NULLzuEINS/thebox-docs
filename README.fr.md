@@ -86,7 +86,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 3.  Vaisselle couverts
 4.  Réfrigérateur
 5.  Pizza de
-6.  Eau minérale
+6.  Mineralwasser
 7.  Station de recharge de téléphone portable sur l'étagère
 8.  Machine à laver
 
@@ -130,6 +130,18 @@ Vous pouvez accrocher des serviettes à tous les crochets et ranger vos affaires
 ### Couloir
 
 Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'étagère au cas où tu voudrais me dire quelque chose.
+
+# Divers
+
+## Maison intelligente
+
+Il y a des assistants vocaux Alexa dans l'appartement. Vous pouvez les appeler par le nom « Ordinateur » et les faire jouer par exemple à Deutschlandfunk Nova. Les appareils sont connectés à Internet et peuvent également être utilisés comme réveils ou minuteries. Si vous ne souhaitez pas l'utiliser, vous pouvez simplement le débrancher de l'alimentation électrique.
+
+Il n'y a pas d'assistant vocal dans votre chambre. Le panier sur l'étagère contient uniquement le routeur et un petit ordinateur.
+
+## température et humidité
+
+La température et l'humidité sont automatiquement mesurées via les capteurs. Je les utilise pour éviter la formation de moisissures. Ils sont petits et blancs et reposent généralement sur les encadrements de portes.
 
 # Vérifier
 
