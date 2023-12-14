@@ -6,7 +6,7 @@
 
 En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las instalaciones. Aquí hay sólo una breve descripción general:
 
-![Küche](_media/rooms/kueche.jpg ":size=144"){: .img-zoomabl}
+![Küche](_media/rooms/kueche.jpg ":size=144"){: .img-ampliable }
 
 ![Küche](_media/rooms/kueche.jpg ":size=200 .img-zoomable")
 
@@ -15,6 +15,8 @@ En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las
 ![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
 ![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+
+![logo](https://docsify.js.org/_media/icon.svg ":class=img-zoomable")
 
 # Registrarse
 
@@ -64,7 +66,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
 
-Den Computer und den Drucker kannst Du gern benutzen.
+Le invitamos a utilizar la computadora y la impresora.
 
 ### Los detalles de inicio de sesión para la computadora son
 
@@ -77,7 +79,7 @@ Passwort: thebox
 
 1.  Todos los muebles y camas.
 2.  Computadora
-3.  Fernbedienungen für Licht und Strom
+3.  Mandos a distancia para luces y electricidad.
 
 ### Preguntas frecuentes - Tu habitación
 
@@ -85,7 +87,7 @@ Passwort: thebox
 
 ### baño
 
-Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und häng den Badewannenvorleger  zum trocknen über der Heizung auf.
+Puedes utilizar la ducha estando de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
