@@ -10,11 +10,11 @@
 
 ![Küche](_media/rooms/kueche.jpg ":size=200 .img-zoomable")
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":size=144x144")
 
 ![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
 ![logo](https://docsify.js.org/_media/icon.svg ":class=img-zoomable")
 
