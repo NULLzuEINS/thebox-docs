@@ -1,6 +1,10 @@
-# La boîte
+# Accueillir
 
 Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjourner dans des AirBnB et parfois j'aimerais avoir un morceau de papier avec toutes les informations nécessaires sur l'hébergement, l'enregistrement et le départ et c'est ma tentative de l'améliorer.
+
+## Des photos
+
+![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
 # Enregistrement
 
@@ -48,7 +52,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ## Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
 
 Vous êtes invités à utiliser l’ordinateur et l’imprimante.
 
@@ -71,7 +75,7 @@ Passwort: thebox
 
 ### salle de bain
 
-Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
@@ -85,11 +89,11 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 
 -   Nous discuterons individuellement de la remise des clés.
 -   Vous pouvez y laisser de la literie.
--   Je fais aussi la vaisselle et sors les poubelles.
+-   Je fais également la vaisselle et sors les poubelles.
 
 > Version courte : Laissez la clé là, fermez la porte, c'est tout. 😀
 
-# Tipps
+# Conseils
 
 Avec l'application Leipzig MOVE, vous bénéficiez de 10 trajets gratuits de 15 minutes chacun_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement.
 
