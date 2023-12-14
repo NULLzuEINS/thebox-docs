@@ -4,12 +4,13 @@ Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch
 
 ## Bilder
 
-![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
-![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
-![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
-![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
-![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
+Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
+![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
+![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
+![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
+![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
+![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
 
 # Checkin
 
