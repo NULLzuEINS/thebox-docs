@@ -10,7 +10,7 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 <figure>
 
-<img src="/_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
+![Zimmer -  Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
 </figure>
@@ -98,7 +98,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ## Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
 
 Vous êtes invités à utiliser l’ordinateur et l’imprimante.
 
@@ -121,7 +121,7 @@ Passwort: thebox
 
 ### salle de bain
 
-Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
