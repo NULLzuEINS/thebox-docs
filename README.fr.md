@@ -6,6 +6,15 @@ Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjour
 
 Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des installations. Voici juste un bref aperçu :
 
+<div class='grid'>
+
+    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
+    <figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
+
+</div>
+
 <div class="grid">
 
 ![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
@@ -130,4 +139,4 @@ André
 
 * * *
 
-_Réalisé avec ❤️ par [docsifier](https://docsify.js.org/)_
+_Réalisé avec ❤️ par [docsify](https://docsify.js.org/)_
