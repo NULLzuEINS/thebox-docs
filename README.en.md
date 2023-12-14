@@ -6,12 +6,7 @@ Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB
 
 On my AirBnB you get a detailed overview of all the rooms and the facilities. Here is just a brief overview:
 
-<div class='grid'>
-<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-<figure><img src='http://via.placeholder.com/400x600' class='img-zoomable' /></figure>
-<figure><img src='http://via.placeholder.com/600x400' class='img-zoomable' /></figure>
-</div>
+[link](/README.en.md ":data-zoom-src=\_media/rooms/kueche.jpg")
 
 <div class="grid">
 
@@ -64,7 +59,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 4.  Refrigerator
 5.  Pizzaof
 6.  Mineral water
-7.  Cell phone charging station on the shelf
+7.  Handy-Aufladestation im Regal
 8.  washing machine
 
 ### FAQ - Kitchen
@@ -98,7 +93,7 @@ Passwort: thebox
 
 ### bathroom
 
-You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
