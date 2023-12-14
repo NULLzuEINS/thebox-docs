@@ -10,11 +10,11 @@
 
 ![Küche](_media/rooms/kueche.jpg ":size=200 .img-zoomable")
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":size=144x144")
 
 ![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
-![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
+![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
 
 ![logo](https://docsify.js.org/_media/icon.svg ":class=img-zoomable")
 
@@ -31,7 +31,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-または、この QR コードをスキャンすると、自動的にネットワークに接続されます。
+Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -115,14 +115,14 @@ Passwort: thebox
 
 # チップ
 
-Leipzig MOVE アプリを使用すると、1 回につき 15 分間の乗車を 10 回無料で利用できます_ネクストバイク_。自転車を大通り（地図上の紫色）に駐車しない場合は、料金が高くなることに注意してください。電動スクーターは、特定の駐車スペースにのみ駐車できます。
+Leipzig MOVE アプリを使用すると、1 回につき 15 分間の乗車を 10 回無料で利用できます_ネクストバイク_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
 # 質問がありますか?
 
 ご質問がある場合やサポートが必要な場合は、喜んでお手伝いさせていただきます。お急ぎの場合はお電話がおすすめです <a href="tel:+491707353067">＋４９ １７０ ７３ ５３ ０６７</a>。機能が制限されたプリインストールされたメッセンジャー アプリ (SMS) を使用することもできます。それ以外の場合は、廊下にメモ帳とペンがあります。
 
-Ich wünsche einen schönen Aufenthalt in Leipzig!
-André
+ライプツィヒでの素敵なご滞在をお祈りしております。
+アンドレ
 
 * * *
 
