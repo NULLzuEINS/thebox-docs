@@ -1,6 +1,10 @@
-# TheBox
+# Welcome
 
 Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB's and sometimes I wish I had a piece of paper with all the necessary information about the accommodation, check-in and check-out and this is my attempt to make it better.
+
+## Pictures
+
+![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")![Küche](_media/rooms/kueche.jpg ":size=42:align=left")
 
 # Checkin
 
@@ -48,7 +52,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ## Your room
 
-The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
 
 You are welcome to use the computer and printer.
 
@@ -71,7 +75,7 @@ Passwort: thebox
 
 ### bathroom
 
-You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
