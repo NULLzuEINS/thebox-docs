@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/artwork/thebox-logo-art.png ':size=200')
+![logo](_media/artwork/thebox-logo-art.png ':size=400')
 
 # TheBox
 
