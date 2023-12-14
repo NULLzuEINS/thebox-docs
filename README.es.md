@@ -6,21 +6,9 @@
 
 En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las instalaciones. Aquí hay sólo una breve descripción general:
 
-[enlace](/README.en.md ":data-zoom-src=\_media/rooms/kueche.jpg")
-
 <div class="grid">
 
 ![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![Küche](_media/rooms/kueche.jpg ":class=img-zoomable")
-
-![logo](https://docsify.js.org/_media/icon.svg ":class=img-zoomable")
 
 </div>
 
@@ -51,12 +39,12 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Las siguientes cosas están disponibles para usted
+### Folgende Dinge stehen euch zur Verfügung
 
 1.  Rebaño
 2.  Pava
 3.  platos cubiertos
-4.  Refrigerador
+4.  Kühlschrank
 5.  Pizza de
 6.  Agua mineral
 7.  Estación de carga de teléfonos móviles en el estante.
@@ -70,7 +58,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 ## Tu cuarto
 
-Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
+Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas los cojines del sofá por un colchón, será una buena cama.
 
 Le invitamos a utilizar la computadora y la impresora.
 
@@ -89,7 +77,7 @@ Passwort: thebox
 
 ### Preguntas frecuentes - Tu habitación
 
-1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
+1.  La luz no se enciende o parpadea violentamente. Utilice los pequeños mandos a distancia con botones de colores.
 
 ### baño
 
@@ -115,7 +103,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 -   Puedes dejar ropa de cama encima.
 -   También lavo los platos y
--   También saco la basura.
+-   den Müll bring ich auch raus.
 
 > Versión corta: Deja la llave ahí, cierra la puerta y listo. 😀
 
@@ -127,8 +115,8 @@ Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada u
 
 Si tienes alguna pregunta o necesitas ayuda, estaré encantado de ayudarte. Si tienes prisa, lo mejor es hacerlo por teléfono. <a href="tel:+491707353067">+49 170 73 53 067</a>. También puede utilizar la aplicación de mensajería preinstalada con funcionalidad limitada (SMS). De lo contrario, tengo una libreta y un bolígrafo en el pasillo.
 
-¡Les deseo una agradable estancia en Leipzig!
-andré
+Ich wünsche einen schönen Aufenthalt in Leipzig!
+André
 
 * * *
 
