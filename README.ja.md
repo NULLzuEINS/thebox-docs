@@ -10,7 +10,7 @@
 
 <figure>
 
-![Zimmer - Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
+<img src="_media/rooms/zimmer-one.jpg" class="img-zoomable" alt="Zimmer in Ein-Bett-Konfiguration">
 
 <figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
 </figure>
@@ -52,16 +52,16 @@
 
 <figure>
 
-![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
+![Küche](_media/rooms/kueche-kuehlschrank.jpg ":class=img-zoomable")
 
-<figcaption>Küche - Herd</figcaption>
+<figcaption>Küche - Kühlschrank</figcaption>
 </figure>
 
 <figure>
 
-![Badezimmer](_media/rooms/badezimmer.jpg ":class=img-zoomable")
+![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
 
-<figcaption>Badezimmer</figcaption>
+<figcaption>Küche - Herd</figcaption>
 </figure>
 
 </div>
