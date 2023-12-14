@@ -6,7 +6,7 @@ Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch
 
 Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
-![Küche](_media/rooms/kueche.jpg ':size=144'){: .img-zoomabl }
+![Küche](_media/rooms/kueche.jpg ':size=144'){: .img-zoomable }
 
 ![Küche](_media/rooms/kueche.jpg ':size=200 .img-zoomable')
 
@@ -15,6 +15,8 @@ Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die
 ![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
 
 ![Küche](_media/rooms/kueche.jpg ':size=42:align=left')
+
+![logo](https://docsify.js.org/_media/icon.svg ':class=img-zoomable')
 
 # Checkin
 
