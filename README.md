@@ -54,13 +54,13 @@ Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die
 
 </div>
 
-| ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ':class=img-zoomable') | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') |  ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') |
+| ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ':class=img-zoomable') | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ':class=img-zoomable') |  ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') |
 | ---------------------------------- | ---------------------------------- | ---------------------------------- |
-| Ein-Bett-Konfiguration mit Couch | Schreibtisch | Zimmer |
+| Ein-Bett-Konfiguration mit Couch | Zwei-Bett-Konfiguration | Schreibtisch |
 
-| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') |  ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') |
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ':class=img-zoomable') | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') |  ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') |
 | ---------------------------------- | ---------------------------------- | ---------------------------------- |
-| Küche | Bad | Zimmer |
+| Schreibtisch | Bad | Zimmer |
 
 # Checkin
 
