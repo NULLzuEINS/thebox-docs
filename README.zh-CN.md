@@ -52,9 +52,13 @@
 
 </div>
 
-| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch]\(\_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable' |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 厨房                                                                                     | 坏的                                                                                      | 齐默                                                                                       |
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 厨房                                                                                     | 坏的                                                                                      | 齐默                                                                                      |
+
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 厨房                                                                                     | Bad                                                                                     | 齐默                                                                                      |
 
 # 报到
 
@@ -83,7 +87,7 @@ Passwort: landungsbruecken
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### 以下内容可供您使用
+### Folgende Dinge stehen euch zur Verfügung
 
 1.  一群
 2.  壶
@@ -98,11 +102,11 @@ Passwort: landungsbruecken
 
 1.  炉子不工作？请说
     > “计算机、工作台和”
-2.  哪里可以洗？这只适用于浴室。有一个专门用来洗碗的容器。
+2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
 
 ## 你的房间
 
-床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的垫子换成床垫，它就是一张好床。
+床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的枕头换成床垫，那就是一张好床了。
 
 欢迎您使用电脑和打印机。
 
@@ -119,7 +123,7 @@ Passwort: thebox
 2.  电脑
 3.  远程控制灯光和电力
 
-### 常见问题 - 您的房间
+### FAQ - Dein Zimmer
 
 1.  灯不亮或闪烁得厉害。请使用带有彩色按钮的小遥控器。
 
@@ -133,7 +137,7 @@ Passwort: thebox
 
 ### 门厅
 
-欢迎您把鞋子留在这里。我的架子上还有一个小记事本，以防你想告诉我一些事情。
+欢迎您把鞋子留在这里。我的架子上还有一个小记事本，方便你告诉我一些事情。
 
 # 各种各样的
 
@@ -177,4 +181,4 @@ Passwort: thebox
 
 * * *
 
-_由 ❤️ 制作 [文档化](https://docsify.js.org/)_
+_由 ❤️ 制作  [文档化](https://docsify.js.org/)_
