@@ -98,7 +98,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ## Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
 
 Vous êtes invités à utiliser l’ordinateur et l’imprimante.
 
@@ -109,7 +109,7 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Folgende Dinge stehen euch zur Verfügung
+### Les éléments suivants sont à votre disposition
 
 1.  Tous les meubles et lits
 2.  Ordinateur
@@ -135,7 +135,7 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 
 ## Maison intelligente
 
-Il y a des assistants vocaux Alexa dans l'appartement. Vous pouvez les appeler par le nom « Ordinateur » et les faire jouer par exemple à Deutschlandfunk Nova. Les appareils sont connectés à Internet et peuvent également être utilisés comme réveils ou minuteries. Si vous ne souhaitez pas l'utiliser, vous pouvez simplement le débrancher de l'alimentation électrique.
+Il y a des assistants vocaux Alexa dans l'appartement. Vous pouvez les appeler par le nom « Ordinateur » et les faire jouer par exemple à Deutschlandfunk Nova. Les appareils sont connectés à Internet et peuvent également être utilisés comme réveils ou minuteries. Si vous ne souhaitez pas l'utiliser, vous pouvez simplement le débrancher du secteur.
 
 Il n'y a pas d'assistant vocal dans votre chambre. Le panier sur l'étagère contient uniquement le routeur et un petit ordinateur.
 
@@ -164,7 +164,7 @@ Je te lis dans le miroir du couloir.
 
 Avec l'application Leipzig MOVE, vous bénéficiez de 10 trajets gratuits de 15 minutes chacun_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement.
 
-# Fragen?
+# Des questions?
 
 Si vous avez des questions ou avez besoin d'aide, je serai heureux de vous aider. Si vous êtes pressé, il est préférable de le faire par téléphone <a href="tel:+491707353067">+49 170 73 53 067</a>. Vous pouvez également utiliser l'application de messagerie préinstallée avec des fonctionnalités limitées (SMS). Sinon, j'ai un bloc-notes et un stylo dans le couloir.
 
