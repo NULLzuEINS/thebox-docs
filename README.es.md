@@ -52,6 +52,10 @@ En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las
 
 </div>
 
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch]\(\_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable' |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Cocina                                                                                 | Malo                                                                                    | Zimmer                                                                                   |
+
 # Registrarse
 
 ## Llave
@@ -98,9 +102,9 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 ## Tu cuarto
 
-Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
+Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas los cojines del sofá por un colchón, será una buena cama.
 
-Den Computer und den Drucker kannst Du gern benutzen.
+Le invitamos a utilizar la computadora y la impresora.
 
 ### Los detalles de inicio de sesión para la computadora son
 
@@ -112,7 +116,7 @@ Passwort: thebox
 ### Las siguientes cosas están disponibles para usted
 
 1.  Todos los muebles y camas.
-2.  Computadora
+2.  Computer
 3.  Mandos a distancia para luces y electricidad.
 
 ### Preguntas frecuentes - Tu habitación
@@ -121,7 +125,7 @@ Passwort: thebox
 
 ### baño
 
-Puedes utilizar la ducha estando de pie. No importa si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
+Puedes utilizar la ducha estando de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
@@ -135,7 +139,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 ## Casa inteligente
 
-Hay asistentes de voz Alexa en el apartamento. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Los dispositivos están conectados a Internet y también pueden utilizarse como despertadores o temporizadores. Si no desea utilizarlo, simplemente puede desconectarlo de la corriente.
+Hay asistentes de voz Alexa en el apartamento. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Los dispositivos están conectados a Internet y también pueden utilizarse como despertadores o temporizadores. Si no desea utilizarlo, simplemente puede desconectarlo de la fuente de alimentación.
 
 No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene el enrutador y una pequeña computadora.
 
