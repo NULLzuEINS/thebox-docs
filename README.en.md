@@ -52,9 +52,13 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 
 </div>
 
-| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch]\(\_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable' |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Kitchen                                                                                | Bad                                                                                     | Zimmer                                                                                   |
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Kitchen                                                                                | Bad                                                                                     | Zimmer                                                                                  |
+
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Kitchen                                                                                | Bad                                                                                     | Zimmer                                                                                  |
 
 # Checkin
 
@@ -102,7 +106,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ## Your room
 
-The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
 
 You are welcome to use the computer and printer.
 
@@ -156,7 +160,7 @@ Reading you in the mirror in the hallway.
 -   The regular checkout time is 11 a.m.
 -   If you would like to leave your luggage behind on the day of departure and only pick it up later in the day, we can arrange this individually.
 
-## Reinigung
+## cleaning
 
 -   You can leave bedding on it.
 -   I also wash the dishes and
