@@ -52,6 +52,10 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 </div>
 
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch]\(\_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable' |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Cuisine                                                                                | Mauvais                                                                                 | Zimmer                                                                                   |
+
 # Enregistrement
 
 ## Clé
@@ -98,7 +102,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ## Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
 
 Vous êtes invités à utiliser l’ordinateur et l’imprimante.
 
@@ -121,7 +125,7 @@ Passwort: thebox
 
 ### salle de bain
 
-Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
@@ -135,9 +139,9 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 
 ## Maison intelligente
 
-Il y a des assistants vocaux Alexa dans l'appartement. Vous pouvez les appeler par le nom « Ordinateur » et les faire jouer par exemple à Deutschlandfunk Nova. Les appareils sont connectés à Internet et peuvent également être utilisés comme réveils ou minuteries. Si vous ne souhaitez pas l'utiliser, vous pouvez simplement le débrancher du secteur.
+Il y a des assistants vocaux Alexa dans l'appartement. Vous pouvez les appeler par le nom « Ordinateur » et les faire jouer par exemple à Deutschlandfunk Nova. Les appareils sont connectés à Internet et peuvent également être utilisés comme réveils ou minuteries. Si vous ne souhaitez pas l'utiliser, vous pouvez simplement le débrancher de l'alimentation électrique.
 
-In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
+Il n'y a pas d'assistant vocal dans votre chambre. Le panier sur l'étagère contient uniquement le routeur et un petit ordinateur.
 
 ## température et humidité
 
