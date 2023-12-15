@@ -6,61 +6,13 @@ Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch
 
 Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
-<div class="grid">
-
-<figure>
-
-![Zimmer -  Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ':class=img-zoomable')
-
-<figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable')
-
-<figcaption>Zimmer - Schreibtisch</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ':class=img-zoomable')
-
-<figcaption>Zimmer - Schreibtisch</figcaption>
-</figure>
-
-
-<figure>
-
-![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two.jpg ':class=img-zoomable')
-
-<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two-wide.jpg ':class=img-zoomable')
-
-<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
-</figure>
-
-
-<figure>
-
-![Küche](_media/rooms/kueche-herd.jpg ':class=img-zoomable')
-
-<figcaption>Küche - Herd</figcaption>
-</figure>
-
-</div>
-
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ':class=img-zoomable') | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ':class=img-zoomable') |  ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') |
 | ---------------------------------- | ---------------------------------- | ---------------------------------- |
 | Ein-Bett-Konfiguration mit Couch | Zwei-Bett-Konfiguration | Schreibtisch |
-
-| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ':class=img-zoomable') | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') |  ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') |
-| ---------------------------------- | ---------------------------------- | ---------------------------------- |
-| Schreibtisch | Bad | Zimmer |
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ':class=img-zoomable') | ![Küche - Herd](_media/rooms/kueche-herd.jpg ':class=img-zoomable') |  ![Küche Tee](_media/rooms/kueche-tee.jpg ':class=img-zoomable') |
+| Schreibtisch mit Licht | Küche - Herd | Küche - Tee |
+| ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ':class=img-zoomable') | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ':class=img-zoomable') |  ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ':class=img-zoomable') |
+| Schreibtisch mit Licht | Küche - Herd | Küche - Tee |
 
 # Checkin
 
