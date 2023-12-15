@@ -52,9 +52,9 @@
 
 </div>
 
-| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| кухня                                                                                  | погано                                                                                  | Zimmer                                                                                  |
+| ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Односпальна конфігурація з диваном                                            | Письмовий стіл                                                                          | Zimmer                                                                                  |
 
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -141,7 +141,7 @@ Alexa на стіні має назву «Комп’ютер» і також в
 
 # Різне
 
-## Smart Home
+## Розумний будинок
 
 У квартирі є голосові помічники Alexa. Ви можете звернутися до них на ім’я «Комп’ютер» і попросити їх зіграти, наприклад, Deutschlandfunk Nova. Пристрої підключені до Інтернету, а також можуть використовуватися як будильники або таймери. Якщо ви не хочете ним користуватися, ви можете просто відключити його від джерела живлення.
 
