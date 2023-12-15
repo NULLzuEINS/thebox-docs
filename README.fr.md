@@ -6,59 +6,13 @@ Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjour
 
 Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des installations. Voici juste un bref aperçu :
 
-<div class="grid">
-
-<figure>
-
-![Zimmer -  Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Schreibtisch</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Schreibtisch</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two-wide.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
-
-<figcaption>Küche - Herd</figcaption>
-</figure>
-
-</div>
-
-| ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
-| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Configuration un lit avec canapé                                              | Configuration à deux lits                                                   | Bureau                                                                                  |
-
-| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Bureau                                                                                 | Mauvais                                                                                 | Zimmer                                                                                  |
+| ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Configuration un lit avec canapé                                                       | Configuration à deux lits                                                     | Bureau                                                                                  |
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
+| Bureau avec lumière                                                                    | Cuisinière                                                                    | Cuisine - thé                                                                           |
+| ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
+| Bureau avec lumière                                                                    | Cuisinière                                                                    | Cuisine - thé                                                                           |
 
 # Enregistrement
 
@@ -96,7 +50,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 5.  Pizza de
 6.  Eau minérale
 7.  Station de recharge de téléphone portable sur l'étagère
-8.  Machine à laver
+8.  Waschmaschine
 
 ### FAQ - Cuisine
 
@@ -106,7 +60,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ## Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
 
 Vous êtes invités à utiliser l’ordinateur et l’imprimante.
 
@@ -119,7 +73,7 @@ Passwort: thebox
 
 ### Les éléments suivants sont à votre disposition
 
-1.  Tous les meubles et lits
+1.  Alle Möbel und Betten
 2.  Ordinateur
 3.  Télécommandes pour lumières et électricité
 
@@ -129,7 +83,7 @@ Passwort: thebox
 
 ### salle de bain
 
-Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
@@ -143,7 +97,7 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 
 ## Maison intelligente
 
-Il y a des assistants vocaux Alexa dans l'appartement. Vous pouvez les appeler par le nom « Ordinateur » et les faire jouer par exemple à Deutschlandfunk Nova. Les appareils sont connectés à Internet et peuvent également être utilisés comme réveils ou minuteries. Si vous ne souhaitez pas l'utiliser, vous pouvez simplement le débrancher du secteur.
+Il y a des assistants vocaux Alexa dans l'appartement. Vous pouvez les appeler par le nom « Ordinateur » et les faire jouer par exemple à Deutschlandfunk Nova. Les appareils sont connectés à Internet et peuvent également être utilisés comme réveils ou minuteries. Si vous ne souhaitez pas l'utiliser, vous pouvez simplement le débrancher de l'alimentation électrique.
 
 Il n'y a pas d'assistant vocal dans votre chambre. Le panier sur l'étagère contient uniquement le routeur et un petit ordinateur.
 
