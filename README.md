@@ -54,6 +54,11 @@ Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die
 
 </div>
 
+
+
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable' |
+| - | - | - |
+| Küche | Bad | Zimmer |
 # Checkin
 
 ## Schlüssel
@@ -174,5 +179,4 @@ Ich wünsche einen schönen Aufenthalt in Leipzig!
 André
 
 ---
-
 *Made with ❤️ by &nbsp; [docsify](https://docsify.js.org/)*
