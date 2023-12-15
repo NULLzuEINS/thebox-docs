@@ -6,59 +6,13 @@
 
 En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las instalaciones. Aquí hay sólo una breve descripción general:
 
-<div class="grid">
-
-<figure>
-
-![Zimmer -  Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Schreibtisch</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Schreibtisch</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two-wide.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
-
-<figcaption>Küche - Herd</figcaption>
-</figure>
-
-</div>
-
-| ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
-| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Configuración de una cama con sofá.                                           | Configuración de dos camas                                                  | Escritorio                                                                              |
-
-| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Escritorio                                                                             | Malo                                                                                    | Zimmer                                                                                  |
+| ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Configuración de una cama con sofá.                                                    | Configuración de dos camas                                                    | Escritorio                                                                              |
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
+| escritorio con luz                                                                     | Estufa de cocina                                                              | Cocina - té                                                                             |
+| ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
+| escritorio con luz                                                                     | Estufa de cocina                                                              | Cocina - té                                                                             |
 
 # Registrarse
 
@@ -106,7 +60,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 ## Tu cuarto
 
-Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
+Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas los cojines del sofá por un colchón, será una buena cama.
 
 Le invitamos a utilizar la computadora y la impresora.
 
@@ -129,7 +83,7 @@ Passwort: thebox
 
 ### baño
 
-Puedes utilizar la ducha estando de pie. No importa si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
+Puedes utilizar la ducha estando de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
@@ -139,11 +93,11 @@ Puedes colgar toallas en todos los ganchos y poner tus cosas en cualquier lugar.
 
 Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el estante por si quieres contarme algo.
 
-# Sonstiges
+# Misceláneas
 
 ## Casa inteligente
 
-Hay asistentes de voz Alexa en el apartamento. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Los dispositivos están conectados a Internet y también pueden utilizarse como despertadores o temporizadores. Si no desea utilizarlo, simplemente puede desconectarlo de la corriente.
+Hay asistentes de voz Alexa en el apartamento. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Los dispositivos están conectados a Internet y también pueden utilizarse como despertadores o temporizadores. Si no desea utilizarlo, simplemente puede desconectarlo de la fuente de alimentación.
 
 No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene el enrutador y una pequeña computadora.
 
