@@ -2,7 +2,7 @@
 
 こんにちは、「ボックス」へようこそ！私も旅行するときは AirBnB に泊まるのが好きですが、宿泊施設、チェックイン、チェックアウトに関する必要な情報がすべて記載された紙があればいいのにと思うことがあります。これはそれを改善するための私の試みです。
 
-## ピクチャー
+## Bilder
 
 私のAirBnBでは、すべての部屋と設備の詳細な概要をご覧いただけます。以下に簡単な概要を示します。
 
@@ -52,9 +52,9 @@
 
 </div>
 
-| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 台所                                                                                     | 悪い                                                                                      | ジマー                                                                                     |
+| ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| ベッド 1 台とソファの構成                                                                | 机                                                                                       | ジマー                                                                                     |
 
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
