@@ -52,13 +52,13 @@
 
 </div>
 
-| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 厨房                                                                                     | 坏的                                                                                      | 齐默                                                                                      |
+| ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 一张床配置，带沙发                                                                     | 桌子                                                                                      | 齐默                                                                                      |
 
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 厨房                                                                                     | Bad                                                                                     | 齐默                                                                                      |
+| 厨房                                                                                     | 坏的                                                                                      | 齐默                                                                                      |
 
 # 报到
 
@@ -87,7 +87,7 @@ Passwort: landungsbruecken
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Folgende Dinge stehen euch zur Verfügung
+### 以下内容可供您使用
 
 1.  一群
 2.  壶
@@ -102,7 +102,7 @@ Passwort: landungsbruecken
 
 1.  炉子不工作？请说
     > “计算机、工作台和”
-2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
+2.  哪里可以洗？这只适用于浴室。有一个专门用来洗碗的容器。
 
 ## 你的房间
 
@@ -123,7 +123,7 @@ Passwort: thebox
 2.  电脑
 3.  远程控制灯光和电力
 
-### FAQ - Dein Zimmer
+### 常见问题 - 您的房间
 
 1.  灯不亮或闪烁得厉害。请使用带有彩色按钮的小遥控器。
 
@@ -174,11 +174,11 @@ Passwort: thebox
 
 # 问题？
 
-如果您有任何疑问或需要支持，我将很乐意为您提供帮助。如果您赶时间，最好通过电话联系 <a href="tel:+491707353067">+49 170 73 53 067</a>。您还可以使用功能有限的预装消息应用程序 (SMS)。除此之外，我在走廊里有一个记事本和一支笔。
+Wenn ihr Fragen habt, oder Unterstützung benötigt, stehe ich euch gern zur Verfügung. Wenn es eilig ist, dann besten via Telefon <a href="tel:+491707353067">+49 170 73 53 067</a>。您还可以使用功能有限的预装消息应用程序 (SMS)。除此之外，我在走廊里有一个记事本和一支笔。
 
 祝您在莱比锡过得愉快！
 安德烈
 
 * * *
 
-_由 ❤️ 制作  [文档化](https://docsify.js.org/)_
+_由 ❤️ 制作 [文档化](https://docsify.js.org/)_
