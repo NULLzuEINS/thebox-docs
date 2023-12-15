@@ -52,9 +52,9 @@ En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las
 
 </div>
 
-| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Cocina                                                                                 | Malo                                                                                    | Zimmer                                                                                  |
+| ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Configuración de una cama con sofá.                                           | Escritorio                                                                              | Zimmer                                                                                  |
 
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -64,7 +64,7 @@ En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las
 
 ## Llave
 
-Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du Dein Zimmer abschließen kannst.
+Obtienes dos pares de llaves, cada una con una llave para la parte inferior y otra para la parte superior. También hay una llave en un llavero que puedes usar para cerrar tu habitación.
 
 ## acceso a Internet
 
@@ -90,7 +90,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 ### Las siguientes cosas están disponibles para usted
 
 1.  Rebaño
-2.  Wasserkocher
+2.  Pava
 3.  platos cubiertos
 4.  Refrigerador
 5.  Pizza de
@@ -101,7 +101,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 ### Preguntas frecuentes - Cocina
 
 1.  ¿La estufa no funciona? por favor di
-    > "Computer, Werkbank an"
+    > "Computadora, banco de trabajo y"
 2.  ¿Dónde puedo lavarme? Esto sólo funciona en el baño. Hay un recipiente especial para lavar los platos.
 
 ## Tu cuarto
@@ -160,9 +160,9 @@ Leyendote en el espejo del pasillo.
 -   El horario habitual de salida es a las 11 a.m.
 -   Si desea dejar su equipaje el día de salida y recogerlo más tarde ese mismo día, podemos organizarlo individualmente.
 
-## Reinigung
+## limpieza
 
--   Bettzeug kannst Du drauf lassen.
+-   Puedes dejar ropa de cama encima.
 -   También lavo los platos y
 -   También saco la basura.
 
