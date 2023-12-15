@@ -94,7 +94,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 1.  Stove not working? please say
     > "Computer, Workbench an"
-2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
+2.  Where can I wash up? This only works in the bathroom. There is a special container for washing dishes.
 
 ## Your room
 
@@ -113,7 +113,7 @@ Passwort: thebox
 
 1.  All furniture and beds
 2.  Computer
-3.  Fernbedienungen für Licht und Strom
+3.  Remote controls for lights and electricity
 
 ### FAQ - Your room
 
@@ -135,7 +135,7 @@ You are welcome to leave your shoes here. I also have a small notepad on the she
 
 ## Smart Home
 
-In der Wohnung befinden sich Alexa Sprachassistenten. Du kannst sie mit dem Namen "Computer" ansprechen und Dir zum Beispiel Deutschlandfunk Nova spielen lassen. Die Geräte sind mit dem Internet verbunden und können auch als Wecker oder Timer genutzt werden. Wenn Du sie nicht nutzen möchtest, kannst Du sie auch einfach vom Strom trennen.
+There are Alexa voice assistants in the apartment. You can address them by the name “Computer” and have them play Deutschlandfunk Nova, for example. The devices are connected to the Internet and can also be used as alarm clocks or timers. If you don't want to use it, you can simply unplug it from the power.
 
 There are no voice assistants in your room. The basket on the shelf only contains the router and a small computer.
 
