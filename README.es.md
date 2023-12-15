@@ -52,15 +52,19 @@ En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las
 
 </div>
 
-| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch]\(\_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable' |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Cocina                                                                                 | Malo                                                                                    | Zimmer                                                                                   |
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Cocina                                                                                 | Malo                                                                                    | Zimmer                                                                                  |
+
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Cocina                                                                                 | Malo                                                                                    | Zimmer                                                                                  |
 
 # Registrarse
 
 ## Llave
 
-Obtienes dos pares de llaves, cada una con una llave para la parte inferior y otra para la parte superior. También hay una llave en un llavero que puedes usar para cerrar tu habitación.
+Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du Dein Zimmer abschließen kannst.
 
 ## acceso a Internet
 
@@ -86,7 +90,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 ### Las siguientes cosas están disponibles para usted
 
 1.  Rebaño
-2.  Pava
+2.  Wasserkocher
 3.  platos cubiertos
 4.  Refrigerador
 5.  Pizza de
@@ -97,12 +101,12 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 ### Preguntas frecuentes - Cocina
 
 1.  ¿La estufa no funciona? por favor di
-    > "Computadora, banco de trabajo y"
+    > "Computer, Werkbank an"
 2.  ¿Dónde puedo lavarme? Esto sólo funciona en el baño. Hay un recipiente especial para lavar los platos.
 
 ## Tu cuarto
 
-Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas los cojines del sofá por un colchón, será una buena cama.
+Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
 
 Le invitamos a utilizar la computadora y la impresora.
 
@@ -116,7 +120,7 @@ Passwort: thebox
 ### Las siguientes cosas están disponibles para usted
 
 1.  Todos los muebles y camas.
-2.  Computer
+2.  Computadora
 3.  Mandos a distancia para luces y electricidad.
 
 ### Preguntas frecuentes - Tu habitación
@@ -156,9 +160,9 @@ Leyendote en el espejo del pasillo.
 -   El horario habitual de salida es a las 11 a.m.
 -   Si desea dejar su equipaje el día de salida y recogerlo más tarde ese mismo día, podemos organizarlo individualmente.
 
-## limpieza
+## Reinigung
 
--   Puedes dejar ropa de cama encima.
+-   Bettzeug kannst Du drauf lassen.
 -   También lavo los platos y
 -   También saco la basura.
 
