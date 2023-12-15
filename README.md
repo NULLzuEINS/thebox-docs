@@ -58,6 +58,11 @@ Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die
 | ---------------------------------- | ---------------------------------- | ---------------------------------- |
 | Küche | Bad | Zimmer |
 
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') |  ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ':class=img-zoomable') |
+| ---------------------------------- | ---------------------------------- | ---------------------------------- |
+| Küche | Bad | Zimmer |
+
+
 # Checkin
 
 ## Schlüssel
