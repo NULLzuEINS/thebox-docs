@@ -6,59 +6,13 @@
 
 На моєму AirBnB ви отримуєте детальний огляд усіх номерів і зручностей. Ось лише короткий огляд:
 
-<div class="grid">
-
-<figure>
-
-![Zimmer -  Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Schreibtisch</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Schreibtisch</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two-wide.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
-
-<figcaption>Küche - Herd</figcaption>
-</figure>
-
-</div>
-
-| ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
-| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Односпальна конфігурація з диваном                                            | Двоспальна конфігурація                                                     | Письмовий стіл                                                                          |
-
-| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Письмовий стіл                                                                         | погано                                                                                  | Zimmer                                                                                  |
+| ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Односпальна конфігурація з диваном                                                     | Двоспальна конфігурація                                                       | Письмовий стіл                                                                          |
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
+| Письмовий стіл зі світлом                                                              | Кухня - плита                                                                 | Кухня - чай                                                                             |
+| ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
+| Письмовий стіл зі світлом                                                              | Кухня - плита                                                                 | Кухня - чай                                                                             |
 
 # Перевірь
 
@@ -101,12 +55,12 @@ Passwort: landungsbruecken
 ### FAQ - Кухня
 
 1.  Плита не працює? будь ласка, скажи
-    > «Комп’ютер, Workbench»
+    > «Комп’ютер, робочий стіл»
 2.  Де я можу помитися? Це працює лише у ванній кімнаті. Є спеціальна ємність для миття посуду.
 
 ## Ваша кімната
 
-Матраци кладуть один на одного лише для зберігання. Ви можете розподілити їх відповідно до ваших потреб. Якщо замінити подушки на дивані матрацом, то вийде гарне ліжко.
+Матраци кладуть один на одного лише для зберігання. Ви можете розподілити їх відповідно до ваших потреб. Якщо замінити подушки на дивані матрацом, вийде гарне ліжко.
 
 Ви можете користуватися комп’ютером і принтером.
 
@@ -143,7 +97,7 @@ Alexa на стіні має назву «Комп’ютер» і також в
 
 ## Розумний будинок
 
-У квартирі є голосові помічники Alexa. Ви можете звернутися до них на ім’я «Комп’ютер» і попросити їх зіграти, наприклад, Deutschlandfunk Nova. Пристрої підключені до Інтернету, а також можуть використовуватися як будильники або таймери. Якщо ви не хочете ним користуватися, ви можете просто відключити його від мережі.
+У квартирі є голосові помічники Alexa. Ви можете звернутися до них на ім’я «Комп’ютер» і попросити їх зіграти, наприклад, Deutschlandfunk Nova. Пристрої підключені до Інтернету, а також можуть використовуватися як будильники або таймери. Якщо ви не хочете ним користуватися, ви можете просто відключити його від джерела живлення.
 
 У вашій кімнаті немає голосових помічників. У кошику на полиці тільки роутер і маленький комп'ютер.
 
