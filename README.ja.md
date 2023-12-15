@@ -6,59 +6,13 @@
 
 私のAirBnBでは、すべての部屋と設備の詳細な概要をご覧いただけます。以下に簡単な概要を示します。
 
-<div class="grid">
-
-<figure>
-
-![Zimmer -  Ein-Bett-Konfiguration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Ein-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Schreibtisch</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Schreibtisch</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Zimmer - Zwei-Bett-Konfiguration](_media/rooms/zimmer-two-wide.jpg ":class=img-zoomable")
-
-<figcaption>Zimmer - Zwei-Bett-Konfiguration</figcaption>
-</figure>
-
-<figure>
-
-![Küche](_media/rooms/kueche-herd.jpg ":class=img-zoomable")
-
-<figcaption>Küche - Herd</figcaption>
-</figure>
-
-</div>
-
-| ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
-| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| ベッド 1 台とソファの構成                                                                | 2ベッド構成                                                                      | 机                                                                                       |
-
-| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 机                                                                                      | 悪い                                                                                      | ジマー                                                                                     |
+| ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| ベッド 1 台とソファの構成                                                                         | 2ベッド構成                                                                        | 机                                                                                       |
+| ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
+| ライト付きデスク                                                                               | キッチン - コンロ                                                                    | キッチン - お茶                                                                               |
+| ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
+| ライト付きデスク                                                                               | キッチン - コンロ                                                                    | キッチン - お茶                                                                               |
 
 # チェックイン
 
@@ -106,7 +60,7 @@ Passwort: landungsbruecken
 
 ## あなたの部屋
 
-マットレスは保管目的でのみ重ねて置かれます。ニーズに応じて配布できます。ソファの枕をマットレスに置き換えれば、立派なベッドになります。
+マットレスは保管目的でのみ重ねて置かれます。ニーズに応じて配布できます。ソファのクッションをマットレスに置き換えれば、立派なベッドになります。
 
 パソコンとプリンターをご利用いただけますので、ぜひご利用ください。
 
@@ -119,17 +73,17 @@ Passwort: thebox
 
 ### 以下のものがご利用いただけます
 
-1.  Alle Möbel und Betten
+1.  すべての家具とベッド
 2.  コンピューター
 3.  照明や電気のリモコン
 
 ### FAQ - お部屋について
 
-1.  ライトが点灯したり激しく点滅したりしません。カラフルなボタンが付いた小さなリモコンを使用してください。
+1.  ライトが点灯したり、激しく点滅したりしません。カラフルなボタンが付いた小さなリモコンを使用してください。
 
 ### バスルーム
 
-Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und häng den Badewannenvorleger  zum trocknen über der Heizung auf.
+立ったままシャワーが使えます。多少地面が濡れても問題ありません。水を1/3にして、バスマットをヒーターの上に掛けて乾燥させます。
 
 壁にある Alexa は「コンピューター」という名前で、お気に入りの音楽やラジオも再生します。例：「_コンピューター、Deutschlandfunk Nova をプレイしてください_”
 
@@ -162,15 +116,15 @@ Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Bo
 
 ## クリーニング
 
--   寝具を置いたままにできます。
--   お皿も洗ってますし、
+-   寝具類はそのまま置いておいても大丈夫です。
+-   食器も洗ってますし、
 -   ゴミも出します。
 
 > 短いバージョン: 鍵をそこに置いて、ドアを閉めて、それだけです。 😀
 
 # チップ
 
-Leipzig MOVE アプリを使用すると、1 回あたり 15 分間の乗車を 10 回無料で利用できます_ネクストバイク_。自転車を大通り（地図上の紫色）に駐車しない場合は、料金が高くなることに注意してください。電動スクーターは、特定の駐車スペースにのみ駐車できます。
+Leipzig MOVE アプリを使用すると、1 回につき 15 分間の乗車を 10 回無料で利用できます_ネクストバイク_。自転車を大通り（地図上の紫色）に駐車しない場合は、料金が高くなることに注意してください。電動スクーターは、特定の駐車スペースにのみ駐車できます。
 
 # 質問がありますか?
 
