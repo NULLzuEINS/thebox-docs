@@ -21,7 +21,11 @@ jobs:
       - name: Adding README - Czech
         uses: dephraiim/translate-readme@main
         with:
-          LANG: cz
+          LANG: cs
+      - name: Adding README - Greek
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: el
       - name: Adding README - Spanish
         uses: dephraiim/translate-readme@main
         with:

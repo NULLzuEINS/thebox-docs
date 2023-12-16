@@ -9,12 +9,13 @@
 <div style="font-size: 1.6rem">
 
 [🇨🇳](README.zh-CN.md) ‧
+[🇨🇿](README.cs.md) ‧
 [🇫🇷](README.fr.md) ‧
 [🇬🇧](README.en.md) ‧
+[🇬🇷](README.el.md) ‧
 [🇪🇸](README.es.md) ‧
 [🇯🇵](README.ja.md) ‧
 [🇵🇱](README.pl.md) ‧
-[🇨🇿](README.cz.md) ‧
 [🇺🇦](README.uk.md)
 
 </div>
