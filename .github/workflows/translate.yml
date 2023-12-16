@@ -18,6 +18,10 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: zh-CN
+      - name: Adding README - Czech
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: cz
       - name: Adding README - Spanish
         uses: dephraiim/translate-readme@main
         with:
@@ -34,6 +38,10 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: ja
+      - name: Adding README - Polski
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: pl
       - name: Adding README - Ukrainian
         uses: dephraiim/translate-readme@main
         with:

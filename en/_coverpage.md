@@ -13,6 +13,8 @@
 [🇬🇧](README.en.md) ‧
 [🇪🇸](README.es.md) ‧
 [🇯🇵](README.ja.md) ‧
+[🇵🇱](README.pl.md) ‧
+[🇨🇿](README.cz.md) ‧
 [🇺🇦](README.uk.md)
 
 </div>
