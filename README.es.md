@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-O escaneas este código QR, te conectará automáticamente a la red:
+Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -60,7 +60,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 ## Tu cuarto
 
-Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas los cojines del sofá por un colchón, será una buena cama.
+Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
 
 Le invitamos a utilizar la computadora y la impresora.
 
