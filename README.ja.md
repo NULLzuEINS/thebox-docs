@@ -1,6 +1,6 @@
 # いらっしゃいませ
 
-こんにちは、「ボックス」へようこそ！私も旅行するときは AirBnB に泊まるのが好きですが、宿泊施設、チェックイン、チェックアウトに関する必要な情報がすべて記載された紙があればいいのにと思うことがあります。これはそれを改善するための私の試みです。
+Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
 
 ## ピクチャー
 
@@ -44,7 +44,7 @@ Passwort: landungsbruecken
 ### 以下のものがご利用いただけます
 
 1.  群れ
-2.  ケトル
+2.  Wasserkocher
 3.  食器カトラリー
 4.  冷蔵庫
 5.  ピザオブ
@@ -60,7 +60,7 @@ Passwort: landungsbruecken
 
 ## あなたの部屋
 
-マットレスは保管目的でのみ重ねて置かれます。ニーズに応じて配布できます。ソファのクッションをマットレスに置き換えれば、立派なベッドになります。
+マットレスは保管目的でのみ重ねて置かれます。ニーズに応じて配布できます。ソファの枕をマットレスに置き換えれば、立派なベッドになります。
 
 パソコンとプリンターをご利用いただけますので、ぜひご利用ください。
 
@@ -79,7 +79,7 @@ Passwort: thebox
 
 ### FAQ - お部屋について
 
-1.  ライトが点灯したり、激しく点滅したりしません。カラフルなボタンが付いた小さなリモコンを使用してください。
+1.  ライトが点灯したり激しく点滅したりしません。カラフルなボタンが付いた小さなリモコンを使用してください。
 
 ### バスルーム
 
@@ -87,7 +87,7 @@ Passwort: thebox
 
 壁にある Alexa は「コンピューター」という名前で、お気に入りの音楽やラジオも再生します。例：「_コンピューター、Deutschlandfunk Nova をプレイしてください_”
 
-すべてのフックにタオルを掛けて、どこにでも物を置くことができます。
+Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstellen.
 
 ### 廊下
 
@@ -117,7 +117,7 @@ Passwort: thebox
 ## クリーニング
 
 -   寝具類はそのまま置いておいても大丈夫です。
--   食器も洗ってますし、
+-   お皿も洗ってますし、
 -   ゴミも出します。
 
 > 短いバージョン: 鍵をそこに置いて、ドアを閉めて、それだけです。 😀
