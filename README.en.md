@@ -33,7 +33,7 @@ Or you scan this QR code, it will automatically connect you to the network:
 
 # The rooms
 
-![Detailansicht](_media/thebox-map-detail.png)
+!\[[thebox-map.png]]
 
 ## Kitchen
 
@@ -48,7 +48,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 3.  Dishes cutlery
 4.  Refrigerator
 5.  Pizzaof
-6.  Mineral water
+6.  Mineralwasser
 7.  Cell phone charging station on the shelf
 8.  washing machine
 
@@ -60,7 +60,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ## Your room
 
-The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
 
 You are welcome to use the computer and printer.
 
@@ -76,6 +76,10 @@ Passwort: thebox
 1.  All furniture and beds
 2.  Computer
 3.  Remote controls for lights and electricity
+
+### Remote controls
+
+![Küche](_media/rooms/remote-lights.png ":size=300")
 
 ### FAQ - Your room
 
