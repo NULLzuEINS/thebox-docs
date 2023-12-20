@@ -12,7 +12,7 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Bureau avec lumière                                                                    | Cuisinière                                                                    | Cuisine - thé                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Bureau avec lumière                                                                    | Cuisinière                                                                    | Cuisine - thé                                                                           |
+| Bureau avec lumière                                                                    | Cuisinière                                                                    | Küche - Tee                                                                             |
 
 # Enregistrement
 
@@ -27,13 +27,13 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Ou vous scannez ce QR code, il vous connectera automatiquement au réseau :
+Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 ![WiFi](_media/wlan.png ":size=200")
 
 # Les chambres
 
-![Detailansicht](_media/thebox-map-detail.png)
+!\[[thebox-map.png]]
 
 ## Cuisine
 
@@ -54,13 +54,13 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ### FAQ - Cuisine
 
-1.  Le poêle ne fonctionne pas ? s'il te plaît dis
+1.  Herd funktioniert nicht? Bitte sage
     > "Ordinateur, établi et"
 2.  Où puis-je me laver ? Cela ne fonctionne que dans la salle de bain. Il existe un récipient spécial pour laver la vaisselle.
 
 ## Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
 
 Vous êtes invités à utiliser l’ordinateur et l’imprimante.
 
@@ -76,6 +76,10 @@ Passwort: thebox
 1.  Tous les meubles et lits
 2.  Ordinateur
 3.  Télécommandes pour lumières et électricité
+
+### Télécommandes
+
+![Küche](_media/rooms/remote-lights.png ":size=300")
 
 ### FAQ - Votre chambre
 
@@ -99,7 +103,7 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 
 Il y a des assistants vocaux Alexa dans l'appartement. Vous pouvez les appeler par le nom « Ordinateur » et les faire jouer par exemple à Deutschlandfunk Nova. Les appareils sont connectés à Internet et peuvent également être utilisés comme réveils ou minuteries. Si vous ne souhaitez pas l'utiliser, vous pouvez simplement le débrancher de l'alimentation électrique.
 
-In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
+Il n'y a pas d'assistant vocal dans votre chambre. Le panier sur l'étagère contient uniquement le routeur et un petit ordinateur.
 
 ## température et humidité
 
@@ -116,7 +120,7 @@ Je te lis dans le miroir du couloir.
 
 ## nettoyage
 
--   Vous pouvez y laisser de la literie.
+-   Bettzeug kannst Du drauf lassen.
 -   Je fais aussi la vaisselle et
 -   Je sors aussi les poubelles.
 
