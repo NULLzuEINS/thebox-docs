@@ -33,7 +33,7 @@ Nebo naskenujete tento QR kód, automaticky vás připojí k síti:
 
 # Pokoje
 
-![Detailansicht](_media/thebox-map-detail.png)
+!\[[thebox-map.png]]
 
 ## Kuchyně
 
@@ -76,6 +76,10 @@ Passwort: thebox
 1.  Veškerý nábytek a postele
 2.  Počítač
 3.  Dálkové ovládání světel a elektřiny
+
+### Dálková ovládání
+
+![Küche](_media/rooms/remote-lights.png ":size=300")
 
 ### FAQ - Váš pokoj
 
@@ -126,7 +130,7 @@ Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, ab
 
 S aplikací Leipzig MOVE získáte 10 jízd zdarma, každá po 15 minutách_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech.
 
-# Fragen?
+# Otázky?
 
 Pokud máte nějaké dotazy nebo potřebujete podporu, rád vám pomohu. Pokud spěcháte, je nejlepší tak učinit telefonicky <a href="tel:+491707353067">+49 170 73 53 067</a>. Můžete také použít předinstalovanou aplikaci messenger s omezenou funkčností (SMS). Jinak mám na chodbě poznámkový blok a propisku.
 
