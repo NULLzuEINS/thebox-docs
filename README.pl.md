@@ -10,9 +10,9 @@ Na moim AirBnB otrzymasz szczegółowy przegląd wszystkich pokoi i udogodnień.
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Konfiguracja z jednym łóżkiem i kanapą                                                 | Konfiguracja z dwoma łóżkami                                                  | Biurko                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
+| Schreibtisch mit Licht                                                                 | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
+| Biurko ze światłem                                                                     | Kuchenka                                                                      | Küche - Tee                                                                             |
 
 # Zameldować się
 
@@ -33,11 +33,11 @@ Lub zeskanuj ten kod QR, automatycznie połączy Cię z siecią:
 
 # Pokoje
 
-![Detailansicht](_media/thebox-map-detail.png)
+!\[[thebox-map.png]]
 
 ## Kuchnia
 
-Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. Niestety mycie naczyń można wykonywać wyłącznie w zlewie w łazience. Ale jest specjalny pojemnik do mycia naczyń.
+Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. Niestety zmywanie można robić tylko w zlewie w łazience. Ale jest specjalny pojemnik do mycia naczyń.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -64,7 +64,7 @@ Materace są ułożone jeden na drugim wyłącznie w celu przechowywania. Możes
 
 Zapraszamy do korzystania z komputera i drukarki.
 
-### Dane logowania do komputera to:
+### Die Zugangsdaten fü den Computer sind
 
 ```txt
 Nutzer:   thebox
@@ -76,6 +76,10 @@ Passwort: thebox
 1.  Wszystkie meble i łóżka
 2.  Komputer
 3.  Piloty do sterowania oświetleniem i prądem
+
+### Zdalne sterowanie
+
+![Küche](_media/rooms/remote-lights.png ":size=300")
 
 ### Często zadawane pytania - Twój pokój
 
@@ -97,7 +101,7 @@ Zapraszamy do pozostawienia tutaj swoich butów. Mam też na półce mały notat
 
 ## Inteligentny dom
 
-W mieszkaniu znajdują się asystenci głosowi Alexa. Możesz zwrócić się do nich nazwą „Komputer” i na przykład poprosić ich o zagranie w Deutschlandfunk Nova. Urządzenia są podłączone do Internetu i mogą służyć również jako budziki lub timery. Jeśli nie chcesz go używać, możesz po prostu odłączyć go od źródła zasilania.
+W mieszkaniu znajdują się asystenci głosowi Alexa. Możesz zwrócić się do nich nazwą „Komputer” i na przykład poprosić ich o zagranie w Deutschlandfunk Nova. Urządzenia są podłączone do Internetu i mogą służyć również jako budziki lub timery. Jeśli nie chcesz z niego korzystać, możesz po prostu odłączyć go od źródła zasilania.
 
 W Twoim pokoju nie ma asystentów głosowych. W koszyku na półce mieści się tylko router i mały komputer.
 
@@ -108,7 +112,7 @@ Czytam cię w lustrze na korytarzu.
 
 # Wymeldować się
 
-## Klucz
+## Schlüssel
 
 -   W zależności od tego, jaki jest dzień tygodnia, możemy pożegnać się osobiście lub po prostu odłożyć klucze na biurko i zamknąć za sobą drzwi.
 -   Standardowy czas wymeldowania to 11:00.
@@ -118,13 +122,13 @@ Czytam cię w lustrze na korytarzu.
 
 -   Można na nim zostawić pościel.
 -   Zmywam też naczynia i
--   den Müll bring ich auch raus.
+-   Wynoszę też śmieci.
 
 > Wersja krótka: Zostaw klucz tam, zamknij drzwi i to wszystko. 😀
 
 # Porady
 
-Mit der Leipzig MOVE App, bekommt ihr 10 Freifahrten à 15 Minuten für die _Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
+Dzięki aplikacji Leipzig MOVE zyskujesz 10 bezpłatnych przejazdów po 15 minut każdy_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
 
 # Pytania?
 
