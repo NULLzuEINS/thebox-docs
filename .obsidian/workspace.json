@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "448a5e0f970cccbc",
+        "id": "4f68bd3da12217be",
         "type": "tabs",
         "children": [
           {
-            "id": "da9d741bf49ab695",
+            "id": "ab6ac9251ab7ed5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "749607ca6ca1cb76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,12 +160,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da9d741bf49ab695",
+  "active": "749607ca6ca1cb76",
   "lastOpenFiles": [
+    "README.pl.md",
+    "README.el.md",
+    "README.cs.md",
+    "_media/rooms/remote-lights.png",
+    "Excalidraw/Drawing 2023-12-20 23.20.32.excalidraw.md",
+    "README.md",
+    "Excalidraw",
+    "_media/thebox-map.png",
+    "_media/thebox-map-border.png",
+    "_sketches/raumplan.excalidraw.md",
+    "_media/andre-lademann.png",
+    "_sketches",
     "_media/pdf/README.pdf",
     "_media/pdf",
     "README.fr.md",
-    "README.md",
     "_media/rooms/zimmer-two-wide.jpg"
   ]
 }

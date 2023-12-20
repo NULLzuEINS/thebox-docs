@@ -32,9 +32,7 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 ![WiFi](_media/wlan.png ':size=200')
 
 # Die Zimmer
-
-![Detailansicht](_media/thebox-map-detail.png)
-
+![[thebox-map.png]]
 ## Küche
 
 Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
@@ -77,6 +75,9 @@ Passwort: thebox
 2. Computer
 3. Fernbedienungen für Licht und Strom
 
+### Fernbedienungen
+
+![Küche](_media/rooms/remote-lights.png ':size=300')
 ### FAQ - Dein Zimmer
 
 1. Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
