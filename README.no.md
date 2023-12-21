@@ -10,7 +10,7 @@ På min AirBnB får du en detaljert oversikt over alle rommene og fasilitetene. 
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | En seng konfigurasjon med sofa                                                         | Konfigurasjon med to senger                                                   | Pulten                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Skrivebord med lys                                                                     | Kjøkken - komfyr                                                              | Kjøkken - te                                                                            |
+| Skrivebord med lys                                                                     | Kjøkken - komfyr                                                              | Küche - Tee                                                                             |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Skrivebord med lys                                                                     | Kjøkken - komfyr                                                              | Kjøkken - te                                                                            |
 
@@ -64,7 +64,7 @@ Madrassene er plassert oppå hverandre kun for oppbevaringsformål. Du kan distr
 
 Du er velkommen til å bruke datamaskinen og skriveren.
 
-### Påloggingsdetaljene for datamaskinen er
+### Påloggingsdetaljene for datamaskinen (iMac) er
 
 ```txt
 Nutzer:   thebox
@@ -79,10 +79,13 @@ Passwort: thebox
 
 ### Fjernkontroller
 
+Et gammelt tysk ordtak gjelder for alle fjernkontroller: «Å prøve er bedre enn å studere». Du kan ikke bryte noe. Trykk på noen få knapper og se hva som skjer. Hvis du fortsatt ønsker å studere, her er den rette lesestoffet for deg:
+
 | Illustrasjon                                              | Beskrivelse                                                                                                                                                                                                               |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Skrivebordslampe<br>D:_fil_<br>Mester: Bytt alt på samme tid                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Før du kan bruke den, sørg for at lysbryteren ved inngangen er satt til "på".**<br>Første linje: lysstyrke, på/av<br>Fargede knapper: Du kan bruke denne til å endre fargene<br>Grå knapper: Bytt mellom ulike effekter |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Dette er fjernkontrollen til datamaskinen (iMac)._For å bruke datamaskinen, trykk på A-knappen på den første fjernkontrollen. Den aktiverer strømforsyningen til datamaskinen og Bluetooth-boksen._                       |
 
 ### FAQ - Rommet ditt
 
@@ -124,7 +127,7 @@ På gårdsplassen vår kan du koble sammen syklene og ta bort søppelet ditt.
 
 Enten bruker du hoveddørnøkkelen, eller så strekker du deg gjennom porten og kjenner på knappen for å åpne døren. Mens du holder inne knappen kan du åpne døren.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[omgivelser-knapp.jpeg]]
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
 ### Gul? Blå? Grønn? Brun?
 
