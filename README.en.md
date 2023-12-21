@@ -120,6 +120,12 @@ In our courtyard you can connect your bikes and take away your rubbish.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
+### How does the gate open?
+
+Either you use the front door key, or you reach through the gate and feel the button to open the door. While you hold down the button you can open the door.
+
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[surroundings-button.jpeg]]
+
 ### Yellow? Blue? Green? Brown?
 
 Are you wondering why the garbage cans have different colors? If you are unsure, always put the trash in the green bin. The residual waste ends up in there. Professionals put paper waste in the blue bin, recyclables in the yellow bin and organic waste in the brown bin.
