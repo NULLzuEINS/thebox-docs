@@ -12,7 +12,7 @@ No meu AirBnB você tem uma visão detalhada de todos os quartos e instalações
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Secretária com luz                                                                     | Cozinha - fogão                                                               | Cozinha - chá                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Secretária com luz                                                                     | Küche - Herd                                                                  | Cozinha - chá                                                                           |
+| Secretária com luz                                                                     | Cozinha - fogão                                                               | Cozinha - chá                                                                           |
 
 # Check-in
 
@@ -20,7 +20,7 @@ No meu AirBnB você tem uma visão detalhada de todos os quartos e instalações
 
 Você recebe dois pares de chaves, cada um com uma chave para a parte inferior e outra para a parte superior. Há também uma chave em um chaveiro que você pode usar para trancar seu quarto.
 
-## Internetzugang
+## Acesso à internet
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -55,12 +55,12 @@ Como costumo comer lá embaixo com minha família, a cozinha é muito espartana.
 ### Perguntas frequentes - Cozinha
 
 1.  Fogão não funciona? por favor diga
-    > "Computer, Werkbank an"
+    > "Computador, Bancada de trabalho e"
 2.  Onde posso me lavar? Isso só funciona no banheiro. Existe um recipiente especial para lavar louça.
 
 ## Seu quarto
 
-Os colchões são colocados uns sobre os outros apenas para fins de armazenamento. Você pode distribuí-los de acordo com suas necessidades. Se você substituir as almofadas do sofá por um colchão, fica uma boa cama.
+Os colchões são colocados uns sobre os outros apenas para fins de armazenamento. Você pode distribuí-los de acordo com suas necessidades. Se você substituir os travesseiros do sofá por um colchão, fica uma boa cama.
 
 Você está convidado a usar o computador e a impressora.
 
@@ -81,7 +81,7 @@ Passwort: thebox
 
 | Ilustração                                                | Descrição                                                                                                                                                                                                                                                               |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caixa Bluetooth<br>B: Luzes de fada<br>C: Candeeiro de mesa<br>D:_arquivo_<br>Mestre: Troque tudo ao mesmo tempo                                                                                                                                                     |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caixa Bluetooth<br>B: Luzes de fada<br>C: Candeeiro de mesa<br>D: _arquivo_<br>Mestre: Troque tudo ao mesmo tempo                                                                                                                                                    |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usá-lo, certifique-se de que o interruptor da luz da entrada esteja na posição "ligado".**<br>Primeira linha: brilho, ligar/desligar<br>Botões coloridos: você pode usar isso para alterar as cores<br>Botões cinza: Alternar entre diferentes efeitos |
 
 ### Perguntas frequentes - Seu quarto
@@ -90,7 +90,7 @@ Passwort: thebox
 
 ### banheiro
 
-Você pode usar o chuveiro em pé. Não há problema se o solo ficar um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
+Você pode usar o chuveiro em pé. Não importa se o chão fica um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
 
 A Alexa na parede atende pelo nome de “Computador” e também toca sua música ou rádio favorita. Por exemplo. "_Computador, jogue Deutschlandfunk Nova_"
 
@@ -139,7 +139,7 @@ Se você acredita nas estatísticas, então o maior número de bicicletas per ca
 
 ### Que alternativas existem?
 
-Com o[Leipzig MOVE App](https://leipzig-move.de/), bekommt ihr 10 Freifahrten à 15 Minuten für die _Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E, claro, também há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
+Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para eles_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E é claro que há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
 
 # Confira
 
@@ -159,7 +159,7 @@ Com o[Leipzig MOVE App](https://leipzig-move.de/), bekommt ihr 10 Freifahrten à
 
 # Pontas
 
-Com o aplicativo Leipzig MOVE, você ganha 10 viagens gratuitas de 15 minutos cada_Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento.
+Com o aplicativo Leipzig MOVE, você ganha 10 viagens gratuitas de 15 minutos cada_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento.
 
 # Questões?
 
@@ -170,4 +170,4 @@ André
 
 * * *
 
-_Made with ❤️ by  [documentar](https://docsify.js.org/)_
+_Feito com ❤️ por [documentar](https://docsify.js.org/)_
