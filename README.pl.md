@@ -10,7 +10,7 @@ Na moim AirBnB otrzymasz szczegółowy przegląd wszystkich pokoi i udogodnień.
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Konfiguracja z jednym łóżkiem i kanapą                                                 | Konfiguracja z dwoma łóżkami                                                  | Biurko                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Schreibtisch mit Licht                                                                 | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
+| Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
 
@@ -52,7 +52,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 7.  Stacja ładowania telefonów komórkowych na półce
 8.  pralka
 
-### FAQ - Küche
+### Często zadawane pytania - Kuchnia
 
 1.  Piec nie działa? proszę powiedz
     > „Komputer, stół warsztatowy”
@@ -64,7 +64,7 @@ Materace są ułożone jeden na drugim wyłącznie w celu przechowywania. Możes
 
 Zapraszamy do korzystania z komputera i drukarki.
 
-### Dane logowania do komputera to:
+### Dane logowania do komputera (iMac) to
 
 ```txt
 Nutzer:   thebox
@@ -79,10 +79,13 @@ Passwort: thebox
 
 ### Zdalne sterowanie
 
+Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować niż się uczyć”. Nie możesz niczego złamać. Naciśnij kilka przycisków i zobacz, co się stanie. Jeśli nadal chcesz się uczyć, oto odpowiednia lektura dla Ciebie:
+
 | Ilustracja                                                | Opis                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Odp.: Bluetoothbox<br>B: Bajkowe światełka<br>C: Lampka na biurko<br>D:_plik_<br>Mistrz: Przełącz wszystko w tym samym czasie                                                                                                                                                    |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Zanim będziesz mógł z niego skorzystać, upewnij się, że włącznik światła przy wejściu jest ustawiony na „włączony”.**<br>Pierwsza linia: jasność, wł./wył<br>Kolorowe przyciski: Można ich używać do zmiany kolorów<br>Szare przyciski: przełączanie pomiędzy różnymi efektami |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | To jest pilot do komputera (iMac)._Aby skorzystać z komputera, naciśnij przycisk A na pierwszym pilocie. Aktywuje zasilanie komputera i modułu Bluetooth._                                                                                                                       |
 
 ### Często zadawane pytania - Twój pokój
 
@@ -124,7 +127,7 @@ Na naszym dziedzińcu możesz podłączyć rowery i wywieźć śmieci.
 
 Albo użyjesz klucza do drzwi wejściowych, albo sięgniesz przez bramę i poczujesz przycisk, aby otworzyć drzwi. Przytrzymując przycisk możesz otworzyć drzwi.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[przycisk otoczenia-jpeg.]]
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
 ### Żółty? Niebieski? Zielony? Brązowy?
 
