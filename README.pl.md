@@ -56,7 +56,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 
 1.  Piec nie działa? proszę powiedz
     > „Komputer, stół warsztatowy”
-2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
+2.  Gdzie mogę się umyć? To działa tylko w łazience. Jest specjalny pojemnik do mycia naczyń.
 
 ## Twój pokój
 
@@ -151,7 +151,7 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz dla nich 10 bezpła
 
 > Wersja krótka: Zostaw klucz tam, zamknij drzwi i to wszystko. 😀
 
-# Tipps
+# Porady
 
 Dzięki aplikacji Leipzig MOVE zyskujesz 10 bezpłatnych przejazdów po 15 minut każdy_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
 
