@@ -20,7 +20,7 @@ Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zd
 
 Získáte dva páry klíčů, každý s jedním klíčem pro spodní a jedním pro horní. Na klíčence je také klíč, kterým můžete zamknout svůj pokoj.
 
-## Přístup na internet
+## Internetzugang
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -50,7 +50,7 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 5.  Pizzaof
 6.  Minerální voda
 7.  Nabíjecí stanice pro mobilní telefony na polici
-8.  pračka
+8.  Waschmaschine
 
 ### FAQ - Kuchyně
 
@@ -64,7 +64,7 @@ Matrace se pokládají na sebe pouze pro účely skladování. Můžete je distr
 
 Můžete používat počítač a tiskárnu.
 
-### Přihlašovací údaje k počítači jsou
+### Přihlašovací údaje pro počítač (iMac) jsou
 
 ```txt
 Nutzer:   thebox
@@ -79,10 +79,13 @@ Passwort: thebox
 
 ### Dálková ovládání
 
+Pro všechna dálková ovládání platí staré německé přísloví: „Zkoušet je lepší než studovat“. Nemůžeš nic rozbít. Stiskněte několik tlačítek a uvidíte, co se stane. Pokud stále chcete studovat, zde je to správné čtení pro vás:
+
 | Ilustrace                                                 | Popis                                                                                                                                                                                                                                        |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Pohádková světla<br>C: Stolní lampa<br>D:_soubor_<br>Master: Přepněte vše současně                                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Než jej budete moci použít, ujistěte se, že je spínač světel u vchodu nastaven na „zapnuto“.**<br>První řádek: jas, zapnuto/vypnuto<br>Barevná tlačítka: Toto můžete použít ke změně barev<br>Šedá tlačítka: Přepínání mezi různými efekty |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Toto je dálkový ovladač pro počítač (iMac)._Chcete-li použít počítač, stiskněte tlačítko A na prvním dálkovém ovladači. Aktivuje napájení počítače a Bluetooth boxu._                                                                        |
 
 ### FAQ - Váš pokoj
 
@@ -92,7 +95,7 @@ Passwort: thebox
 
 Sprchu můžete používat ve stoje. Nevadí, když se půda trochu namočí. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
 
-Die Alexa an der Wand hört auf den Namen "Computer" und spielt dir auch Deine Lieblingsmusik oder Radio. Z. B. "_Počítači, hraj Deutschlandfunk Nova_"
+Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
 
 Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli.
 
@@ -124,7 +127,7 @@ Na našem dvoře si můžete připojit kola a odvézt odpadky.
 
 Buď použijete klíč od předních dveří, nebo sáhnete skrz bránu a nahmatáte tlačítko k otevření dveří. Podržením tlačítka můžete otevřít dveře.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[ambient-button.jpeg]]
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
 ### Žlutá? Modrý? Zelená? Hnědý?
 
@@ -139,7 +142,7 @@ Pokud věříte statistikám, tak v Lipsku se ročně ukradne nejvíce kol na hl
 
 ### Jaké alternativy existují?
 
-s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte za ně 10 bezplatných jízd po 15 minutách_Nextbikes_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden. Es gibt auch ein Free-Float-Car-Shairing-System. Das heißt bei uns [cityflitzer](https://cityflitzer.de/). A samozřejmostí jsou autobusy a vlaky, za které můžete platit i přes aplikaci Leipzig MOVE.
+s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte za ně 10 bezplatných jízd po 15 minutách_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmostí jsou autobusy a vlaky, za které můžete platit i přes aplikaci Leipzig MOVE.
 
 # Překontrolovat
 
@@ -151,7 +154,7 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte za ně 10 bezplatn
 
 ## čištění
 
--   Bettzeug kannst Du drauf lassen.
+-   Můžete na něm nechat ložní prádlo.
 -   Také myji nádobí a
 -   Také vynáším odpadky.
 
