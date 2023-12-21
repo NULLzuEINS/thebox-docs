@@ -2,9 +2,9 @@
 
 ¡Hola y bienvenidos a la “Caja”! Cuando viajo, también me gusta quedarme en AirBnB y a veces desearía tener un papel con toda la información necesaria sobre el alojamiento, check-in y check-out y este es mi intento de mejorarlo.
 
-## Fotos
+## Bilder
 
-En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las instalaciones. Aquí hay sólo una breve descripción general:
+Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -64,7 +64,7 @@ Los colchones se colocan uno encima del otro únicamente con fines de almacenami
 
 Le invitamos a utilizar la computadora y la impresora.
 
-### Los detalles de inicio de sesión para la computadora son
+### Los detalles de inicio de sesión para la computadora (iMac) son
 
 ```txt
 Nutzer:   thebox
@@ -79,10 +79,13 @@ Passwort: thebox
 
 ### Controles remotos
 
+Un viejo dicho alemán se aplica a todos los mandos a distancia: "Intentar es mejor que estudiar". No puedes romper nada. Presione algunos botones y vea qué sucede. Si aún quieres estudiar, aquí tienes la lectura adecuada para ti:
+
 | Ilustración                                               | Descripción                                                                                                                                                                                                                                                            |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caja Bluetooth<br>B: luces de hadas<br>C: lámpara de escritorio<br>D:_leer_<br>Maestro: cambia todo al mismo tiempo                                                                                                                                                 |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usarlo, asegúrese de que el interruptor de la luz en la entrada esté en "encendido".**<br>Primera línea: brillo, encendido/apagado<br>Botones de colores: puedes usarlos para cambiar los colores.<br>Botones grises: cambia entre diferentes efectos |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Este es el control remoto de la computadora (iMac)._Para usar la computadora, presione el botón A en el primer control remoto. Activa la fuente de alimentación del ordenador y de la caja Bluetooth._                                                                 |
 
 ### Preguntas frecuentes - Tu habitación
 
@@ -124,7 +127,7 @@ En nuestro patio podréis conectar vuestras bicicletas y retirar la basura.
 
 O usas la llave de la puerta principal o cruzas la puerta y sientes el botón para abrir la puerta. Mientras mantienes pulsado el botón podrás abrir la puerta.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[botón-entorno.jpeg]]
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
 ### ¿Amarillo? ¿Azul? ¿Verde? ¿Marrón?
 
