@@ -10,9 +10,9 @@ No meu AirBnB você tem uma visão detalhada de todos os quartos e instalações
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Configuração de uma cama com sofá                                                      | Configuração de duas camas                                                    | Mesa                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Secretária com luz                                                                     | Küche - Herd                                                                  | Cozinha - chá                                                                           |
-| ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Secretária com luz                                                                     | Cozinha - fogão                                                               | Cozinha - chá                                                                           |
+| ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
+| Secretária com luz                                                                     | Küche - Herd                                                                  | Cozinha - chá                                                                           |
 
 # Check-in
 
@@ -20,7 +20,7 @@ No meu AirBnB você tem uma visão detalhada de todos os quartos e instalações
 
 Você recebe dois pares de chaves, cada um com uma chave para a parte inferior e outra para a parte superior. Há também uma chave em um chaveiro que você pode usar para trancar seu quarto.
 
-## Acesso à internet
+## Internetzugang
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -55,7 +55,7 @@ Como costumo comer lá embaixo com minha família, a cozinha é muito espartana.
 ### Perguntas frequentes - Cozinha
 
 1.  Fogão não funciona? por favor diga
-    > "Computador, Bancada de trabalho e"
+    > "Computer, Werkbank an"
 2.  Onde posso me lavar? Isso só funciona no banheiro. Existe um recipiente especial para lavar louça.
 
 ## Seu quarto
@@ -81,7 +81,7 @@ Passwort: thebox
 
 | Ilustração                                                | Descrição                                                                                                                                                                                                                                                               |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caixa Bluetooth<br>B: Lichterkette<br>C: Candeeiro de mesa<br>D:_arquivo_<br>Mestre: Troque tudo ao mesmo tempo                                                                                                                                                      |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caixa Bluetooth<br>B: Luzes de fada<br>C: Candeeiro de mesa<br>D:_arquivo_<br>Mestre: Troque tudo ao mesmo tempo                                                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usá-lo, certifique-se de que o interruptor da luz da entrada esteja na posição "ligado".**<br>Primeira linha: brilho, ligar/desligar<br>Botões coloridos: você pode usar isso para alterar as cores<br>Botões cinza: Alternar entre diferentes efeitos |
 
 ### Perguntas frequentes - Seu quarto
@@ -98,7 +98,7 @@ Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualque
 
 ### Corredor
 
-Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
+Você está convidado a deixar seus sapatos aqui. Também tenho um pequeno bloco de notas na prateleira, caso você queira me contar alguma coisa.
 
 # Diversos
 
@@ -120,6 +120,12 @@ No nosso pátio você pode conectar suas bicicletas e levar seu lixo.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
+### Como o portão abre?
+
+Ou você usa a chave da porta da frente ou passa pelo portão e sente o botão para abrir a porta. Enquanto você mantém pressionado o botão, você pode abrir a porta.
+
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[arredores-botão.jpeg]]
+
 ### Amarelo? Azul? Verde? Marrom?
 
 Você está se perguntando por que as latas de lixo têm cores diferentes? Se não tiver certeza, coloque sempre o lixo na lixeira verde. Os resíduos residuais vão parar lá. Os profissionais colocam os resíduos de papel na lixeira azul, os recicláveis ​​na lixeira amarela e os resíduos orgânicos na lixeira marrom.
@@ -133,7 +139,7 @@ Se você acredita nas estatísticas, então o maior número de bicicletas per ca
 
 ### Que alternativas existem?
 
-Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para eles_Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E, claro, também há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
+Com o[Leipzig MOVE App](https://leipzig-move.de/), bekommt ihr 10 Freifahrten à 15 Minuten für die _Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E, claro, também há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
 
 # Confira
 
@@ -164,4 +170,4 @@ André
 
 * * *
 
-_Feito com ❤️ por [docsify](https://docsify.js.org/)_
+_Made with ❤️ by  [documentar](https://docsify.js.org/)_
