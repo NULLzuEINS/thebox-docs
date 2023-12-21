@@ -100,7 +100,7 @@ Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w 
 
 Zapraszamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
 
-# Sonstiges
+# Różnorodny
 
 ## Inteligentny dom
 
@@ -113,6 +113,27 @@ W Twoim pokoju nie ma asystentów głosowych. W koszyku na półce mieści się 
 Temperatura i wilgotność są mierzone automatycznie za pomocą czujników. Używam ich, aby zapobiec tworzeniu się pleśni. Są małe i białe i zwykle leżą na ościeżnicach drzwi. Część danych pomiarowych możesz odczytać w lustrze w przedpokoju.
 
 > Pamiętaj o regularnej wentylacji (przynajmniej raz dziennie). Zwłaszcza w łazience. Upewnij się także, że ogrzewanie jest wyłączone. Dziękuję 🙏
+
+## Podwórko
+
+Na naszym dziedzińcu możesz podłączyć rowery i wywieźć śmieci.
+
+!\[[thebox-map-surroundings.png]]
+
+### Żółty? Niebieski? Zielony? Brązowy?
+
+Zastanawiasz się dlaczego kosze na śmieci mają różne kolory? Jeżeli nie jesteś pewien, zawsze wrzucaj śmieci do zielonego kosza. Tam trafiają resztki odpadów. Profesjonaliści wrzucają odpady papierowe do niebieskiego pojemnika, surowce wtórne do żółtego, a odpady organiczne do brązowego.
+
+### Cykle
+
+### Czy mój rower jest bezpieczny?
+
+Lipsk jest miastem bardzo przyjaznym rowerom. Przez duży park miejski, który dzieli miasto na dwie części, można dotrzeć do wielu miejsc i zazwyczaj jechać przez wieś.
+Jeśli wierzyć statystykom, w Lipsku co roku kradnie się najwięcej rowerów na mieszkańca. (1539 skradzionych rowerów na 100 000 mieszkańców) W ciągu 15 lat, odkąd mieszkam tutaj przy Hardenbergstraße, nigdy nie skradziono mi roweru i znam tylko jednego sąsiada, któremu skradziono rower z podwórka. Zawsze podłączam go bezpośrednio do poręczy.
+
+### Jakie są alternatywy?
+
+Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz dla nich 10 bezpłatnych przejazdów po 15 minut każdy_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych. Istnieje również bezpłatny system wspólnego korzystania z samochodów. To znaczy z nami[miejskiflitzer](https://cityflitzer.de/). Oczywiście są też autobusy i pociągi, za które można zapłacić także za pomocą aplikacji Leipzig MOVE.
 
 # Wymeldować się
 
