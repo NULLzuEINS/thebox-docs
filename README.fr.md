@@ -55,7 +55,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 ### FAQ - Cuisine
 
 1.  Le poêle ne fonctionne pas ? s'il te plaît dis
-    > "Ordinateur, établi et"
+    > "Computer, Werkbank an"
 2.  Où puis-je me laver ? Cela ne fonctionne que dans la salle de bain. Il existe un récipient spécial pour laver la vaisselle.
 
 ## Ta chambre
