@@ -43,7 +43,7 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 
 ### Những điều sau đây có sẵn cho bạn
 
-1.  Bầy đàn
+1.  Herd
 2.  Ấm đun nước
 3.  Dao kéo bát đĩa
 4.  Tủ lạnh
@@ -64,7 +64,7 @@ Các tấm nệm được đặt chồng lên nhau chỉ nhằm mục đích c�
 
 Bạn được thoải mái sử dụng máy tính và máy in.
 
-### Chi tiết đăng nhập vào máy tính là
+### Chi tiết đăng nhập cho máy tính (iMac) là
 
 ```txt
 Nutzer:   thebox
@@ -79,10 +79,13 @@ Passwort: thebox
 
 ### Điều khiển từ xa
 
+Một câu nói cổ của người Đức áp dụng cho tất cả các loại điều khiển từ xa: “Cố gắng còn hơn học”. Bạn không thể phá vỡ bất cứ điều gì. Nhấn một vài nút và xem điều gì sẽ xảy ra. Nếu bạn vẫn muốn học thì đây là cách đọc phù hợp với bạn:
+
 | Hình minh họa                                             | Sự miêu tả                                                                                                                                                                                                                                                     |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>D:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                            |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Trước khi bạn có thể sử dụng nó, hãy đảm bảo rằng công tắc đèn ở lối vào được đặt ở chế độ "bật".**<br>Dòng đầu tiên: độ sáng, bật/tắt<br>Các nút màu: Bạn có thể sử dụng nút này để thay đổi màu sắc<br>Nút màu xám: Chuyển đổi giữa các hiệu ứng khác nhau |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Đây là điều khiển từ xa cho máy tính (iMac)._Để sử dụng máy tính, nhấn nút A trên điều khiển từ xa đầu tiên. Nó kích hoạt nguồn điện cho máy tính và hộp Bluetooth._                                                                                           |
 
 ### Câu hỏi thường gặp - Phòng của bạn
 
@@ -124,7 +127,7 @@ Trong sân của chúng tôi, bạn có thể để xe đạp và vứt rác.
 
 Hoặc bạn sử dụng chìa khóa cửa trước, hoặc bạn đưa tay qua cổng và cảm nhận nút mở cửa. Trong khi bạn giữ nút, bạn có thể mở cửa.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[môi trường xung quanh-button.jpeg]]
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
 ### Màu vàng? Màu xanh da trời? Màu xanh lá? Màu nâu?
 
@@ -137,7 +140,7 @@ Bạn có thắc mắc tại sao thùng rác lại có nhiều màu sắc khác 
 Leipzig là một thành phố rất thân thiện với xe đạp. Thông qua công viên thành phố rộng lớn chia thành phố thành hai nửa, bạn có thể đến nhiều nơi và thường lái xe qua vùng nông thôn.
 Nếu bạn tin vào số liệu thống kê thì số lượng xe đạp tính theo đầu người bị đánh cắp nhiều nhất ở Leipzig mỗi năm. (1.539 chiếc xe đạp bị đánh cắp trên 100.000 dân) Trong 15 năm kể từ khi tôi sống ở Hardenbergstraße, tôi chưa bao giờ bị đánh cắp một chiếc xe đạp và tôi chỉ biết một người hàng xóm bị mất xe đạp ở sân sau của anh ta. Tôi luôn kết nối nó trực tiếp với lan can.
 
-### Welche Alternativen gibt es
+### Có những lựa chọn thay thế nào?
 
 Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho họ_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đỗ xe nhất định. Ngoài ra còn có hệ thống chia sẻ xe miễn phí. Điều đó có nghĩa là với chúng tôi[cityflitzer](https://cityflitzer.de/). Và tất nhiên, có những chuyến xe buýt và tàu hỏa mà bạn cũng có thể thanh toán thông qua ứng dụng Leipzig MOVE.
 
