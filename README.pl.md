@@ -10,9 +10,9 @@ Na moim AirBnB otrzymasz szczegółowy przegląd wszystkich pokoi i udogodnień.
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Konfiguracja z jednym łóżkiem i kanapą                                                 | Konfiguracja z dwoma łóżkami                                                  | Biurko                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Schreibtisch mit Licht                                                                 | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
+| Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Biurko ze światłem                                                                     | Kuchenka                                                                      | Küche - Tee                                                                             |
+| Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
 
 # Zameldować się
 
@@ -64,7 +64,7 @@ Materace są ułożone jeden na drugim wyłącznie w celu przechowywania. Możes
 
 Zapraszamy do korzystania z komputera i drukarki.
 
-### Die Zugangsdaten fü den Computer sind
+### Dane logowania do komputera to:
 
 ```txt
 Nutzer:   thebox
@@ -79,7 +79,10 @@ Passwort: thebox
 
 ### Zdalne sterowanie
 
-![Küche](_media/rooms/remote-lights.png ":size=300")
+| Ilustracja                                               | Opis                                                                                                                          |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=200") | Odp.: Bluetoothbox<br>B: Bajkowe światełka<br>C: Lampka na biurko<br>D:_plik_<br>Mistrz: Przełącz wszystko w tym samym czasie |
+|                                                          |                                                                                                                               |
 
 ### Często zadawane pytania - Twój pokój
 
@@ -97,7 +100,7 @@ Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w 
 
 Zapraszamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
 
-# Różnorodny
+# Sonstiges
 
 ## Inteligentny dom
 
@@ -107,12 +110,13 @@ W Twoim pokoju nie ma asystentów głosowych. W koszyku na półce mieści się 
 
 ## temperatura i wilgotność
 
-Temperatura i wilgotność są mierzone automatycznie za pomocą czujników. Używam ich, aby zapobiec tworzeniu się pleśni. Są małe i białe i zwykle leżą na ościeżnicach drzwi. Można wykorzystać część danych pomiarowych
-Czytam cię w lustrze na korytarzu.
+Temperatura i wilgotność są mierzone automatycznie za pomocą czujników. Używam ich, aby zapobiec tworzeniu się pleśni. Są małe i białe i zwykle leżą na ościeżnicach drzwi. Część danych pomiarowych możesz odczytać w lustrze w przedpokoju.
+
+> Pamiętaj o regularnej wentylacji (przynajmniej raz dziennie). Zwłaszcza w łazience. Upewnij się także, że ogrzewanie jest wyłączone. Dziękuję 🙏
 
 # Wymeldować się
 
-## Schlüssel
+## Klucz
 
 -   W zależności od tego, jaki jest dzień tygodnia, możemy pożegnać się osobiście lub po prostu odłożyć klucze na biurko i zamknąć za sobą drzwi.
 -   Standardowy czas wymeldowania to 11:00.
