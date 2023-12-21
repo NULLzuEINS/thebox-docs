@@ -12,7 +12,7 @@
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | 조명이 있는 책상                                                                              | 주방 - 스토브                                                                      | 주방 - 차                                                                                  |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| 조명이 있는 책상                                                                              | 주방 - 스토브                                                                      | Küche - Tee                                                                             |
+| 조명이 있는 책상                                                                              | 주방 - 스토브                                                                      | 주방 - 차                                                                                  |
 
 # 체크인
 
@@ -92,7 +92,7 @@ Passwort: thebox
 
 서서 샤워를 할 수 있습니다. 땅이 조금 젖어도 문제가 되지 않습니다. 물의 양을 1/3만 맞추고 욕실매트를 히터 위에 걸어 건조시켜주세요.
 
-벽에 걸린 Alexa는 "컴퓨터"라는 이름으로 불리며 좋아하는 음악이나 라디오도 재생합니다. 예: "_컴퓨터, Deutschlandfunk Nova 플레이_"
+벽에 걸린 Alexa는 "컴퓨터"라는 이름으로 불리며 좋아하는 음악이나 라디오도 재생합니다. 예: "_Computer, spiele Deutschlandfunk Nova_"
 
 모든 후크에 수건을 걸고 물건을 어디에나 놓을 수 있습니다.
 
