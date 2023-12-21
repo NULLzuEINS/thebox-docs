@@ -42,11 +42,35 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: ja
+      - name: Adding README - Korean
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: ko
+      - name: Adding README - Norwegian
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: no
       - name: Adding README - Polski
         uses: dephraiim/translate-readme@main
         with:
           LANG: pl
+      - name: Adding README - Portuguese
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: pt
       - name: Adding README - Ukrainian
         uses: dephraiim/translate-readme@main
         with:
           LANG: uk
+      - name: Adding README - Swedish
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: sv
+      - name: Adding README - Serbo-Croatian
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: sr
+      - name: Adding README - Turkish
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: tr
