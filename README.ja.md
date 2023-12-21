@@ -62,7 +62,7 @@ Passwort: landungsbruecken
 
 マットレスは保管目的でのみ重ねて置かれます。ニーズに応じて配布できます。ソファのクッションをマットレスに置き換えれば、立派なベッドになります。
 
-Den Computer und den Drucker kannst Du gern benutzen.
+パソコンとプリンターをご利用いただけますので、ぜひご利用ください。
 
 ### コンピュータのログイン詳細は次のとおりです。
 
@@ -79,7 +79,7 @@ Passwort: thebox
 
 ### リモコン
 
-| Abbildung                                                 | 説明                                                                                                            |
+| 図                                                         | 説明                                                                                                            |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A：Bluetoothボックス<br>B: フェアリーライト<br>C: 電気スタンド<br>D:_ファイル_<br>マスター：すべてを同時に切り替えてください                              |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **ご使用前に玄関の照明スイッチが「入」になっていることをご確認ください。**<br>1行目：明るさ、オン/オフ<br>色付きボタン: これを使用して色を変更できます<br>灰色のボタン: さまざまな効果を切り替えます |
@@ -153,7 +153,7 @@ Passwort: thebox
 
 # チップ
 
-Leipzig MOVE アプリを使用すると、1 回あたり 15 分間の乗車を 10 回無料で利用できます_ネクストバイク_。自転車を大通り（地図上の紫色）に駐車しない場合は、料金が高くなることに注意してください。電動スクーターは、特定の駐車スペースにのみ駐車できます。
+Leipzig MOVE アプリを使用すると、1 回あたり 15 分間の乗車を 10 回無料で利用できます_ネクストバイク_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
 # 質問がありますか?
 
@@ -164,4 +164,4 @@ Leipzig MOVE アプリを使用すると、1 回あたり 15 分間の乗車を 
 
 * * *
 
-_❤️で作りました [文書化する](https://docsify.js.org/)_
+_Made with ❤️ by  [文書化する](https://docsify.js.org/)_
