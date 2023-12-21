@@ -86,7 +86,7 @@ Passwort: thebox
 
 ### FAQ - Rommet ditt
 
-1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
+1.  Lyset tennes ikke eller blinker vilt Bruk de små fjernkontrollene med de fargerike knappene.
 
 ### baderom
 
@@ -119,6 +119,12 @@ Temperatur og fuktighet måles automatisk via sensorene. Jeg bruker dem for å h
 På gårdsplassen vår kan du koble sammen syklene og ta bort søppelet ditt.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
+
+### Hvordan åpnes porten?
+
+Enten bruker du hoveddørnøkkelen, eller så strekker du deg gjennom porten og kjenner på knappen for å åpne døren. Mens du holder inne knappen kan du åpne døren.
+
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[omgivelser-knapp.jpeg]]
 
 ### Gul? Blå? Grønn? Brun?
 
