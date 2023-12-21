@@ -10,7 +10,7 @@ No meu AirBnB você tem uma visão detalhada de todos os quartos e instalações
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Configuração de uma cama com sofá                                                      | Configuração de duas camas                                                    | Mesa                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Schreibtisch mit Licht                                                                 | Cozinha - fogão                                                               | Cozinha - chá                                                                           |
+| Secretária com luz                                                                     | Cozinha - fogão                                                               | Cozinha - chá                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Secretária com luz                                                                     | Cozinha - fogão                                                               | Cozinha - chá                                                                           |
 
@@ -64,7 +64,7 @@ Os colchões são colocados uns sobre os outros apenas para fins de armazenament
 
 Você está convidado a usar o computador e a impressora.
 
-### Os detalhes de login do computador são
+### Os detalhes de login do computador (iMac) são
 
 ```txt
 Nutzer:   thebox
@@ -79,10 +79,13 @@ Passwort: thebox
 
 ### Controles remotos
 
+Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é melhor do que estudar”. Você não pode quebrar nada. Pressione alguns botões e veja o que acontece. Se você ainda quer estudar, aqui está a leitura certa para você:
+
 | Ilustração                                                | Descrição                                                                                                                                                                                                                                                               |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caixa Bluetooth<br>B: Luzes de fada<br>C: Candeeiro de mesa<br>D:_arquivo_<br>Mestre: Troque tudo ao mesmo tempo                                                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usá-lo, certifique-se de que o interruptor da luz da entrada esteja na posição "ligado".**<br>Primeira linha: brilho, ligar/desligar<br>Botões coloridos: você pode usar isso para alterar as cores<br>Botões cinza: Alternar entre diferentes efeitos |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Este é o controle remoto do computador (iMac)._Para usar o computador, pressione o botão A no primeiro controle remoto. Ativa a fonte de alimentação do computador e da caixa Bluetooth._                                                                               |
 
 ### Perguntas frequentes - Seu quarto
 
@@ -96,7 +99,7 @@ A Alexa na parede atende pelo nome de “Computador” e também toca sua músic
 
 Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualquer lugar.
 
-### Corredor
+### Flur
 
 Você está convidado a deixar seus sapatos aqui. Também tenho um pequeno bloco de notas na prateleira, caso você queira me contar alguma coisa.
 
@@ -124,7 +127,7 @@ No nosso pátio você pode conectar suas bicicletas e levar seu lixo.
 
 Ou você usa a chave da porta da frente ou passa pelo portão e sente o botão para abrir a porta. Enquanto você mantém pressionado o botão, você pode abrir a porta.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[arredores-botão.jpeg]]
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
 ### Amarelo? Azul? Verde? Marrom?
 
@@ -146,7 +149,7 @@ Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viag
 ## Chave
 
 -   Dependendo do dia da semana, podemos nos despedir pessoalmente ou você pode simplesmente colocar as chaves na mesa e fechar a porta atrás de você.
--   O horário normal de check-out é às 11h.
+-   Der reguläre Zeitpunkt für den Checkout ist 11 Uhr.
 -   Se você quiser deixar sua bagagem no dia da partida e só retirá-la no final do dia, podemos providenciar isso individualmente.
 
 ## limpeza
