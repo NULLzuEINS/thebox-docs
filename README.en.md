@@ -1,4 +1,4 @@
-# Willkommen
+# Welcome
 
 Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB's and sometimes I wish I had a piece of paper with all the necessary information about the accommodation, check-in and check-out and this is my attempt to make it better.
 
@@ -48,7 +48,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 3.  Dishes cutlery
 4.  Refrigerator
 5.  Pizzaof
-6.  Mineralwasser
+6.  Mineral water
 7.  Cell phone charging station on the shelf
 8.  washing machine
 
@@ -79,7 +79,10 @@ Passwort: thebox
 
 ### Remote controls
 
-![Küche](_media/rooms/remote-lights.png ":size=300")
+| Illustration                                             | Description                                                                                                  |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| ![Lichter](_media/remotes/remote-lights.png ":size=200") | A: Bluetoothbox<br>B: Fairy lights<br>C: Desk lamp<br>D:_file_<br>Master: Switch everything at the same time |
+|                                                          |                                                                                                              |
 
 ### FAQ - Your room
 
@@ -107,8 +110,9 @@ There are no voice assistants in your room. The basket on the shelf only contain
 
 ## temperature and humidity
 
-The temperature and humidity are automatically measured via the sensors. I use them to prevent mold formation. They are small and white and usually lie on door frames. You can use part of the measurement data
-Reading you in the mirror in the hallway.
+The temperature and humidity are automatically measured via the sensors. I use them to prevent mold formation. They are small and white and usually lie on door frames. You can read some of the measurement data in the mirror in the hallway.
+
+> Please make sure to ventilate regularly (at least once a day). Especially in the bathroom. Also make sure that the heating is turned off. Thank you 🙏
 
 # Checkout
 
