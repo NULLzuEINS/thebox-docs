@@ -33,7 +33,7 @@ Ou vous scannez ce QR code, il vous connectera automatiquement au réseau :
 
 # Les chambres
 
-!\[[thebox-map.png]]
+![Raumplan](_media/thebox-map.png)
 
 ## Cuisine
 
@@ -143,7 +143,7 @@ Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficie
 
 # Vérifier
 
-## Clé
+## Schlüssel
 
 -   Selon le jour de la semaine, nous pouvons vous dire au revoir en personne ou vous pouvez simplement poser les clés sur le bureau et fermer la porte derrière vous.
 -   L'heure habituelle de départ est 11 heures.
