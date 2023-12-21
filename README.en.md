@@ -33,7 +33,7 @@ Or you scan this QR code, it will automatically connect you to the network:
 
 # The rooms
 
-!\[[thebox-map.png]]
+![Raumplan](_media/thebox-map.png)
 
 ## Kitchen
 
@@ -151,7 +151,7 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 
 ## cleaning
 
--   Bettzeug kannst Du drauf lassen.
+-   You can leave bedding on it.
 -   I also wash the dishes and
 -   I also take out the trash.
 
