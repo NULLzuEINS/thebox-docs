@@ -62,7 +62,7 @@ Passwort: landungsbruecken
 
 マットレスは保管目的でのみ重ねて置かれます。ニーズに応じて配布できます。ソファのクッションをマットレスに置き換えれば、立派なベッドになります。
 
-パソコンとプリンターをご利用いただけますので、ぜひご利用ください。
+Den Computer und den Drucker kannst Du gern benutzen.
 
 ### コンピュータのログイン詳細は次のとおりです。
 
@@ -120,6 +120,12 @@ Passwort: thebox
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
+### 門はどうやって開くの？
+
+玄関の鍵を使うか、門を通ってボタンを押してドアを開けるかのどちらかです。ボタンを押している間、ドアを開けることができます。
+
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")！「[環境-ボタン.jpeg]」
+
 ### 黄色？青？緑？茶色？
 
 なぜゴミ箱の色が違うのか気になりますか？よくわからない場合は、ゴミは必ず緑色のゴミ箱に入れてください。残留廃棄物は最終的にそこに行きます。専門家は、紙くずを青い箱に、リサイクル可能なものを黄色の箱に、有機性廃棄物を茶色の箱に入れます。
@@ -153,7 +159,7 @@ Passwort: thebox
 
 # チップ
 
-Leipzig MOVE アプリを使用すると、1 回あたり 15 分間の乗車を 10 回無料で利用できます_ネクストバイク_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
+Leipzig MOVE アプリを使用すると、1 回あたり 15 分間の乗車を 10 回無料で利用できます_ネクストバイク_。自転車を大通り（地図上の紫色）に駐車しない場合は、料金が高くなることに注意してください。電動スクーターは、特定の駐車スペースにのみ駐車できます。
 
 # 質問がありますか?
 
@@ -164,4 +170,4 @@ Leipzig MOVE アプリを使用すると、1 回あたり 15 分間の乗車を 
 
 * * *
 
-_Made with ❤️ by  [文書化する](https://docsify.js.org/)_
+_❤️で作りました [文書化する](https://docsify.js.org/)_
