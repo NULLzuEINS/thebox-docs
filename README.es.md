@@ -14,7 +14,7 @@ En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | escritorio con luz                                                                     | Estufa de cocina                                                              | Cocina - té                                                                             |
 
-# Checkin
+# Registrarse
 
 ## Llave
 
@@ -37,7 +37,7 @@ O escaneas este código QR, te conectará automáticamente a la red:
 
 ## Cocina
 
-Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
+Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunadamente, solo se puede lavar en el lavabo del baño. Pero hay un recipiente especial para lavar los platos.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -46,7 +46,7 @@ Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abw
 1.  Rebaño
 2.  Pava
 3.  platos cubiertos
-4.  Kühlschrank
+4.  Refrigerador
 5.  Pizza de
 6.  Agua mineral
 7.  Estación de carga de teléfonos móviles en el estante.
@@ -79,7 +79,10 @@ Passwort: thebox
 
 ### Controles remotos
 
-![Küche](_media/rooms/remote-lights.png ":size=300")
+| Ilustración                                              | Descripción                                                                                                            |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=200") | R: Caja Bluetooth<br>B: luces de hadas<br>C: lámpara de escritorio<br>D:_leer_<br>Maestro: cambia todo al mismo tiempo |
+|                                                          |                                                                                                                        |
 
 ### Preguntas frecuentes - Tu habitación
 
@@ -107,8 +110,9 @@ No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene 
 
 ## temperatura y humedad
 
-La temperatura y la humedad se miden automáticamente a través de los sensores. Los uso para prevenir la formación de moho. Son pequeños y blancos y normalmente se encuentran en los marcos de las puertas. Puedes utilizar parte de los datos de medición.
-Leyendote en el espejo del pasillo.
+La temperatura y la humedad se miden automáticamente a través de los sensores. Los uso para prevenir la formación de moho. Son pequeños y blancos y normalmente se encuentran en los marcos de las puertas. Puedes leer algunos de los datos de medición en el espejo del pasillo.
+
+> Asegúrese de ventilar regularmente (al menos una vez al día). Especialmente en el baño. Asegúrate también de que la calefacción esté apagada. Gracias 🙏
 
 # Verificar
 
@@ -120,11 +124,11 @@ Leyendote en el espejo del pasillo.
 
 ## limpieza
 
--   Bettzeug kannst Du drauf lassen.
+-   Puedes dejar ropa de cama encima.
 -   También lavo los platos y
 -   También saco la basura.
 
-> Kurzfassung: Schlüssel da lassen, Tür zuziehen, das wars. 😀
+> Versión corta: Deja la llave ahí, cierra la puerta y listo. 😀
 
 # Consejos
 
