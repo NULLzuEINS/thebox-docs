@@ -112,6 +112,25 @@ Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. 
 
 >Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Acht dabei auch darauf, dass die Heizung abgestellt ist. Danke 🙏
 
+## Der Hof
+
+In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
+
+![[thebox-map-surroundings.png]]
+
+### Gelb? Blau? Grün? Braun?
+
+Du fragst Dich warum die Mülltonnen verschiedene Farben haben? Wenn Du dir unsicher bist, mach den Müll immer in die grüne Tonne. Darin landet der Restmüll. Profis machen den Papiermüll in die blaue Tonne, Wertstoffe in die gelbe Tonne und organische Abfälle in die braune Tonne.
+
+### Fahrräder
+### Ist mein Fahrrad sicher?
+
+Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
+Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
+
+### Welche Alternativen gibt es
+
+Mit der [Leipzig MOVE App](https://leipzig-move.de/), bekommt ihr 10 Freifahrten à 15 Minuten für die *Nextbikes*. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden. Es gibt auch ein Free-Float-Car-Shairing-System. Das heißt bei uns [cityflitzer](https://cityflitzer.de/). Und gibt es natürlich noch Bus und Bahn welche ihr ebenfalls über die Leipzig MOVE App bezahlen könnte.
 # Checkout
 
 ## Schlüssel 

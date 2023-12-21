@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "_sketches/remotes.excalidraw.md"
+                "file": "_sketches/map-surrounding.excalidraw.md"
               }
             }
           }
@@ -157,20 +157,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab6ac9251ab7ed5f",
+  "active": "c0015d9cc0fb5546",
   "lastOpenFiles": [
-    "_media/remotes/remote-lights.png",
-    "_sketches/remotes.excalidraw.md",
+    "_media/map-surroundings.png",
     "README.md",
+    "_media/thebox-map-surroundings.png",
+    "_sketches/map-surrounding.excalidraw.md",
+    "_sketches/remotes.excalidraw.md",
+    "_sketches/map-rooms.excalidraw.md",
+    "Excalidraw",
+    "_media/remotes/remote-lights.png",
     "_media/remotes",
     "README.pl.md",
     "README.el.md",
     "README.cs.md",
     "_media/rooms/remote-lights.png",
-    "Excalidraw",
     "_media/thebox-map.png",
     "_media/thebox-map-border.png",
-    "_sketches/raumplan.excalidraw.md",
     "_media/andre-lademann.png",
     "_sketches",
     "_media/pdf/README.pdf",
