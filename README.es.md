@@ -104,7 +104,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 ## Casa inteligente
 
-Hay asistentes de voz Alexa en el apartamento. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Los dispositivos están conectados a Internet y también pueden utilizarse como despertadores o temporizadores. Si no desea utilizarlo, simplemente puede desconectarlo de la fuente de alimentación.
+In der Wohnung befinden sich Alexa Sprachassistenten. Du kannst sie mit dem Namen "Computer" ansprechen und Dir zum Beispiel Deutschlandfunk Nova spielen lassen. Die Geräte sind mit dem Internet verbunden und können auch als Wecker oder Timer genutzt werden. Wenn Du sie nicht nutzen möchtest, kannst Du sie auch einfach vom Strom trennen.
 
 No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene el enrutador y una pequeña computadora.
 
@@ -119,6 +119,12 @@ La temperatura y la humedad se miden automáticamente a través de los sensores.
 En nuestro patio podréis conectar vuestras bicicletas y retirar la basura.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
+
+### ¿Cómo se abre la puerta?
+
+O usas la llave de la puerta principal o cruzas la puerta y sientes el botón para abrir la puerta. Mientras mantienes pulsado el botón podrás abrir la puerta.
+
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[botón-entorno.jpeg]]
 
 ### ¿Amarillo? ¿Azul? ¿Verde? ¿Marrón?
 
