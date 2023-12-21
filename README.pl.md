@@ -49,14 +49,14 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 4.  Lodówka
 5.  Pizza
 6.  Woda mineralna
-7.  Handy-Aufladestation im Regal
+7.  Stacja ładowania telefonów komórkowych na półce
 8.  pralka
 
 ### Często zadawane pytania - Kuchnia
 
 1.  Piec nie działa? proszę powiedz
     > „Komputer, stół warsztatowy”
-2.  Gdzie mogę się umyć? To działa tylko w łazience. Jest specjalny pojemnik do mycia naczyń.
+2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
 
 ## Twój pokój
 
@@ -73,16 +73,16 @@ Passwort: thebox
 
 ### Dostępne są następujące rzeczy
 
-1.  Alle Möbel und Betten
+1.  Wszystkie meble i łóżka
 2.  Komputer
 3.  Piloty do sterowania oświetleniem i prądem
 
 ### Zdalne sterowanie
 
-| Abbildung                                                 | Opis                                                                                                                                                                                                                                                                            |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Odp.: Bluetoothbox<br>B: Bajkowe światełka<br>C: Lampka na biurko<br>D:_plik_<br>Mistrz: Przełącz wszystko w tym samym czasie                                                                                                                                                   |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Zanim będziesz mógł z niego skorzystać, upewnij się, że włącznik światła przy wejściu jest ustawiony na „włączony”.**<br>Erste Zeile: Helligkeit, An/Aus<br>Kolorowe przyciski: Można ich używać do zmiany kolorów<br>Szare przyciski: przełączanie pomiędzy różnymi efektami |
+| Ilustracja                                                | Opis                                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Odp.: Bluetoothbox<br>B: Bajkowe światełka<br>C: Lampka na biurko<br>D:_plik_<br>Mistrz: Przełącz wszystko w tym samym czasie                                                                                                                                                    |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Zanim będziesz mógł z niego skorzystać, upewnij się, że włącznik światła przy wejściu jest ustawiony na „włączony”.**<br>Pierwsza linia: jasność, wł./wył<br>Kolorowe przyciski: Można ich używać do zmiany kolorów<br>Szare przyciski: przełączanie pomiędzy różnymi efektami |
 
 ### Często zadawane pytania - Twój pokój
 
@@ -104,7 +104,7 @@ Zapraszamy do pozostawienia tutaj swoich butów. Mam też na półce mały notat
 
 ## Inteligentny dom
 
-In der Wohnung befinden sich Alexa Sprachassistenten. Du kannst sie mit dem Namen "Computer" ansprechen und Dir zum Beispiel Deutschlandfunk Nova spielen lassen. Die Geräte sind mit dem Internet verbunden und können auch als Wecker oder Timer genutzt werden. Wenn Du sie nicht nutzen möchtest, kannst Du sie auch einfach vom Strom trennen.
+W mieszkaniu znajdują się asystenci głosowi Alexa. Możesz zwrócić się do nich nazwą „Komputer” i na przykład poprosić ich o zagranie w Deutschlandfunk Nova. Urządzenia są podłączone do Internetu i mogą służyć również jako budziki lub timery. Jeśli nie chcesz z niego korzystać, możesz po prostu odłączyć go od źródła zasilania.
 
 W Twoim pokoju nie ma asystentów głosowych. W koszyku na półce mieści się tylko router i mały komputer.
 
@@ -133,7 +133,7 @@ Jeśli wierzyć statystykom, w Lipsku co roku kradnie się najwięcej rowerów n
 
 ### Jakie są alternatywy?
 
-Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz dla nich 10 bezpłatnych przejazdów po 15 minut każdy_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych. Istnieje również bezpłatny system wspólnego korzystania z samochodów. To znaczy z nami[cityflitzer](https://cityflitzer.de/). Oczywiście są też autobusy i pociągi, za które można zapłacić także za pomocą aplikacji Leipzig MOVE.
+Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz dla nich 10 bezpłatnych przejazdów po 15 minut każdy_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych. Istnieje również bezpłatny system wspólnego korzystania z samochodów. To znaczy z nami[miejskiflitzer](https://cityflitzer.de/). Oczywiście są też autobusy i pociągi, za które można zapłacić także za pomocą aplikacji Leipzig MOVE.
 
 # Wymeldować się
 
@@ -146,12 +146,12 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz dla nich 10 bezpła
 ## czyszczenie
 
 -   Można na nim zostawić pościel.
--   Das Geschirr spüle ich auch ab und 
+-   Zmywam też naczynia i
 -   Wynoszę też śmieci.
 
 > Wersja krótka: Zostaw klucz tam, zamknij drzwi i to wszystko. 😀
 
-# Porady
+# Tipps
 
 Dzięki aplikacji Leipzig MOVE zyskujesz 10 bezpłatnych przejazdów po 15 minut każdy_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
 
