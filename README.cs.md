@@ -114,6 +114,27 @@ Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, ab
 
 > Dbejte prosím na pravidelné větrání (alespoň jednou denně). Zejména v koupelně. Ujistěte se také, že je topení vypnuté. Děkujeme 🙏
 
+## Dvorek
+
+Na našem dvoře si můžete připojit kola a odvézt odpadky.
+
+!\[[thebox-map-surroundings.png]]
+
+### Žlutá? Modrý? Zelená? Hnědý?
+
+Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jistí, vždy dávejte odpadky do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
+
+### Cykly
+
+### Je moje kolo bezpečné?
+
+Lipsko je město velmi přátelské k cyklistice. Rozlehlým městským parkem, který rozděluje město na dvě poloviny, se dostanete na mnoho míst a většinou projedete krajinou.
+Pokud věříte statistikám, tak v Lipsku se ročně ukradne nejvíce kol na hlavu. (1 539 odcizených kol na 100 000 obyvatel) Za 15 let, co zde na Hardenbergstraße bydlím, mi nikdy neukradli kolo a vím pouze o jednom sousedovi, kterému bylo kolo ukradeno z jeho dvorku. Napojuji to vždy přímo na zábradlí.
+
+### Jaké alternativy existují?
+
+s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte za ně 10 bezplatných jízd po 15 minutách_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmě existují také autobusy a vlaky, které můžete také zaplatit prostřednictvím aplikace Leipzig MOVE.
+
 # Překontrolovat
 
 ## Klíč
@@ -126,7 +147,7 @@ Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, ab
 
 -   Můžete na něm nechat lůžkoviny.
 -   Také myji nádobí a
--   den Müll bring ich auch raus.
+-   Také vynáším odpadky.
 
 > Krátká verze: Nechte tam klíč, zavřete dveře, je to. 😀
 
