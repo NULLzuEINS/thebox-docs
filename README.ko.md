@@ -92,7 +92,7 @@ Passwort: thebox
 
 서서 샤워를 할 수 있습니다. 땅이 조금 젖어도 문제가 되지 않습니다. 물의 양을 1/3만 맞추고 욕실매트를 히터 위에 걸어 건조시켜주세요.
 
-벽에 걸린 Alexa는 "컴퓨터"라는 이름으로 불리며 좋아하는 음악이나 라디오도 재생합니다. 예: "_Computer, spiele Deutschlandfunk Nova_"
+벽에 걸린 Alexa는 "컴퓨터"라는 이름으로 불리며 좋아하는 음악이나 라디오도 재생합니다. 예: "_컴퓨터, Deutschlandfunk Nova 플레이_"
 
 모든 후크에 수건을 걸고 물건을 어디에나 놓을 수 있습니다.
 
@@ -119,6 +119,12 @@ Passwort: thebox
 우리 안뜰에서는 자전거를 연결하고 쓰레기를 가져갈 수 있습니다.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
+
+### 문은 어떻게 열리나요?
+
+현관문 열쇠를 사용하거나, 대문을 통해 손을 뻗어 버튼을 눌러 문을 엽니다. 버튼을 누르고 있는 동안 문을 열 수 있습니다.
+
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[주변-button.jpeg]]
 
 ### 노란색? 파란색? 녹색? 갈색?
 
