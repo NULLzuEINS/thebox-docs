@@ -8,7 +8,7 @@
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 一张床配置，带沙发                                                                              | 两张床配置                                                                         | 桌子                                                                                      |
+| 一张床配置，带沙发                                                                              | 两张床配置                                                                         | Schreibtisch                                                                            |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | 带灯书桌                                                                                   | 厨房-炉灶                                                                         | 厨房-茶                                                                                    |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -79,7 +79,10 @@ Passwort: thebox
 
 ### 遥控器
 
-![Küche](_media/rooms/remote-lights.png ":size=300")
+| 插图                                                       | 描述                                               |
+| -------------------------------------------------------- | ------------------------------------------------ |
+| ![Lichter](_media/remotes/remote-lights.png ":size=200") | 答：蓝牙盒子<br>B：仙女灯<br>C：台灯<br>d:_文件_<br>大师：同时切换所有内容 |
+|                                                          |                                                  |
 
 ### 常见问题 - 您的房间
 
@@ -107,24 +110,25 @@ Passwort: thebox
 
 ## 温度和湿度
 
-温度和湿度通过传感器自动测量。我用它们来防止霉菌形成。它们又小又白，通常放在门框上。您可以使用部分测量数据
-在走廊的镜子里读你的故事。
+温度和湿度通过传感器自动测量。我用它们来防止霉菌形成。它们又小又白，通常放在门框上。您可以在走廊的镜子中读取一些测量数据。
+
+> 请确保定期通风（至少每天一次）。尤其是在浴室里。还要确保暖气已关闭。谢谢🙏
 
 # 查看
 
 ## 钥匙
 
 -   根据一周中的哪一天，我们可以亲自道别，或者您也可以简单地将钥匙放在桌子上，然后关上身后的门。
--   正常退房时间为上午 11 点。
--   如果您想在出发当天寄存行李并仅在当天晚些时候领取，我们可以单独安排。
+-   Der reguläre Zeitpunkt für den Checkout ist 11 Uhr.
+-   Wenn Du am Tag der Abreise noch dein Gepäck dalassen möchtest und erst später am Tag abholen möchtest, können wir uns das individuell verabreden.
 
-## 打扫
+## Reinigung
 
 -   您可以在上面留下床上用品。
 -   我也洗碗
 -   我也倒垃圾。
 
-> 简短版本：把钥匙留在那里，关上门，就这样。 😀
+> Kurzfassung: Schlüssel da lassen, Tür zuziehen, das wars. 😀
 
 # 尖端
 
