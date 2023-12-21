@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f68bd3da12217be",
+        "id": "c912af7abc6b0c10",
         "type": "tabs",
         "children": [
           {
-            "id": "ab6ac9251ab7ed5f",
+            "id": "986a159e8d5b608c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +16,6 @@
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "749607ca6ca1cb76",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "_sketches/map-surrounding.excalidraw.md"
               }
             }
           }
@@ -157,16 +147,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0015d9cc0fb5546",
+  "active": "986a159e8d5b608c",
   "lastOpenFiles": [
-    "_media/map-surroundings.png",
-    "README.md",
-    "_media/thebox-map-surroundings.png",
+    "_media/remotes/remote-lights.png",
     "_sketches/map-surrounding.excalidraw.md",
+    "_media/remotes/remote-ceiling.png",
+    "README.md",
     "_sketches/remotes.excalidraw.md",
+    "_media/map-surroundings.png",
+    "_media/thebox-map-surroundings.png",
     "_sketches/map-rooms.excalidraw.md",
     "Excalidraw",
-    "_media/remotes/remote-lights.png",
     "_media/remotes",
     "README.pl.md",
     "README.el.md",

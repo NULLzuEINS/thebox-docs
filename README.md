@@ -79,8 +79,10 @@ Passwort: thebox
 
 | Abbildung | Beschreibung |
 |-|-|
-| ![Lichter](_media/remotes/remote-lights.png ':size=200')  | A: Bluetoothbox<br>B: Lichterkette<br>C: Schreibtischlampe<br>D: *leer*<br>Master: Alles gleichzeitig schalten |
-|||
+| ![Lichter](_media/remotes/remote-lights.png ':size=100')  | A: Bluetoothbox<br>B: Lichterkette<br>C: Schreibtischlampe<br>D: *leer*<br>Master: Alles gleichzeitig schalten |
+|![Lichter](_media/remotes/remote-ceiling.png ':size=100')| **Bevor du es benutzen kannst, stell sicher, dass der Lichtschalter an am Eingang auf "an" steht.**<br>Erste Zeile: Helligkeit, An/Aus<br>Farbige Tasten: Hiermit kannst Du die Farben wechseln<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
+
+
 
 ### FAQ - Dein Zimmer
 
@@ -88,7 +90,7 @@ Passwort: thebox
 
 ### Badezimmer
 
-Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und häng den Badewannenvorleger  zum trocknen über der Heizung auf.
+Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und hänge den Badewannenvorleger zum trocknen über der Heizung auf.
 
 Die Alexa an der Wand hört auf den Namen "Computer" und spielt dir auch Deine Lieblingsmusik oder Radio. Z. B. "*Computer, spiele Deutschlandfunk Nova*"
 
@@ -116,7 +118,7 @@ Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. 
 
 In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
 
-![[thebox-map-surroundings.png]]
+![Innenhof](_media/thebox-map-surroundings.png)
 
 ### Gelb? Blau? Grün? Braun?
 
