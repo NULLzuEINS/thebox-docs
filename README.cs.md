@@ -79,16 +79,16 @@ Passwort: thebox
 
 ### Dálková ovládání
 
-| Ilustrace                                                | Popis                                                                                                    |
-| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=200") | A: Bluetoothbox<br>B: Pohádková světla<br>C: Stolní lampa<br>D:_soubor_<br>Master: Přepněte vše současně |
-|                                                          |                                                                                                          |
+| Ilustrace                                                 | Popis                                                                                                                                                                                                                                                 |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Pohádková světla<br>C: Stolní lampa<br>D:_soubor_<br>Master: Přepněte vše současně                                                                                                                                              |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Než jej budete moci použít, ujistěte se, že je spínač světel u vchodu nastaven na „zapnuto“.**<br>První řádek: jas, zapnuto/vypnuto<br>Barevná tlačítka: Toto můžete použít ke změně barev<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
 
 ### FAQ - Váš pokoj
 
 1.  Světlo se nerozsvítí nebo divoce bliká Použijte malá dálková ovládání s barevnými tlačítky.
 
-### koupelna
+### Badezimmer
 
 Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
 
@@ -118,7 +118,7 @@ Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, ab
 
 Na našem dvoře si můžete připojit kola a odvézt odpadky.
 
-!\[[thebox-map-surroundings.png]]
+![Innenhof](_media/thebox-map-surroundings.png)
 
 ### Žlutá? Modrý? Zelená? Hnědý?
 
