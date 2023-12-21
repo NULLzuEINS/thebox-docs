@@ -79,10 +79,10 @@ Passwort: thebox
 
 ### Remote controls
 
-| Illustration                                             | Description                                                                                                  |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| ![Lichter](_media/remotes/remote-lights.png ":size=200") | A: Bluetoothbox<br>B: Fairy lights<br>C: Desk lamp<br>D:_file_<br>Master: Switch everything at the same time |
-|                                                          |                                                                                                              |
+| Illustration                                              | Description                                                                                                                                                                                                                         |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Desk lamp<br>D:_file_<br>Master: Switch everything at the same time                                                                                                                        |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Before you can use it, make sure the light switch at the entrance is set to "on".**<br>First line: brightness, on/off<br>Colored buttons: You can use this to change the colors<br>Gray buttons: Switch between different effects |
 
 ### FAQ - Your room
 
@@ -118,7 +118,7 @@ The temperature and humidity are automatically measured via the sensors. I use t
 
 In our courtyard you can connect your bikes and take away your rubbish.
 
-!\[[thebox-map-surroundings.png]]
+![Innenhof](_media/thebox-map-surroundings.png)
 
 ### Yellow? Blue? Green? Brown?
 
