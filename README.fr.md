@@ -79,7 +79,7 @@ Passwort: thebox
 
 ### Télécommandes
 
-| Abbildung                                                | Description                                                                                                                   |
+| Illustration                                             | Description                                                                                                                   |
 | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=200") | R : boîtier Bluetooth<br>B : Guirlande lumineuse<br>C : Lampe de bureau<br>D:_déposer_<br>Maître : Changez tout en même temps |
 |                                                          |                                                                                                                               |
@@ -113,6 +113,27 @@ Il n'y a pas d'assistant vocal dans votre chambre. Le panier sur l'étagère con
 La température et l'humidité sont automatiquement mesurées via les capteurs. Je les utilise pour éviter la formation de moisissures. Ils sont petits et blancs et reposent généralement sur les encadrements de portes. Vous pouvez lire certaines données de mesure dans le miroir du couloir.
 
 > Assurez-vous d'aérer régulièrement (au moins une fois par jour). Surtout dans la salle de bain. Assurez-vous également que le chauffage est éteint. Merci 🙏
+
+## La Cour
+
+Dans notre cour vous pourrez brancher vos vélos et emporter vos déchets.
+
+!\[[thebox-map-environnants.png]]
+
+### Jaune? Bleu? Vert? Brun?
+
+Vous vous demandez pourquoi les poubelles ont des couleurs différentes ? En cas de doute, jetez toujours les déchets dans le bac vert. Les déchets résiduels finissent là-bas. Les professionnels déposent les déchets papier dans le bac bleu, les matières recyclables dans le bac jaune et les déchets organiques dans le bac brun.
+
+### Cycles
+
+### Mon vélo est-il en sécurité ?
+
+Leipzig est une ville très favorable au vélo. Grâce au grand parc urbain qui divise la ville en deux moitiés, vous pouvez accéder à de nombreux endroits et généralement traverser la campagne en voiture.
+Si l’on en croit les statistiques, c’est à Leipzig que le plus grand nombre de vélos volés par habitant est enregistré chaque année. (1 539 vélos volés pour 100 000 habitants) Depuis 15 ans que je vis ici dans la Hardenbergstraße, je ne me suis jamais fait voler un vélo et je ne connais qu'un seul voisin dont le vélo a été volé dans son jardin. Je le connecte toujours directement au garde-corps.
+
+### Quelles sont les alternatives ?
+
+Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficiez de 10 trajets gratuits de 15 minutes chacun pour eux_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement. Il existe également un système de covoiturage en free float. Cela veut dire avec nous[Cityflitzer](https://cityflitzer.de/). Et bien sûr, il existe également des bus et des trains que vous pouvez également payer via l'application Leipzig MOVE.
 
 # Vérifier
 
