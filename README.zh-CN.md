@@ -79,10 +79,10 @@ Passwort: thebox
 
 ### 遥控器
 
-| 插图                                                       | 描述                                               |
-| -------------------------------------------------------- | ------------------------------------------------ |
-| ![Lichter](_media/remotes/remote-lights.png ":size=200") | 答：蓝牙盒子<br>B：仙女灯<br>C：台灯<br>d:_文件_<br>大师：同时切换所有内容 |
-|                                                          |                                                  |
+| 插图                                                        | 描述                                                                               |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 答：蓝牙盒子<br>B：仙女灯<br>C：台灯<br>d:_文件_<br>大师：同时切换所有内容                                 |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **在使用之前，请确保入口处的电灯开关设置为“打开”。**<br>第一行：亮度、开/关<br>彩色按钮：您可以使用它来更改颜色<br>灰色按钮：不同效果之间切换 |
 
 ### 常见问题 - 您的房间
 
@@ -96,7 +96,7 @@ Passwort: thebox
 
 您可以将毛巾挂在所有挂钩上，并将物品放在任何地方。
 
-### 门厅
+### Flur
 
 欢迎您把鞋子留在这里。我的架子上还有一个小记事本，以防你想告诉我一些事情。
 
@@ -118,7 +118,7 @@ Passwort: thebox
 
 在我们的庭院里，您可以连接自行车并带走垃圾。
 
-!\[[thebox-map-surroundings.png]]
+![Innenhof](_media/thebox-map-surroundings.png)
 
 ### 黄色的？蓝色的？绿色的？棕色的？
 
@@ -141,7 +141,7 @@ Passwort: thebox
 
 -   根据一周中的哪一天，我们可以亲自道别，或者您也可以简单地将钥匙放在桌子上，然后关上身后的门。
 -   正常退房时间为上午 11 点。
--   Wenn Du am Tag der Abreise noch dein Gepäck dalassen möchtest und erst später am Tag abholen möchtest, können wir uns das individuell verabreden.
+-   如果您想在出发当天寄存行李并仅在当天晚些时候领取，我们可以单独安排。
 
 ## 打扫
 
