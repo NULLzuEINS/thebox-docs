@@ -79,10 +79,10 @@ Passwort: thebox
 
 ### Télécommandes
 
-| Illustration                                             | Description                                                                                                                   |
-| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=200") | R : boîtier Bluetooth<br>B : Guirlande lumineuse<br>C : Lampe de bureau<br>D:_déposer_<br>Maître : Changez tout en même temps |
-|                                                          |                                                                                                                               |
+| Illustration                                              | Description                                                                                                                                                                                                                                                                           |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R : boîtier Bluetooth<br>B : Guirlande lumineuse<br>C : Lampe de bureau<br>D:_déposer_<br>Maître : Changez tout en même temps                                                                                                                                                         |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Avant de pouvoir l'utiliser, assurez-vous que l'interrupteur d'éclairage à l'entrée est réglé sur « on ».**<br>Première ligne : luminosité, marche/arrêt<br>Boutons colorés : vous pouvez les utiliser pour changer les couleurs<br>Boutons gris : basculez entre différents effets |
 
 ### FAQ - Votre chambre
 
@@ -118,7 +118,7 @@ La température et l'humidité sont automatiquement mesurées via les capteurs. 
 
 Dans notre cour vous pourrez brancher vos vélos et emporter vos déchets.
 
-!\[[thebox-map-environnants.png]]
+![Innenhof](_media/thebox-map-surroundings.png)
 
 ### Jaune? Bleu? Vert? Brun?
 
