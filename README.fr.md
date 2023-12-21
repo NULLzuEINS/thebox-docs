@@ -12,7 +12,7 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Bureau avec lumière                                                                    | Cuisinière                                                                    | Cuisine - thé                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Bureau avec lumière                                                                    | Cuisinière                                                                    | Küche - Tee                                                                             |
+| Bureau avec lumière                                                                    | Cuisinière                                                                    | Cuisine - thé                                                                           |
 
 # Enregistrement
 
@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
+Ou vous scannez ce QR code, il vous connectera automatiquement au réseau :
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -54,7 +54,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ### FAQ - Cuisine
 
-1.  Herd funktioniert nicht? Bitte sage
+1.  Le poêle ne fonctionne pas ? s'il te plaît dis
     > "Ordinateur, établi et"
 2.  Où puis-je me laver ? Cela ne fonctionne que dans la salle de bain. Il existe un récipient spécial pour laver la vaisselle.
 
@@ -79,7 +79,10 @@ Passwort: thebox
 
 ### Télécommandes
 
-![Küche](_media/rooms/remote-lights.png ":size=300")
+| Abbildung                                                | Description                                                                                                                   |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=200") | R : boîtier Bluetooth<br>B : Guirlande lumineuse<br>C : Lampe de bureau<br>D:_déposer_<br>Maître : Changez tout en même temps |
+|                                                          |                                                                                                                               |
 
 ### FAQ - Votre chambre
 
@@ -107,8 +110,9 @@ Il n'y a pas d'assistant vocal dans votre chambre. Le panier sur l'étagère con
 
 ## température et humidité
 
-La température et l'humidité sont automatiquement mesurées via les capteurs. Je les utilise pour éviter la formation de moisissures. Ils sont petits et blancs et reposent généralement sur les encadrements de portes. Vous pouvez utiliser une partie des données de mesure
-Je te lis dans le miroir du couloir.
+La température et l'humidité sont automatiquement mesurées via les capteurs. Je les utilise pour éviter la formation de moisissures. Ils sont petits et blancs et reposent généralement sur les encadrements de portes. Vous pouvez lire certaines données de mesure dans le miroir du couloir.
+
+> Assurez-vous d'aérer régulièrement (au moins une fois par jour). Surtout dans la salle de bain. Assurez-vous également que le chauffage est éteint. Merci 🙏
 
 # Vérifier
 
@@ -120,7 +124,7 @@ Je te lis dans le miroir du couloir.
 
 ## nettoyage
 
--   Bettzeug kannst Du drauf lassen.
+-   Vous pouvez y laisser de la literie.
 -   Je fais aussi la vaisselle et
 -   Je sors aussi les poubelles.
 
