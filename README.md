@@ -32,7 +32,7 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 ![WiFi](_media/wlan.png ':size=200')
 
 # Die Zimmer
-![[thebox-map.png]]
+![Raumplan](_media/thebox-map.png)
 ## Küche
 
 Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
@@ -81,8 +81,6 @@ Passwort: thebox
 |-|-|
 | ![Lichter](_media/remotes/remote-lights.png ':size=100')  | A: Bluetoothbox<br>B: Lichterkette<br>C: Schreibtischlampe<br>D: *leer*<br>Master: Alles gleichzeitig schalten |
 |![Lichter](_media/remotes/remote-ceiling.png ':size=100')| **Bevor du es benutzen kannst, stell sicher, dass der Lichtschalter an am Eingang auf "an" steht.**<br>Erste Zeile: Helligkeit, An/Aus<br>Farbige Tasten: Hiermit kannst Du die Farben wechseln<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
-
-
 
 ### FAQ - Dein Zimmer
 
