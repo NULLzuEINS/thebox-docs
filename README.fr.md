@@ -55,7 +55,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 ### FAQ - Cuisine
 
 1.  Le poêle ne fonctionne pas ? s'il te plaît dis
-    > "Computer, Werkbank an"
+    > "Ordinateur, établi et"
 2.  Où puis-je me laver ? Cela ne fonctionne que dans la salle de bain. Il existe un récipient spécial pour laver la vaisselle.
 
 ## Ta chambre
@@ -94,7 +94,7 @@ Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est u
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
-Vous pouvez accrocher des serviettes à tous les crochets et ranger vos affaires n'importe où.
+Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstellen.
 
 ### Couloir
 
