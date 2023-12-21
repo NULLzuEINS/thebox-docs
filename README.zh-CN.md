@@ -120,6 +120,12 @@ Passwort: thebox
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
+### 门怎么打开？
+
+您要么使用前门钥匙，要么伸手穿过大门并感觉到开门按钮。当您按住按钮时，您可以打开门。
+
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[环境按钮-jpeg.]]
+
 ### 黄色的？蓝色的？绿色的？棕色的？
 
 你想知道为什么垃圾桶有不同的颜色吗？如果您不确定，请将垃圾放入绿色垃圾桶。残留的废物最终会在那里。专业人士将纸张垃圾放入蓝色垃圾箱，将可回收物放入黄色垃圾箱，将有机垃圾放入棕色垃圾箱。
