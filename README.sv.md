@@ -1,6 +1,6 @@
 # Välkommen
 
-Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
+Hej och välkommen till "Boxen"! När jag reser gillar jag också att bo i AirBnB's och ibland önskar jag att jag hade ett papper med all nödvändig information om boendet, in- och utcheckning och detta är mitt försök att göra det bättre.
 
 ## Bilder
 
@@ -10,7 +10,7 @@ På min AirBnB får du en detaljerad översikt över alla rum och faciliteter. H
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | En sängkonfiguration med soffa                                                         | Tvåbäddskonfiguration                                                         | Skrivbord                                                                               |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Skrivbord med ljus                                                                     | Kök - spis                                                                    | Küche - Tee                                                                             |
+| Skrivbord med ljus                                                                     | Kök - spis                                                                    | Kök - te                                                                                |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Skrivbord med ljus                                                                     | Kök - spis                                                                    | Kök - te                                                                                |
 
@@ -64,7 +64,7 @@ Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera
 
 Du är välkommen att använda datorn och skrivaren.
 
-### Inloggningsuppgifterna för datorn är
+### Inloggningsuppgifterna för datorn (iMac) är
 
 ```txt
 Nutzer:   thebox
@@ -79,10 +79,13 @@ Passwort: thebox
 
 ### Fjärrkontroller
 
+Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre att försöka än att studera". Du kan inte bryta någonting. Tryck på några knappar och se vad som händer. Om du fortfarande vill studera, här är rätt läsning för dig:
+
 | Illustration                                              | Beskrivning                                                                                                                                                                                                                                |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | S: Bluetoothbox<br>B: Fairy lights<br>C: Skrivbordslampa<br>D:_fil_<br>Mästare: Byt allt på samma gång                                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Innan du kan använda den, se till att ljusströmbrytaren vid entrén är inställd på "på".**<br>Första raden: ljusstyrka, på/av<br>Färgade knappar: Du kan använda detta för att ändra färgerna<br>Grå knappar: Växla mellan olika effekter |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Detta är fjärrkontrollen till datorn (iMac)._För att använda datorn, tryck på A-knappen på den första fjärrkontrollen. Den aktiverar strömförsörjningen till datorn och Bluetooth-boxen._                                                  |
 
 ### FAQ - Ditt rum
 
@@ -124,7 +127,7 @@ På vår innergård kan du koppla ihop dina cyklar och ta bort ditt skräp.
 
 Antingen använder du nyckeln till ytterdörren eller så sträcker du dig genom porten och känner på knappen för att öppna dörren. Medan du håller ner knappen kan du öppna dörren.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[environment-button.jpeg]]
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
 ### Gul? Blå? Grön? Brun?
 
