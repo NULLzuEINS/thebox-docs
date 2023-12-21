@@ -79,10 +79,10 @@ Passwort: thebox
 
 ### Controles remotos
 
-| Ilustración                                              | Descripción                                                                                                            |
-| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=200") | R: Caja Bluetooth<br>B: luces de hadas<br>C: lámpara de escritorio<br>D:_leer_<br>Maestro: cambia todo al mismo tiempo |
-|                                                          |                                                                                                                        |
+| Ilustración                                               | Descripción                                                                                                                                                                                                                                                            |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caja Bluetooth<br>B: luces de hadas<br>C: lámpara de escritorio<br>D:_leer_<br>Maestro: cambia todo al mismo tiempo                                                                                                                                                 |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usarlo, asegúrese de que el interruptor de la luz en la entrada esté en "encendido".**<br>Primera línea: brillo, encendido/apagado<br>Botones de colores: puedes usarlos para cambiar los colores.<br>Botones grises: cambia entre diferentes efectos |
 
 ### Preguntas frecuentes - Tu habitación
 
@@ -118,7 +118,7 @@ La temperatura y la humedad se miden automáticamente a través de los sensores.
 
 En nuestro patio podréis conectar vuestras bicicletas y retirar la basura.
 
-!\[[thebox-map-surroundings.png]]
+![Innenhof](_media/thebox-map-surroundings.png)
 
 ### ¿Amarillo? ¿Azul? ¿Verde? ¿Marrón?
 
@@ -164,4 +164,4 @@ andré
 
 * * *
 
-_Hecho con ❤️ por [docsificar](https://docsify.js.org/)_
+_Hecho con ❤️ por [docsify](https://docsify.js.org/)_
