@@ -62,7 +62,7 @@ Die Matratzen liegen nur zu Lagerung übereinander. Ihr könnt sie nach euren Be
 
 Den Computer und den Drucker kannst Du gern benutzen.
 
-### Die Zugangsdaten fü den Computer sind
+### Die Zugangsdaten für den Computer (iMac) sind
 
 ```txt
 Nutzer:   thebox
@@ -77,10 +77,13 @@ Passwort: thebox
 
 ### Fernbedienungen
 
+Für alle Fernbedienungen gilt ein altes deutsches Sprichwort: "Probieren geht über Studieren". Du kannst nichts kaputt machen. Drücke ein paar Knöpfe und schau was passiert. Falls Du dennoch studieren möchtest, habe hier die passenden Lektüre für Dich:
+
 | Abbildung | Beschreibung |
 |-|-|
 | ![Lichter](_media/remotes/remote-lights.png ':size=100')  | A: Bluetoothbox<br>B: Lichterkette<br>C: Schreibtischlampe<br>D: *leer*<br>Master: Alles gleichzeitig schalten |
 |![Lichter](_media/remotes/remote-ceiling.png ':size=100')| **Bevor du es benutzen kannst, stell sicher, dass der Lichtschalter an am Eingang auf "an" steht.**<br>Erste Zeile: Helligkeit, An/Aus<br>Farbige Tasten: Hiermit kannst Du die Farben wechseln<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
+| ![Lichter](_media/remotes/remote-imac.png ':size=100')| Das ist die Fernbedienung für den Computer (iMac). *Damit Du den Computer verwenden kannst, drücke die Taste A auf der ersten Fernbedienung. Sie aktiviert die Stromzufuhr für den Computer und die Bluetooth-Box.*|
 
 ### FAQ - Dein Zimmer
 
@@ -120,10 +123,9 @@ In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll w
 
 ### Wie geht das Tor auf?
 
-Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kann du die Tür offnen.
+Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ':size=144')
-![[surroundings-button.jpeg]]
 
 ### Gelb? Blau? Grün? Braun?
 
