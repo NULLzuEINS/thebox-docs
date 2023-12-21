@@ -92,11 +92,11 @@ Passwort: thebox
 
 Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
-L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
+Die Alexa an der Wand hört auf den Namen "Computer" und spielt dir auch Deine Lieblingsmusik oder Radio. Z. B. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
-Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstellen.
+Vous pouvez accrocher des serviettes à tous les crochets et ranger vos affaires n'importe où.
 
-### Couloir
+### Flur
 
 Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'étagère au cas où tu voudrais me dire quelque chose.
 
@@ -119,6 +119,12 @@ La température et l'humidité sont automatiquement mesurées via les capteurs. 
 Dans notre cour vous pourrez brancher vos vélos et emporter vos déchets.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
+
+### Comment s'ouvre le portail ?
+
+Soit vous utilisez la clé de la porte d'entrée, soit vous passez le portail et sentez le bouton pour ouvrir la porte. Pendant que vous maintenez le bouton enfoncé, vous pouvez ouvrir la porte.
+
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[bouton-environnement.jpeg]]
 
 ### Jaune? Bleu? Vert? Brun?
 
@@ -146,7 +152,7 @@ Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficie
 ## nettoyage
 
 -   Vous pouvez y laisser de la literie.
--   Je fais aussi la vaisselle et
+-   Das Geschirr spüle ich auch ab und 
 -   Je sors aussi les poubelles.
 
 > Version courte : Laissez la clé là, fermez la porte, c'est tout. 😀
@@ -164,4 +170,4 @@ André
 
 * * *
 
-_Réalisé avec ❤️ par [docsifier](https://docsify.js.org/)_
+_Réalisé avec ❤️ par  [docsifier](https://docsify.js.org/)_
