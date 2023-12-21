@@ -64,7 +64,7 @@ Passwort: landungsbruecken
 
 欢迎您使用电脑和打印机。
 
-### 计算机的登录详细信息是
+### 计算机 (iMac) 的登录详细信息是
 
 ```txt
 Nutzer:   thebox
@@ -79,10 +79,13 @@ Passwort: thebox
 
 ### 遥控器
 
+德国有句老话适用于所有遥控器：“尝试比学习更好”。你不能破坏任何东西。按几个按钮，看看会发生什么。如果你还想学习，这里有适合你的读物：
+
 | 插图                                                        | 描述                                                                               |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 答：蓝牙盒子<br>B：仙女灯<br>C：台灯<br>d：_文件_<br>大师：同时切换所有内容                                 |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **在使用之前，请确保入口处的电灯开关设置为“打开”。**<br>第一行：亮度、开/关<br>彩色按钮：您可以使用它来更改颜色<br>灰色按钮：不同效果之间切换 |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | 这是电脑 (iMac) 的遥控器。_要使用计算机，请按第一个遥控器上的 A 按钮。它激活计算机和蓝牙盒的电源。_                         |
 
 ### 常见问题 - 您的房间
 
@@ -100,7 +103,7 @@ Passwort: thebox
 
 欢迎您把鞋子留在这里。我的架子上还有一个小记事本，以防你想告诉我一些事情。
 
-# Sonstiges
+# 各种各样的
 
 ## 智能家居
 
@@ -124,7 +127,7 @@ Passwort: thebox
 
 要么使用前门钥匙，要么伸手穿过大门并感觉到开门按钮。当您按住按钮时，您可以打开门。
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[环境按钮-jpeg.]]
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
 ### 黄色的？蓝色的？绿色的？棕色的？
 
