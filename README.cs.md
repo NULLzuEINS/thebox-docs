@@ -120,6 +120,12 @@ Na našem dvoře si můžete připojit kola a odvézt odpadky.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
+### Jak se brána otevírá?
+
+Buď použijete klíč od předních dveří, nebo sáhnete skrz bránu a nahmatáte tlačítko k otevření dveří. Podržením tlačítka můžete otevřít dveře.
+
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[ambient-button.jpeg]]
+
 ### Žlutá? Modrý? Zelená? Hnědý?
 
 Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jistí, vždy dávejte odpadky do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
@@ -135,7 +141,7 @@ Pokud věříte statistikám, tak v Lipsku se ročně ukradne nejvíce kol na hl
 
 s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte za ně 10 bezplatných jízd po 15 minutách_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmě existují také autobusy a vlaky, které můžete také zaplatit prostřednictvím aplikace Leipzig MOVE.
 
-# Checkout
+# Překontrolovat
 
 ## Klíč
 
