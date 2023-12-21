@@ -79,7 +79,10 @@ Passwort: thebox
 
 ### Dálková ovládání
 
-![Küche](_media/rooms/remote-lights.png ":size=300")
+| Ilustrace                                                | Popis                                                                                                    |
+| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=200") | A: Bluetoothbox<br>B: Pohádková světla<br>C: Stolní lampa<br>D:_soubor_<br>Master: Přepněte vše současně |
+|                                                          |                                                                                                          |
 
 ### FAQ - Váš pokoj
 
@@ -107,8 +110,9 @@ Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje 
 
 ## teplota a vlhkost
 
-Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, abych zabránil tvorbě plísní. Jsou malé a bílé a obvykle leží na rámech dveří. Můžete použít část naměřených dat
-Čtu si tě v zrcadle na chodbě.
+Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, abych zabránil tvorbě plísní. Jsou malé a bílé a obvykle leží na rámech dveří. Některá naměřená data si můžete přečíst v zrcadle na chodbě.
+
+> Dbejte prosím na pravidelné větrání (alespoň jednou denně). Zejména v koupelně. Ujistěte se také, že je topení vypnuté. Děkujeme 🙏
 
 # Překontrolovat
 
@@ -122,7 +126,7 @@ Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, ab
 
 -   Můžete na něm nechat lůžkoviny.
 -   Také myji nádobí a
--   Také vynáším odpadky.
+-   den Müll bring ich auch raus.
 
 > Krátká verze: Nechte tam klíč, zavřete dveře, je to. 😀
 
