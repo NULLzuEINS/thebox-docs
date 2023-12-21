@@ -50,7 +50,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 5.  Pizza av
 6.  Mineralvann
 7.  Mobilladestasjon i hylla
-8.  Waschmaschine
+8.  vaskemaskin
 
 ### FAQ - Kjøkken
 
@@ -60,7 +60,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 ## Rommet ditt
 
-Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem i henhold til dine behov. Bytter du ut putene på sofaen med en madrass, blir det en god seng.
+Madrassene er plassert oppå hverandre kun for oppbevaringsformål. Du kan distribuere dem i henhold til dine behov. Bytter du ut putene på sofaen med en madrass, blir det en god seng.
 
 Du er velkommen til å bruke datamaskinen og skriveren.
 
@@ -86,7 +86,7 @@ Passwort: thebox
 
 ### FAQ - Rommet ditt
 
-1.  Lyset tennes ikke eller blinker vilt Bruk de små fjernkontrollene med de fargerike knappene.
+1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
 
 ### baderom
 
