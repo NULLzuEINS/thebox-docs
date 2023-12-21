@@ -64,7 +64,7 @@ Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçların
 
 Bilgisayarı ve yazıcıyı kullanabilirsiniz.
 
-### Bilgisayarın oturum açma bilgileri şunlardır:
+### Bilgisayarın (iMac) oturum açma ayrıntıları şunlardır:
 
 ```txt
 Nutzer:   thebox
@@ -74,15 +74,18 @@ Passwort: thebox
 ### Aşağıdaki şeyler sizin için mevcuttur
 
 1.  Tüm mobilya ve yataklar
-2.  Computer
+2.  Bilgisayar
 3.  Işıklar ve elektrik için uzaktan kumandalar
 
 ### Uzaktan kumandalar
+
+Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek çalışmaktan iyidir”. Hiçbir şeyi kıramazsın. Birkaç düğmeye basın ve ne olacağını görün. Hala ders çalışmak istiyorsanız işte size uygun okumalar:
 
 | İllüstrasyon                                              | Tanım                                                                                                                                                                                                                                                 |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | C: Bluetooth kutusu<br>B: Peri ışıkları<br>C: Masa lambası<br>D:_dosya_<br>Usta: Her şeyi aynı anda değiştirin                                                                                                                                        |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Kullanmadan önce girişteki ışık anahtarının "açık" konumda olduğundan emin olun.**<br>İlk satır: parlaklık, açık/kapalı<br>Renkli düğmeler: Renkleri değiştirmek için bunu kullanabilirsiniz.<br>Gri düğmeler: Farklı efektler arasında geçiş yapın |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Bu, bilgisayarın (iMac) uzaktan kumandasıdır._Bilgisayarı kullanmak için ilk uzaktan kumandadaki A düğmesine basın. Bilgisayarın ve Bluetooth kutusunun güç kaynağını etkinleştirir._                                                                 |
 
 ### SSS - Odanız
 
@@ -124,7 +127,7 @@ Avlumuzda bisikletlerinizi bağlayabilir ve çöplerinizi atabilirsiniz.
 
 Ya ön kapının anahtarını kullanırsınız ya da kapıdan içeri girip kapıyı açmak için düğmeye dokunursunuz. Düğmeyi basılı tuttuğunuzda kapıyı açabilirsiniz.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[çevre-button.jpeg]]
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
 ### Sarı? Mavi? Yeşil? Kahverengi?
 
