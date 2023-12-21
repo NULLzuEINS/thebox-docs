@@ -92,7 +92,7 @@ Passwort: thebox
 
 Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması sorun değil. Suyu yalnızca 1/3 oranında açın ve banyo paspasını kuruması için ısıtıcının üzerine asın.
 
-Duvardaki Alexa "Bilgisayar" adını alır ve aynı zamanda en sevdiğiniz müziği veya radyoyu da çalar. Örneğin. "_Computer, spiele Deutschlandfunk Nova_"
+Duvardaki Alexa "Bilgisayar" adını alır ve aynı zamanda en sevdiğiniz müziği veya radyoyu da çalar. Örneğin. "_Bilgisayar, Deutschlandfunk Nova'yı oyna_"
 
 Tüm kancalara havlu asabilir, eşyalarınızı istediğiniz yere koyabilirsiniz.
 
@@ -119,6 +119,12 @@ Sıcaklık ve nem sensörler aracılığıyla otomatik olarak ölçülür. Küf 
 Avlumuzda bisikletlerinizi bağlayabilir ve çöplerinizi atabilirsiniz.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
+
+### Kapı nasıl açılıyor?
+
+Ya ön kapının anahtarını kullanırsınız ya da kapıdan içeri girip kapıyı açmak için düğmeye dokunursunuz. Düğmeyi basılı tuttuğunuzda kapıyı açabilirsiniz.
+
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[çevre-button.jpeg]]
 
 ### Sarı? Mavi? Yeşil? Kahverengi?
 
