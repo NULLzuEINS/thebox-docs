@@ -120,6 +120,13 @@ In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll w
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
+### Wie geht das Tor auf?
+
+Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kann du die Tür offnen.
+
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ':size=144')
+![[surroundings-button.jpeg]]
+
 ### Gelb? Blau? Grün? Braun?
 
 Du fragst Dich warum die Mülltonnen verschiedene Farben haben? Wenn Du dir unsicher bist, mach den Müll immer in die grüne Tonne. Darin landet der Restmüll. Profis machen den Papiermüll in die blaue Tonne, Wertstoffe in die gelbe Tonne und organische Abfälle in die braune Tonne.

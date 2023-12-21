@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c912af7abc6b0c10",
+        "id": "00e77ec9384c0dc7",
         "type": "tabs",
         "children": [
           {
-            "id": "986a159e8d5b608c",
+            "id": "bb1c333b9248b492",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,29 +147,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "986a159e8d5b608c",
+  "active": "bb1c333b9248b492",
   "lastOpenFiles": [
-    "_media/remotes/remote-lights.png",
-    "_sketches/map-surrounding.excalidraw.md",
-    "_media/remotes/remote-ceiling.png",
+    "_media/surroundings-button.jpeg",
     "README.md",
+    "_media/thebox-map-surroundings.png",
+    "_media/thebox-map-surroundings.png.md",
+    "_media/Pasted image 20231221153512.png",
+    "Pasted image 20231221153512.png",
+    "README.cs.md",
+    "_sketches/map-surrounding.excalidraw.md",
+    "_media/thebox-map-surroundings 1.png",
+    "_media/thebox-map-single.png",
+    "README.tr.md",
+    "README.sv.md",
+    "README.sr.md",
+    "README.pt.md",
+    "README.no.md",
+    "README.ko.md",
+    "_media/remotes/remote-lights.png",
+    "_media/remotes/remote-ceiling.png",
     "_sketches/remotes.excalidraw.md",
     "_media/map-surroundings.png",
-    "_media/thebox-map-surroundings.png",
     "_sketches/map-rooms.excalidraw.md",
     "Excalidraw",
     "_media/remotes",
     "README.pl.md",
     "README.el.md",
-    "README.cs.md",
     "_media/rooms/remote-lights.png",
-    "_media/thebox-map.png",
-    "_media/thebox-map-border.png",
-    "_media/andre-lademann.png",
     "_sketches",
     "_media/pdf/README.pdf",
     "_media/pdf",
-    "README.fr.md",
-    "_media/rooms/zimmer-two-wide.jpg"
+    "README.fr.md"
   ]
 }
