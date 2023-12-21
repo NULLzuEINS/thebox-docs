@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Eller så skannar du den här QR-koden, den ansluter dig automatiskt till nätverket:
+Eller så skannar du den här QR-koden, den kopplar dig automatiskt till nätverket:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -54,7 +54,7 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 ### FAQ - Kök
 
-1.  Kaminen fungerar inte? snälla säg
+1.  Fungerar inte kaminen? snälla säg
     > "Dator, arbetsbänk och"
 2.  Var kan jag diska? Detta fungerar bara i badrummet. Det finns en speciell behållare för att diska.
 
