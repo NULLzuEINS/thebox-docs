@@ -22,7 +22,7 @@
 [🇸🇪](README.sv.md) ‧
 [🇷🇸](README.sr.md) ‧
 [🇹🇷](README.tr.md) ‧
-[🇺🇦](README.uk.md)
-[🇻🇳](README.vi.md) ‧
+[🇺🇦](README.uk.md) ‧
+[🇻🇳](README.vi.md)
 
 </div>
