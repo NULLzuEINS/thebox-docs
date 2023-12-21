@@ -92,7 +92,7 @@ Passwort: thebox
 
 Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması sorun değil. Suyu yalnızca 1/3 oranında açın ve banyo paspasını kuruması için ısıtıcının üzerine asın.
 
-Duvardaki Alexa "Bilgisayar" adını alır ve aynı zamanda en sevdiğiniz müziği veya radyoyu da çalar. Örneğin. "_Bilgisayar, Deutschlandfunk Nova'yı oyna_"
+Duvardaki Alexa "Bilgisayar" adını alır ve aynı zamanda en sevdiğiniz müziği veya radyoyu da çalar. Örneğin. "_Computer, spiele Deutschlandfunk Nova_"
 
 Tüm kancalara havlu asabilir, eşyalarınızı istediğiniz yere koyabilirsiniz.
 
@@ -128,8 +128,8 @@ Avlumuzda bisikletlerinizi bağlayabilir ve çöplerinizi atabilirsiniz.
 
 ### Bisikletim güvende mi?
 
-Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
-Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
+Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı sayesinde birçok yere ulaşabilir ve genellikle kırsal kesimden geçebilirsiniz.
+İstatistiklere inanıyorsanız, her yıl kişi başına en fazla bisikletin çalındığı yer Leipzig'dir. (100.000 kişi başına 1.539 çalıntı bisiklet) Hardenbergstraße'de yaşadığım 15 yıldan bu yana hiç bisikletim çalınmadı ve sadece arka bahçesinden bisikleti çalınan bir komşu tanıyorum. Her zaman doğrudan korkuluğa bağlarım.
 
 ### Hangi alternatifler var?
 
