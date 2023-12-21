@@ -10,7 +10,7 @@
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | 一张床配置，带沙发                                                                              | 两张床配置                                                                         | 桌子                                                                                      |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Schreibtisch mit Licht                                                                 | 厨房-炉灶                                                                         | 厨房-茶                                                                                    |
+| 带灯书桌                                                                                   | 厨房-炉灶                                                                         | 厨房-茶                                                                                    |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | 带灯书桌                                                                                   | 厨房-炉灶                                                                         | 厨房-茶                                                                                    |
 
@@ -33,7 +33,7 @@ Passwort: landungsbruecken
 
 # 房间
 
-!\[[thebox-map.png]]
+![Raumplan](_media/thebox-map.png)
 
 ## 厨房
 
@@ -50,7 +50,7 @@ Passwort: landungsbruecken
 5.  披萨
 6.  矿泉水
 7.  架子上的手机充电站
-8.  Waschmaschine
+8.  洗衣机
 
 ### 常见问题解答 - 厨房
 
@@ -100,7 +100,7 @@ Passwort: thebox
 
 欢迎您把鞋子留在这里。我的架子上还有一个小记事本，以防你想告诉我一些事情。
 
-# 各种各样的
+# Sonstiges
 
 ## 智能家居
 
@@ -116,7 +116,7 @@ Passwort: thebox
 
 ## 院子
 
-In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
+在我们的庭院里，您可以连接自行车并带走垃圾。
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
