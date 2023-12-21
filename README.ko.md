@@ -10,7 +10,7 @@
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | 소파가 포함된 침대 1개 구성                                                                       | 2베드 구성                                                                        | 책상                                                                                      |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| 조명이 있는 책상                                                                              | 주방 - 스토브                                                                      | 주방 - 차                                                                                  |
+| 조명이 있는 책상                                                                              | 주방 - 스토브                                                                      | Küche - Tee                                                                             |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | 조명이 있는 책상                                                                              | 주방 - 스토브                                                                      | 주방 - 차                                                                                  |
 
@@ -64,7 +64,7 @@ Passwort: landungsbruecken
 
 컴퓨터와 프린터를 자유롭게 이용하실 수 있습니다.
 
-### 컴퓨터의 로그인 세부 정보는 다음과 같습니다.
+### 컴퓨터(iMac)의 로그인 세부정보는 다음과 같습니다.
 
 ```txt
 Nutzer:   thebox
@@ -79,10 +79,13 @@ Passwort: thebox
 
 ### 리모콘
 
+독일의 속담은 모든 리모콘에 적용됩니다. "노력하는 것이 공부하는 것보다 낫다." 당신은 아무것도 깨뜨릴 수 없습니다. 몇 개의 버튼을 누르고 무슨 일이 일어나는지 확인하십시오. 아직도 공부하고 싶다면 다음과 같은 책을 읽어보세요.
+
 | 삽화                                                        | 설명                                                                                                                              |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 답: 블루투스박스<br>B: 요정 조명<br>C: 책상 램프<br>디:_파일_<br>마스터: 모든 것을 동시에 전환하세요                                                             |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **사용하시기 전, 입구의 전등 스위치가 '켜짐'으로 설정되어 있는지 확인하세요.**<br>첫 번째 줄: 밝기, 켜기/끄기<br>컬러 버튼: 이 버튼을 사용하여 색상을 변경할 수 있습니다.<br>회색 버튼: 다양한 효과 간 전환 |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | 컴퓨터(iMac)용 리모컨입니다._컴퓨터를 사용하려면 첫 번째 리모콘의 A 버튼을 누르세요. 컴퓨터와 Bluetooth 상자의 전원 공급 장치를 활성화합니다._                                       |
 
 ### FAQ - 객실
 
@@ -106,7 +109,7 @@ Passwort: thebox
 
 아파트에는 Alexa 음성 비서가 있습니다. 예를 들어 "컴퓨터"라는 이름으로 주소를 지정하고 Deutschlandfunk Nova를 재생하도록 할 수 있습니다. 장치는 인터넷에 연결되어 있으며 알람 시계나 타이머로도 사용할 수 있습니다. 사용하고 싶지 않다면 간단히 전원 공급 장치에서 플러그를 뽑으면 됩니다.
 
-객실에는 음성 도우미가 없습니다. 선반 위의 바구니에는 라우터와 소형 컴퓨터만 들어 있습니다.
+In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
 
 ## 온도와 습도
 
@@ -124,7 +127,7 @@ Passwort: thebox
 
 현관문 열쇠를 사용하거나, 대문을 통해 손을 뻗어 버튼을 눌러 문을 엽니다. 버튼을 누르고 있는 동안 문을 열 수 있습니다.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[주변-button.jpeg]]
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
 ### 노란색? 파란색? 녹색? 갈색?
 
