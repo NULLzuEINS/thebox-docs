@@ -77,7 +77,11 @@ Passwort: thebox
 
 ### Fernbedienungen
 
-![Küche](_media/rooms/remote-lights.png ':size=300')
+| Abbildung | Beschreibung |
+|-|-|
+| ![Lichter](_media/remotes/remote-lights.png ':size=200')  | A: Bluetoothbox<br>B: Lichterkette<br>C: Schreibtischlampe<br>D: *leer*<br>Master: Alles gleichzeitig schalten |
+|||
+
 ### FAQ - Dein Zimmer
 
 1. Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
@@ -104,8 +108,9 @@ In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal
 
 ## Temperatur und Feuchtigkeit
 
-Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst
-Du im Spiegel im Flur ablesen.
+Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst Du im Spiegel im Flur ablesen.
+
+>Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Acht dabei auch darauf, dass die Heizung abgestellt ist. Danke 🙏
 
 # Checkout
 

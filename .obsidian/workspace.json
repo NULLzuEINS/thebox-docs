@@ -23,16 +23,13 @@
             "id": "749607ca6ca1cb76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "_sketches/remotes.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,14 +157,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "749607ca6ca1cb76",
+  "active": "ab6ac9251ab7ed5f",
   "lastOpenFiles": [
+    "_media/remotes/remote-lights.png",
+    "_sketches/remotes.excalidraw.md",
+    "README.md",
+    "_media/remotes",
     "README.pl.md",
     "README.el.md",
     "README.cs.md",
     "_media/rooms/remote-lights.png",
-    "Excalidraw/Drawing 2023-12-20 23.20.32.excalidraw.md",
-    "README.md",
     "Excalidraw",
     "_media/thebox-map.png",
     "_media/thebox-map-border.png",
