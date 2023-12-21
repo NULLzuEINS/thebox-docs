@@ -33,7 +33,7 @@ Passwort: landungsbruecken
 
 # 部屋
 
-！「[thebox-map.png]」
+![Raumplan](_media/thebox-map.png)
 
 ## 台所
 
@@ -52,7 +52,7 @@ Passwort: landungsbruecken
 7.  棚にある携帯電話の充電ステーション
 8.  洗濯機
 
-### FAQ - キッチン
+### FAQ - Küche
 
 1.  ストーブが作動していませんか?言ってください
     > 「コンピューター、作業台、そして」
