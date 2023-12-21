@@ -164,4 +164,4 @@ andré
 
 * * *
 
-_Hecho con ❤️ por [docsify](https://docsify.js.org/)_
+_Hecho con ❤️ por [docsificar](https://docsify.js.org/)_
