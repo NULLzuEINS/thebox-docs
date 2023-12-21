@@ -33,7 +33,7 @@ Eller du skanner denne QR-koden, den vil automatisk koble deg til nettverket:
 
 # Rommene
 
-!\[[thebox-map.png]]
+![Raumplan](_media/thebox-map.png)
 
 ## Kjøkken
 
@@ -86,7 +86,7 @@ Passwort: thebox
 
 ### FAQ - Rommet ditt
 
-1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
+1.  Lyset tennes ikke eller blinker vilt Bruk de små fjernkontrollene med de fargerike knappene.
 
 ### baderom
 
