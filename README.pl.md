@@ -10,7 +10,7 @@ Na moim AirBnB otrzymasz szczegółowy przegląd wszystkich pokoi i udogodnień.
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Konfiguracja z jednym łóżkiem i kanapą                                                 | Konfiguracja z dwoma łóżkami                                                  | Biurko                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
+| Schreibtisch mit Licht                                                                 | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
 
@@ -33,7 +33,7 @@ Lub zeskanuj ten kod QR, automatycznie połączy Cię z siecią:
 
 # Pokoje
 
-!\[[thebox-map.png]]
+![Raumplan](_media/thebox-map.png)
 
 ## Kuchnia
 
@@ -52,7 +52,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 7.  Stacja ładowania telefonów komórkowych na półce
 8.  pralka
 
-### Często zadawane pytania - Kuchnia
+### FAQ - Küche
 
 1.  Piec nie działa? proszę powiedz
     > „Komputer, stół warsztatowy”
