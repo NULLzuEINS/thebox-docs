@@ -114,6 +114,27 @@ La temperatura y la humedad se miden automáticamente a través de los sensores.
 
 > Asegúrese de ventilar regularmente (al menos una vez al día). Especialmente en el baño. Asegúrate también de que la calefacción esté apagada. Gracias 🙏
 
+## El patio
+
+En nuestro patio podréis conectar vuestras bicicletas y retirar la basura.
+
+!\[[thebox-map-surroundings.png]]
+
+### ¿Amarillo? ¿Azul? ¿Verde? ¿Marrón?
+
+¿Te preguntas por qué los botes de basura tienen diferentes colores? Si no está seguro, coloque siempre la basura en el contenedor verde. Los residuos residuales acaban allí. Los profesionales depositan los residuos de papel en el contenedor azul, los materiales reciclables en el contenedor amarillo y los residuos orgánicos en el contenedor marrón.
+
+### Ciclos
+
+### ¿Mi bicicleta es segura?
+
+Leipzig es una ciudad muy amigable con las bicicletas. A través del gran parque urbano que divide la ciudad en dos mitades, se puede llegar a muchos lugares y normalmente conducir por el campo.
+Si nos fijamos en las estadísticas, en Leipzig se roban cada año el mayor número de bicicletas per cápita. (1.539 bicicletas robadas por cada 100.000 habitantes) Desde hace 15 años que vivo aquí en Hardenbergstraße, nunca me han robado una bicicleta y sólo conozco a un vecino a quien le robaron la bicicleta en su patio trasero. Siempre lo conecto directamente a la barandilla.
+
+### ¿Qué alternativas hay?
+
+Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para ellos_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[ciudadflitzer](https://cityflitzer.de/). Y, por supuesto, también hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
+
 # Verificar
 
 ## Llave
