@@ -12,7 +12,7 @@ Na moim AirBnB otrzymasz szczegółowy przegląd wszystkich pokoi i udogodnień.
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
+| Biurko ze światłem                                                                     | Küche - Herd                                                                  | Kuchnia - herbata                                                                       |
 
 # Zameldować się
 
@@ -119,6 +119,12 @@ Temperatura i wilgotność są mierzone automatycznie za pomocą czujników. Uż
 Na naszym dziedzińcu możesz podłączyć rowery i wywieźć śmieci.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
+
+### Jak otwiera się brama?
+
+Albo użyjesz klucza do drzwi wejściowych, albo sięgniesz przez bramę i poczujesz przycisk, aby otworzyć drzwi. Przytrzymując przycisk możesz otworzyć drzwi.
+
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[przycisk otoczenia-jpeg.]]
 
 ### Żółty? Niebieski? Zielony? Brązowy?
 
