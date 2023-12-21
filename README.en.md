@@ -114,6 +114,27 @@ The temperature and humidity are automatically measured via the sensors. I use t
 
 > Please make sure to ventilate regularly (at least once a day). Especially in the bathroom. Also make sure that the heating is turned off. Thank you 🙏
 
+## The yard
+
+In our courtyard you can connect your bikes and take away your rubbish.
+
+!\[[thebox-map-surroundings.png]]
+
+### Yellow? Blue? Green? Brown?
+
+Are you wondering why the garbage cans have different colors? If you are unsure, always put the trash in the green bin. The residual waste ends up in there. Professionals put paper waste in the blue bin, recyclables in the yellow bin and organic waste in the brown bin.
+
+### Cycles
+
+### Is my bike safe?
+
+Leipzig is a very bike-friendly city. Through the large city park that divides the city into two halves, you can get to many places and usually drive through the countryside.
+If you believe the statistics, then the most bicycles per capita are stolen in Leipzig every year. (1,539 stolen bicycles per 100,000 inhabitants) In the 15 years since I have lived here on Hardenbergstraße, I have never had a bicycle stolen and I only know of one neighbor whose bicycle was stolen from his backyard. I always connect it directly to the railing.
+
+### What alternatives are there?
+
+With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for them_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). And of course there are also buses and trains that you could also pay for via the Leipzig MOVE app.
+
 # Checkout
 
 ## Key
