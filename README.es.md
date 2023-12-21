@@ -33,7 +33,7 @@ O escaneas este código QR, te conectará automáticamente a la red:
 
 # Las habitaciones
 
-!\[[thebox-mapa.png]]
+![Raumplan](_media/thebox-map.png)
 
 ## Cocina
 
@@ -102,7 +102,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 # Misceláneas
 
-## Smart Home
+## Casa inteligente
 
 Hay asistentes de voz Alexa en el apartamento. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Los dispositivos están conectados a Internet y también pueden utilizarse como despertadores o temporizadores. Si no desea utilizarlo, simplemente puede desconectarlo de la fuente de alimentación.
 
