@@ -64,7 +64,7 @@ The mattresses are placed on top of each other for storage purposes only. You ca
 
 You are welcome to use the computer and printer.
 
-### The login details for the computer are
+### The login details for the computer (iMac) are
 
 ```txt
 Nutzer:   thebox
@@ -79,10 +79,13 @@ Passwort: thebox
 
 ### Remote controls
 
+An old German saying applies to all remote controls: “Trying is better than studying”. You can't break anything. Press a few buttons and see what happens. If you still want to study, here is the right reading for you:
+
 | Illustration                                              | Description                                                                                                                                                                                                                         |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Desk lamp<br>D:_file_<br>Master: Switch everything at the same time                                                                                                                        |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Before you can use it, make sure the light switch at the entrance is set to "on".**<br>First line: brightness, on/off<br>Colored buttons: You can use this to change the colors<br>Gray buttons: Switch between different effects |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | This is the remote control for the computer (iMac)._To use the computer, press the A button on the first remote control. It activates the power supply for the computer and the Bluetooth box._                                     |
 
 ### FAQ - Your room
 
@@ -124,7 +127,7 @@ In our courtyard you can connect your bikes and take away your rubbish.
 
 Either you use the front door key, or you reach through the gate and feel the button to open the door. While you hold down the button you can open the door.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")!\[[surroundings-button.jpeg]]
+![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
 ### Yellow? Blue? Green? Brown?
 
