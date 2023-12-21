@@ -8,7 +8,7 @@
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 一张床配置，带沙发                                                                              | 两张床配置                                                                         | Schreibtisch                                                                            |
+| 一张床配置，带沙发                                                                              | 两张床配置                                                                         | 桌子                                                                                      |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | 带灯书桌                                                                                   | 厨房-炉灶                                                                         | 厨房-茶                                                                                    |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -114,21 +114,42 @@ Passwort: thebox
 
 > 请确保定期通风（至少每天一次）。尤其是在浴室里。还要确保暖气已关闭。谢谢🙏
 
+## 院子
+
+在我们的庭院里，您可以连接自行车并带走垃圾。
+
+!\[[thebox-map-surroundings.png]]
+
+### 黄色的？蓝色的？绿色的？棕色的？
+
+你想知道为什么垃圾桶有不同的颜色吗？如果您不确定，请将垃圾放入绿色垃圾桶。残留的废物最终会在那里。专业人士将纸张垃圾放入蓝色垃圾箱，将可回收物放入黄色垃圾箱，将有机垃圾放入棕色垃圾箱。
+
+### 周期
+
+### 我的自行车安全吗？
+
+莱比锡是一个非常适合骑自行车的城市。通过将城市分为两半的大型城市公园，您可以到达许多地方，通常开车穿过乡村。
+如果您相信统计数据，那么莱比锡每年的人均自行车被盗数量最多。 （每 100,000 名居民就有 1,539 辆自行车被盗）自从我住在 Hardenbergstraße 以来的 15 年里，我从未遇到过自行车被盗的情况，我只知道一位邻居的自行车在他的后院被盗。我总是将它直接连接到栏杆上。
+
+### 还有哪些替代方案？
+
+随着[莱比锡 MOVE 应用程序](https://leipzig-move.de/)，您将获得 10 次免费乘车机会，每次 15 分钟_下一个自行车_。请注意，如果您不在主要街道上停放自行车（地图上的紫色），费用会更高。电动滑板车只能停放在某些停车位。还有一个自由流动的汽车共享系统。这意味着我们[城市飞行者](https://cityflitzer.de/)。当然，您还可以通过 Leipzig MOVE 应用程序支付巴士和火车的费用。
+
 # 查看
 
 ## 钥匙
 
 -   根据一周中的哪一天，我们可以亲自道别，或者您也可以简单地将钥匙放在桌子上，然后关上身后的门。
--   Der reguläre Zeitpunkt für den Checkout ist 11 Uhr.
+-   正常退房时间为上午 11 点。
 -   Wenn Du am Tag der Abreise noch dein Gepäck dalassen möchtest und erst später am Tag abholen möchtest, können wir uns das individuell verabreden.
 
-## Reinigung
+## 打扫
 
 -   您可以在上面留下床上用品。
 -   我也洗碗
 -   我也倒垃圾。
 
-> Kurzfassung: Schlüssel da lassen, Tür zuziehen, das wars. 😀
+> 简短版本：把钥匙留在那里，关上门，就这样。 😀
 
 # 尖端
 
