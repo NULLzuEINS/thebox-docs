@@ -2,9 +2,9 @@
 
 ¡Hola y bienvenidos a la “Caja”! Cuando viajo, también me gusta quedarme en AirBnB y a veces desearía tener un papel con toda la información necesaria sobre el alojamiento, check-in y check-out y este es mi intento de mejorarlo.
 
-## Bilder
+## Fotos
 
-Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
+En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las instalaciones. Aquí hay sólo una breve descripción general:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -12,7 +12,7 @@ Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | escritorio con luz                                                                     | Estufa de cocina                                                              | Cocina - té                                                                             |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| escritorio con luz                                                                     | Estufa de cocina                                                              | Cocina - té                                                                             |
+| escritorio con luz                                                                     | Estufa de cocina                                                              | Küche - Tee                                                                             |
 
 # Registrarse
 
@@ -47,8 +47,8 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 2.  Pava
 3.  platos cubiertos
 4.  Refrigerador
-5.  Pizza de
-6.  Agua mineral
+5.  Horno para Pizza
+6.  Mineralwasser
 7.  Estación de carga de teléfonos móviles en el estante.
 8.  lavadora
 
@@ -60,7 +60,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 ## Tu cuarto
 
-Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
+Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas los cojines del sofá por un colchón, será una buena cama.
 
 Le invitamos a utilizar la computadora y la impresora.
 
@@ -93,7 +93,7 @@ Un viejo dicho alemán se aplica a todos los mandos a distancia: "Intentar es me
 
 ### baño
 
-Puedes utilizar la ducha estando de pie. No importa si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
+Puedes utilizar la ducha estando de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
@@ -142,15 +142,14 @@ Si nos fijamos en las estadísticas, en Leipzig se roban cada año el mayor núm
 
 ### ¿Qué alternativas hay?
 
-Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para ellos_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[ciudadflitzer](https://cityflitzer.de/). Y, por supuesto, hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
+Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para ellos_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[ciudadflitzer](https://cityflitzer.de/). Y, por supuesto, también hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
 
 # Verificar
 
 ## Llave
 
 -   Dependiendo del día de la semana que sea, podemos despedirnos en persona, o simplemente puedes dejar las llaves en el escritorio y cerrar la puerta detrás de ti.
--   El horario habitual de salida es a las 11 a.m.
--   Si desea dejar su equipaje el día de salida y recogerlo más tarde ese mismo día, podemos organizarlo individualmente.
+-   La última hora de salida es a las 19:00 horas del día de salida.
 
 ## limpieza
 
@@ -162,7 +161,7 @@ Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes g
 
 # Consejos
 
-Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada uno_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento.
+Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada uno_Siguientebicicletas_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
 # ¿Preguntas?
 
@@ -173,4 +172,4 @@ andré
 
 * * *
 
-_Hecho con ❤️ por [docsificar](https://docsify.js.org/)_
+_Made with ❤️ by  [docsificar](https://docsify.js.org/)_
