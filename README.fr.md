@@ -2,7 +2,9 @@
 
 Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjourner dans des AirBnB et parfois j'aimerais avoir un morceau de papier avec toutes les informations nécessaires sur l'hébergement, l'enregistrement et le départ et c'est ma tentative de l'améliorer.
 
-## Des photos
+> **Avis**Je ferai traduire automatiquement le document dans votre langue. J'espère que c'est quelque peu compréhensible. > Sinon, n'hésitez pas à m'écrire un message. J'essaie ensuite de l'améliorer.
+
+## Bilder
 
 Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des installations. Voici juste un bref aperçu :
 
