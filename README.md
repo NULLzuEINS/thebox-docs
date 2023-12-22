@@ -45,7 +45,7 @@ Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abw
 2. Wasserkocher
 3. Geschirr, Besteck
 4. Kühlschrank
-5. Pizzaof
+5. Pizzaofen
 6. Mineralwasser
 7. Handy-Aufladestation im Regal
 8. Waschmaschine
@@ -145,9 +145,7 @@ Mit der [Leipzig MOVE App](https://leipzig-move.de/), bekommt ihr 10 Freifahrten
 ## Schlüssel 
 
 * Je nach dem welcher Wochentag ist, können wir uns persönlich verabschieden, oder du legst einfach die Schlüssel auf den Schreibtisch und ziehst die Tür hinter Dir zu.
-* Der reguläre Zeitpunkt für den Checkout ist 11 Uhr.
-* Wenn Du am Tag der Abreise noch dein Gepäck dalassen möchtest und erst später am Tag abholen möchtest, können wir uns das individuell verabreden.
-
+* Der späteste Zeitpunkt für den Checkout ist am Abreisetag 19 Uhr.
 ## Reinigung
 
 * Bettzeug kannst Du drauf lassen.

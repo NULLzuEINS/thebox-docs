@@ -15,7 +15,14 @@
 [🇬🇷](README.el.md) ‧
 [🇪🇸](README.es.md) ‧
 [🇯🇵](README.ja.md) ‧
+[🇰🇷](README.ko.md) ‧
+[🇳🇴](README.no.md) ‧
 [🇵🇱](README.pl.md) ‧
-[🇺🇦](README.uk.md)
+[🇷🇴](README.ro.md) ‧
+[🇸🇪](README.sv.md) ‧
+[🇷🇸](README.sr.md) ‧
+[🇹🇷](README.tr.md) ‧
+[🇺🇦](README.uk.md) ‧
+[🇻🇳](README.vi.md)
 
 </div>
