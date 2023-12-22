@@ -2,7 +2,7 @@
 
 Hej och välkommen till "Boxen"! När jag reser gillar jag också att bo i AirBnB's och ibland önskar jag att jag hade ett papper med all nödvändig information om boendet, in- och utcheckning och detta är mitt försök att göra det bättre.
 
-> **Lägga märke till**Jag kommer att få dokumentet automatiskt översatt till ditt språk. Jag hoppas att det är lite förståeligt. > Om inte, skriv gärna ett meddelande till mig. Då försöker jag förbättra det.
+> **Lägga märke till**Jag kommer att få dokumentet automatiskt översatt till ditt språk. Jag hoppas att det är lite förståeligt. Om inte, skriv gärna ett meddelande till mig. Då försöker jag förbättra det.
 
 ## Bilder
 
@@ -12,7 +12,7 @@ På min AirBnB får du en detaljerad översikt över alla rum och faciliteter. H
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | En sängkonfiguration med soffa                                                         | Tvåbäddskonfiguration                                                         | Skrivbord                                                                               |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Skrivbord med ljus                                                                     | Kök - spis                                                                    | Kök - te                                                                                |
+| Schreibtisch mit Licht                                                                 | Kök - spis                                                                    | Kök - te                                                                                |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Skrivbord med ljus                                                                     | Kök - spis                                                                    | Kök - te                                                                                |
 
@@ -29,7 +29,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Eller så skannar du den här QR-koden, den kopplar dig automatiskt till nätverket:
+Eller så skannar du den här QR-koden, den ansluter dig automatiskt till nätverket:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -56,13 +56,13 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 ### FAQ - Kök
 
-1.  Fungerar inte kaminen? snälla säg
+1.  Kaminen fungerar inte? snälla säg
     > "Dator, arbetsbänk och"
 2.  Var kan jag diska? Detta fungerar bara i badrummet. Det finns en speciell behållare för att diska.
 
 ## Ditt rum
 
-Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov. Byter du ut kuddarna på soffan mot en madrass blir det en bra säng.
+Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov. Om du byter ut kuddarna i soffan mot en madrass blir det en bra säng.
 
 Du är välkommen att använda datorn och skrivaren.
 
@@ -95,7 +95,7 @@ Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre
 
 ### badrum
 
-Du kan använda duschen stående. Det är inga problem om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
+Du kan använda duschen stående. Det spelar ingen roll om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
 
 Alexa på väggen går under namnet "Dator" och spelar även din favoritmusik eller radio. T.ex. "_Dator, spela Deutschlandfunk Nova_"
 
@@ -109,9 +109,9 @@ Du är välkommen att lämna dina skor här. Jag har även ett litet antecknings
 
 ## Smart hem
 
-Det finns Alexa röstassistenter i lägenheten. Du kan tilltala dem med namnet "Dator" och låta dem spela Deutschlandfunk Nova, till exempel. Enheterna är anslutna till internet och kan även användas som väckarklockor eller timers. Om du inte vill använda den kan du helt enkelt koppla bort den från strömförsörjningen.
+Det finns Alexa röstassistenter i lägenheten. Du kan tilltala dem med namnet "Dator" och låta dem spela Deutschlandfunk Nova, till exempel. Enheterna är anslutna till internet och kan även användas som väckarklockor eller timers. Om du inte vill använda den kan du helt enkelt koppla bort den från strömmen.
 
-In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
+Det finns inga röstassistenter i ditt rum. Korgen på hyllan innehåller bara routern och en liten dator.
 
 ## temperatur och luftfuktighet
 
@@ -139,7 +139,7 @@ Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid 
 
 ### Är min cykel säker?
 
-Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många ställen och brukar köra genom landsbygden.
+Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många platser och brukar köra genom landsbygden.
 Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 år sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
 
 ### Vilka alternativ finns det?
@@ -161,7 +161,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 > Kortversion: Lämna nyckeln där, stäng dörren, så är det. 😀
 
-# Tips
+# Tipps
 
 Med Leipzig MOVE-appen får du 10 gratisturer på 15 minuter vardera_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser.
 
