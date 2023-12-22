@@ -2,6 +2,8 @@
 
 Merhaba ve “Kutu”ya hoş geldiniz! Seyahat ederken AirBnB'lerde kalmayı da severim ve bazen konaklama, giriş ve çıkış hakkında gerekli tüm bilgileri içeren bir kağıt parçasına sahip olmayı dilerdim ve bu benim bunu daha iyi hale getirme girişimimdir.
 
+> **Fark etme**Belgenin otomatik olarak dilinize çevrilmesini sağlayacağım. Umarım biraz anlaşılır olmuştur. > Değilse, bana bir mesaj yazmaktan çekinmeyin. Daha sonra onu geliştirmeye çalışıyorum.
+
 ## Resimler
 
 AirBnB'mde tüm odalara ve olanaklara ilişkin ayrıntılı bir genel bakış bulacaksınız. İşte kısa bir genel bakış:
@@ -172,4 +174,4 @@ André
 
 * * *
 
-_tarafından ❤️ ile yapılmıştır [belgelemek](https://docsify.js.org/)_
+_tarafından ❤️ ile yapılmıştır [docsify](https://docsify.js.org/)_
