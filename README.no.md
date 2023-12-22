@@ -10,7 +10,7 @@ På min AirBnB får du en detaljert oversikt over alle rommene og fasilitetene. 
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | En seng konfigurasjon med sofa                                                         | Konfigurasjon med to senger                                                   | Pulten                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Skrivebord med lys                                                                     | Kjøkken - komfyr                                                              | Küche - Tee                                                                             |
+| Skrivebord med lys                                                                     | Kjøkken - komfyr                                                              | Kjøkken - te                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Skrivebord med lys                                                                     | Kjøkken - komfyr                                                              | Kjøkken - te                                                                            |
 
@@ -47,7 +47,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 2.  Kjele
 3.  Tallerkener bestikk
 4.  Kjøleskap
-5.  Pizza av
+5.  Pizzaovn
 6.  Mineralvann
 7.  Mobilladestasjon i hylla
 8.  vaskemaskin
@@ -93,7 +93,7 @@ Et gammelt tysk ordtak gjelder for alle fjernkontroller: «Å prøve er bedre en
 
 ### baderom
 
-Du kan bruke dusjen mens du står. Det spiller ingen rolle om bakken blir litt våt. Slå bare på vannet 1/3 og heng badematten over varmeren for å tørke.
+Du kan bruke dusjen mens du står. Det er ikke noe problem hvis bakken blir litt våt. Slå bare på vannet 1/3 og heng badematten over varmeren for å tørke.
 
 Alexaen på veggen går under navnet "Computer" og spiller også favorittmusikken eller radioen din. f.eks."_Datamaskin, spill Deutschlandfunk Nova_"
 
@@ -131,7 +131,7 @@ Enten bruker du hoveddørnøkkelen, eller så strekker du deg gjennom porten og 
 
 ### Gul? Blå? Grønn? Brun?
 
-Lurer du på hvorfor søppeldunkene har forskjellige farger? Hvis du er usikker, legg alltid søppelet i den grønne søppelbøtta. Der havner restavfallet. Fagfolk legger papiravfall i den blå søppelkassen, resirkulerbart i den gule søppelkassen og organisk avfall i den brune søppelbøtta.
+Lurer du på hvorfor søppeldunkene har forskjellige farger? Hvis du er usikker, legg alltid søppelet i den grønne søppelbøtta. Der havner restavfallet. Fagfolk legger papiravfall i den blå dunken, resirkulerbart i den gule dunken og organisk avfall i den brune dunken.
 
 ### Sykluser
 
@@ -142,15 +142,14 @@ Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hver
 
 ### Hvilke alternativer finnes?
 
-Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for dem_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser. Det er også et gratis-flytende bildelingssystem. Det betyr med oss[cityflitzer](https://cityflitzer.de/). Og selvfølgelig finnes det busser og tog som du også kan betale for via Leipzig MOVE-appen.
+Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for dem_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser. Det er også et gratis-flytende bildelingssystem. Det betyr med oss[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er det også busser og tog som du også kan betale for via Leipzig MOVE-appen.
 
 # Sjekk ut
 
 ## Nøkkel
 
 -   Avhengig av hvilken ukedag det er, kan vi si farvel personlig, eller du kan ganske enkelt legge nøklene på skrivebordet og lukke døren bak deg.
--   Den vanlige utsjekkingstiden er kl. 11.00.
--   Dersom du ønsker å legge igjen bagasjen på avreisedagen og først hente senere på dagen, kan vi ordne dette individuelt.
+-   Siste tidspunkt for utsjekking er kl. 19.00 på avreisedagen.
 
 ## rengjøring
 
