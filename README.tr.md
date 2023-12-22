@@ -47,7 +47,7 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 2.  Su ısıtıcısı
 3.  Çatal bıçak takımı
 4.  Buzdolabı
-5.  Pizzaof
+5.  Pizza fırını
 6.  Maden suyu
 7.  Rafta cep telefonu şarj istasyonu
 8.  çamaşır makinesi
@@ -60,7 +60,7 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 
 ## Senin odan
 
-Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz. Kanepedeki yastıkları şilteyle değiştirirseniz iyi bir yatak olur.
+Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz. Kanepedeki minderleri şilteyle değiştirirseniz iyi bir yatak olur.
 
 Bilgisayarı ve yazıcıyı kullanabilirsiniz.
 
@@ -93,7 +93,7 @@ Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek �
 
 ### banyo
 
-Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması önemli değil. Suyu yalnızca 1/3 oranında açın ve banyo paspasını kuruması için ısıtıcının üzerine asın.
+Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması sorun değil. Suyu yalnızca 1/3 oranında açın ve banyo paspasını kuruması için ısıtıcının üzerine asın.
 
 Duvardaki Alexa "Bilgisayar" adını alır ve aynı zamanda en sevdiğiniz müziği veya radyoyu da çalar. Örneğin. "_Bilgisayar, Deutschlandfunk Nova'yı oyna_"
 
@@ -113,7 +113,7 @@ Odanızda sesli asistan yok. Raftaki sepette yalnızca yönlendirici ve küçük
 
 ## sıcaklık ve nem
 
-Sıcaklık ve nem sensörler aracılığıyla otomatik olarak ölçülür. Küf oluşumunu engellemek için kullanıyorum. Küçük ve beyazdırlar ve genellikle kapı çerçevelerinde bulunurlar. Ölçüm verilerinin bir kısmını koridordaki aynadan okuyabilirsiniz.
+Sıcaklık ve nem sensörler aracılığıyla otomatik olarak ölçülür. Küf oluşumunu engellemek için kullanıyorum. Küçük ve beyazdırlar ve genellikle kapı çerçevelerinde bulunurlar. Ölçüm verilerinin bir kısmını koridordaki aynada okuyabilirsiniz.
 
 > Lütfen düzenli olarak (en az günde bir kez) havalandırmayı unutmayın. Özellikle banyoda. Ayrıca ısıtmanın kapalı olduğundan emin olun. Teşekkür ederim 🙏
 
@@ -137,20 +137,19 @@ Ya ön kapının anahtarını kullanırsınız ya da kapıdan içeri girip kapı
 
 ### Bisikletim güvende mi?
 
-Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı sayesinde birçok yere ulaşabilir ve genellikle kırsal kesimden arabayla ulaşabilirsiniz.
-İstatistiklere inanıyorsanız, her yıl kişi başına en fazla bisikletin çalındığı yer Leipzig'dir. (100.000 kişi başına 1.539 çalıntı bisiklet) Hardenbergstraße'de yaşadığım 15 yıldan bu yana hiç bisikletim çalınmadı ve arka bahçesinden bisikleti çalınan sadece bir komşu tanıyorum. Her zaman doğrudan korkuluğa bağlarım.
+Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı sayesinde birçok yere ulaşabilir ve genellikle kırsal kesimden geçebilirsiniz.
+İstatistiklere inanıyorsanız, her yıl kişi başına en fazla bisikletin çalındığı yer Leipzig'dir. (100.000 kişi başına 1.539 çalıntı bisiklet) Hardenbergstraße'de yaşadığım 15 yıldan bu yana hiç bisikletim çalınmadı ve sadece arka bahçesinden bisikleti çalınan bir komşu tanıyorum. Her zaman doğrudan korkuluğa bağlarım.
 
 ### Hangi alternatifler var?
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), onlar için her biri 15 dakikalık 10 ücretsiz yolculuk hakkınız var_Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve tabii ki Leipzig MOVE uygulaması aracılığıyla da ödeme yapabileceğiniz otobüs ve trenler var.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), onlar için her biri 15 dakikalık 10 ücretsiz yolculuk hakkınız var_Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve tabii ki Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüs ve trenler de var.
 
 # Çıkış yapmak
 
 ## Anahtar
 
 -   Haftanın hangi günü olduğuna bağlı olarak bizzat veda edebiliriz ya da anahtarları masanın üzerine koyup kapıyı arkanızdan kapatabilirsiniz.
--   Normal çıkış saati 11:00'dir.
--   Bagajınızı ayrılış gününde geride bırakmak ve ancak günün ilerleyen saatlerinde almak istiyorsanız, bunu ayrı ayrı ayarlayabiliriz.
+-   Çıkış günü son çıkış saati saat 19.00'dır.
 
 ## temizlik
 
