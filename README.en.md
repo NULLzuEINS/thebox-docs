@@ -2,7 +2,7 @@
 
 Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB's and sometimes I wish I had a piece of paper with all the necessary information about the accommodation, check-in and check-out and this is my attempt to make it better.
 
-> **Notice**I will have the document automatically translated into your language. I hope it's somewhat understandable. > If not, feel free to write me a message. I then try to improve it.
+> **Notice**I will have the document automatically translated into your language. I hope it's somewhat understandable. If not, feel free to write me a message. I then try to improve it.
 
 ## Pictures
 
@@ -62,7 +62,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ## Your room
 
-The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
 
 You are welcome to use the computer and printer.
 
@@ -95,7 +95,7 @@ An old German saying applies to all remote controls: “Trying is better than st
 
 ### bathroom
 
-You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
@@ -109,7 +109,7 @@ You are welcome to leave your shoes here. I also have a small notepad on the she
 
 ## Smart Home
 
-There are Alexa voice assistants in the apartment. You can address them by the name “Computer” and have them play Deutschlandfunk Nova, for example. The devices are connected to the Internet and can also be used as alarm clocks or timers. If you don't want to use it, you can simply unplug it from the power supply.
+There are Alexa voice assistants in the apartment. You can address them by the name “Computer” and have them play Deutschlandfunk Nova, for example. The devices are connected to the Internet and can also be used as alarm clocks or timers. If you don't want to use it, you can simply unplug it from the power.
 
 There are no voice assistants in your room. The basket on the shelf only contains the router and a small computer.
 
