@@ -43,11 +43,11 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 
 ### Những điều sau đây có sẵn cho bạn
 
-1.  Herd
+1.  Bầy đàn
 2.  Ấm đun nước
 3.  Dao kéo bát đĩa
 4.  Tủ lạnh
-5.  pizzaof
+5.  lò nướng bánh pizza
 6.  Nước khoáng
 7.  Trạm sạc điện thoại di động trên kệ
 8.  Máy giặt
@@ -56,11 +56,11 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 
 1.  Bếp không hoạt động? làm ơn nói
     > "Máy tính, bàn làm việc"
-2.  Tôi có thể rửa ở đâu? Điều này chỉ hoạt động trong phòng tắm. Có một hộp đựng đặc biệt để rửa chén.
+2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
 
 ## Phòng của bạn
 
-Các tấm nệm được đặt chồng lên nhau chỉ nhằm mục đích cất giữ. Bạn có thể phân phối chúng theo nhu cầu của bạn. Nếu bạn thay những chiếc gối trên ghế dài bằng một tấm nệm thì đó sẽ là một chiếc giường tốt.
+Các tấm nệm được đặt chồng lên nhau chỉ nhằm mục đích cất giữ. Bạn có thể phân phối chúng theo nhu cầu của bạn. Nếu bạn thay đệm trên ghế dài bằng nệm thì nó sẽ tạo thành một chiếc giường tốt.
 
 Bạn được thoải mái sử dụng máy tính và máy in.
 
@@ -81,11 +81,11 @@ Passwort: thebox
 
 Một câu nói cổ của người Đức áp dụng cho tất cả các loại điều khiển từ xa: “Cố gắng còn hơn học”. Bạn không thể phá vỡ bất cứ điều gì. Nhấn một vài nút và xem điều gì sẽ xảy ra. Nếu bạn vẫn muốn học thì đây là cách đọc phù hợp với bạn:
 
-| Hình minh họa                                             | Sự miêu tả                                                                                                                                                                                                                                                     |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>D:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                            |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Trước khi bạn có thể sử dụng nó, hãy đảm bảo rằng công tắc đèn ở lối vào được đặt ở chế độ "bật".**<br>Dòng đầu tiên: độ sáng, bật/tắt<br>Các nút màu: Bạn có thể sử dụng nút này để thay đổi màu sắc<br>Nút màu xám: Chuyển đổi giữa các hiệu ứng khác nhau |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Đây là điều khiển từ xa cho máy tính (iMac)._Để sử dụng máy tính, nhấn nút A trên điều khiển từ xa đầu tiên. Nó kích hoạt nguồn điện cho máy tính và hộp Bluetooth._                                                                                           |
+| Hình minh họa                                             | Sự miêu tả                                                                                                                                                                                                                                                |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>D:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                       |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Trước khi bạn có thể sử dụng nó, hãy đảm bảo công tắc đèn ở lối vào được đặt ở chế độ "bật".**<br>Dòng đầu tiên: độ sáng, bật/tắt<br>Các nút màu: Bạn có thể sử dụng nút này để thay đổi màu sắc<br>Nút màu xám: Chuyển đổi giữa các hiệu ứng khác nhau |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Đây là điều khiển từ xa cho máy tính (iMac)._Để sử dụng máy tính, nhấn nút A trên điều khiển từ xa đầu tiên. Nó kích hoạt nguồn điện cho máy tính và hộp Bluetooth._                                                                                      |
 
 ### Câu hỏi thường gặp - Phòng của bạn
 
@@ -142,15 +142,14 @@ Nếu bạn tin vào số liệu thống kê thì số lượng xe đạp tính 
 
 ### Có những lựa chọn thay thế nào?
 
-Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho họ_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đỗ xe nhất định. Ngoài ra còn có hệ thống chia sẻ xe miễn phí. Điều đó có nghĩa là với chúng tôi[cityflitzer](https://cityflitzer.de/). Và tất nhiên, có những chuyến xe buýt và tàu hỏa mà bạn cũng có thể thanh toán thông qua ứng dụng Leipzig MOVE.
+Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho họ_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định. Ngoài ra còn có hệ thống chia sẻ xe miễn phí. Điều đó có nghĩa là với chúng tôi[cityflitzer](https://cityflitzer.de/). Và tất nhiên cũng có xe buýt và xe lửa mà bạn cũng có thể thanh toán thông qua ứng dụng Leipzig MOVE.
 
 # Thủ tục thanh toán
 
 ## Chìa khóa
 
 -   Tùy thuộc vào ngày nào trong tuần, chúng ta có thể trực tiếp nói lời tạm biệt, hoặc đơn giản là đặt chìa khóa lên bàn và đóng cửa lại sau lưng.
--   Thời gian trả phòng thông thường là 11 giờ sáng.
--   Nếu bạn muốn để lại hành lý vào ngày khởi hành và chỉ nhận lại vào cuối ngày, chúng tôi có thể sắp xếp việc này riêng lẻ.
+-   Thời gian thanh toán muộn nhất là 7 giờ tối vào ngày khởi hành.
 
 ## làm sạch
 
@@ -162,7 +161,7 @@ Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận đượ
 
 # Lời khuyên
 
-Với ứng dụng Leipzig MOVE, bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đỗ xe nhất định.
+Với ứng dụng Leipzig MOVE, bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định.
 
 # Câu hỏi?
 
