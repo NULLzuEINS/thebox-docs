@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Eller så skannar du den här QR-koden, den ansluter dig automatiskt till nätverket:
+Eller så skannar du den här QR-koden, den kopplar dig automatiskt till nätverket:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -47,20 +47,20 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 2.  Vattenkokare
 3.  Diskbestick
 4.  Kylskåp
-5.  Pizzaav
+5.  Pizzaugn
 6.  Mineral vatten
 7.  Laddstation för mobiltelefon på hyllan
 8.  tvättmaskin
 
 ### FAQ - Kök
 
-1.  Kaminen fungerar inte? snälla säg
+1.  Fungerar inte kaminen? snälla säg
     > "Dator, arbetsbänk och"
 2.  Var kan jag diska? Detta fungerar bara i badrummet. Det finns en speciell behållare för att diska.
 
 ## Ditt rum
 
-Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov. Byter du ut kuddarna i soffan mot en madrass blir det en bra säng.
+Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov. Byter du ut kuddarna på soffan mot en madrass blir det en bra säng.
 
 Du är välkommen att använda datorn och skrivaren.
 
@@ -93,7 +93,7 @@ Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre
 
 ### badrum
 
-Du kan använda duschen stående. Det spelar ingen roll om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
+Du kan använda duschen stående. Det är inga problem om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
 
 Alexa på väggen går under namnet "Dator" och spelar även din favoritmusik eller radio. T.ex. "_Dator, spela Deutschlandfunk Nova_"
 
@@ -107,7 +107,7 @@ Du är välkommen att lämna dina skor här. Jag har även ett litet antecknings
 
 ## Smart hem
 
-Det finns Alexa röstassistenter i lägenheten. Du kan tilltala dem med namnet "Dator" och låta dem spela Deutschlandfunk Nova, till exempel. Enheterna är anslutna till Internet och kan även användas som väckarklockor eller timers. Om du inte vill använda den kan du helt enkelt koppla bort den från strömförsörjningen.
+Det finns Alexa röstassistenter i lägenheten. Du kan tilltala dem med namnet "Dator" och låta dem spela Deutschlandfunk Nova, till exempel. Enheterna är anslutna till internet och kan även användas som väckarklockor eller timers. Om du inte vill använda den kan du helt enkelt koppla bort den från strömförsörjningen.
 
 Det finns inga röstassistenter i ditt rum. Korgen på hyllan innehåller bara routern och en liten dator.
 
@@ -131,7 +131,7 @@ Antingen använder du nyckeln till ytterdörren eller så sträcker du dig genom
 
 ### Gul? Blå? Grön? Brun?
 
-Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i den bruna soptunnan.
+Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i det bruna kärlet.
 
 ### Cyklar
 
@@ -142,15 +142,14 @@ Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje 
 
 ### Vilka alternativ finns det?
 
-Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för dem_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser. Det finns också ett friflytande bildelningssystem. Det betyder med oss[cityflitzer](https://cityflitzer.de/). Och självklart finns det bussar och tåg som du även kan betala för via Leipzig MOVE-appen.
+Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för dem_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser. Det finns också ett friflytande bildelningssystem. Det betyder med oss[cityflitzer](https://cityflitzer.de/). Och självklart finns det även bussar och tåg som du också skulle kunna betala för via Leipzig MOVE-appen.
 
 # Kolla upp
 
 ## Nyckel
 
 -   Beroende på vilken veckodag det är kan vi säga hejdå personligen eller så kan du helt enkelt lägga nycklarna på skrivbordet och stänga dörren efter dig.
--   Den ordinarie utcheckningstiden är 11.00.
--   Om du vill lämna ditt bagage kvar på avresedagen och först hämta det senare under dagen kan vi ordna detta individuellt.
+-   Senaste tid för utcheckning är 19.00 på avresedagen.
 
 ## rengöring
 
