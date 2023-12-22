@@ -2,6 +2,8 @@
 
 Xin chào và chào mừng đến với “Hộp”! Khi đi du lịch, tôi cũng thích ở AirBnB's và đôi khi tôi ước mình có một mảnh giấy ghi đầy đủ thông tin cần thiết về chỗ ở, nhận phòng và trả phòng và đây là nỗ lực của tôi để làm cho nó tốt hơn.
 
+> **Để ý**Tôi sẽ dịch tài liệu này tự động sang ngôn ngữ của bạn. Tôi hy vọng nó có thể hiểu được phần nào. > Nếu không, vui lòng viết tin nhắn cho tôi. Sau đó tôi cố gắng cải thiện nó.
+
 ## Những bức ảnh
 
 Trên AirBnB của tôi, bạn sẽ có được cái nhìn tổng quan chi tiết về tất cả các phòng và tiện nghi. Đây chỉ là một tổng quan ngắn gọn:
@@ -56,7 +58,7 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 
 1.  Bếp không hoạt động? làm ơn nói
     > "Máy tính, bàn làm việc"
-2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
+2.  Tôi có thể rửa ở đâu? Điều này chỉ hoạt động trong phòng tắm. Có một hộp đựng đặc biệt để rửa chén.
 
 ## Phòng của bạn
 
