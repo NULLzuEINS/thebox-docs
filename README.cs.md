@@ -2,7 +2,7 @@
 
 Dobrý den a vítejte v „Boxu“! Když cestuji, také rád pobývám v AirBnB a někdy si přeji mít kus papíru se všemi potřebnými informacemi o ubytování, check-in a check-out a toto je můj pokus, jak to zlepšit.
 
-> **Oznámení**Nechám dokument automaticky přeložit do vašeho jazyka. Doufám, že je to trochu srozumitelné. > Pokud ne, klidně mi napište zprávu. Pak se to snažím zlepšit.
+> **Oznámení**Nechám dokument automaticky přeložit do vašeho jazyka. Doufám, že je to trochu srozumitelné. Pokud ne, klidně mi napište zprávu. Pak se to snažím zlepšit.
 
 ## obrázky
 
@@ -95,9 +95,9 @@ Pro všechna dálková ovládání platí staré německé přísloví: „Zkou�
 
 ### koupelna
 
-Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
+Sprchu můžete používat ve stoje. Nevadí, když se půda trochu namočí. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
 
-Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
+Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Computer, spiele Deutschlandfunk Nova_"
 
 Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli.
 
@@ -117,7 +117,7 @@ Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje 
 
 Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, abych zabránil tvorbě plísní. Jsou malé a bílé a obvykle leží na rámech dveří. Některá naměřená data si můžete přečíst v zrcadle na chodbě.
 
-> Dbejte prosím na pravidelné větrání (alespoň jednou denně). Zejména v koupelně. Ujistěte se také, že je topení vypnuté. Děkujeme 🙏
+> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Acht dabei auch darauf, dass die Heizung abgestellt ist. Danke 🙏
 
 ## Dvorek
 
