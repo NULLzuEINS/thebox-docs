@@ -2,6 +2,8 @@
 
 Hei og velkommen til «boksen»! Når jeg reiser liker jeg også å bo i AirBnB's og noen ganger skulle jeg ønske jeg hadde et papir med all nødvendig informasjon om overnatting, innsjekking og utsjekking og dette er mitt forsøk på å gjøre det bedre.
 
+> **Legge merke til**Jeg vil få dokumentet automatisk oversatt til ditt språk. Jeg håper det er litt forståelig. > Hvis ikke, skriv gjerne en melding til meg. Da prøver jeg å forbedre det.
+
 ## Bilder
 
 På min AirBnB får du en detaljert oversikt over alle rommene og fasilitetene. Her er bare en kort oversikt:
