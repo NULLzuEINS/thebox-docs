@@ -2,13 +2,15 @@
 
 您好，欢迎来到“盒子”！当我旅行时，我也喜欢住在爱彼迎，有时我希望能有一张纸，上面有关于住宿、入住和退房的所有必要信息，这是我试图让它变得更好的尝试。
 
+> **注意**我会将文件自动翻译成您的语言。我希望这是可以理解的。 > 如果没有，请随时给我留言。然后我尝试改进它。
+
 ## 图片
 
 在我的爱彼迎上，您可以详细了解所有房间和设施。这里只是一个简短的概述：
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 一张床配置，带沙发                                                                              | 两张床配置                                                                         | Schreibtisch                                                                            |
+| 一张床配置，带沙发                                                                              | 两张床配置                                                                         | 桌子                                                                                      |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | 带灯书桌                                                                                   | 厨房-炉灶                                                                         | 厨房-茶                                                                                    |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
