@@ -47,7 +47,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 2.  Kettle
 3.  Dishes cutlery
 4.  Refrigerator
-5.  Pizzaof
+5.  Pizza oven
 6.  Mineral water
 7.  Cell phone charging station on the shelf
 8.  washing machine
@@ -60,7 +60,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ## Your room
 
-The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
 
 You are welcome to use the computer and printer.
 
@@ -93,7 +93,7 @@ An old German saying applies to all remote controls: “Trying is better than st
 
 ### bathroom
 
-You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
@@ -142,15 +142,14 @@ If you believe the statistics, then the most bicycles per capita are stolen in L
 
 ### What alternatives are there?
 
-With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for them_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). And of course there are buses and trains that you can also pay for via the Leipzig MOVE app.
+With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for them_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). And of course there are also buses and trains that you could also pay for via the Leipzig MOVE app.
 
 # Checkout
 
 ## Key
 
 -   Depending on what day of the week it is, we can say goodbye in person, or you can simply put the keys on the desk and close the door behind you.
--   The regular checkout time is 11 a.m.
--   If you would like to leave your luggage behind on the day of departure and only pick it up later in the day, we can arrange this individually.
+-   The latest time for checkout is 7 p.m. on the day of departure.
 
 ## cleaning
 
