@@ -8,7 +8,7 @@
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 一张床配置，带沙发                                                                              | 两张床配置                                                                         | 桌子                                                                                      |
+| 一张床配置，带沙发                                                                              | 两张床配置                                                                         | Schreibtisch                                                                            |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | 带灯书桌                                                                                   | 厨房-炉灶                                                                         | 厨房-茶                                                                                    |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -47,7 +47,7 @@ Passwort: landungsbruecken
 2.  壶
 3.  餐具餐具
 4.  冰箱
-5.  披萨
+5.  披萨烤箱
 6.  矿泉水
 7.  架子上的手机充电站
 8.  洗衣机
@@ -60,7 +60,7 @@ Passwort: landungsbruecken
 
 ## 你的房间
 
-床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的枕头换成床垫，那就是一张好床了。
+床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。如果你把沙发上的垫子换成床垫，它就是一张好床。
 
 欢迎您使用电脑和打印机。
 
@@ -83,7 +83,7 @@ Passwort: thebox
 
 | 插图                                                        | 描述                                                                               |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 答：蓝牙盒子<br>B：仙女灯<br>C：台灯<br>d：_文件_<br>大师：同时切换所有内容                                 |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 答：蓝牙盒子<br>B：仙女灯<br>C：台灯<br>d:_文件_<br>大师：同时切换所有内容                                 |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **在使用之前，请确保入口处的电灯开关设置为“打开”。**<br>第一行：亮度、开/关<br>彩色按钮：您可以使用它来更改颜色<br>灰色按钮：不同效果之间切换 |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | 这是电脑 (iMac) 的遥控器。_要使用计算机，请按第一个遥控器上的 A 按钮。它激活计算机和蓝牙盒的电源。_                         |
 
@@ -93,7 +93,7 @@ Passwort: thebox
 
 ### 浴室
 
-您可以站着使用淋浴。地面稍微湿一点也没关系。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
+您可以站着使用淋浴。如果地面有点湿也没有问题。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
 
 墙上的 Alexa 名称为“计算机”，还可以播放您最喜欢的音乐或收音机。例如“_电脑上，玩 Deutschlandfunk Nova_"
 
@@ -125,7 +125,7 @@ Passwort: thebox
 
 ### 门怎么打开？
 
-要么使用前门钥匙，要么伸手穿过大门并感觉到开门按钮。当您按住按钮时，您可以打开门。
+您要么使用前门钥匙，要么伸手穿过大门并感觉到开门按钮。当您按住按钮时，您可以打开门。
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
@@ -142,15 +142,14 @@ Passwort: thebox
 
 ### 还有哪些替代方案？
 
-随着[莱比锡 MOVE 应用程序](https://leipzig-move.de/)，您将获得 10 次免费乘车机会，每次 15 分钟_下一个自行车_。请注意，如果您不在主要街道上停放自行车（地图上的紫色），费用会更高。电动滑板车只能停放在某些停车位。还有一个自由流动的汽车共享系统。这意味着我们[城市飞行者](https://cityflitzer.de/)。当然，您也可以通过 Leipzig MOVE 应用程序支付巴士和火车的费用。
+随着[莱比锡 MOVE 应用程序](https://leipzig-move.de/)，您将获得 10 次免费乘车机会，每次 15 分钟_下一个自行车_。请注意，如果您不在主要街道上停放自行车（地图上的紫色），费用会更高。电动滑板车只能停放在某些停车位。还有一个自由流动的汽车共享系统。这意味着我们[城市飞行者](https://cityflitzer.de/)。当然，您还可以通过 Leipzig MOVE 应用程序支付巴士和火车的费用。
 
 # 查看
 
 ## 钥匙
 
 -   根据一周中的哪一天，我们可以亲自道别，或者您也可以简单地将钥匙放在桌子上，然后关上身后的门。
--   正常退房时间为上午 11 点。
--   如果您想在出发当天寄存行李并仅在当天晚些时候领取，我们可以单独安排。
+-   最晚退房时间为出发当天晚上 7 点。
 
 ## 打扫
 
