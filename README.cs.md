@@ -2,6 +2,8 @@
 
 Dobrý den a vítejte v „Boxu“! Když cestuji, také rád pobývám v AirBnB a někdy si přeji mít kus papíru se všemi potřebnými informacemi o ubytování, check-in a check-out a toto je můj pokus, jak to zlepšit.
 
+> **Oznámení**Nechám dokument automaticky přeložit do vašeho jazyka. Doufám, že je to trochu srozumitelné. > Pokud ne, klidně mi napište zprávu. Pak se to snažím zlepšit.
+
 ## obrázky
 
 Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zde je jen stručný přehled:
