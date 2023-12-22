@@ -2,6 +2,8 @@
 
 Olá e bem-vindo à “Caixa”! Quando viajo também gosto de ficar em AirBnB's e às vezes gostaria de ter um papel com todas as informações necessárias sobre hospedagem, check-in e check-out e essa é minha tentativa de melhorar.
 
+> **Perceber**Terei o documento traduzido automaticamente para o seu idioma. Espero que seja um pouco compreensível. > Caso contrário, sinta-se à vontade para me escrever uma mensagem. Depois tento melhorar.
+
 ## Fotos
 
 No meu AirBnB você tem uma visão detalhada de todos os quartos e instalações. Aqui está apenas uma breve visão geral:
@@ -44,7 +46,7 @@ Como costumo comer lá embaixo com minha família, a cozinha é muito espartana.
 ### Os seguintes itens estão disponíveis para você
 
 1.  Rebanho
-2.  Wasserkocher
+2.  Chaleira
 3.  Talheres de pratos
 4.  Frigorífico
 5.  Forno de pizza
@@ -79,7 +81,7 @@ Passwort: thebox
 
 ### Controles remotos
 
-Für alle Fernbedienungen gilt ein altes deutsches Sprichwort: "Probieren geht über Studieren". Du kannst nichts kaputt machen. Drücke ein paar Knöpfe und schau was passiert. Falls Du dennoch studieren möchtest, habe hier die passenden Lektüre für Dich:
+Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é melhor do que estudar”. Você não pode quebrar nada. Pressione alguns botões e veja o que acontece. Se você ainda quer estudar, aqui está a leitura certa para você:
 
 | Ilustração                                                | Descrição                                                                                                                                                                                                                                                               |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
