@@ -20,7 +20,7 @@ Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zd
 
 Získáte dva páry klíčů, každý s jedním klíčem pro spodní a jedním pro horní. Na klíčence je také klíč, kterým můžete zamknout svůj pokoj.
 
-## Internetzugang
+## Přístup na internet
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -47,16 +47,16 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 2.  Konvice
 3.  Nádobí příbory
 4.  Lednička
-5.  Pizzaof
+5.  Pizza pec
 6.  Minerální voda
 7.  Nabíjecí stanice pro mobilní telefony na polici
-8.  Waschmaschine
+8.  pračka
 
 ### FAQ - Kuchyně
 
 1.  Nefunguje sporák? prosím řekni
     > "Počítač, pracovní stůl a"
-2.  Kde se mohu umýt? Toto funguje pouze v koupelně. Na mytí nádobí je speciální nádoba.
+2.  Kde se můžu umýt? Toto funguje pouze v koupelně. Na mytí nádobí je speciální nádoba.
 
 ## Tvůj pokoj
 
@@ -93,7 +93,7 @@ Pro všechna dálková ovládání platí staré německé přísloví: „Zkou�
 
 ### koupelna
 
-Sprchu můžete používat ve stoje. Nevadí, když se půda trochu namočí. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
+Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
 
 Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
 
@@ -142,19 +142,18 @@ Pokud věříte statistikám, tak v Lipsku se ročně ukradne nejvíce kol na hl
 
 ### Jaké alternativy existují?
 
-s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte za ně 10 bezplatných jízd po 15 minutách_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmostí jsou autobusy a vlaky, za které můžete platit i přes aplikaci Leipzig MOVE.
+s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte za ně 10 bezplatných jízd po 15 minutách_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmě existují také autobusy a vlaky, které můžete také zaplatit prostřednictvím aplikace Leipzig MOVE.
 
 # Překontrolovat
 
 ## Klíč
 
 -   Podle toho, jaký je den v týdnu, se můžeme rozloučit osobně, nebo můžete jednoduše položit klíče na stůl a zavřít za sebou dveře.
--   Běžná doba odbavení je v 11 hodin.
--   Pokud byste si zavazadla chtěli nechat v den odjezdu a vyzvednout si je až později, můžeme se domluvit individuálně.
+-   Nejpozdější čas pro odbavení je v 19 hodin v den odjezdu.
 
 ## čištění
 
--   Můžete na něm nechat ložní prádlo.
+-   Můžete na něm nechat lůžkoviny.
 -   Také myji nádobí a
 -   Také vynáším odpadky.
 
