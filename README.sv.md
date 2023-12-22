@@ -2,6 +2,8 @@
 
 Hej och välkommen till "Boxen"! När jag reser gillar jag också att bo i AirBnB's och ibland önskar jag att jag hade ett papper med all nödvändig information om boendet, in- och utcheckning och detta är mitt försök att göra det bättre.
 
+> **Lägga märke till**Jag kommer att få dokumentet automatiskt översatt till ditt språk. Jag hoppas att det är lite förståeligt. > Om inte, skriv gärna ett meddelande till mig. Då försöker jag förbättra det.
+
 ## Bilder
 
 På min AirBnB får du en detaljerad översikt över alla rum och faciliteter. Här är bara en kort översikt:
@@ -109,7 +111,7 @@ Du är välkommen att lämna dina skor här. Jag har även ett litet antecknings
 
 Det finns Alexa röstassistenter i lägenheten. Du kan tilltala dem med namnet "Dator" och låta dem spela Deutschlandfunk Nova, till exempel. Enheterna är anslutna till internet och kan även användas som väckarklockor eller timers. Om du inte vill använda den kan du helt enkelt koppla bort den från strömförsörjningen.
 
-Det finns inga röstassistenter i ditt rum. Korgen på hyllan innehåller bara routern och en liten dator.
+In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
 
 ## temperatur och luftfuktighet
 
