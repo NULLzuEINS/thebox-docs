@@ -47,7 +47,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 2.  Czajnik
 3.  Naczynia sztućce
 4.  Lodówka
-5.  Pizza
+5.  piec do pizzy
 6.  Woda mineralna
 7.  Stacja ładowania telefonów komórkowych na półce
 8.  pralka
@@ -93,7 +93,7 @@ Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować n
 
 ### łazienka
 
-Z prysznica można korzystać na stojąco. Nie ma znaczenia, jeśli ziemia będzie trochę mokra. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
+Z prysznica można korzystać na stojąco. Nie stanowi to problemu, jeśli ziemia lekko zamoknie. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
 
 Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Komputerze, włącz Deutschlandfunk Nova_"
 
@@ -149,8 +149,7 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz dla nich 10 bezpła
 ## Klucz
 
 -   W zależności od tego, jaki jest dzień tygodnia, możemy pożegnać się osobiście lub po prostu odłożyć klucze na biurko i zamknąć za sobą drzwi.
--   Standardowy czas wymeldowania to 11:00.
--   Jeśli chcieliby Państwo zostawić bagaż w dniu wyjazdu i odebrać go dopiero później tego samego dnia, możemy to ustalić indywidualnie.
+-   Najpóźniejszy termin wymeldowania to godzina 19:00 w dniu wyjazdu.
 
 ## czyszczenie
 
