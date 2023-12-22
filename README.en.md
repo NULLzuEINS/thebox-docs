@@ -2,6 +2,8 @@
 
 Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB's and sometimes I wish I had a piece of paper with all the necessary information about the accommodation, check-in and check-out and this is my attempt to make it better.
 
+> **Notice**I will have the document automatically translated into your language. I hope it's somewhat understandable. > If not, feel free to write me a message. I then try to improve it.
+
 ## Pictures
 
 On my AirBnB you get a detailed overview of all the rooms and the facilities. Here is just a brief overview:
