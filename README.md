@@ -2,6 +2,8 @@
 
 Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
 
+> **Hinweis** Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. > Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
+
 ## Bilder
 
 Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
@@ -33,6 +35,7 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 # Die Zimmer
 ![Raumplan](_media/thebox-map.png)
+
 ## Küche
 
 Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
@@ -132,6 +135,7 @@ Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor un
 Du fragst Dich warum die Mülltonnen verschiedene Farben haben? Wenn Du dir unsicher bist, mach den Müll immer in die grüne Tonne. Darin landet der Restmüll. Profis machen den Papiermüll in die blaue Tonne, Wertstoffe in die gelbe Tonne und organische Abfälle in die braune Tonne.
 
 ### Fahrräder
+
 ### Ist mein Fahrrad sicher?
 
 Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
@@ -140,16 +144,18 @@ Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräd
 ### Welche Alternativen gibt es
 
 Mit der [Leipzig MOVE App](https://leipzig-move.de/), bekommt ihr 10 Freifahrten à 15 Minuten für die *Nextbikes*. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden. Es gibt auch ein Free-Float-Car-Shairing-System. Das heißt bei uns [cityflitzer](https://cityflitzer.de/). Und gibt es natürlich noch Bus und Bahn welche ihr ebenfalls über die Leipzig MOVE App bezahlen könnte.
+
 # Checkout
 
 ## Schlüssel 
 
 * Je nach dem welcher Wochentag ist, können wir uns persönlich verabschieden, oder du legst einfach die Schlüssel auf den Schreibtisch und ziehst die Tür hinter Dir zu.
 * Der späteste Zeitpunkt für den Checkout ist am Abreisetag 19 Uhr.
+
 ## Reinigung
 
 * Bettzeug kannst Du drauf lassen.
-* Das Geschirr spüle ich auch ab und 
+* Das Geschirr spüle ich auch ab und
 * den Müll bring ich auch raus.
 
 > Kurzfassung: Schlüssel da lassen, Tür zuziehen, das wars. 😀
