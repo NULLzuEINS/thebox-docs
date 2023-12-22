@@ -2,7 +2,7 @@
 
 Merhaba ve “Kutu”ya hoş geldiniz! Seyahat ederken AirBnB'lerde kalmayı da severim ve bazen konaklama, giriş ve çıkış hakkında gerekli tüm bilgileri içeren bir kağıt parçasına sahip olmayı dilerdim ve bu benim bunu daha iyi hale getirme girişimimdir.
 
-> **Fark etme**Belgenin otomatik olarak dilinize çevrilmesini sağlayacağım. Umarım biraz anlaşılır olmuştur. > Değilse, bana bir mesaj yazmaktan çekinmeyin. Daha sonra onu geliştirmeye çalışıyorum.
+> **Fark etme**Belgenin otomatik olarak dilinize çevrilmesini sağlayacağım. Umarım biraz anlaşılır olmuştur. Değilse, bana bir mesaj yazmaktan çekinmeyin. Daha sonra onu geliştirmeye çalışıyorum.
 
 ## Resimler
 
@@ -62,7 +62,7 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 
 ## Senin odan
 
-Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz. Kanepedeki minderleri şilteyle değiştirirseniz iyi bir yatak olur.
+Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz. Kanepedeki yastıkları şilteyle değiştirirseniz iyi bir yatak olur.
 
 Bilgisayarı ve yazıcıyı kullanabilirsiniz.
 
@@ -95,7 +95,7 @@ Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek �
 
 ### banyo
 
-Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması sorun değil. Suyu yalnızca 1/3 oranında açın ve banyo paspasını kuruması için ısıtıcının üzerine asın.
+Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması önemli değil. Suyu yalnızca 1/3 oranında açın ve banyo paspasını kuruması için ısıtıcının üzerine asın.
 
 Duvardaki Alexa "Bilgisayar" adını alır ve aynı zamanda en sevdiğiniz müziği veya radyoyu da çalar. Örneğin. "_Bilgisayar, Deutschlandfunk Nova'yı oyna_"
 
@@ -109,7 +109,7 @@ Ayakkabılarınızı burada bırakabilirsiniz. Bana bir şey söylemek istersen 
 
 ## Akıllı ev
 
-Dairede Alexa sesli asistanları bulunmaktadır. Onlara “Bilgisayar” adıyla hitap edebilir ve örneğin Deutschlandfunk Nova oynamalarını sağlayabilirsiniz. Cihazlar internete bağlıdır ve aynı zamanda alarm saati veya zamanlayıcı olarak da kullanılabilir. Kullanmak istemiyorsanız, fişini güç kaynağından çıkarabilirsiniz.
+Dairede Alexa sesli asistanları bulunmaktadır. Onlara “Bilgisayar” adıyla hitap edebilir ve örneğin Deutschlandfunk Nova oynamalarını sağlayabilirsiniz. Cihazlar internete bağlıdır ve aynı zamanda alarm saati veya zamanlayıcı olarak da kullanılabilir. Kullanmak istemiyorsanız fişini prizden çekebilirsiniz.
 
 Odanızda sesli asistan yok. Raftaki sepette yalnızca yönlendirici ve küçük bir bilgisayar bulunmaktadır.
 
@@ -174,4 +174,4 @@ André
 
 * * *
 
-_tarafından ❤️ ile yapılmıştır [docsify](https://docsify.js.org/)_
+_tarafından ❤️ ile yapılmıştır [belgelemek](https://docsify.js.org/)_
