@@ -2,9 +2,9 @@
 
 Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjourner dans des AirBnB et parfois j'aimerais avoir un morceau de papier avec toutes les informations nécessaires sur l'hébergement, l'enregistrement et le départ et c'est ma tentative de l'améliorer.
 
-> **Avis**Je ferai traduire automatiquement le document dans votre langue. J'espère que c'est quelque peu compréhensible. > Sinon, n'hésitez pas à m'écrire un message. J'essaie ensuite de l'améliorer.
+> **Avis**Je ferai traduire automatiquement le document dans votre langue. J'espère que c'est quelque peu compréhensible. Sinon, n'hésitez pas à m'écrire un message. J'essaie ensuite de l'améliorer.
 
-## Bilder
+## Des photos
 
 Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des installations. Voici juste un bref aperçu :
 
@@ -51,7 +51,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 4.  Réfrigérateur
 5.  Four à pizza
 6.  Eau minérale
-7.  Station de recharge pour téléphone portable sur l'étagère
+7.  Station de recharge de téléphone portable sur l'étagère
 8.  Machine à laver
 
 ### FAQ - Cuisine
@@ -62,7 +62,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ## Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
 
 Vous êtes invités à utiliser l’ordinateur et l’imprimante.
 
@@ -81,7 +81,7 @@ Passwort: thebox
 
 ### Télécommandes
 
-Un vieux dicton allemand s’applique à toutes les télécommandes : « Mieux vaut essayer qu’étudier ». Vous ne pouvez rien casser. Appuyez sur quelques boutons et voyez ce qui se passe. Si vous souhaitez continuer à étudier, voici la lecture qui vous convient :
+Un vieux dicton allemand s'applique à toutes les télécommandes : « Mieux vaut essayer qu'étudier ». Vous ne pouvez rien casser. Appuyez sur quelques boutons et voyez ce qui se passe. Si vous souhaitez continuer à étudier, voici la lecture qui vous convient :
 
 | Illustration                                              | Description                                                                                                                                                                                                                                                                           |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -95,7 +95,7 @@ Un vieux dicton allemand s’applique à toutes les télécommandes : « Mieux v
 
 ### salle de bain
 
-Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
@@ -109,7 +109,7 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 
 ## Maison intelligente
 
-Il y a des assistants vocaux Alexa dans l'appartement. Vous pouvez les appeler par le nom « Ordinateur » et les faire jouer par exemple à Deutschlandfunk Nova. Les appareils sont connectés à Internet et peuvent également être utilisés comme réveils ou minuteries. Si vous ne souhaitez pas l'utiliser, vous pouvez simplement le débrancher de l'alimentation électrique.
+Il y a des assistants vocaux Alexa dans l'appartement. Vous pouvez les appeler par le nom « Ordinateur » et les faire jouer par exemple à Deutschlandfunk Nova. Les appareils sont connectés à Internet et peuvent également être utilisés comme réveils ou minuteries. Si vous ne souhaitez pas l'utiliser, vous pouvez simplement le débrancher du secteur.
 
 Il n'y a pas d'assistant vocal dans votre chambre. Le panier sur l'étagère contient uniquement le routeur et un petit ordinateur.
 
