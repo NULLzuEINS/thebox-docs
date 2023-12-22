@@ -2,6 +2,8 @@
 
 ¡Hola y bienvenidos a la “Caja”! Cuando viajo, también me gusta quedarme en AirBnB y a veces desearía tener un papel con toda la información necesaria sobre el alojamiento, check-in y check-out y este es mi intento de mejorarlo.
 
+> **Aviso**Haré que el documento se traduzca automáticamente a su idioma. Espero que sea algo comprensible. > Si no, no dudes en escribirme un mensaje. Luego trato de mejorarlo.
+
 ## Fotos
 
 En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las instalaciones. Aquí hay sólo una breve descripción general:
@@ -12,7 +14,7 @@ En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | escritorio con luz                                                                     | Estufa de cocina                                                              | Cocina - té                                                                             |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| escritorio con luz                                                                     | Estufa de cocina                                                              | Küche - Tee                                                                             |
+| escritorio con luz                                                                     | Estufa de cocina                                                              | Cocina - té                                                                             |
 
 # Registrarse
 
@@ -48,7 +50,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 3.  platos cubiertos
 4.  Refrigerador
 5.  Horno para Pizza
-6.  Mineralwasser
+6.  Agua mineral
 7.  Estación de carga de teléfonos móviles en el estante.
 8.  lavadora
 
@@ -75,17 +77,17 @@ Passwort: thebox
 
 1.  Todos los muebles y camas.
 2.  Computadora
-3.  Mandos a distancia para luces y electricidad.
+3.  Fernbedienungen für Licht und Strom
 
 ### Controles remotos
 
 Un viejo dicho alemán se aplica a todos los mandos a distancia: "Intentar es mejor que estudiar". No puedes romper nada. Presione algunos botones y vea qué sucede. Si aún quieres estudiar, aquí tienes la lectura adecuada para ti:
 
-| Ilustración                                               | Descripción                                                                                                                                                                                                                                                            |
-| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caja Bluetooth<br>B: luces de hadas<br>C: lámpara de escritorio<br>D:_leer_<br>Maestro: cambia todo al mismo tiempo                                                                                                                                                 |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usarlo, asegúrese de que el interruptor de la luz en la entrada esté en "encendido".**<br>Primera línea: brillo, encendido/apagado<br>Botones de colores: puedes usarlos para cambiar los colores.<br>Botones grises: cambia entre diferentes efectos |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Este es el control remoto de la computadora (iMac)._Para usar la computadora, presione el botón A en el primer control remoto. Activa la fuente de alimentación del ordenador y de la caja Bluetooth._                                                                 |
+| Ilustración                                               | Descripción                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caja Bluetooth<br>B: luces de hadas<br>C: lámpara de escritorio<br>D:_leer_<br>Maestro: cambia todo al mismo tiempo                                                                                                                                          |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usarlo, asegúrese de que el interruptor de la luz en la entrada esté en "encendido".**<br>Primera línea: brillo, encendido/apagado<br>Farbige Tasten: Hiermit kannst Du die Farben wechseln<br>Botones grises: cambia entre diferentes efectos |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Este es el control remoto de la computadora (iMac)._Para usar la computadora, presione el botón A en el primer control remoto. Activa la fuente de alimentación del ordenador y de la caja Bluetooth._                                                          |
 
 ### Preguntas frecuentes - Tu habitación
 
@@ -125,7 +127,7 @@ En nuestro patio podréis conectar vuestras bicicletas y retirar la basura.
 
 ### ¿Cómo se abre la puerta?
 
-O usas la llave de la puerta principal o cruzas la puerta y sientes el botón para abrir la puerta. Mientras mantienes pulsado el botón podrás abrir la puerta.
+Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
@@ -161,7 +163,7 @@ Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes g
 
 # Consejos
 
-Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada uno_Siguientebicicletas_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
+Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada uno_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento.
 
 # ¿Preguntas?
 
@@ -172,4 +174,4 @@ andré
 
 * * *
 
-_Made with ❤️ by  [docsificar](https://docsify.js.org/)_
+_Hecho con ❤️ por [docsificar](https://docsify.js.org/)_
