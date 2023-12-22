@@ -47,9 +47,9 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 2.  Bouilloire
 3.  Vaisselle couverts
 4.  Réfrigérateur
-5.  Pizza de
+5.  Four à pizza
 6.  Eau minérale
-7.  Station de recharge de téléphone portable sur l'étagère
+7.  Station de recharge pour téléphone portable sur l'étagère
 8.  Machine à laver
 
 ### FAQ - Cuisine
@@ -60,7 +60,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ## Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
 
 Vous êtes invités à utiliser l’ordinateur et l’imprimante.
 
@@ -79,7 +79,7 @@ Passwort: thebox
 
 ### Télécommandes
 
-Un vieux dicton allemand s'applique à toutes les télécommandes : « Mieux vaut essayer qu'étudier ». Vous ne pouvez rien casser. Appuyez sur quelques boutons et voyez ce qui se passe. Si vous souhaitez continuer à étudier, voici la lecture qui vous convient :
+Un vieux dicton allemand s’applique à toutes les télécommandes : « Mieux vaut essayer qu’étudier ». Vous ne pouvez rien casser. Appuyez sur quelques boutons et voyez ce qui se passe. Si vous souhaitez continuer à étudier, voici la lecture qui vous convient :
 
 | Illustration                                              | Description                                                                                                                                                                                                                                                                           |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -93,7 +93,7 @@ Un vieux dicton allemand s'applique à toutes les télécommandes : « Mieux vau
 
 ### salle de bain
 
-Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
@@ -142,15 +142,14 @@ Si l’on en croit les statistiques, c’est à Leipzig que le plus grand nombre
 
 ### Quelles sont les alternatives ?
 
-Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficiez de 10 trajets gratuits de 15 minutes chacun pour eux_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement. Il existe également un système de covoiturage en free float. Cela veut dire avec nous[Cityflitzer](https://cityflitzer.de/). Et bien sûr, il existe des bus et des trains que vous pouvez également payer via l'application Leipzig MOVE.
+Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficiez de 10 trajets gratuits de 15 minutes chacun pour eux_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement. Il existe également un système de covoiturage en free float. Cela veut dire avec nous[Cityflitzer](https://cityflitzer.de/). Et bien sûr, il existe également des bus et des trains que vous pouvez également payer via l'application Leipzig MOVE.
 
 # Vérifier
 
 ## Clé
 
 -   Selon le jour de la semaine, nous pouvons vous dire au revoir en personne ou vous pouvez simplement poser les clés sur le bureau et fermer la porte derrière vous.
--   L'heure habituelle de départ est 11 heures.
--   Si vous souhaitez laisser vos bagages le jour du départ et les récupérer seulement plus tard dans la journée, nous pouvons organiser cela individuellement.
+-   L'heure limite de départ est 19 heures le jour du départ.
 
 ## nettoyage
 
@@ -173,4 +172,4 @@ André
 
 * * *
 
-_Made with ❤️ by  [docsifier](https://docsify.js.org/)_
+_Réalisé avec ❤️ par [docsifier](https://docsify.js.org/)_
