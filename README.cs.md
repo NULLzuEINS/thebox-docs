@@ -2,7 +2,7 @@
 
 Dobrý den a vítejte v „Boxu“! Když cestuji, také rád pobývám v AirBnB a někdy si přeji mít kus papíru se všemi potřebnými informacemi o ubytování, check-in a check-out a toto je můj pokus, jak to zlepšit.
 
-> **Oznámení**Nechám dokument automaticky přeložit do vašeho jazyka. Doufám, že je to trochu srozumitelné. Pokud ne, klidně mi napište zprávu. Pak se to snažím zlepšit.
+> [!Oznámení]Nechám dokument automaticky přeložit do vašeho jazyka. Doufám, že je to trochu srozumitelné. Pokud ne, klidně mi napište zprávu. Pak se to snažím zlepšit.
 
 ## obrázky
 
@@ -15,8 +15,6 @@ Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zd
 | Psací stůl se světlem                                                                  | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Psací stůl se světlem                                                                  | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
-
-# Checkin
 
 ## Klíč
 
@@ -95,9 +93,9 @@ Pro všechna dálková ovládání platí staré německé přísloví: „Zkou�
 
 ### koupelna
 
-Sprchu můžete používat ve stoje. Nevadí, když se půda trochu namočí. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
+Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
 
-Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Computer, spiele Deutschlandfunk Nova_"
+Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
 
 Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli.
 
@@ -109,7 +107,7 @@ Zde si můžete nechat boty. Na poličce mám také malý poznámkový blok, kdy
 
 ## Chytrý domov
 
-V bytě jsou hlasoví asistenti Alexa. Můžete je oslovovat „Computer“ a nechat je hrát například Deutschlandfunk Nova. Zařízení jsou připojena k internetu a lze je použít i jako budíky nebo časovače. Pokud jej nechcete používat, můžete jej jednoduše odpojit od napájení.
+V bytě jsou hlasoví asistenti Alexa. Můžete je oslovovat jménem „Computer“ a nechat je hrát například Deutschlandfunk Nova. Zařízení jsou připojena k internetu a lze je použít i jako budíky nebo časovače. Pokud jej nechcete používat, můžete jej jednoduše odpojit od napájení.
 
 Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje pouze router a malý počítač.
 
@@ -117,7 +115,7 @@ Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje 
 
 Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, abych zabránil tvorbě plísní. Jsou malé a bílé a obvykle leží na rámech dveří. Některá naměřená data si můžete přečíst v zrcadle na chodbě.
 
-> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Acht dabei auch darauf, dass die Heizung abgestellt ist. Danke 🙏
+> Dbejte prosím na pravidelné větrání (alespoň jednou denně). Zejména v koupelně. Ujistěte se také, že je topení vypnuté. Děkujeme 🙏
 
 ## Dvorek
 
@@ -133,7 +131,7 @@ Buď použijete klíč od předních dveří, nebo sáhnete skrz bránu a nahmat
 
 ### Žlutá? Modrý? Zelená? Hnědý?
 
-Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jistí, vždy dávejte odpadky do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
+Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jisti, odpadky vždy odkládejte do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
 
 ### Cykly
 
@@ -144,7 +142,7 @@ Pokud věříte statistikám, tak v Lipsku se ročně ukradne nejvíce kol na hl
 
 ### Jaké alternativy existují?
 
-s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte za ně 10 bezplatných jízd po 15 minutách_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmě existují také autobusy a vlaky, které můžete také zaplatit prostřednictvím aplikace Leipzig MOVE.
+s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte za ně 10 bezplatných jízd po 15 minutách_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmostí jsou autobusy a vlaky, za které můžete platit i přes aplikaci Leipzig MOVE.
 
 # Překontrolovat
 
@@ -155,7 +153,7 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte za ně 10 bezplatn
 
 ## čištění
 
--   Můžete na něm nechat lůžkoviny.
+-   Můžete na něm nechat ložní prádlo.
 -   Také myji nádobí a
 -   Také vynáším odpadky.
 
