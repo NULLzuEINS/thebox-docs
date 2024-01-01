@@ -2,7 +2,7 @@
 
 Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjourner dans des AirBnB et parfois j'aimerais avoir un morceau de papier avec toutes les informations nécessaires sur l'hébergement, l'enregistrement et le départ et c'est ma tentative de l'améliorer.
 
-> **Avis**Je ferai traduire automatiquement le document dans votre langue. J'espère que c'est quelque peu compréhensible. Sinon, n'hésitez pas à m'écrire un message. J'essaie ensuite de l'améliorer.
+> [!Un avis]Je ferai traduire automatiquement le document dans votre langue. J'espère que c'est quelque peu compréhensible. Sinon, n'hésitez pas à m'écrire un message. J'essaie ensuite de l'améliorer.
 
 ## Des photos
 
@@ -15,8 +15,6 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 | Bureau avec lumière                                                                    | Cuisinière                                                                    | Cuisine - thé                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Bureau avec lumière                                                                    | Cuisinière                                                                    | Cuisine - thé                                                                           |
-
-# Enregistrement
 
 ## Clé
 
@@ -95,7 +93,7 @@ Un vieux dicton allemand s'applique à toutes les télécommandes : « Mieux vau
 
 ### salle de bain
 
-Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
@@ -144,7 +142,7 @@ Si l’on en croit les statistiques, c’est à Leipzig que le plus grand nombre
 
 ### Quelles sont les alternatives ?
 
-Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficiez de 10 trajets gratuits de 15 minutes chacun pour eux_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement. Il existe également un système de covoiturage en free float. Cela veut dire avec nous[Cityflitzer](https://cityflitzer.de/). Et bien sûr, il existe également des bus et des trains que vous pouvez également payer via l'application Leipzig MOVE.
+Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficiez de 10 trajets gratuits de 15 minutes chacun pour eux_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement. Il existe également un système de covoiturage en free float. Cela veut dire avec nous[Cityflitzer](https://cityflitzer.de/). Et bien sûr, il existe des bus et des trains que vous pouvez également payer via l'application Leipzig MOVE.
 
 # Vérifier
 
