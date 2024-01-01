@@ -2,7 +2,7 @@
 
 Hello and welcome to the “Box”! When I travel, I also like to stay in AirBnB's and sometimes I wish I had a piece of paper with all the necessary information about the accommodation, check-in and check-out and this is my attempt to make it better.
 
-> **Notice**I will have the document automatically translated into your language. I hope it's somewhat understandable. If not, feel free to write me a message. I then try to improve it.
+> [!A notice]I will have the document automatically translated into your language. I hope it's somewhat understandable. If not, feel free to write me a message. I then try to improve it.
 
 ## Pictures
 
@@ -15,8 +15,6 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 | Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
-
-# Checkin
 
 ## Key
 
@@ -48,7 +46,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 1.  Herd
 2.  Kettle
 3.  Dishes cutlery
-4.  Refrigerator
+4.  Kühlschrank
 5.  Pizza oven
 6.  Mineral water
 7.  Cell phone charging station on the shelf
@@ -95,7 +93,7 @@ An old German saying applies to all remote controls: “Trying is better than st
 
 ### bathroom
 
-You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
@@ -144,7 +142,7 @@ If you believe the statistics, then the most bicycles per capita are stolen in L
 
 ### What alternatives are there?
 
-With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for them_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). And of course there are also buses and trains that you could also pay for via the Leipzig MOVE app.
+With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for them_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). And of course there are buses and trains that you can also pay for via the Leipzig MOVE app.
 
 # Checkout
 
@@ -157,7 +155,7 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 
 -   You can leave bedding on it.
 -   I also wash the dishes and
--   I also take out the trash.
+-   den Müll bring ich auch raus.
 
 > Short version: Leave the key there, close the door, that's it. 😀
 
