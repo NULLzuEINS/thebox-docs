@@ -2,7 +2,7 @@
 
 Olá e bem-vindo à “Caixa”! Quando viajo também gosto de ficar em AirBnB's e às vezes gostaria de ter um papel com todas as informações necessárias sobre hospedagem, check-in e check-out e essa é minha tentativa de melhorar.
 
-> **Perceber**Terei o documento traduzido automaticamente para o seu idioma. Espero que seja um pouco compreensível. Se não, sinta-se à vontade para me escrever uma mensagem. Depois tento melhorar.
+> [!Um aviso]Terei o documento traduzido automaticamente para o seu idioma. Espero que seja um pouco compreensível. Se não, sinta-se à vontade para me escrever uma mensagem. Depois tento melhorar.
 
 ## Fotos
 
@@ -10,13 +10,11 @@ No meu AirBnB você tem uma visão detalhada de todos os quartos e instalações
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Configuração de uma cama com sofá                                                      | Configuração de duas camas                                                    | Mesa                                                                                    |
+| Ein-Bett-Konfiguration mit Couch                                                       | Configuração de duas camas                                                    | Mesa                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Secretária com luz                                                                     | Cozinha - fogão                                                               | Cozinha - chá                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Secretária com luz                                                                     | Cozinha - fogão                                                               | Cozinha - chá                                                                           |
-
-# Check-in
 
 ## Chave
 
@@ -83,11 +81,11 @@ Passwort: thebox
 
 Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é melhor do que estudar”. Você não pode quebrar nada. Pressione alguns botões e veja o que acontece. Se você ainda quer estudar, aqui está a leitura certa para você:
 
-| Ilustração                                                | Descrição                                                                                                                                                                                                                                                               |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caixa Bluetooth<br>B: Luzes de fada<br>C: Candeeiro de mesa<br>D:_arquivo_<br>Mestre: Troque tudo ao mesmo tempo                                                                                                                                                     |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usá-lo, certifique-se de que o interruptor da luz da entrada esteja na posição "ligado".**<br>Primeira linha: brilho, ligar/desligar<br>Botões coloridos: você pode usar isso para alterar as cores<br>Botões cinza: Alternar entre diferentes efeitos |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Este é o controle remoto do computador (iMac)._Para usar o computador, pressione o botão A no primeiro controle remoto. Ativa a fonte de alimentação do computador e da caixa Bluetooth._                                                                               |
+| Ilustração                                                | Descrição                                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caixa Bluetooth<br>B: Luzes de fada<br>C: Candeeiro de mesa<br>D:_arquivo_<br>Mestre: Troque tudo ao mesmo tempo                                                                                                                                                           |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usá-lo, certifique-se de que o interruptor da luz da entrada esteja na posição "ligado".**<br>Primeira linha: brilho, ligar/desligar<br>Botões coloridos: você pode usar isso para alterar as cores<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Este é o controle remoto do computador (iMac)._Para usar o computador, pressione o botão A no primeiro controle remoto. Ativa a fonte de alimentação do computador e da caixa Bluetooth._                                                                                     |
 
 ### Perguntas frequentes - Seu quarto
 
@@ -95,7 +93,7 @@ Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é mel
 
 ### banheiro
 
-Você pode usar o chuveiro em pé. Não importa se o chão fica um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
+Você pode usar o chuveiro em pé. Não há problema se o solo ficar um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
 
 A Alexa na parede atende pelo nome de “Computador” e também toca sua música ou rádio favorita. Por exemplo. "_Computador, jogue Deutschlandfunk Nova_"
 
@@ -105,7 +103,7 @@ Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualque
 
 Você está convidado a deixar seus sapatos aqui. Também tenho um pequeno bloco de notas na prateleira, caso você queira me contar alguma coisa.
 
-# Diversos
+# Sonstiges
 
 ## Lar inteligente
 
@@ -144,7 +142,7 @@ Se você acredita nas estatísticas, então o maior número de bicicletas per ca
 
 ### Que alternativas existem?
 
-Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para eles_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E, claro, também há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
+Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para eles_Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E é claro que há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
 
 # Confira
 
@@ -163,7 +161,7 @@ Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viag
 
 # Pontas
 
-Com o aplicativo Leipzig MOVE, você ganha 10 viagens gratuitas de 15 minutos cada_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento.
+Com o aplicativo Leipzig MOVE, você ganha 10 viagens gratuitas de 15 minutos cada_Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento.
 
 # Questões?
 
