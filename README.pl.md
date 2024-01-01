@@ -2,7 +2,7 @@
 
 Witamy w „Boxie”! Kiedy podróżuję, lubię też nocować w AirBnB i czasami żałuję, że nie mam kartki papieru ze wszystkimi niezbędnymi informacjami na temat zakwaterowania, zameldowania i wymeldowania, i to jest moja próba ulepszenia tego.
 
-> **Ogłoszenie**Dokument zostanie automatycznie przetłumaczony na Twój język. Mam nadzieję, że jest to w miarę zrozumiałe. Jeśli nie, śmiało napisz do mnie wiadomość. Potem próbuję to poprawić.
+> [!Uwaga]Dokument zostanie automatycznie przetłumaczony na Twój język. Mam nadzieję, że jest to w miarę zrozumiałe. Jeśli nie, śmiało napisz do mnie wiadomość. Potem próbuję to poprawić.
 
 ## Kino
 
@@ -15,8 +15,6 @@ Na moim AirBnB otrzymasz szczegółowy przegląd wszystkich pokoi i udogodnień.
 | Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
-
-# Zameldować się
 
 ## Klucz
 
@@ -45,7 +43,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 
 ### Dostępne są następujące rzeczy
 
-1.  Herd
+1.  Stado
 2.  Czajnik
 3.  Naczynia sztućce
 4.  Lodówka
@@ -83,11 +81,11 @@ Passwort: thebox
 
 Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować niż się uczyć”. Nie możesz niczego złamać. Naciśnij kilka przycisków i zobacz, co się stanie. Jeśli nadal chcesz się uczyć, oto odpowiednia lektura dla Ciebie:
 
-| Ilustracja                                                | Opis                                                                                                                                                                                                                                                                           |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Odp.: Bluetoothbox<br>B: Bajkowe światełka<br>C: Lampka na biurko<br>D:_plik_<br>Mistrz: Przełącz wszystko w tym samym czasie                                                                                                                                                  |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Zanim będziesz mógł z niego skorzystać, upewnij się, że włącznik światła przy wejściu jest ustawiony na „włączony”.**<br>Pierwsza linia: jasność, wł./wył<br>Kolorowe przyciski: Można ich używać do zmiany kolorów<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | To jest pilot do komputera (iMac)._Aby skorzystać z komputera, naciśnij przycisk A na pierwszym pilocie. Aktywuje zasilanie komputera i modułu Bluetooth._                                                                                                                     |
+| Ilustracja                                                | Opis                                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Odp.: Bluetoothbox<br>B: Bajkowe światełka<br>C: Lampka na biurko<br>D:_plik_<br>Mistrz: Przełącz wszystko w tym samym czasie                                                                                                                                                    |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Zanim będziesz mógł z niego skorzystać, upewnij się, że włącznik światła przy wejściu jest ustawiony na „włączony”.**<br>Pierwsza linia: jasność, wł./wył<br>Kolorowe przyciski: Można ich używać do zmiany kolorów<br>Szare przyciski: przełączanie pomiędzy różnymi efektami |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | To jest pilot do komputera (iMac)._Aby skorzystać z komputera, naciśnij przycisk A na pierwszym pilocie. Aktywuje zasilanie komputera i modułu Bluetooth._                                                                                                                       |
 
 ### Często zadawane pytania - Twój pokój
 
@@ -95,7 +93,7 @@ Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować n
 
 ### łazienka
 
-Z prysznica można korzystać na stojąco. Nie ma znaczenia, jeśli ziemia będzie trochę mokra. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
+Z prysznica można korzystać na stojąco. Nie stanowi to problemu, jeśli ziemia lekko zamoknie. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
 
 Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Komputerze, włącz Deutschlandfunk Nova_"
 
@@ -117,7 +115,7 @@ W Twoim pokoju nie ma asystentów głosowych. W koszyku na półce mieści się 
 
 Temperatura i wilgotność są mierzone automatycznie za pomocą czujników. Używam ich, aby zapobiec tworzeniu się pleśni. Są małe i białe i zwykle leżą na ościeżnicach drzwi. Część danych pomiarowych możesz odczytać w lustrze w przedpokoju.
 
-> Pamiętaj o regularnej wentylacji (przynajmniej raz dziennie). Szczególnie w łazience. Upewnij się także, że ogrzewanie jest wyłączone. Dziękuję 🙏
+> Pamiętaj o regularnej wentylacji (przynajmniej raz dziennie). Zwłaszcza w łazience. Upewnij się także, że ogrzewanie jest wyłączone. Dziękuję 🙏
 
 ## Podwórko
 
@@ -144,7 +142,7 @@ Jeśli wierzyć statystykom, w Lipsku co roku kradnie się najwięcej rowerów n
 
 ### Jakie są alternatywy?
 
-Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz dla nich 10 bezpłatnych przejazdów po 15 minut każdy_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych. Istnieje również bezpłatny system wspólnego korzystania z samochodów. To znaczy z nami[miejskiflitzer](https://cityflitzer.de/). Oczywiście są też autobusy i pociągi, za które można zapłacić także za pomocą aplikacji Leipzig MOVE.
+Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz dla nich 10 bezpłatnych przejazdów po 15 minut każdy_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych. Istnieje również bezpłatny system wspólnego korzystania z samochodów. To znaczy z nami[miejskiflitzer](https://cityflitzer.de/). Oczywiście są też autobusy i pociągi, za które można zapłacić także za pośrednictwem aplikacji Leipzig MOVE.
 
 # Wymeldować się
 
