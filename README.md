@@ -2,7 +2,8 @@
 
 Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
 
-> **Hinweis** Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
+> [!Hinweis]
+> Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
 
 ## Bilder
 
@@ -15,8 +16,6 @@ Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die
 | Schreibtisch mit Licht | Küche - Herd | Küche - Tee |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ':class=img-zoomable') | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ':class=img-zoomable') |  ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ':class=img-zoomable') |
 | Schreibtisch mit Licht | Küche - Herd | Küche - Tee |
-
-# Checkin
 
 ## Schlüssel
 
