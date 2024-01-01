@@ -2,7 +2,7 @@
 
 Xin chào và chào mừng đến với “Hộp”! Khi đi du lịch, tôi cũng thích ở AirBnB's và đôi khi tôi ước mình có một mảnh giấy ghi đầy đủ thông tin cần thiết về chỗ ở, nhận phòng và trả phòng và đây là nỗ lực của tôi để làm cho nó tốt hơn.
 
-> **Để ý**Tôi sẽ dịch tài liệu này tự động sang ngôn ngữ của bạn. Tôi hy vọng nó có thể hiểu được phần nào. Nếu không, vui lòng viết tin nhắn cho tôi. Sau đó tôi cố gắng cải thiện nó.
+> [!Một ghi chú]Tôi sẽ dịch tài liệu này tự động sang ngôn ngữ của bạn. Tôi hy vọng nó có thể hiểu được phần nào. Nếu không, vui lòng viết tin nhắn cho tôi. Sau đó tôi cố gắng cải thiện nó.
 
 ## Những bức ảnh
 
@@ -12,11 +12,9 @@ Trên AirBnB của tôi, bạn sẽ có được cái nhìn tổng quan chi ti�
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Cấu hình một giường với ghế dài                                                        | Cấu hình hai giường                                                           | Bàn làm việc                                                                            |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Bàn có đèn                                                                             | Bếp - bếp                                                                     | Bếp - trà                                                                               |
+| Bàn có đèn                                                                             | Bếp - bếp                                                                     | Küche - Tee                                                                             |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Bàn có đèn                                                                             | Bếp - bếp                                                                     | Bếp - trà                                                                               |
-
-# Đăng ký vào
 
 ## Chìa khóa
 
@@ -52,7 +50,7 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 5.  lò nướng bánh pizza
 6.  Nước khoáng
 7.  Trạm sạc điện thoại di động trên kệ
-8.  Máy giặt
+8.  Waschmaschine
 
 ### Câu hỏi thường gặp - Nhà bếp
 
@@ -99,7 +97,7 @@ Bạn có thể sử dụng vòi hoa sen trong khi đứng. Sẽ không có vấ
 
 Alexa trên tường có tên là "Máy tính" và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
 
-Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc của mình ở bất cứ đâu.
+Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstellen.
 
 ### hành lang
 
@@ -115,7 +113,7 @@ Không có trợ lý giọng nói trong phòng của bạn. Giỏ trên kệ ch�
 
 ## Nhiệt độ và độ ẩm
 
-Nhiệt độ và độ ẩm được đo tự động thông qua các cảm biến. Tôi sử dụng chúng để ngăn chặn sự hình thành nấm mốc. Chúng nhỏ, màu trắng và thường nằm trên khung cửa. Bạn có thể đọc một số dữ liệu đo trong gương ở hành lang.
+Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst Du im Spiegel im Flur ablesen.
 
 > Hãy đảm bảo thông gió thường xuyên (ít nhất một lần một ngày). Đặc biệt là trong phòng tắm. Ngoài ra hãy chắc chắn rằng hệ thống sưởi đã được tắt. Cảm ơn bạn 🙏
 
@@ -144,7 +142,7 @@ Nếu bạn tin vào số liệu thống kê thì số lượng xe đạp tính 
 
 ### Có những lựa chọn thay thế nào?
 
-Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho họ_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đỗ xe nhất định. Ngoài ra còn có hệ thống chia sẻ xe miễn phí. Điều đó có nghĩa là với chúng tôi[cityflitzer](https://cityflitzer.de/). Và tất nhiên cũng có xe buýt và xe lửa mà bạn cũng có thể thanh toán thông qua ứng dụng Leipzig MOVE.
+Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho họ_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định. Ngoài ra còn có hệ thống chia sẻ xe miễn phí. Điều đó có nghĩa là với chúng tôi[cityflitzer](https://cityflitzer.de/). Và tất nhiên, có những chuyến xe buýt và tàu hỏa mà bạn cũng có thể thanh toán thông qua ứng dụng Leipzig MOVE.
 
 # Thủ tục thanh toán
 
@@ -163,7 +161,7 @@ Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận đượ
 
 # Lời khuyên
 
-Với ứng dụng Leipzig MOVE, bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đỗ xe nhất định.
+Với ứng dụng Leipzig MOVE, bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định.
 
 # Câu hỏi?
 
