@@ -2,7 +2,7 @@
 
 Hej och välkommen till "Boxen"! När jag reser gillar jag också att bo i AirBnB's och ibland önskar jag att jag hade ett papper med all nödvändig information om boendet, in- och utcheckning och detta är mitt försök att göra det bättre.
 
-> **Lägga märke till**Jag kommer att få dokumentet automatiskt översatt till ditt språk. Jag hoppas att det är lite förståeligt. Om inte, skriv gärna ett meddelande till mig. Då försöker jag förbättra det.
+> [!En notis]Jag kommer att få dokumentet automatiskt översatt till ditt språk. Jag hoppas att det är lite förståeligt. Om inte, skriv gärna ett meddelande till mig. Då försöker jag förbättra det.
 
 ## Bilder
 
@@ -12,11 +12,9 @@ På min AirBnB får du en detaljerad översikt över alla rum och faciliteter. H
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | En sängkonfiguration med soffa                                                         | Tvåbäddskonfiguration                                                         | Skrivbord                                                                               |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Schreibtisch mit Licht                                                                 | Kök - spis                                                                    | Kök - te                                                                                |
+| Skrivbord med ljus                                                                     | Kök - spis                                                                    | Kök - te                                                                                |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Skrivbord med ljus                                                                     | Kök - spis                                                                    | Kök - te                                                                                |
-
-# Checka in
 
 ## Nyckel
 
@@ -56,13 +54,13 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 ### FAQ - Kök
 
-1.  Kaminen fungerar inte? snälla säg
+1.  Fungerar inte kaminen? snälla säg
     > "Dator, arbetsbänk och"
 2.  Var kan jag diska? Detta fungerar bara i badrummet. Det finns en speciell behållare för att diska.
 
 ## Ditt rum
 
-Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov. Om du byter ut kuddarna i soffan mot en madrass blir det en bra säng.
+Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov. Byter du ut kuddarna i soffan mot en madrass blir det en bra säng.
 
 Du är välkommen att använda datorn och skrivaren.
 
@@ -95,7 +93,7 @@ Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre
 
 ### badrum
 
-Du kan använda duschen stående. Det spelar ingen roll om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
+Du kan använda duschen stående. Det är inga problem om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
 
 Alexa på väggen går under namnet "Dator" och spelar även din favoritmusik eller radio. T.ex. "_Dator, spela Deutschlandfunk Nova_"
 
@@ -144,13 +142,13 @@ Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje 
 
 ### Vilka alternativ finns det?
 
-Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för dem_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser. Det finns också ett friflytande bildelningssystem. Det betyder med oss[cityflitzer](https://cityflitzer.de/). Och självklart finns det även bussar och tåg som du också skulle kunna betala för via Leipzig MOVE-appen.
+Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för dem_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser. Det finns också ett friflytande bildelningssystem. Det betyder med oss[cityflitzer](https://cityflitzer.de/). Och självklart finns det bussar och tåg som du även kan betala för via Leipzig MOVE-appen.
 
 # Kolla upp
 
 ## Nyckel
 
--   Beroende på vilken veckodag det är kan vi säga hejdå personligen eller så kan du helt enkelt lägga nycklarna på skrivbordet och stänga dörren efter dig.
+-   Beroende på vilken veckodag det är kan vi säga hejdå personligen, eller så kan du helt enkelt lägga nycklarna på skrivbordet och stänga dörren efter dig.
 -   Senaste tid för utcheckning är 19.00 på avresedagen.
 
 ## rengöring
@@ -161,7 +159,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 > Kortversion: Lämna nyckeln där, stäng dörren, så är det. 😀
 
-# Tipps
+# Tips
 
 Med Leipzig MOVE-appen får du 10 gratisturer på 15 minuter vardera_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser.
 
