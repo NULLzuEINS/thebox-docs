@@ -71,7 +71,7 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Aşağıdaki şeyler sizin için mevcuttur
+### Folgende Dinge stehen euch zur Verfügung
 
 1.  Tüm mobilya ve yataklar
 2.  Bilgisayar
@@ -148,7 +148,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 ## Anahtar
 
--   Haftanın hangi günü olduğuna bağlı olarak bizzat veda edebiliriz ya da anahtarları masanın üzerine koyup kapıyı arkanızdan kapatabilirsiniz.
+-   Je nach dem welcher Wochentag ist, können wir uns persönlich verabschieden, oder du legst einfach die Schlüssel auf den Schreibtisch und ziehst die Tür hinter Dir zu.
 -   Çıkış günü son çıkış saati saat 19.00'dır.
 
 ## temizlik
