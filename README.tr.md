@@ -12,7 +12,7 @@ AirBnB'mde tüm odalara ve olanaklara ilişkin ayrıntılı bir genel bakış bu
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Kanepeli tek yatak konfigürasyonu                                                      | İki yataklı konfigürasyon                                                     | Çalışma masası                                                                          |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Işıklı çalışma masası                                                                  | Mutfak - ocak                                                                 | Küche - Tee                                                                             |
+| Işıklı çalışma masası                                                                  | Mutfak - ocak                                                                 | Mutfak - çay                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Işıklı çalışma masası                                                                  | Mutfak - ocak                                                                 | Mutfak - çay                                                                            |
 
@@ -60,9 +60,9 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 
 ## Senin odan
 
-Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz. Kanepedeki yastıkları şilteyle değiştirirseniz iyi bir yatak olur.
+Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz. Kanepedeki minderleri şilteyle değiştirirseniz iyi bir yatak olur.
 
-Den Computer und den Drucker kannst Du gern benutzen.
+Bilgisayarı ve yazıcıyı kullanabilirsiniz.
 
 ### Bilgisayarın (iMac) oturum açma ayrıntıları şunlardır:
 
@@ -79,7 +79,7 @@ Passwort: thebox
 
 ### Uzaktan kumandalar
 
-Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek çalışmaktan iyidir”. Hiçbir şeyi kıramazsınız. Birkaç düğmeye basın ve ne olacağını görün. Hala ders çalışmak istiyorsanız işte size uygun okumalar:
+Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek çalışmaktan iyidir”. Hiçbir şeyi kıramazsın. Birkaç düğmeye basın ve ne olacağını görün. Hala ders çalışmak istiyorsanız işte size uygun okumalar:
 
 | İllüstrasyon                                              | Tanım                                                                                                                                                                                                                                                 |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -93,7 +93,7 @@ Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek �
 
 ### banyo
 
-Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması önemli değil. Suyu yalnızca 1/3 oranında açın ve banyo paspasını kuruması için ısıtıcının üzerine asın.
+Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması sorun değil. Suyu yalnızca 1/3 oranında açın ve banyo paspasını kuruması için ısıtıcının üzerine asın.
 
 Duvardaki Alexa "Bilgisayar" adını alır ve aynı zamanda en sevdiğiniz müziği veya radyoyu da çalar. Örneğin. "_Bilgisayar, Deutschlandfunk Nova'yı oyna_"
 
@@ -142,7 +142,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 ### Hangi alternatifler var?
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), onlar için her biri 15 dakikalık 10 ücretsiz yolculuk hakkınız var_Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve tabii ki Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüs ve trenler de var.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), onlar için her biri 15 dakikalık 10 ücretsiz yolculuk hakkınız var_Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve tabii ki Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüs ve trenler de var.
 
 # Çıkış yapmak
 
@@ -159,7 +159,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 > Kısa versiyon: Anahtarı orada bırakın, kapıyı kapatın, bu kadar. 😀
 
-# Uzun kal
+# Daha uzun konaklama
 
 Misafirlerimden bazıları bir ay veya daha uzun süre kalıyor. Eğer siz de onlardan biriyseniz bu bölüm tam size göre!
 
@@ -167,13 +167,13 @@ Misafirlerimden bazıları bir ay veya daha uzun süre kalıyor. Eğer siz de on
 
 Çamaşır makinesini sormanıza gerek kalmadan kullanabilirsiniz. Kurutma rafını, çamaşır tozunu ve yumuşatıcıyı da kullanabilirsiniz.
 
-## El fırçası ve toz tavası
+## El fırçası ve faraş
 
 Mutfakta duvarda bir el fırçası ve faraş bulacaksınız. Bu, küçük kirlerden kurtulmanıza yardımcı olacaktır.
 
 ## Silip süpürmek
 
-Paspaslamak için yeşil temizlik maddesini banyoda sprey şişesinde bulabilirsiniz. Mutfak kağıdıyla birlikte yüzeyleri kolayca temizlemek için kullanılabilir.
+Paspaslamak için yeşil temizlik maddesini banyodaki sprey şişesinde bulabilirsiniz. Mutfak kağıdıyla birlikte yüzeyleri kolayca temizlemek için kullanılabilir.
 
 ## Elektrikli süpürge
 
@@ -184,7 +184,7 @@ Bittiğinde lütfen şarj istasyonuna geri koyun!
 
 # İpuçları
 
-Leipzig MOVE uygulamasıyla her biri 15 dakikalık 10 ücretsiz yolculuk kazanırsınız_Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
+Leipzig MOVE uygulamasıyla her biri 15 dakikalık 10 ücretsiz yolculuk kazanırsınız_Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
 
 Seyahat rehberlerini AirBnB uygulamasında sakladım. Orada turistik yerler, eğlence ve restoranlarla ilgili önerilerimi bulacaksınız.
 
