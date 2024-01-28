@@ -46,7 +46,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 1.  Herd
 2.  Kettle
 3.  Dishes cutlery
-4.  Kühlschrank
+4.  Refrigerator
 5.  Pizza oven
 6.  Mineral water
 7.  Cell phone charging station on the shelf
@@ -87,13 +87,13 @@ An old German saying applies to all remote controls: “Trying is better than st
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Before you can use it, make sure the light switch at the entrance is set to "on".**<br>First line: brightness, on/off<br>Colored buttons: You can use this to change the colors<br>Gray buttons: Switch between different effects |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | This is the remote control for the computer (iMac)._To use the computer, press the A button on the first remote control. It activates the power supply for the computer and the Bluetooth box._                                     |
 
-### FAQ - Your room
+### FAQ - Dein Zimmer
 
 1.  The light doesn't come on or flashes wildly. Use the small remote controls with the colorful buttons.
 
 ### bathroom
 
-You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
@@ -107,7 +107,7 @@ You are welcome to leave your shoes here. I also have a small notepad on the she
 
 ## Smart Home
 
-There are Alexa voice assistants in the apartment. You can address them by the name “Computer” and have them play Deutschlandfunk Nova, for example. The devices are connected to the Internet and can also be used as alarm clocks or timers. If you don't want to use it, you can simply unplug it from the power.
+There are Alexa voice assistants in the apartment. You can address them by the name “Computer” and have them play Deutschlandfunk Nova, for example. The devices are connected to the Internet and can also be used as alarm clocks or timers. If you don't want to use it, you can simply unplug it from the power supply.
 
 There are no voice assistants in your room. The basket on the shelf only contains the router and a small computer.
 
@@ -142,7 +142,7 @@ If you believe the statistics, then the most bicycles per capita are stolen in L
 
 ### What alternatives are there?
 
-With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for them_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). And of course there are buses and trains that you can also pay for via the Leipzig MOVE app.
+With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for them_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). And of course there are also buses and trains that you could also pay for via the Leipzig MOVE app.
 
 # Checkout
 
@@ -155,13 +155,38 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 
 -   You can leave bedding on it.
 -   I also wash the dishes and
--   den Müll bring ich auch raus.
+-   I also take out the trash.
 
 > Short version: Leave the key there, close the door, that's it. 😀
+
+# Long stay
+
+Some of my guests stay for a month or longer. If you are one of them, then this section is for you!
+
+## washing machine
+
+You can use the washing machine without having to ask first. You can also use the drying rack, washing powder and fabric softener.
+
+## Hand brush and dust pan
+
+In the kitchen you will find a hand brush and a dustpan on the wall. This will help you get rid of the small dirt.
+
+## Wipe
+
+You can find green cleaning agent in a spray bottle in the bathroom for mopping. Together with the kitchen paper, this can be used to clean surfaces easily.
+
+## Vacuum cleaner
+
+I have a robot vacuum cleaner for the floor.
+Before you can start, clear everything on the floor out of the way. Especially cords or other things that the robot could choke on. Then put it in the room and press the button on the top once. If nothing happens, use the on/off switch on the side.
+
+When it's finished, please put it back in the charging station!
 
 # Tips
 
 With the Leipzig MOVE app, you get 10 free rides of 15 minutes each_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces.
+
+I have stored travel guides in the AirBnB app. There you will find my recommendations for sights, entertainment and restaurants.
 
 # Questions?
 
