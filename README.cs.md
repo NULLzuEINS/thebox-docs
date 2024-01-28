@@ -41,7 +41,7 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### K dispozici jsou vám následující věci
+### V kuchyni jsou k dispozici následující věci
 
 1.  Stádo
 2.  Konvice
@@ -60,9 +60,8 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 
 ## Tvůj pokoj
 
-Matrace se pokládají na sebe pouze pro účely skladování. Můžete je distribuovat podle svých potřeb. Pokud vyměníte polštáře na gauči za matraci, je z toho dobrá postel.
-
-Můžete používat počítač a tiskárnu.
+Matrace se pokládají na sebe pouze pro účely skladování. Můžete je distribuovat podle svých potřeb.
+Pokud polštáře na gauči nahradíte matrací, funguje dobře jako postel.
 
 ### Přihlašovací údaje pro počítač (iMac) jsou
 
@@ -71,10 +70,10 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### K dispozici jsou vám následující věci
+### V místnosti jsou k dispozici následující věci
 
 1.  Veškerý nábytek a postele
-2.  Počítač
+2.  Počítače a tiskárny
 3.  Dálkové ovládání světel a elektřiny
 
 ### Dálková ovládání
@@ -115,7 +114,7 @@ Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje 
 
 Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, abych zabránil tvorbě plísní. Jsou malé a bílé a obvykle leží na rámech dveří. Některá naměřená data si můžete přečíst v zrcadle na chodbě.
 
-> Dbejte prosím na pravidelné větrání (alespoň jednou denně). Zejména v koupelně. Ujistěte se také, že je topení vypnuté. Děkujeme 🙏
+?> Zajistěte prosím pravidelné větrání (alespoň jednou denně). Zejména v koupelně. Ujistěte se také, že je topení vypnuté. Děkujeme 🙏
 
 ## Dvorek
 
@@ -142,7 +141,7 @@ Pokud věříte statistikám, tak v Lipsku se ročně ukradne nejvíce kol na hl
 
 ### Jaké alternativy existují?
 
-s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte za ně 10 bezplatných jízd po 15 minutách_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmostí jsou autobusy a vlaky, za které můžete platit i přes aplikaci Leipzig MOVE.
+s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmě existují autobusy a vlaky, za které můžete platit i přes aplikaci Leipzig MOVE.
 
 # Překontrolovat
 
@@ -184,7 +183,7 @@ Po dokončení jej vraťte zpět do nabíjecí stanice!
 
 # Tipy
 
-S aplikací Leipzig MOVE získáte 10 jízd zdarma, každá po 15 minutách_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech.
+s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech.
 
 V aplikaci AirBnB mám uložené cestovní průvodce. Najdete tam moje doporučení na památky, bary a hospůdky, nákupní příležitosti a restaurace.
 
