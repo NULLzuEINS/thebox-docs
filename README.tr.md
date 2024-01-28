@@ -161,7 +161,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 # Daha uzun konaklama
 
-Misafirlerimden bazıları bir ay veya daha uzun süre kalıyor. Eğer siz de onlardan biriyseniz bu bölüm tam size göre!
+?> Bazı misafirlerim bir ay veya daha uzun süre kalıyor. Eğer siz de onlardan biriyseniz bu bölüm tam size göre!
 
 ## çamaşır makinesi
 
