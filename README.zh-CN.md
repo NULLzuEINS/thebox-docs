@@ -45,9 +45,9 @@ Passwort: landungsbruecken
 
 1.  一群
 2.  壶
-3.  Geschirr, Besteck
+3.  餐具餐具
 4.  冰箱
-5.  Pizzaofen
+5.  披萨烤箱
 6.  矿泉水
 7.  架子上的手机充电站
 8.  洗衣机
@@ -81,11 +81,11 @@ Passwort: thebox
 
 德国有句老话适用于所有遥控器：“尝试比学习更好”。你不能破坏任何东西。按几个按钮，看看会发生什么。如果你还想学习，这里有适合你的读物：
 
-| 插图                                                        | 描述                                                                                         |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 答：蓝牙盒子<br>B：仙女灯<br>C：台灯<br>d:_文件_<br>大师：同时切换所有内容                                           |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **在使用之前，请确保入口处的电灯开关设置为“打开”。**<br>第一行：亮度、开/关<br>彩色按钮：您可以使用它来更改颜色<br>灰色按钮：不同效果之间切换           |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Das ist die Fernbedienung für den Computer (iMac). _要使用计算机，请按第一个遥控器上的 A 按钮。它激活计算机和蓝牙盒的电源。_ |
+| 插图                                                        | 描述                                                                               |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 答：蓝牙盒子<br>B：仙女灯<br>C：台灯<br>d:_文件_<br>大师：同时切换所有内容                                 |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **在使用之前，请确保入口处的电灯开关设置为“打开”。**<br>第一行：亮度、开/关<br>彩色按钮：您可以使用它来更改颜色<br>灰色按钮：不同效果之间切换 |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | 这是电脑 (iMac) 的遥控器。_要使用计算机，请按第一个遥控器上的 A 按钮。它激活计算机和蓝牙盒的电源。_                         |
 
 ### 常见问题 - 您的房间
 
@@ -109,7 +109,7 @@ Passwort: thebox
 
 公寓内有Alexa语音助手。例如，您可以用“计算机”这个名字来称呼他们，并让他们玩 Deutschlandfunk Nova。这些设备连接到互联网，也可以用作闹钟或计时器。如果您不想使用它，只需将其从电源上拔掉即可。
 
-In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
+您的房间里没有语音助手。架子上的篮子里只有路由器和一台小电脑。
 
 ## 温度和湿度
 
@@ -125,7 +125,7 @@ In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal
 
 ### 门怎么打开？
 
-Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
+要么使用前门钥匙，要么伸手穿过大门并感觉到开门按钮。当您按住按钮时，您可以打开门。
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
@@ -186,7 +186,7 @@ Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor un
 
 使用 Leipzig MOVE 应用程序，您可以免费乘坐 10 次，每次 15 分钟_下一个自行车_。请注意，如果您不在主要街道上停放自行车（地图上的紫色），费用会更高。电动滑板车只能停放在某些停车位。
 
-我已将旅行指南存储在爱彼迎应用程序中。在那里您可以找到我对景点、娱乐和餐厅的推荐。
+In der App von AirBnB habe ich Reiseführer hinterlegt. Dort findet ihr meine Empfehlungen zu Sehenwürdigkeiten, Unterhaltung und Restaurants.
 
 # 问题？
 
