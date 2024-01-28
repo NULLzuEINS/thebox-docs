@@ -61,7 +61,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 ## Rommet ditt
 
 Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem i henhold til dine behov.
-Bytter du ut putene på sofaen med en madrass, fungerer den fint som seng.
+Bytter du ut putene på sofaen med en madrass, blir det en god seng.
 
 ### Påloggingsdetaljene for datamaskinen (iMac) er
 
@@ -137,11 +137,11 @@ Lurer du på hvorfor søppeldunkene har forskjellige farger? Hvis du er usikker,
 ### Er sykkelen min trygg?
 
 Leipzig er en veldig sykkelvennlig by. Gjennom den store byparken som deler byen i to halvdeler, kan du komme deg til mange steder og kjører vanligvis gjennom landsbygda.
-Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hvert år. (1 539 stjålne sykler per 100 000 innbyggere) I løpet av de 15 årene siden jeg har bodd her på Hardenbergstraße har jeg aldri fått stjålet en sykkel og jeg vet bare om en nabo som har fått sykkelen sin fra bakgården hans. Jeg kobler den alltid direkte til rekkverket.
+Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hvert år. (1 539 stjålne sykler per 100 000 innbyggere) I løpet av de 15 årene siden jeg har bodd her på Hardenbergstraße har jeg aldri fått stjålet en sykkel og jeg vet bare om en nabo som har fått sykkelen hans stjålet fra bakgården hans. Jeg kobler den alltid direkte til rekkverket.
 
 ### Hvilke alternativer finnes?
 
-Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser. Det er også et gratis-flytende bildelingssystem. Det betyr med oss[cityflitzer](https://cityflitzer.de/). Und gibt es natürlich noch Bus und Bahn welche Du ebenfalls über die Leipzig MOVE App bezahlen könnte.
+Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser. Det er også et gratis-flytende bildelingssystem. Det betyr med oss[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er det busser og tog som du også kan betale for via Leipzig MOVE-appen.
 
 # Sjekk ut
 
@@ -166,7 +166,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 Du kan bruke vaskemaskinen uten å måtte spørre først. Du kan også bruke tørkestativet, vaskepulver og tøymykner. Hvis du vil ha nytt sengetøy, bare snakk med meg.
 
-## Håndbørste og støvbrett
+## Håndbørste og støvpanne
 
 På kjøkkenet finner du en håndbørste og en feiebrett på veggen. Dette vil hjelpe deg å bli kvitt den lille skitten.
 
@@ -177,7 +177,7 @@ Du kan finne grønt rengjøringsmiddel i en sprayflaske på badet for mopping. S
 ## Støvsuger
 
 Jeg har en robotstøvsuger til gulvet.
-Før du kan begynne, ryd alt på gulvet ut av veien. Spesielt ledninger eller andre ting som roboten kunne kveles på. Sett den deretter inn i rommet og trykk på knappen på toppen én gang. Hvis ingenting skjer, bruk av/på-bryteren på siden.
+Før du kan begynne, ryd alt på gulvet ut av veien. Spesielt ledninger eller andre ting som roboten kunne kveles på. Sett den deretter i rommet og trykk én gang på knappen på toppen. Hvis ingenting skjer, bruk av/på-bryteren på siden.
 
 Når den er ferdig, sett den tilbake i ladestasjonen!
 
