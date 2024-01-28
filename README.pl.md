@@ -161,7 +161,7 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz dla nich 10 bezpła
 
 # Dłuższy pobyt
 
-Niektórzy z moich gości zostają na miesiąc lub dłużej. Jeśli jesteś jednym z nich, ta sekcja jest dla Ciebie!
+?> Niektórzy z moich gości zatrzymują się na miesiąc lub dłużej. Jeśli jesteś jednym z nich, ta sekcja jest dla Ciebie!
 
 ## pralka
 
@@ -169,7 +169,7 @@ Możesz korzystać z pralki bez konieczności wcześniejszego pytania. Możesz t
 
 ## Ręczna szczotka i szufelka
 
-In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Damit bekommst du den kleinen Dreck weg.
+W kuchni znajdziesz ręczną szczotkę i szufelkę na ścianie. Dzięki temu pozbędziesz się drobnych zabrudzeń.
 
 ## Wytrzeć
 
