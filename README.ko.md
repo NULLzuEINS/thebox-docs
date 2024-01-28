@@ -169,7 +169,7 @@ Passwort: thebox
 
 ## 핸드 브러시와 쓰레받기
 
-주방 벽에는 손솔과 쓰레받기가 있습니다. 이렇게 하면 작은 먼지를 제거하는 데 도움이 됩니다.
+In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Damit bekommst du den kleinen Dreck weg.
 
 ## 닦음
 
