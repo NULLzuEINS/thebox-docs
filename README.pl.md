@@ -93,7 +93,7 @@ Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować n
 
 ### łazienka
 
-Z prysznica można korzystać na stojąco. Nie ma znaczenia, jeśli ziemia będzie trochę mokra. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
+Z prysznica można korzystać na stojąco. Nie stanowi to problemu, jeśli ziemia lekko zamoknie. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
 
 Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Komputerze, włącz Deutschlandfunk Nova_"
 
@@ -101,13 +101,13 @@ Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w 
 
 ### Korytarz
 
-Zachęcamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
+Zapraszamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
 
 # Różnorodny
 
 ## Inteligentny dom
 
-W mieszkaniu znajdują się asystenci głosowi Alexa. Możesz zwrócić się do nich nazwą „Komputer” i na przykład poprosić ich o zagranie w Deutschlandfunk Nova. Urządzenia są podłączone do Internetu i mogą służyć również jako budziki lub timery. Jeśli nie chcesz z niego korzystać, możesz po prostu odłączyć go od źródła zasilania.
+W mieszkaniu znajdują się asystenci głosowi Alexa. Możesz zwrócić się do nich nazwą „Komputer” i na przykład poprosić ich o zagranie w Deutschlandfunk Nova. Urządzenia są podłączone do Internetu i mogą służyć również jako budziki lub timery. Jeśli nie chcesz go używać, możesz po prostu odłączyć go od źródła zasilania.
 
 W Twoim pokoju nie ma asystentów głosowych. W koszyku na półce mieści się tylko router i mały komputer.
 
@@ -159,7 +159,7 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz dla nich 10 bezpła
 
 > Wersja krótka: Zostaw klucz tam, zamknij drzwi i to wszystko. 😀
 
-# Długi pobyt
+# Dłuższy pobyt
 
 Niektórzy z moich gości zostają na miesiąc lub dłużej. Jeśli jesteś jednym z nich, ta sekcja jest dla Ciebie!
 
@@ -167,9 +167,9 @@ Niektórzy z moich gości zostają na miesiąc lub dłużej. Jeśli jesteś jedn
 
 Możesz korzystać z pralki bez konieczności wcześniejszego pytania. Możesz także użyć suszarki, proszku do prania i płynu zmiękczającego do tkanin.
 
-## Handfeger und Kehrblech
+## Ręczna szczotka i szufelka
 
-W kuchni znajdziesz ręczną szczotkę i szufelkę na ścianie. Dzięki temu pozbędziesz się drobnych zabrudzeń.
+In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Damit bekommst du den kleinen Dreck weg.
 
 ## Wytrzeć
 
@@ -186,7 +186,7 @@ Po zakończeniu odłóż go z powrotem do stacji ładującej!
 
 Dzięki aplikacji Leipzig MOVE zyskujesz 10 bezpłatnych przejazdów po 15 minut każdy_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
 
-Przewodniki turystyczne przechowuję w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, rozrywek i restauracji.
+Przechowuję przewodniki turystyczne w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, rozrywek i restauracji.
 
 # Pytania?
 
