@@ -41,7 +41,7 @@ Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abw
 
 ![Küche](_media/rooms/kueche.jpg ':size=200')
 
-### Folgende Dinge stehen euch zur Verfügung
+### Folgende Dinge stehen in der Küche zur Verfügung
 
 1. Herd
 2. Wasserkocher
@@ -60,9 +60,8 @@ Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abw
 
 ## Dein Zimmer
 
-Die Matratzen liegen nur zu Lagerung übereinander. Ihr könnt sie nach euren Bedürfnissen verteilen. Wenn ihr die Kissen auf der Couch durch eine Matratze ersetzt, eignet sie sich gut als Bett.
-
-Den Computer und den Drucker kannst Du gern benutzen.
+Die Matratzen liegen nur zu Lagerung übereinander. Du kannst sie nach Deinen Bedürfnissen verteilen. 
+Wenn Du die Kissen auf der Couch durch eine Matratze ersetzt, eignet sie sich gut als Bett.
 
 ### Die Zugangsdaten für den Computer (iMac) sind
 
@@ -71,10 +70,10 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Folgende Dinge stehen euch zur Verfügung
+### Folgende Dinge stehen im Zimmer zur Verfügung
 
 1. Alle Möbel und Betten
-2. Computer
+2. Computer & Drucker
 3. Fernbedienungen für Licht und Strom
 
 ### Fernbedienungen
@@ -142,7 +141,7 @@ Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräd
 
 ### Welche Alternativen gibt es
 
-Mit der [Leipzig MOVE App](https://leipzig-move.de/), bekommt ihr 10 Freifahrten à 15 Minuten für die *Nextbikes*. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden. Es gibt auch ein Free-Float-Car-Shairing-System. Das heißt bei uns [cityflitzer](https://cityflitzer.de/). Und gibt es natürlich noch Bus und Bahn welche ihr ebenfalls über die Leipzig MOVE App bezahlen könnte.
+Mit der [Leipzig MOVE App](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die *Nextbikes*. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden. Es gibt auch ein Free-Float-Car-Shairing-System. Das heißt bei uns [cityflitzer](https://cityflitzer.de/). Und gibt es natürlich noch Bus und Bahn welche Du ebenfalls über die Leipzig MOVE App bezahlen könnte.
 
 # Checkout
 
@@ -184,13 +183,13 @@ Wenn er fertig ist, stelle ihn bitte wieder zurück in die Ladestation!
 
 # Tipps
 
-Mit der Leipzig MOVE App, bekommt ihr 10 Freifahrten à 15 Minuten für die *Nextbikes*. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
+Mit der [Leipzig MOVE App](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die *Nextbikes*. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
 In der App von AirBnB habe ich Reiseführer hinterlegt. Dort findest Du meine Empfehlungen zu Sehenwürdigkeiten, Bars und Kneipen, Einkaufsmöglichkeiten und Restaurants.
 
 # Fragen?
 
-Wenn ihr Fragen habt, oder Unterstützung benötigt, stehe ich euch gern zur Verfügung. Wenn es eilig ist, dann besten via Telefon&nbsp; <a href="tel:+491707353067">+49 170 73 53 067</a>. Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS). Ansonsten habe ich im Flur einen Notizblock und einen Stift.
+Wenn Du Fragen hast, oder Unterstützung benötigt, stehe ich dir gern zur Verfügung. Wenn es eilig ist, dann besten via Telefon&nbsp; <a href="tel:+491707353067">+49 170 73 53 067</a>. Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS). Ansonsten habe ich im Flur einen Notizblock und einen Stift.
 
 Ich wünsche einen schönen Aufenthalt in Leipzig!
 André
