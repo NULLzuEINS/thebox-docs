@@ -165,7 +165,7 @@ Mit der [Leipzig MOVE App](https://leipzig-move.de/), bekommt ihr 10 Freifahrten
 
 ## Waschmaschine
 
-Du kannst die Waschmaschine mit benutzen ohne vorher fragen zu müssen. Du kannst auch das den Wäscheständer, Waschpulver und den Weichspüler benutzen.
+Du kannst die Waschmaschine mit benutzen ohne vorher fragen zu müssen. Du kannst auch das den Wäscheständer, Waschpulver und den Weichspüler benutzen. Falls Du neue Bettwäsche haben möchtest, sprich mich einfach an.
 
 ## Handfeger und Kehrblech
 
@@ -186,7 +186,7 @@ Wenn er fertig ist, stelle ihn bitte wieder zurück in die Ladestation!
 
 Mit der Leipzig MOVE App, bekommt ihr 10 Freifahrten à 15 Minuten für die *Nextbikes*. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
-In der App von AirBnB habe ich Reiseführer hinterlegt. Dort findet ihr meine Empfehlungen zu Sehenwürdigkeiten, Unterhaltung und Restaurants.
+In der App von AirBnB habe ich Reiseführer hinterlegt. Dort findest Du meine Empfehlungen zu Sehenwürdigkeiten, Bars und Kneipen, Einkaufsmöglichkeiten und Restaurants.
 
 # Fragen?
 
