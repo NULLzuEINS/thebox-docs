@@ -20,7 +20,7 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 Vous obtenez deux paires de clés, chacune avec une clé pour le bas et une pour le haut. Il y a aussi une clé sur un porte-clés que vous pouvez utiliser pour verrouiller votre chambre.
 
-## accès Internet
+## Internetzugang
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -177,13 +177,20 @@ Vous pouvez trouver un produit de nettoyage vert dans un flacon pulvérisateur d
 ## aspirateur
 
 J'ai un robot aspirateur pour le sol.
-Avant de commencer, débarrassez tout ce qui se trouve sur le sol. Surtout les cordons ou autres objets avec lesquels le robot pourrait s'étouffer. Placez-le ensuite dans la pièce et appuyez une fois sur le bouton du dessus. Si rien ne se passe, utilisez l'interrupteur marche/arrêt sur le côté.
+Avant de commencer, débarrassez tout ce qui se trouve sur le sol.
+Surtout les cordons ou autres objets avec lesquels le robot pourrait s'étouffer.
+Placez-le ensuite dans votre chambre et appuyez une fois sur le bouton du dessus.
+Si rien ne se passe, utilisez l'interrupteur marche/arrêt sur le côté et après
+rallumez-le à l'aide du bouton en haut.
 
 Une fois terminé, veuillez le remettre dans la station de recharge !
 
 # Conseils
 
-Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficiez de 10 trajets gratuits de 15 minutes chacun pour le_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement.
+Avec le[Application MOVE de Leipzig](https://leipzig-move.de/),
+vous obtenez 10 trajets gratuits de 15 minutes chacun pour eux_Suivantbikes_.
+A noter que cela coûte plus cher si vous ne garez pas le Raf dans les rues principales (violet sur la carte).
+Les scooters électriques ne peuvent être garés que sur certaines places de stationnement.
 
 J'ai stocké des guides de voyage dans l'application AirBnB. Vous y trouverez mes recommandations de sites touristiques, de bars et de pubs, de magasins et de restaurants.
 
