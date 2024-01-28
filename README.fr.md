@@ -41,7 +41,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Les éléments suivants sont à votre disposition
+### Les éléments suivants sont disponibles dans la cuisine
 
 1.  Troupeau
 2.  Bouilloire
@@ -60,9 +60,8 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 ## Ta chambre
 
-Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins. Si vous remplacez les oreillers du canapé par un matelas, cela fait un bon lit.
-
-Vous êtes invités à utiliser l’ordinateur et l’imprimante.
+Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins.
+Si vous remplacez les oreillers du canapé par un matelas, celui-ci fera également office de lit.
 
 ### Les informations de connexion pour l'ordinateur (iMac) sont
 
@@ -71,10 +70,10 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Les éléments suivants sont à votre disposition
+### Les éléments suivants sont disponibles dans la chambre
 
 1.  Tous les meubles et lits
-2.  Ordinateur
+2.  Ordinateurs et imprimantes
 3.  Télécommandes pour lumières et électricité
 
 ### Télécommandes
@@ -97,9 +96,9 @@ Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu m
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
-Vous pouvez accrocher des serviettes à tous les crochets et ranger vos affaires n'importe où.
+Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstellen.
 
-### Couloir
+### Flur
 
 Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'étagère au cas où tu voudrais me dire quelque chose.
 
@@ -115,7 +114,7 @@ Il n'y a pas d'assistant vocal dans votre chambre. Le panier sur l'étagère con
 
 La température et l'humidité sont automatiquement mesurées via les capteurs. Je les utilise pour éviter la formation de moisissures. Ils sont petits et blancs et reposent généralement sur les encadrements de portes. Vous pouvez lire certaines données de mesure dans le miroir du couloir.
 
-> Assurez-vous d'aérer régulièrement (au moins une fois par jour). Surtout dans la salle de bain. Assurez-vous également que le chauffage est éteint. Merci 🙏
+?> Merci de veiller à aérer régulièrement (au moins une fois par jour). Surtout dans la salle de bain. Assurez-vous également que le chauffage est éteint. Merci 🙏
 
 ## La Cour
 
@@ -142,7 +141,7 @@ Si l’on en croit les statistiques, c’est à Leipzig que le plus grand nombre
 
 ### Quelles sont les alternatives ?
 
-Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficiez de 10 trajets gratuits de 15 minutes chacun pour eux_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement. Il existe également un système de covoiturage en free float. Cela veut dire avec nous[Cityflitzer](https://cityflitzer.de/). Et bien sûr, il existe des bus et des trains que vous pouvez également payer via l'application Leipzig MOVE.
+Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficiez de 10 trajets gratuits de 15 minutes chacun pour le_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement. Il existe également un système de covoiturage en free float. Cela veut dire avec nous[Cityflitzer](https://cityflitzer.de/). Et bien sûr, il existe des bus et des trains que vous pouvez également payer via l'application Leipzig MOVE.
 
 # Vérifier
 
@@ -161,7 +160,7 @@ Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficie
 
 # Séjour plus long
 
-?> Certains de mes invités restent un mois ou plus. Si vous en faites partie, alors cette rubrique est faite pour vous !
+?> Manche meiner Gäste bleiben einen Monat, oder länger. Bist du auch einer von ihnen, dann ist dieser Abschnitt hier für Dich!
 
 ## Machine à laver
 
@@ -180,11 +179,11 @@ Vous pouvez trouver un produit de nettoyage vert dans un flacon pulvérisateur d
 J'ai un robot aspirateur pour le sol.
 Avant de commencer, débarrassez tout ce qui se trouve sur le sol. Surtout les cordons ou autres objets avec lesquels le robot pourrait s'étouffer. Ensuite, placez-le dans la pièce et appuyez une fois sur le bouton du dessus. Si rien ne se passe, utilisez l'interrupteur marche/arrêt sur le côté.
 
-Une fois terminé, veuillez le remettre dans la station de recharge !
+Wenn er fertig ist, stelle ihn bitte wieder zurück in die Ladestation!
 
 # Conseils
 
-Avec l'application Leipzig MOVE, vous bénéficiez de 10 trajets gratuits de 15 minutes chacun_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement.
+Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficiez de 10 trajets gratuits de 15 minutes chacun pour le_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement.
 
 J'ai stocké des guides de voyage dans l'application AirBnB. Vous y trouverez mes recommandations de sites touristiques, de bars et de pubs, de magasins et de restaurants.
 
