@@ -60,7 +60,7 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 
 ## Senin odan
 
-Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz. Kanepedeki minderleri şilteyle değiştirirseniz iyi bir yatak olur.
+Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz. Kanepedeki yastıkları şilteyle değiştirirseniz iyi bir yatak olur.
 
 Bilgisayarı ve yazıcıyı kullanabilirsiniz.
 
@@ -71,7 +71,7 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Folgende Dinge stehen euch zur Verfügung
+### Aşağıdaki şeyler sizin için mevcuttur
 
 1.  Tüm mobilya ve yataklar
 2.  Bilgisayar
@@ -93,7 +93,7 @@ Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek �
 
 ### banyo
 
-Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması sorun değil. Suyu yalnızca 1/3 oranında açın ve banyo paspasını kuruması için ısıtıcının üzerine asın.
+Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması önemli değil. Suyu yalnızca 1/3 oranında açın ve banyo paspasını kuruması için ısıtıcının üzerine asın.
 
 Duvardaki Alexa "Bilgisayar" adını alır ve aynı zamanda en sevdiğiniz müziği veya radyoyu da çalar. Örneğin. "_Bilgisayar, Deutschlandfunk Nova'yı oyna_"
 
@@ -138,17 +138,17 @@ Ya ön kapının anahtarını kullanırsınız ya da kapıdan içeri girip kapı
 ### Bisikletim güvende mi?
 
 Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı sayesinde birçok yere ulaşabilir ve genellikle kırsal kesimden geçebilirsiniz.
-İstatistiklere inanıyorsanız, her yıl kişi başına en fazla bisikletin çalındığı yer Leipzig'dir. (100.000 kişi başına 1.539 çalıntı bisiklet) Hardenbergstraße'de yaşadığım 15 yıldan bu yana hiç bisikletim çalınmadı ve sadece arka bahçesinden bisikleti çalınan bir komşu tanıyorum. Her zaman doğrudan korkuluğa bağlarım.
+İstatistiklere inanıyorsanız, her yıl kişi başına en fazla bisikletin çalındığı yer Leipzig'dir. (100.000 kişi başına 1.539 çalıntı bisiklet) Hardenbergstraße'de yaşadığım 15 yıldan bu yana hiç bisikletim çalınmadı ve arka bahçesinden bisikleti çalınan sadece bir komşu tanıyorum. Her zaman doğrudan korkuluğa bağlarım.
 
 ### Hangi alternatifler var?
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), onlar için her biri 15 dakikalık 10 ücretsiz yolculuk hakkınız var_Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve tabii ki Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüs ve trenler de var.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), onlar için her biri 15 dakikalık 10 ücretsiz yolculuk hakkınız var_Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve tabii ki Leipzig MOVE uygulaması aracılığıyla da ödeme yapabileceğiniz otobüs ve trenler var.
 
 # Çıkış yapmak
 
 ## Anahtar
 
--   Je nach dem welcher Wochentag ist, können wir uns persönlich verabschieden, oder du legst einfach die Schlüssel auf den Schreibtisch und ziehst die Tür hinter Dir zu.
+-   Haftanın hangi günü olduğuna bağlı olarak bizzat veda edebiliriz ya da anahtarları masanın üzerine koyup kapıyı arkanızdan kapatabilirsiniz.
 -   Çıkış günü son çıkış saati saat 19.00'dır.
 
 ## temizlik
@@ -165,7 +165,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 ## çamaşır makinesi
 
-Çamaşır makinesini sormanıza gerek kalmadan kullanabilirsiniz. Kurutma rafını, çamaşır tozunu ve yumuşatıcıyı da kullanabilirsiniz.
+Çamaşır makinesini sormanıza gerek kalmadan kullanabilirsiniz. Kurutma rafını, çamaşır tozunu ve yumuşatıcıyı da kullanabilirsiniz. Yeni nevresimler istiyorsanız benimle konuşmanız yeterli.
 
 ## El fırçası ve faraş
 
@@ -173,7 +173,7 @@ Mutfakta duvarda bir el fırçası ve faraş bulacaksınız. Bu, küçük kirler
 
 ## Silip süpürmek
 
-Paspaslamak için yeşil temizlik maddesini banyodaki sprey şişesinde bulabilirsiniz. Mutfak kağıdıyla birlikte yüzeyleri kolayca temizlemek için kullanılabilir.
+Paspaslamak için yeşil temizlik maddesini banyoda sprey şişesinde bulabilirsiniz. Mutfak kağıdıyla birlikte yüzeyleri kolayca temizlemek için kullanılabilir.
 
 ## Elektrikli süpürge
 
@@ -186,7 +186,7 @@ Bittiğinde lütfen şarj istasyonuna geri koyun!
 
 Leipzig MOVE uygulamasıyla her biri 15 dakikalık 10 ücretsiz yolculuk kazanırsınız_Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
 
-Seyahat rehberlerini AirBnB uygulamasında sakladım. Orada turistik yerler, eğlence ve restoranlarla ilgili önerilerimi bulacaksınız.
+Seyahat rehberlerini AirBnB uygulamasında sakladım. Orada turistik yerler, barlar ve publar, alışveriş fırsatları ve restoranlarla ilgili önerilerimi bulacaksınız.
 
 # Sorunuz mu var?
 
