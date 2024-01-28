@@ -41,7 +41,7 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Aşağıdaki şeyler sizin için mevcuttur
+### Mutfakta aşağıdaki şeyler mevcuttur
 
 1.  Sürü
 2.  Su ısıtıcısı
@@ -60,9 +60,8 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 
 ## Senin odan
 
-Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz. Kanepedeki yastıkları şilteyle değiştirirseniz iyi bir yatak olur.
-
-Bilgisayarı ve yazıcıyı kullanabilirsiniz.
+Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz.
+Kanepedeki yastıkları şilteyle değiştirirseniz yatak olarak işe yarar.
 
 ### Bilgisayarın (iMac) oturum açma ayrıntıları şunlardır:
 
@@ -71,10 +70,10 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Aşağıdaki şeyler sizin için mevcuttur
+### Odada aşağıdaki şeyler mevcuttur
 
 1.  Tüm mobilya ve yataklar
-2.  Bilgisayar
+2.  Bilgisayarlar ve Yazıcılar
 3.  Işıklar ve elektrik için uzaktan kumandalar
 
 ### Uzaktan kumandalar
@@ -115,7 +114,7 @@ Odanızda sesli asistan yok. Raftaki sepette yalnızca yönlendirici ve küçük
 
 Sıcaklık ve nem sensörler aracılığıyla otomatik olarak ölçülür. Küf oluşumunu engellemek için kullanıyorum. Küçük ve beyazdırlar ve genellikle kapı çerçevelerinde bulunurlar. Ölçüm verilerinin bir kısmını koridordaki aynada okuyabilirsiniz.
 
-> Lütfen düzenli olarak (en az günde bir kez) havalandırmayı unutmayın. Özellikle banyoda. Ayrıca ısıtmanın kapalı olduğundan emin olun. Teşekkür ederim 🙏
+?> Lütfen düzenli olarak (günde en az bir kez) havalandırmaya dikkat edin. Özellikle banyoda. Ayrıca ısıtmanın kapalı olduğundan emin olun. Teşekkür ederim 🙏
 
 ## Yarda
 
@@ -142,9 +141,9 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 ### Hangi alternatifler var?
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), onlar için her biri 15 dakikalık 10 ücretsiz yolculuk hakkınız var_Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve tabii ki Leipzig MOVE uygulaması aracılığıyla da ödeme yapabileceğiniz otobüs ve trenler var.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
 
-# Çıkış yapmak
+# Checkout
 
 ## Anahtar
 
@@ -184,7 +183,7 @@ Bittiğinde lütfen şarj istasyonuna geri koyun!
 
 # İpuçları
 
-Leipzig MOVE uygulamasıyla her biri 15 dakikalık 10 ücretsiz yolculuk kazanırsınız_Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
 
 Seyahat rehberlerini AirBnB uygulamasında sakladım. Orada turistik yerler, barlar ve publar, alışveriş fırsatları ve restoranlarla ilgili önerilerimi bulacaksınız.
 
