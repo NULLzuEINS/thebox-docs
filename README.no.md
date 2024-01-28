@@ -60,7 +60,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 ## Rommet ditt
 
-Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem etter dine behov. Bytter du ut putene på sofaen med en madrass, blir det en god seng.
+Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem i henhold til dine behov. Bytter du ut putene på sofaen med en madrass, blir det en god seng.
 
 Du er velkommen til å bruke datamaskinen og skriveren.
 
@@ -93,7 +93,7 @@ Et gammelt tysk ordtak gjelder for alle fjernkontroller: «Å prøve er bedre en
 
 ### baderom
 
-Du kan bruke dusjen mens du står. Det er ikke noe problem hvis bakken blir litt våt. Slå bare på vannet 1/3 og heng badematten over varmeren for å tørke.
+Du kan bruke dusjen mens du står. Det spiller ingen rolle om bakken blir litt våt. Slå bare på vannet 1/3 og heng badematten over varmeren for å tørke.
 
 Alexaen på veggen går under navnet "Computer" og spiller også favorittmusikken eller radioen din. f.eks."_Datamaskin, spill Deutschlandfunk Nova_"
 
@@ -131,7 +131,7 @@ Enten bruker du hoveddørnøkkelen, eller så strekker du deg gjennom porten og 
 
 ### Gul? Blå? Grønn? Brun?
 
-Lurer du på hvorfor søppeldunkene har forskjellige farger? Hvis du er usikker, legg alltid søppelet i den grønne søppelbøtta. Der havner restavfallet. Fagfolk legger papiravfall i den blå dunken, resirkulerbart i den gule dunken og organisk avfall i den brune dunken.
+Lurer du på hvorfor søppeldunkene har forskjellige farger? Hvis du er usikker, legg alltid søppelet i den grønne søppelbøtta. Der havner restavfallet. Fagfolk legger papiravfall i den blå søppelkassen, resirkulerbart i den gule søppelkassen og organisk avfall i den brune søppelbøtta.
 
 ### Sykluser
 
@@ -142,14 +142,14 @@ Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hver
 
 ### Hvilke alternativer finnes?
 
-Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for dem_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser. Det er også et gratis-flytende bildelingssystem. Det betyr med oss[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er det også busser og tog som du også kan betale for via Leipzig MOVE-appen.
+Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for dem_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser. Det er også et gratis-flytende bildelingssystem. Det betyr med oss[cityflitzer](https://cityflitzer.de/). Og selvfølgelig finnes det busser og tog som du også kan betale for via Leipzig MOVE-appen.
 
 # Sjekk ut
 
 ## Nøkkel
 
 -   Avhengig av hvilken ukedag det er, kan vi si farvel personlig, eller du kan ganske enkelt legge nøklene på skrivebordet og lukke døren bak deg.
--   Siste tidspunkt for utsjekking er 19.00 på avreisedagen.
+-   Siste tidspunkt for utsjekking er kl. 19.00 på avreisedagen.
 
 ## rengjøring
 
@@ -165,7 +165,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 ## vaskemaskin
 
-Du kan bruke vaskemaskinen uten å måtte spørre først. Du kan også bruke tørkestativet, vaskepulver og tøymykner.
+Du kan bruke vaskemaskinen uten å måtte spørre først. Du kan også bruke tørkestativet, vaskepulver og tøymykner. Hvis du vil ha nytt sengetøy, bare snakk med meg.
 
 ## Håndbørste og støvbrett
 
@@ -178,7 +178,7 @@ Du kan finne grønt rengjøringsmiddel i en sprayflaske på badet for mopping. S
 ## Støvsuger
 
 Jeg har en robotstøvsuger til gulvet.
-Før du kan begynne, ryd alt på gulvet ut av veien. Spesielt ledninger eller andre ting som roboten kunne kveles på. Sett den deretter i rommet og trykk én gang på knappen på toppen. Hvis ingenting skjer, bruk av/på-bryteren på siden.
+Før du kan begynne, ryd alt på gulvet ut av veien. Spesielt ledninger eller andre ting som roboten kunne kveles på. Sett den deretter inn i rommet og trykk på knappen på toppen én gang. Hvis ingenting skjer, bruk av/på-bryteren på siden.
 
 Når den er ferdig, sett den tilbake i ladestasjonen!
 
@@ -186,7 +186,7 @@ Når den er ferdig, sett den tilbake i ladestasjonen!
 
 Med Leipzig MOVE-appen får du 10 gratisturer på 15 minutter hver_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser.
 
-Jeg har lagret reiseguider i AirBnB-appen. Der finner du mine anbefalinger for severdigheter, underholdning og restauranter.
+Jeg har lagret reiseguider i AirBnB-appen. Der finner du mine anbefalinger for severdigheter, barer og puber, shoppingmuligheter og restauranter.
 
 # Spørsmål?
 
