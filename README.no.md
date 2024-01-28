@@ -14,7 +14,7 @@ På min AirBnB får du en detaljert oversikt over alle rommene og fasilitetene. 
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Skrivebord med lys                                                                     | Kjøkken - komfyr                                                              | Kjøkken - te                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Skrivebord med lys                                                                     | Kjøkken - komfyr                                                              | Kjøkken - te                                                                            |
+| Skrivebord med lys                                                                     | Küche - Herd                                                                  | Kjøkken - te                                                                            |
 
 ## Nøkkel
 
@@ -161,7 +161,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 # Lengre opphold
 
-Noen av gjestene mine blir i en måned eller lenger. Hvis du er en av dem, så er denne delen for deg!
+?> Noen av gjestene mine blir i en måned eller lenger. Hvis du er en av dem, så er denne delen for deg!
 
 ## vaskemaskin
 
