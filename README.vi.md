@@ -2,7 +2,8 @@
 
 Xin chào và chào mừng đến với “Hộp”! Khi đi du lịch, tôi cũng thích ở AirBnB's và đôi khi tôi ước mình có một mảnh giấy ghi đầy đủ thông tin cần thiết về chỗ ở, nhận phòng và trả phòng và đây là nỗ lực của tôi để làm cho nó tốt hơn.
 
-> [!Một ghi chú]Tôi sẽ dịch tài liệu này tự động sang ngôn ngữ của bạn. Tôi hy vọng nó có thể hiểu được phần nào. Nếu không, vui lòng viết tin nhắn cho tôi. Sau đó tôi cố gắng cải thiện nó.
+> [!Một ghi chú]
+> Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
 
 ## Những bức ảnh
 
@@ -54,13 +55,13 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 
 ### Câu hỏi thường gặp - Nhà bếp
 
-1.  Bếp không hoạt động? làm ơn nói
+1.  Herd funktioniert nicht? Bitte sage
     > "Máy tính, bàn làm việc"
 2.  Tôi có thể rửa ở đâu? Điều này chỉ hoạt động trong phòng tắm. Có một hộp đựng đặc biệt để rửa chén.
 
 ## Phòng của bạn
 
-Các tấm nệm được đặt chồng lên nhau chỉ nhằm mục đích cất giữ. Bạn có thể phân phối chúng theo nhu cầu của bạn. Nếu bạn thay những chiếc gối trên ghế dài bằng một tấm nệm thì đó sẽ là một chiếc giường tốt.
+Các tấm nệm được đặt chồng lên nhau chỉ nhằm mục đích cất giữ. Bạn có thể phân phối chúng theo nhu cầu của bạn. Nếu bạn thay đệm trên ghế dài bằng nệm thì nó sẽ tạo thành một chiếc giường tốt.
 
 Bạn được thoải mái sử dụng máy tính và máy in.
 
@@ -157,9 +158,9 @@ Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận đượ
 -   Tôi cũng rửa bát đĩa và
 -   Tôi cũng đi đổ rác.
 
-> Phiên bản ngắn: Để chìa khóa ở đó, đóng cửa lại, thế thôi. 😀
+> Phiên bản ngắn: Để chìa khóa ở đó, đóng cửa lại, thế là xong. 😀
 
-# Cư trú dài hạn
+# Ở lại lâu hơn
 
 Một số khách của tôi ở lại một tháng hoặc lâu hơn. Nếu bạn là một trong số họ, thì phần này là dành cho bạn!
 
@@ -167,7 +168,7 @@ Một số khách của tôi ở lại một tháng hoặc lâu hơn. Nếu bạ
 
 Bạn có thể sử dụng máy giặt mà không cần phải hỏi trước. Bạn cũng có thể sử dụng giá phơi, bột giặt và nước xả vải.
 
-## Bàn chải cầm tay và chổi quét bụi
+## Bàn chải cầm tay và đồ hốt rác
 
 Trong nhà bếp, bạn sẽ tìm thấy một chiếc bàn chải cầm tay và một cái hốt rác trên tường. Điều này sẽ giúp bạn loại bỏ những vết bẩn nhỏ.
 
