@@ -141,7 +141,7 @@ If you believe the statistics, then the most bicycles per capita are stolen in L
 
 ### What alternatives are there?
 
-Mit der [Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for the_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). And of course there are buses and trains that you could also pay for via the Leipzig MOVE app.
+With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for the_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). And of course there are buses and trains that you could also pay for via the Leipzig MOVE app.
 
 # Checkout
 
@@ -177,13 +177,20 @@ You can find green cleaning agent in a spray bottle in the bathroom for mopping.
 ## Vacuum cleaner
 
 I have a robot vacuum cleaner for the floor.
-Before you can start, clear everything on the floor out of the way. Especially cords or other things that the robot could choke on. Then put it in the room and press the button on the top once. If nothing happens, use the on/off switch on the side.
+Before you can start, clear everything on the floor out of the way.
+Especially cords or other things that the robot could choke on.
+Then put it in your room and press the button on the top once.
+If nothing happens, use the on/off switch on the side and after
+turn it on again using the button on the top.
 
 When it's finished, please put it back in the charging station!
 
 # Tips
 
-With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for the_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces.
+With the[Leipzig MOVE App](https://leipzig-move.de/),
+you get 10 free rides of 15 minutes each for them_Nextbikes_.
+Note that it costs more if you don't park the Raf on the main streets (purple on the map).
+The e-scooters may only be parked in certain parking spaces.
 
 I have stored travel guides in the AirBnB app. There you will find my recommendations for sights, bars and pubs, shopping opportunities and restaurants.
 
