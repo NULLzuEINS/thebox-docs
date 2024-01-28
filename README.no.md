@@ -41,7 +41,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Følgende ting er tilgjengelige for deg
+### Følgende ting er tilgjengelig på kjøkkenet
 
 1.  Flokk
 2.  Kjele
@@ -60,9 +60,8 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 ## Rommet ditt
 
-Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem i henhold til dine behov. Bytter du ut putene på sofaen med en madrass, blir det en god seng.
-
-Du er velkommen til å bruke datamaskinen og skriveren.
+Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem i henhold til dine behov.
+Bytter du ut putene på sofaen med en madrass, fungerer den fint som seng.
 
 ### Påloggingsdetaljene for datamaskinen (iMac) er
 
@@ -71,10 +70,10 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Følgende ting er tilgjengelige for deg
+### Følgende ting er tilgjengelig i rommet
 
 1.  Alle møbler og senger
-2.  Datamaskin
+2.  Datamaskiner og skrivere
 3.  Fjernkontroller for lys og strøm
 
 ### Fjernkontroller
@@ -115,7 +114,7 @@ Det er ingen stemmeassistenter på rommet ditt. Kurven på hyllen inneholder kun
 
 Temperatur og fuktighet måles automatisk via sensorene. Jeg bruker dem for å hindre muggdannelse. De er små og hvite og ligger vanligvis på dørkarmer. Noen av måledataene kan du lese i speilet i gangen.
 
-> Sørg for å ventilere regelmessig (minst en gang om dagen). Spesielt på badet. Pass også på at varmen er slått av. Takk 🙏
+?> Sørg for å ventilere regelmessig (minst en gang om dagen). Spesielt på badet. Pass også på at varmen er slått av. Takk 🙏
 
 ## Hagen
 
@@ -142,7 +141,7 @@ Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hver
 
 ### Hvilke alternativer finnes?
 
-Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for dem_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser. Det er også et gratis-flytende bildelingssystem. Det betyr med oss[cityflitzer](https://cityflitzer.de/). Og selvfølgelig finnes det busser og tog som du også kan betale for via Leipzig MOVE-appen.
+Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser. Det er også et gratis-flytende bildelingssystem. Det betyr med oss[cityflitzer](https://cityflitzer.de/). Und gibt es natürlich noch Bus und Bahn welche Du ebenfalls über die Leipzig MOVE App bezahlen könnte.
 
 # Sjekk ut
 
@@ -184,7 +183,7 @@ Når den er ferdig, sett den tilbake i ladestasjonen!
 
 # Tips
 
-Med Leipzig MOVE-appen får du 10 gratisturer på 15 minutter hver_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser.
+Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser.
 
 Jeg har lagret reiseguider i AirBnB-appen. Der finner du mine anbefalinger for severdigheter, barer og puber, shoppingmuligheter og restauranter.
 
