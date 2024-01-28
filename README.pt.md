@@ -177,13 +177,20 @@ Você pode encontrar um agente de limpeza verde em um borrifador no banheiro par
 ## Aspirador de pó
 
 Tenho um aspirador robô para o chão.
-Antes de começar, limpe tudo que estiver no chão. Principalmente cabos ou outras coisas com as quais o robô possa engasgar. Em seguida, coloque-o na sala e pressione uma vez o botão superior. Se nada acontecer, use o botão liga/desliga na lateral.
+Antes de começar, limpe tudo que estiver no chão.
+Principalmente cabos ou outras coisas com as quais o robô possa engasgar.
+Em seguida, coloque-o no seu quarto e pressione uma vez o botão na parte superior.
+Se nada acontecer, use o botão liga/desliga na lateral e depois
+ligue-o novamente usando o botão na parte superior.
 
 Quando terminar, coloque-o de volta na estação de carregamento!
 
 # Pontas
 
-Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento.
+Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/),
+você ganha 10 viagens gratuitas de 15 minutos cada para eles_Próximas bicicletas_.
+Observe que custa mais caro se você não estacionar o Raf nas ruas principais (roxo no mapa).
+As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento.
 
 Guardei guias de viagem no aplicativo AirBnB. Lá você encontrará minhas recomendações de pontos turísticos, bares e pubs, oportunidades de compras e restaurantes.
 
