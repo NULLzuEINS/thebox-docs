@@ -1,6 +1,6 @@
 # 환영
 
-안녕하세요, “Box”에 오신 것을 환영합니다! 여행할 때 에어비앤비에 머무르는 것도 좋아하는데 때로는 숙소, 체크인, 체크아웃에 대해 필요한 모든 정보가 적힌 종이가 있었으면 좋겠는데 이것이 더 나은 서비스를 제공하려는 시도입니다.
+Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
 
 > [!공지사항]해당 문서를 귀하의 언어로 자동 번역해 드리겠습니다. 어느 정도 이해가 되셨으면 좋겠습니다. 그렇지 않은 경우에는 나에게 메시지를 보내 주시기 바랍니다. 그런 다음 개선하려고 노력합니다.
 
@@ -12,13 +12,13 @@
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | 소파가 포함된 침대 1개 구성                                                                       | 2베드 구성                                                                        | 책상                                                                                      |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| 조명이 있는 책상                                                                              | 주방 - 스토브                                                                      | 주방 - 차                                                                                  |
+| Schreibtisch mit Licht                                                                 | 주방 - 스토브                                                                      | 주방 - 차                                                                                  |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | 조명이 있는 책상                                                                              | 주방 - 스토브                                                                      | 주방 - 차                                                                                  |
 
 ## 열쇠
 
-두 쌍의 키가 제공되며 각 키에는 하단에 하나, 상단에 하나가 있습니다. 열쇠고리에는 방을 잠그는 데 사용할 수 있는 열쇠도 있습니다.
+두 쌍의 키가 제공되며 각 키에는 하단에 하나, 상단에 하나가 있습니다. 방을 잠그는 데 사용할 수 있는 열쇠고리에도 열쇠가 있습니다.
 
 ## 인터넷 액세스
 
@@ -61,7 +61,7 @@ Passwort: landungsbruecken
 ## 너의 방
 
 매트리스는 보관 목적으로만 서로 겹쳐서 배치됩니다. 필요에 따라 배포할 수 있습니다.
-소파의 베개를 매트리스로 교체하면 침대로도 좋습니다.
+소파 쿠션을 매트리스로 교체하면 좋은 침대가 됩니다.
 
 ### 컴퓨터(iMac)의 로그인 세부정보는 다음과 같습니다.
 
@@ -78,13 +78,13 @@ Passwort: thebox
 
 ### 리모콘
 
-독일의 속담은 모든 리모콘에 적용됩니다. "노력하는 것이 공부하는 것보다 낫다." 당신은 아무것도 깨뜨릴 수 없습니다. 몇 개의 버튼을 누르고 무슨 일이 일어나는지 확인하십시오. 여전히 공부하고 싶다면 다음과 같은 책을 읽어보세요.
+독일의 속담은 모든 리모콘에 적용됩니다. "노력하는 것이 공부하는 것보다 낫다." 당신은 아무것도 깨뜨릴 수 없습니다. 몇 개의 버튼을 누르고 무슨 일이 일어나는지 확인하십시오. 아직도 공부하고 싶다면 다음과 같은 책을 읽어보세요.
 
-| 삽화                                                        | 설명                                                                                                                           |
-| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 답: 블루투스박스<br>B: 요정 조명<br>C: 책상 램프<br>디:_파일_<br>마스터: 모든 것을 동시에 전환하세요                                                          |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **사용 전, 입구의 전등 스위치가 '켜짐'으로 설정되어 있는지 확인하세요.**<br>첫 번째 줄: 밝기, 켜기/끄기<br>컬러 버튼: 이 버튼을 사용하여 색상을 변경할 수 있습니다.<br>회색 버튼: 다양한 효과 간 전환 |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | 컴퓨터(iMac)용 리모컨입니다._컴퓨터를 사용하려면 첫 번째 리모콘의 A 버튼을 누르세요. 컴퓨터와 Bluetooth 상자의 전원 공급 장치를 활성화합니다._                                    |
+| 삽화                                                        | 설명                                                                                                                              |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 답: 블루투스박스<br>B: 요정 조명<br>C: 책상 램프<br>디:_파일_<br>Master: Alles gleichzeitig schalten                                              |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **사용하시기 전, 입구의 전등 스위치가 '켜짐'으로 설정되어 있는지 확인하세요.**<br>첫 번째 줄: 밝기, 켜기/끄기<br>컬러 버튼: 이 버튼을 사용하여 색상을 변경할 수 있습니다.<br>회색 버튼: 다양한 효과 간 전환 |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | 컴퓨터(iMac)용 리모컨입니다._컴퓨터를 사용하려면 첫 번째 리모콘의 A 버튼을 누르세요. 컴퓨터와 Bluetooth 상자의 전원 공급 장치를 활성화합니다._                                       |
 
 ### FAQ - 객실
 
@@ -92,7 +92,7 @@ Passwort: thebox
 
 ### 화장실
 
-서서 샤워를 할 수 있습니다. 땅이 조금 젖어도 상관 없습니다. 물의 양을 1/3만 맞추고 욕실매트를 히터 위에 걸어 건조시켜주세요.
+Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und hänge den Badewannenvorleger zum trocknen über der Heizung auf.
 
 벽에 걸린 Alexa는 "컴퓨터"라는 이름으로 불리며 좋아하는 음악이나 라디오도 재생합니다. 예: "_컴퓨터, Deutschlandfunk Nova 플레이_"
 
@@ -108,13 +108,13 @@ Passwort: thebox
 
 아파트에는 Alexa 음성 비서가 있습니다. 예를 들어 "컴퓨터"라는 이름으로 주소를 지정하고 Deutschlandfunk Nova를 재생하도록 할 수 있습니다. 장치는 인터넷에 연결되어 있으며 알람 시계나 타이머로도 사용할 수 있습니다. 사용하고 싶지 않다면 간단히 전원 공급 장치에서 플러그를 뽑으면 됩니다.
 
-객실에는 음성 도우미가 없습니다. 선반 위의 바구니에는 라우터와 소형 컴퓨터만 들어 있습니다.
+객실에는 음성 도우미가 없습니다. 선반 위의 바구니에는 라우터와 소형 컴퓨터만 들어있습니다.
 
 ## 온도와 습도
 
 온도와 습도는 센서를 통해 자동으로 측정됩니다. 곰팡이 발생을 방지하기 위해 사용합니다. 그들은 작고 흰색이며 일반적으로 문틀 위에 놓여 있습니다. 복도에 있는 거울을 통해 일부 측정 데이터를 읽을 수 있습니다.
 
-?> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Acht dabei auch darauf, dass die Heizung abgestellt ist. Danke 🙏
+?> 반드시 정기적으로(최소 하루 1회) 환기를 시켜주세요. 특히 화장실에서요. 또한 난방이 꺼져 있는지 확인하십시오. 감사합니다 🙏
 
 ## 마당
 
@@ -166,7 +166,7 @@ Passwort: thebox
 
 먼저 묻지 않고도 세탁기를 사용할 수 있습니다. 건조대, 세제, 섬유유연제를 사용하셔도 됩니다. 새 침대 시트를 원하시면 저에게 말씀해 주세요.
 
-## 핸드 브러시와 쓰레받기
+## 핸드 브러시와 먼지통
 
 주방 벽에는 손솔과 쓰레받기가 있습니다. 이렇게 하면 작은 먼지를 제거하는 데 도움이 됩니다.
 
