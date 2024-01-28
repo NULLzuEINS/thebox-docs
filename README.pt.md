@@ -60,7 +60,7 @@ Como costumo comer lá embaixo com minha família, a cozinha é muito espartana.
 
 ## Seu quarto
 
-Os colchões são colocados uns sobre os outros apenas para fins de armazenamento. Você pode distribuí-los de acordo com suas necessidades. Se você substituir as almofadas do sofá por um colchão, fica uma boa cama.
+Os colchões são colocados uns sobre os outros apenas para fins de armazenamento. Você pode distribuí-los de acordo com suas necessidades. Se você substituir os travesseiros do sofá por um colchão, fica uma boa cama.
 
 Você está convidado a usar o computador e a impressora.
 
@@ -93,7 +93,7 @@ Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é mel
 
 ### banheiro
 
-Você pode usar o chuveiro em pé. Não há problema se o solo ficar um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
+Você pode usar o chuveiro em pé. Não importa se o chão fica um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
 
 A Alexa na parede atende pelo nome de “Computador” e também toca sua música ou rádio favorita. Por exemplo. "_Computador, jogue Deutschlandfunk Nova_"
 
@@ -142,14 +142,14 @@ Se você acredita nas estatísticas, então o maior número de bicicletas per ca
 
 ### Que alternativas existem?
 
-Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para eles_Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E, claro, também há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
+Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para eles_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E é claro que há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
 
 # Confira
 
 ## Chave
 
 -   Dependendo do dia da semana, podemos nos despedir pessoalmente ou você pode simplesmente colocar as chaves na mesa e fechar a porta atrás de você.
--   O último horário para check-out é às 19h do dia da partida.
+-   O último horário para checkout é às 19h do dia da partida.
 
 ## limpeza
 
@@ -165,7 +165,7 @@ Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viag
 
 ## máquina de lavar
 
-Você pode usar a máquina de lavar sem precisar perguntar primeiro. Você também pode usar escorredor, sabão em pó e amaciante.
+Você pode usar a máquina de lavar sem precisar perguntar primeiro. Você também pode usar escorredor, sabão em pó e amaciante. Se quiser roupa de cama nova, é só falar comigo.
 
 ## Escova de mão e pá de lixo
 
@@ -184,15 +184,15 @@ Quando terminar, coloque-o de volta na estação de carregamento!
 
 # Pontas
 
-Com o aplicativo Leipzig MOVE, você ganha 10 viagens gratuitas de 15 minutos cada_Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento.
+Com o aplicativo Leipzig MOVE, você ganha 10 viagens gratuitas de 15 minutos cada_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento.
 
-Guardei guias de viagem no aplicativo AirBnB. Lá você encontrará minhas recomendações de pontos turísticos, entretenimento e restaurantes.
+Guardei guias de viagem no aplicativo AirBnB. Lá você encontrará minhas recomendações de pontos turísticos, bares e pubs, oportunidades de compras e restaurantes.
 
 # Questões?
 
 Se você tiver alguma dúvida ou precisar de suporte, ficarei feliz em ajudá-lo. Se você estiver com pressa, é melhor fazê-lo por telefone <a href="tel:+491707353067">+49 170 73 53 067</a>. Você também pode usar o aplicativo de mensagens pré-instalado com funcionalidade limitada (SMS). Caso contrário, tenho um bloco de notas e uma caneta no corredor.
 
-Desejo-lhe uma boa estadia em Leipzig!
+Ich wünsche einen schönen Aufenthalt in Leipzig!
 André
 
 * * *
