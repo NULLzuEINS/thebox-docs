@@ -31,7 +31,7 @@ Eller du skanner denne QR-koden, den vil automatisk koble deg til nettverket:
 
 ![WiFi](_media/wlan.png ":size=200")
 
-# Rommene
+# Die Zimmer
 
 ![Raumplan](_media/thebox-map.png)
 
@@ -112,7 +112,7 @@ Det er ingen stemmeassistenter på rommet ditt. Kurven på hyllen inneholder kun
 
 ## temperatur og fuktighet
 
-Temperatur og fuktighet måles automatisk via sensorene. Jeg bruker dem for å hindre muggdannelse. De er små og hvite og ligger vanligvis på dørkarmer. Noen av måledataene kan du lese i speilet i gangen.
+Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst Du im Spiegel im Flur ablesen.
 
 ?> Sørg for å ventilere regelmessig (minst en gang om dagen). Spesielt på badet. Pass også på at varmen er slått av. Takk 🙏
 
@@ -166,9 +166,9 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 Du kan bruke vaskemaskinen uten å måtte spørre først. Du kan også bruke tørkestativet, vaskepulver og tøymykner. Hvis du vil ha nytt sengetøy, bare snakk med meg.
 
-## Håndbørste og støvpanne
+## Handfeger und Kehrblech
 
-På kjøkkenet finner du en håndbørste og en feiebrett på veggen. Dette vil hjelpe deg å bli kvitt den lille skitten.
+In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Damit bekommst du den kleinen Dreck weg.
 
 ## Tørke
 
@@ -177,13 +177,20 @@ Du kan finne grønt rengjøringsmiddel i en sprayflaske på badet for mopping. S
 ## Støvsuger
 
 Jeg har en robotstøvsuger til gulvet.
-Før du kan begynne, ryd alt på gulvet ut av veien. Spesielt ledninger eller andre ting som roboten kunne kveles på. Sett den deretter i rommet og trykk én gang på knappen på toppen. Hvis ingenting skjer, bruk av/på-bryteren på siden.
+Før du kan begynne, ryd alt på gulvet ut av veien.
+Spesielt ledninger eller andre ting som roboten kunne kveles på.
+Sett den deretter på rommet ditt og trykk på knappen på toppen én gang.
+Hvis ingenting skjer, bruk av/på-bryteren på siden og etter
+slå den på igjen med knappen på toppen.
 
 Når den er ferdig, sett den tilbake i ladestasjonen!
 
 # Tips
 
-Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser.
+Med[Leipzig MOVE App](https://leipzig-move.de/),
+du får 10 gratisturer på 15 minutter hver for dem_Nextbikes_.
+Merk at det koster mer hvis du ikke parkerer Raf i hovedgatene (lilla på kartet).
+El-scooterne kan kun parkeres på enkelte parkeringsplasser.
 
 Jeg har lagret reiseguider i AirBnB-appen. Der finner du mine anbefalinger for severdigheter, barer og puber, shoppingmuligheter og restauranter.
 
