@@ -10,7 +10,7 @@ No meu AirBnB você tem uma visão detalhada de todos os quartos e instalações
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Ein-Bett-Konfiguration mit Couch                                                       | Configuração de duas camas                                                    | Mesa                                                                                    |
+| Configuração de uma cama com sofá                                                      | Configuração de duas camas                                                    | Mesa                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Secretária com luz                                                                     | Cozinha - fogão                                                               | Cozinha - chá                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -81,11 +81,11 @@ Passwort: thebox
 
 Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é melhor do que estudar”. Você não pode quebrar nada. Pressione alguns botões e veja o que acontece. Se você ainda quer estudar, aqui está a leitura certa para você:
 
-| Ilustração                                                | Descrição                                                                                                                                                                                                                                                                     |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caixa Bluetooth<br>B: Luzes de fada<br>C: Candeeiro de mesa<br>D:_arquivo_<br>Mestre: Troque tudo ao mesmo tempo                                                                                                                                                           |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usá-lo, certifique-se de que o interruptor da luz da entrada esteja na posição "ligado".**<br>Primeira linha: brilho, ligar/desligar<br>Botões coloridos: você pode usar isso para alterar as cores<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Este é o controle remoto do computador (iMac)._Para usar o computador, pressione o botão A no primeiro controle remoto. Ativa a fonte de alimentação do computador e da caixa Bluetooth._                                                                                     |
+| Ilustração                                                | Descrição                                                                                                                                                                                                                                                               |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caixa Bluetooth<br>B: Luzes de fada<br>C: Candeeiro de mesa<br>D:_arquivo_<br>Mestre: Troque tudo ao mesmo tempo                                                                                                                                                     |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usá-lo, certifique-se de que o interruptor da luz da entrada esteja na posição "ligado".**<br>Primeira linha: brilho, ligar/desligar<br>Botões coloridos: você pode usar isso para alterar as cores<br>Botões cinza: Alternar entre diferentes efeitos |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Este é o controle remoto do computador (iMac)._Para usar o computador, pressione o botão A no primeiro controle remoto. Ativa a fonte de alimentação do computador e da caixa Bluetooth._                                                                               |
 
 ### Perguntas frequentes - Seu quarto
 
@@ -93,7 +93,7 @@ Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é mel
 
 ### banheiro
 
-Você pode usar o chuveiro em pé. Não há problema se o solo ficar um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
+Você pode usar o chuveiro em pé. Não importa se o chão fica um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
 
 A Alexa na parede atende pelo nome de “Computador” e também toca sua música ou rádio favorita. Por exemplo. "_Computador, jogue Deutschlandfunk Nova_"
 
@@ -103,11 +103,11 @@ Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualque
 
 Você está convidado a deixar seus sapatos aqui. Também tenho um pequeno bloco de notas na prateleira, caso você queira me contar alguma coisa.
 
-# Sonstiges
+# Diversos
 
 ## Lar inteligente
 
-Existem assistentes de voz Alexa no apartamento. Você pode chamá-los pelo nome “Computador” e fazer com que toquem Deutschlandfunk Nova, por exemplo. Os dispositivos estão conectados à Internet e também podem ser usados ​​como despertadores ou temporizadores. Se não quiser usá-lo, basta desconectá-lo da energia.
+Existem assistentes de voz Alexa no apartamento. Você pode chamá-los pelo nome “Computador” e fazer com que toquem Deutschlandfunk Nova, por exemplo. Os dispositivos estão conectados à Internet e também podem ser usados ​​como despertadores ou temporizadores. Se não quiser usá-lo, basta desconectá-lo da fonte de alimentação.
 
 Não há assistentes de voz em sua sala. A cesta na prateleira contém apenas o roteador e um pequeno computador.
 
@@ -142,7 +142,7 @@ Se você acredita nas estatísticas, então o maior número de bicicletas per ca
 
 ### Que alternativas existem?
 
-Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para eles_Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E é claro que há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
+Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para eles_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E, claro, também há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
 
 # Confira
 
@@ -159,9 +159,34 @@ Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viag
 
 > Versão curta: Deixe a chave aí, feche a porta, pronto. 😀
 
-# Pontas
+# Longa estadia
 
-Com o aplicativo Leipzig MOVE, você ganha 10 viagens gratuitas de 15 minutos cada_Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento.
+Alguns dos meus hóspedes ficam por um mês ou mais. Se você é um deles, esta seção é para você!
+
+## máquina de lavar
+
+Você pode usar a máquina de lavar sem precisar perguntar primeiro. Você também pode usar escorredor, sabão em pó e amaciante.
+
+## Escova manual e pá de lixo
+
+Na cozinha você encontrará uma escova manual e uma pá de lixo na parede. Isso ajudará você a se livrar da pequena sujeira.
+
+## Limpar
+
+Você pode encontrar um agente de limpeza verde em um borrifador no banheiro para limpar. Juntamente com o papel de cozinha, pode ser utilizado para limpar facilmente superfícies.
+
+## Aspirador de pó
+
+Tenho um aspirador robô para o chão.
+Antes de começar, limpe tudo que estiver no chão. Principalmente cabos ou outras coisas com as quais o robô possa engasgar. Em seguida, coloque-o na sala e pressione uma vez o botão superior. Se nada acontecer, use o botão liga/desliga na lateral.
+
+Quando terminar, coloque-o de volta na estação de carregamento!
+
+# Tipps
+
+Com o aplicativo Leipzig MOVE, você ganha 10 viagens gratuitas de 15 minutos cada_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento.
+
+Guardei guias de viagem no aplicativo AirBnB. Lá você encontrará minhas recomendações de pontos turísticos, entretenimento e restaurantes.
 
 # Questões?
 
