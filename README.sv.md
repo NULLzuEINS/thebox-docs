@@ -60,7 +60,7 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 ## Ditt rum
 
-Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov. Byter du ut kuddarna i soffan mot en madrass blir det en bra säng.
+Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov. Om du byter ut kuddarna i soffan mot en madrass blir det en bra säng.
 
 Du är välkommen att använda datorn och skrivaren.
 
@@ -93,7 +93,7 @@ Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre
 
 ### badrum
 
-Du kan använda duschen stående. Det är inga problem om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
+Du kan använda duschen stående. Det spelar ingen roll om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
 
 Alexa på väggen går under namnet "Dator" och spelar även din favoritmusik eller radio. T.ex. "_Dator, spela Deutschlandfunk Nova_"
 
@@ -107,7 +107,7 @@ Du är välkommen att lämna dina skor här. Jag har även ett litet antecknings
 
 ## Smart hem
 
-Det finns Alexa röstassistenter i lägenheten. Du kan tilltala dem med namnet "Dator" och låta dem spela Deutschlandfunk Nova, till exempel. Enheterna är anslutna till internet och kan även användas som väckarklockor eller timers. Om du inte vill använda den kan du helt enkelt koppla bort den från strömmen.
+Det finns Alexa röstassistenter i lägenheten. Du kan tilltala dem med namnet "Dator" och låta dem spela Deutschlandfunk Nova, till exempel. Enheterna är anslutna till internet och kan även användas som väckarklockor eller timers. Om du inte vill använda den kan du helt enkelt koppla bort den från strömförsörjningen.
 
 Det finns inga röstassistenter i ditt rum. Korgen på hyllan innehåller bara routern och en liten dator.
 
@@ -142,7 +142,7 @@ Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje 
 
 ### Vilka alternativ finns det?
 
-Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för dem_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser. Det finns också ett friflytande bildelningssystem. Det betyder med oss[cityflitzer](https://cityflitzer.de/). Och självklart finns det bussar och tåg som du även kan betala för via Leipzig MOVE-appen.
+Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för dem_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser. Det finns också ett friflytande bildelningssystem. Det betyder med oss[cityflitzer](https://cityflitzer.de/). Och självklart finns det även bussar och tåg som du också skulle kunna betala för via Leipzig MOVE-appen.
 
 # Kolla upp
 
@@ -159,9 +159,34 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 > Kortversion: Lämna nyckeln där, stäng dörren, så är det. 😀
 
+# Lång vistelse
+
+Några av mina gäster stannar i en månad eller längre. Om du är en av dem, då är det här avsnittet för dig!
+
+## tvättmaskin
+
+Du kan använda tvättmaskinen utan att behöva fråga först. Du kan också använda torkställning, tvättpulver och sköljmedel.
+
+## Handborste och dammpanna
+
+I köket hittar du en handborste och en soptunna på väggen. Detta hjälper dig att bli av med den lilla smutsen.
+
+## Torka
+
+Du kan hitta grönt rengöringsmedel i en sprayflaska i badrummet för moppning. Tillsammans med hushållspappret kan detta användas för att enkelt rengöra ytor.
+
+## Dammsugare
+
+Jag har en robotdammsugare för golvet.
+Innan du kan börja, rensa allt på golvet ur vägen. Speciellt sladdar eller annat som roboten kan kvävas av. Placera den sedan i rummet och tryck en gång på knappen på toppen. Om inget händer, använd på/av-knappen på sidan.
+
+När den är klar, lägg tillbaka den i laddstationen!
+
 # Tips
 
 Med Leipzig MOVE-appen får du 10 gratisturer på 15 minuter vardera_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser.
+
+Jag har lagrat reseguider i AirBnB-appen. Där hittar du mina rekommendationer för sevärdheter, nöjen och restauranger.
 
 # Frågor?
 
