@@ -2,8 +2,7 @@
 
 Xin chào và chào mừng đến với “Hộp”! Khi đi du lịch, tôi cũng thích ở AirBnB's và đôi khi tôi ước mình có một mảnh giấy ghi đầy đủ thông tin cần thiết về chỗ ở, nhận phòng và trả phòng và đây là nỗ lực của tôi để làm cho nó tốt hơn.
 
-> [!Một ghi chú]
-> Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
+> [!Một ghi chú]Tôi sẽ dịch tài liệu này tự động sang ngôn ngữ của bạn. Tôi hy vọng nó có thể hiểu được phần nào. Nếu không, vui lòng viết tin nhắn cho tôi. Sau đó tôi cố gắng cải thiện nó.
 
 ## Những bức ảnh
 
@@ -55,7 +54,7 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 
 ### Câu hỏi thường gặp - Nhà bếp
 
-1.  Herd funktioniert nicht? Bitte sage
+1.  Bếp không hoạt động? làm ơn nói
     > "Máy tính, bàn làm việc"
 2.  Tôi có thể rửa ở đâu? Điều này chỉ hoạt động trong phòng tắm. Có một hộp đựng đặc biệt để rửa chén.
 
@@ -145,7 +144,7 @@ Nếu bạn tin vào số liệu thống kê thì số lượng xe đạp tính 
 
 Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho họ_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đỗ xe nhất định. Ngoài ra còn có hệ thống chia sẻ xe miễn phí. Điều đó có nghĩa là với chúng tôi[cityflitzer](https://cityflitzer.de/). Và tất nhiên cũng có xe buýt và xe lửa mà bạn cũng có thể thanh toán thông qua ứng dụng Leipzig MOVE.
 
-# Thủ tục thanh toán
+# Checkout
 
 ## Chìa khóa
 
@@ -162,7 +161,7 @@ Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận đượ
 
 # Ở lại lâu hơn
 
-Một số khách của tôi ở lại một tháng hoặc lâu hơn. Nếu bạn là một trong số họ, thì phần này là dành cho bạn!
+?> Một số khách của tôi ở lại một tháng hoặc lâu hơn. Nếu bạn là một trong số họ, thì phần này là dành cho bạn!
 
 ## Máy giặt
 
