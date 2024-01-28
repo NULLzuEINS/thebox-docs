@@ -61,7 +61,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 ## Twój pokój
 
 Materace są ułożone jeden na drugim wyłącznie w celu przechowywania. Możesz je dystrybuować według swoich potrzeb.
-Jeśli zastąpisz poduszki na kanapie materacem, sprawdzi się ona również jako łóżko.
+Jeśli zastąpisz poduszki na kanapie materacem, będzie to dobre łóżko.
 
 ### Dane logowania do komputera (iMac) to
 
@@ -72,7 +72,7 @@ Passwort: thebox
 
 ### W pokoju dostępne są następujące rzeczy
 
-1.  Wszystkie meble i łóżka
+1.  Alle Möbel und Betten
 2.  Komputery i drukarki
 3.  Piloty do sterowania oświetleniem i prądem
 
@@ -100,13 +100,13 @@ Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w 
 
 ### Korytarz
 
-Zapraszamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
+Zachęcamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
 
 # Różnorodny
 
 ## Inteligentny dom
 
-W mieszkaniu znajdują się asystenci głosowi Alexa. Możesz zwrócić się do nich nazwą „Komputer” i na przykład poprosić ich o zagranie w Deutschlandfunk Nova. Urządzenia są podłączone do Internetu i mogą służyć również jako budziki lub timery. Jeśli nie chcesz go używać, możesz po prostu odłączyć go od źródła zasilania.
+W mieszkaniu znajdują się asystenci głosowi Alexa. Możesz zwrócić się do nich nazwą „Komputer” i na przykład poprosić ich o zagranie w Deutschlandfunk Nova. Urządzenia są podłączone do Internetu i mogą służyć również jako budziki lub timery. Jeśli nie chcesz z niego korzystać, możesz po prostu odłączyć go od źródła zasilania.
 
 W Twoim pokoju nie ma asystentów głosowych. W koszyku na półce mieści się tylko router i mały komputer.
 
@@ -166,7 +166,7 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych prz
 
 Możesz korzystać z pralki bez konieczności wcześniejszego pytania. Możesz także użyć suszarki, proszku do prania i płynu zmiękczającego do tkanin. Jeśli chcesz nową pościel, po prostu porozmawiaj ze mną.
 
-## Ręczna szczotka i szufelka
+## Szczotka ręczna i pojemnik na kurz
 
 W kuchni znajdziesz ręczną szczotkę i szufelkę na ścianie. Dzięki temu pozbędziesz się drobnych zabrudzeń.
 
@@ -185,7 +185,7 @@ Po zakończeniu odłóż go z powrotem do stacji ładującej!
 
 Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych przejazdów po 15 minut każdy dla_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
 
-Przechowuję przewodniki turystyczne w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
+Przewodniki turystyczne przechowuję w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
 
 # Pytania?
 
