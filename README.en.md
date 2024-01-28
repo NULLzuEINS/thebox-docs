@@ -61,7 +61,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 ## Your room
 
 The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs.
-If you replace the pillows on the couch with a mattress, it works well as a bed.
+If you replace the cushions on the couch with a mattress, it makes a good bed.
 
 ### The login details for the computer (iMac) are
 
@@ -108,7 +108,7 @@ You are welcome to leave your shoes here. I also have a small notepad on the she
 
 There are Alexa voice assistants in the apartment. You can address them by the name “Computer” and have them play Deutschlandfunk Nova, for example. The devices are connected to the Internet and can also be used as alarm clocks or timers. If you don't want to use it, you can simply unplug it from the power supply.
 
-In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
+There are no voice assistants in your room. The basket on the shelf only contains the router and a small computer.
 
 ## temperature and humidity
 
@@ -141,7 +141,7 @@ If you believe the statistics, then the most bicycles per capita are stolen in L
 
 ### What alternatives are there?
 
-With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for the_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). And of course there are buses and trains that you could also pay for via the Leipzig MOVE app.
+Mit der [Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for the_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). And of course there are buses and trains that you could also pay for via the Leipzig MOVE app.
 
 # Checkout
 
@@ -152,7 +152,7 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 
 ## cleaning
 
--   Bettzeug kannst Du drauf lassen.
+-   You can leave bedding on it.
 -   I also wash the dishes and
 -   I also take out the trash.
 
@@ -166,7 +166,7 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 
 You can use the washing machine without having to ask first. You can also use the drying rack, washing powder and fabric softener. If you would like new bed linen, just talk to me.
 
-## Hand brush and dustpan
+## Hand brush and dust pan
 
 In the kitchen you will find a hand brush and a dustpan on the wall. This will help you get rid of the small dirt.
 
