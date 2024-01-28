@@ -93,7 +93,7 @@ Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować n
 
 ### łazienka
 
-Z prysznica można korzystać na stojąco. Nie stanowi to problemu, jeśli ziemia lekko zamoknie. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
+Z prysznica można korzystać na stojąco. Nie ma znaczenia, jeśli ziemia będzie trochę mokra. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
 
 Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Komputerze, włącz Deutschlandfunk Nova_"
 
@@ -165,7 +165,7 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz dla nich 10 bezpła
 
 ## pralka
 
-Możesz korzystać z pralki bez konieczności wcześniejszego pytania. Możesz także użyć suszarki, proszku do prania i płynu zmiękczającego do tkanin.
+Możesz korzystać z pralki bez konieczności wcześniejszego pytania. Możesz także użyć suszarki, proszku do prania i płynu zmiękczającego do tkanin. Jeśli chcesz nową pościel, po prostu porozmawiaj ze mną.
 
 ## Ręczna szczotka i szufelka
 
@@ -186,7 +186,7 @@ Po zakończeniu odłóż go z powrotem do stacji ładującej!
 
 Dzięki aplikacji Leipzig MOVE zyskujesz 10 bezpłatnych przejazdów po 15 minut każdy_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
 
-Przechowuję przewodniki turystyczne w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, rozrywek i restauracji.
+Przechowuję przewodniki turystyczne w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
 
 # Pytania?
 
