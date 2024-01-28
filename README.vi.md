@@ -41,7 +41,7 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Những điều sau đây có sẵn cho bạn
+### Những thứ sau đây có sẵn trong nhà bếp
 
 1.  Bầy đàn
 2.  Ấm đun nước
@@ -60,9 +60,8 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 
 ## Phòng của bạn
 
-Các tấm nệm được đặt chồng lên nhau chỉ nhằm mục đích cất giữ. Bạn có thể phân phối chúng theo nhu cầu của bạn. Nếu bạn thay những chiếc gối trên ghế dài bằng một tấm nệm thì đó sẽ là một chiếc giường tốt.
-
-Bạn được thoải mái sử dụng máy tính và máy in.
+Các tấm nệm được đặt chồng lên nhau chỉ nhằm mục đích cất giữ. Bạn có thể phân phối chúng theo nhu cầu của bạn.
+Nếu bạn thay thế những chiếc gối trên ghế dài bằng một tấm nệm thì nó sẽ hoạt động tốt như một chiếc giường.
 
 ### Chi tiết đăng nhập cho máy tính (iMac) là
 
@@ -71,10 +70,10 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Những điều sau đây có sẵn cho bạn
+### Trong phòng có sẵn những thứ sau
 
 1.  Tất cả đồ nội thất và giường
-2.  Máy tính
+2.  Máy tính & Máy in
 3.  Điều khiển từ xa cho đèn và điện
 
 ### Điều khiển từ xa
@@ -115,7 +114,7 @@ Không có trợ lý giọng nói trong phòng của bạn. Giỏ trên kệ ch�
 
 Nhiệt độ và độ ẩm được đo tự động thông qua các cảm biến. Tôi sử dụng chúng để ngăn chặn sự hình thành nấm mốc. Chúng nhỏ, màu trắng và thường nằm trên khung cửa. Bạn có thể đọc một số dữ liệu đo trong gương ở hành lang.
 
-> Hãy đảm bảo thông gió thường xuyên (ít nhất một lần một ngày). Đặc biệt là trong phòng tắm. Ngoài ra hãy chắc chắn rằng hệ thống sưởi đã được tắt. Cảm ơn bạn 🙏
+?> Hãy đảm bảo thông gió thường xuyên (ít nhất một lần một ngày). Đặc biệt là trong phòng tắm. Ngoài ra hãy chắc chắn rằng hệ thống sưởi đã được tắt. Cảm ơn bạn 🙏
 
 ## Cái sân
 
@@ -142,7 +141,7 @@ Nếu bạn tin vào số liệu thống kê thì số lượng xe đạp tính 
 
 ### Có những lựa chọn thay thế nào?
 
-Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho họ_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định. Ngoài ra còn có hệ thống chia sẻ xe miễn phí. Điều đó có nghĩa là với chúng tôi[cityflitzer](https://cityflitzer.de/). Và tất nhiên, có những chuyến xe buýt và tàu hỏa mà bạn cũng có thể thanh toán thông qua ứng dụng Leipzig MOVE.
+Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định. Ngoài ra còn có hệ thống chia sẻ xe miễn phí. Điều đó có nghĩa là với chúng tôi[cityflitzer](https://cityflitzer.de/). Và tất nhiên, có những chuyến xe buýt và tàu hỏa mà bạn cũng có thể thanh toán thông qua ứng dụng Leipzig MOVE.
 
 # Thủ tục thanh toán
 
@@ -184,7 +183,7 @@ Khi dùng xong, vui lòng đặt lại vào trạm sạc!
 
 # Lời khuyên
 
-Với ứng dụng Leipzig MOVE, bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định.
+Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định.
 
 Tôi đã lưu trữ hướng dẫn du lịch trong ứng dụng AirBnB. Ở đó bạn sẽ tìm thấy các đề xuất của tôi về các điểm tham quan, quán bar và quán rượu, cơ hội mua sắm và nhà hàng.
 
