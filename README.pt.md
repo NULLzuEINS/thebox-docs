@@ -12,7 +12,7 @@ No meu AirBnB você tem uma visão detalhada de todos os quartos e instalações
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Configuração de uma cama com sofá                                                      | Configuração de duas camas                                                    | Mesa                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Schreibtisch mit Licht                                                                 | Cozinha - fogão                                                               | Cozinha - chá                                                                           |
+| Secretária com luz                                                                     | Cozinha - fogão                                                               | Cozinha - chá                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Secretária com luz                                                                     | Cozinha - fogão                                                               | Cozinha - chá                                                                           |
 
@@ -61,7 +61,7 @@ Como costumo comer lá embaixo com minha família, a cozinha é muito espartana.
 ## Seu quarto
 
 Os colchões são colocados uns sobre os outros apenas para fins de armazenamento. Você pode distribuí-los de acordo com suas necessidades.
-Se você substituir as almofadas do sofá por um colchão, ele funciona bem como cama.
+Se você substituir as almofadas do sofá por um colchão, fica uma boa cama.
 
 ### Os detalhes de login do computador (iMac) são
 
@@ -118,7 +118,7 @@ A temperatura e a umidade são medidas automaticamente através dos sensores. Eu
 
 ## O Jardim
 
-In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
+No nosso pátio você pode conectar suas bicicletas e levar seu lixo.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
@@ -166,7 +166,7 @@ Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viag
 
 Você pode usar a máquina de lavar sem precisar perguntar primeiro. Você também pode usar escorredor, sabão em pó e amaciante. Se quiser roupa de cama nova, é só falar comigo.
 
-## Escova de mão e pá de lixo
+## Escova manual e pá de lixo
 
 Na cozinha você encontrará uma escova manual e uma pá de lixo na parede. Isso ajudará você a se livrar da pequena sujeira.
 
