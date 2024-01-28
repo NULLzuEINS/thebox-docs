@@ -2,7 +2,8 @@
 
 Hej och välkommen till "Boxen"! När jag reser gillar jag också att bo i AirBnB's och ibland önskar jag att jag hade ett papper med all nödvändig information om boendet, in- och utcheckning och detta är mitt försök att göra det bättre.
 
-> [!En notis]Jag kommer att få dokumentet automatiskt översatt till ditt språk. Jag hoppas att det är lite förståeligt. Om inte, skriv gärna ett meddelande till mig. Då försöker jag förbättra det.
+> [!En notis]
+> Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
 
 ## Bilder
 
@@ -110,7 +111,7 @@ Det finns Alexa röstassistenter i lägenheten. Du kan tilltala dem med namnet "
 
 Det finns inga röstassistenter i ditt rum. Korgen på hyllan innehåller bara routern och en liten dator.
 
-## Temperatur und Feuchtigkeit
+## temperatur och luftfuktighet
 
 Temperaturen och luftfuktigheten mäts automatiskt via sensorerna. Jag använder dem för att förhindra mögelbildning. De är små och vita och brukar ligga på dörrkarmar. Du kan läsa en del av mätdata i spegeln i korridoren.
 
@@ -177,13 +178,20 @@ Du kan hitta grönt rengöringsmedel i en sprayflaska i badrummet för moppning.
 ## Dammsugare
 
 Jag har en robotdammsugare för golvet.
-Innan du kan börja, rensa allt på golvet ur vägen. Speciellt sladdar eller annat som roboten kan kvävas av. Placera den sedan i rummet och tryck en gång på knappen på toppen. Om inget händer, använd på/av-knappen på sidan.
+Innan du kan börja, rensa allt på golvet ur vägen.
+Speciellt sladdar eller annat som roboten kan kvävas av.
+Placera den sedan i ditt rum och tryck på knappen på toppen en gång.
+Om inget händer, använd på/av-knappen på sidan och efter
+slå på den igen med knappen på toppen.
 
 När den är klar, lägg tillbaka den i laddstationen!
 
 # Tips
 
-Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser.
+Med[Leipzig MOVE App](https://leipzig-move.de/),
+du får 10 gratisturer på 15 minuter vardera för dem_Nextbikes_.
+Observera att det kostar mer om du inte parkerar Raf på huvudgatorna (lila på kartan).
+El-skotrarna får endast parkeras på vissa parkeringsplatser.
 
 Jag har lagrat reseguider i AirBnB-appen. Där hittar du mina rekommendationer för sevärdheter, barer och pubar, shoppingmöjligheter och restauranger.
 
