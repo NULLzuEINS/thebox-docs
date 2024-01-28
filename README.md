@@ -161,7 +161,7 @@ Mit der [Leipzig MOVE App](https://leipzig-move.de/), bekommt ihr 10 Freifahrten
 
 # Längerer Aufenthalt
 
-Manche meiner Gäste bleiben einen Monat, oder länger. Bist du auch einer von ihnen, dann ist dieser Abschnitt hier für Dich!
+?> Manche meiner Gäste bleiben einen Monat, oder länger. Bist du auch einer von ihnen, dann ist dieser Abschnitt hier für Dich!
 
 ## Waschmaschine
 
