@@ -159,9 +159,34 @@ Mit der [Leipzig MOVE App](https://leipzig-move.de/), bekommt ihr 10 Freifahrten
 
 > Kurzfassung: Schlüssel da lassen, Tür zuziehen, das wars. 😀
 
+# Länger Aufenthalt
+
+Manche meiner Gäste bleiben einen Monat, oder länger. Bist du auch einer von ihnen, dann ist dieser Abschnitt hier für Dich!
+
+## Waschmaschine
+
+Du kannst die Waschmaschine mit benutzen ohne vorher fragen zu müssen. Du kannst auch das den Wäscheständer, Waschpulver und den Weichspüler benutzen.
+
+## Handfeger und Kehrblech
+
+In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Damit bekommst du den kleinen Dreck weg.
+
+## Wischen
+
+Zum Wischen findest du im Bad grünes Reinigungsmittel in einer Sprühflasche. Zusammen mit dem Küchenpapier lassen sich hiermit Oberflächen gut säubern.
+
+## Staubsauger
+
+Für den Fußboden habe ich einen Staubsauger-Roboter.
+Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg. Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte. Stell ihn dann in den Zimmer und drücke den Knopf auf er Oberseite in mal. Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite.
+
+Wenn er fertig ist, stelle ihn bitte wieder zurück in die Ladestation!
+
 # Tipps
 
 Mit der Leipzig MOVE App, bekommt ihr 10 Freifahrten à 15 Minuten für die *Nextbikes*. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
+
+In der App von AirBnB habe ich Reiseführer hinterlegt. Dort findet ihr meine Empfehlungen zu Sehenwürdigkeiten, Unterhaltung und Restaurants.
 
 # Fragen?
 
