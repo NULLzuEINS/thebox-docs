@@ -1,4 +1,4 @@
-# Willkommen
+# いらっしゃいませ
 
 こんにちは、「ボックス」へようこそ！私も旅行するときは AirBnB に泊まるのが好きですが、宿泊施設、チェックイン、チェックアウトに関する必要な情報がすべて記載された紙があればいいのにと思うことがあります。これはそれを改善するための私の試みです。
 
@@ -101,7 +101,7 @@ Passwort: thebox
 
 ### 廊下
 
-靴をここに預けていただいても結構です。何か言いたいことがある場合に備えて、棚の上に小さなメモ帳もあります。
+Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
 
 # その他
 
@@ -115,7 +115,7 @@ Passwort: thebox
 
 温度と湿度はセンサーによって自動的に測定されます。カビの発生を防ぐために使っています。それらは小さくて白く、通常はドア枠の上にあります。測定データの一部は廊下の鏡で閲覧できます。
 
-> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Acht dabei auch darauf, dass die Heizung abgestellt ist. Danke 🙏
+> 定期的に(1日1回以上)換気をしてください。特にバスルームで。また、暖房が切れていることを確認してください。ありがとうございます🙏
 
 ## 庭
 
