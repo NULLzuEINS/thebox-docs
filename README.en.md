@@ -155,13 +155,13 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 
 -   You can leave bedding on it.
 -   I also wash the dishes and
--   den Müll bring ich auch raus.
+-   I also take out the trash.
 
 > Short version: Leave the key there, close the door, that's it. 😀
 
 # Longer stay
 
-Some of my guests stay for a month or longer. If you are one of them, then this section is for you!
+?> Some of my guests stay for a month or longer. If you are one of them, then this section is for you!
 
 ## washing machine
 
