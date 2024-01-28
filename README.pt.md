@@ -12,7 +12,7 @@ No meu AirBnB você tem uma visão detalhada de todos os quartos e instalações
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Configuração de uma cama com sofá                                                      | Configuração de duas camas                                                    | Mesa                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Secretária com luz                                                                     | Cozinha - fogão                                                               | Cozinha - chá                                                                           |
+| Schreibtisch mit Licht                                                                 | Cozinha - fogão                                                               | Cozinha - chá                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Secretária com luz                                                                     | Cozinha - fogão                                                               | Cozinha - chá                                                                           |
 
@@ -41,7 +41,7 @@ Como costumo comer lá embaixo com minha família, a cozinha é muito espartana.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Os seguintes itens estão disponíveis para você
+### As seguintes coisas estão disponíveis na cozinha
 
 1.  Rebanho
 2.  Chaleira
@@ -60,9 +60,8 @@ Como costumo comer lá embaixo com minha família, a cozinha é muito espartana.
 
 ## Seu quarto
 
-Os colchões são colocados uns sobre os outros apenas para fins de armazenamento. Você pode distribuí-los de acordo com suas necessidades. Se você substituir os travesseiros do sofá por um colchão, fica uma boa cama.
-
-Você está convidado a usar o computador e a impressora.
+Os colchões são colocados uns sobre os outros apenas para fins de armazenamento. Você pode distribuí-los de acordo com suas necessidades.
+Se você substituir as almofadas do sofá por um colchão, ele funciona bem como cama.
 
 ### Os detalhes de login do computador (iMac) são
 
@@ -71,10 +70,10 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Os seguintes itens estão disponíveis para você
+### As seguintes coisas estão disponíveis no quarto
 
 1.  Todos os móveis e camas
-2.  Computador
+2.  Computadores e Impressoras
 3.  Controles remotos para luzes e eletricidade
 
 ### Controles remotos
@@ -115,11 +114,11 @@ Não há assistentes de voz em sua sala. A cesta na prateleira contém apenas o 
 
 A temperatura e a umidade são medidas automaticamente através dos sensores. Eu os uso para evitar a formação de mofo. Eles são pequenos e brancos e geralmente ficam nos batentes das portas. Você pode ler alguns dos dados de medição no espelho do corredor.
 
-> Certifique-se de ventilar regularmente (pelo menos uma vez por dia). Principalmente no banheiro. Certifique-se também de que o aquecimento está desligado. Obrigado 🙏
+?> Certifique-se de ventilar regularmente (pelo menos uma vez por dia). Principalmente no banheiro. Certifique-se também de que o aquecimento está desligado. Obrigado 🙏
 
 ## O Jardim
 
-No nosso pátio você pode conectar suas bicicletas e levar seu lixo.
+In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
@@ -142,7 +141,7 @@ Se você acredita nas estatísticas, então o maior número de bicicletas per ca
 
 ### Que alternativas existem?
 
-Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para eles_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E é claro que há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
+Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
 
 # Confira
 
@@ -184,7 +183,7 @@ Quando terminar, coloque-o de volta na estação de carregamento!
 
 # Pontas
 
-Com o aplicativo Leipzig MOVE, você ganha 10 viagens gratuitas de 15 minutos cada_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento.
+Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento.
 
 Guardei guias de viagem no aplicativo AirBnB. Lá você encontrará minhas recomendações de pontos turísticos, bares e pubs, oportunidades de compras e restaurantes.
 
@@ -192,7 +191,7 @@ Guardei guias de viagem no aplicativo AirBnB. Lá você encontrará minhas recom
 
 Se você tiver alguma dúvida ou precisar de suporte, ficarei feliz em ajudá-lo. Se você estiver com pressa, é melhor fazê-lo por telefone <a href="tel:+491707353067">+49 170 73 53 067</a>. Você também pode usar o aplicativo de mensagens pré-instalado com funcionalidade limitada (SMS). Caso contrário, tenho um bloco de notas e uma caneta no corredor.
 
-Ich wünsche einen schönen Aufenthalt in Leipzig!
+Desejo-lhe uma boa estadia em Leipzig!
 André
 
 * * *
