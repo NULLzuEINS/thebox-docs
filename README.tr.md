@@ -12,7 +12,7 @@ AirBnB'mde tüm odalara ve olanaklara ilişkin ayrıntılı bir genel bakış bu
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Kanepeli tek yatak konfigürasyonu                                                      | İki yataklı konfigürasyon                                                     | Çalışma masası                                                                          |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Işıklı çalışma masası                                                                  | Mutfak - ocak                                                                 | Mutfak - çay                                                                            |
+| Işıklı çalışma masası                                                                  | Mutfak - ocak                                                                 | Küche - Tee                                                                             |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Işıklı çalışma masası                                                                  | Mutfak - ocak                                                                 | Mutfak - çay                                                                            |
 
@@ -62,7 +62,7 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 
 Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz. Kanepedeki yastıkları şilteyle değiştirirseniz iyi bir yatak olur.
 
-Bilgisayarı ve yazıcıyı kullanabilirsiniz.
+Den Computer und den Drucker kannst Du gern benutzen.
 
 ### Bilgisayarın (iMac) oturum açma ayrıntıları şunlardır:
 
@@ -79,11 +79,11 @@ Passwort: thebox
 
 ### Uzaktan kumandalar
 
-Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek çalışmaktan iyidir”. Hiçbir şeyi kıramazsın. Birkaç düğmeye basın ve ne olacağını görün. Hala ders çalışmak istiyorsanız işte size uygun okumalar:
+Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek çalışmaktan iyidir”. Hiçbir şeyi kıramazsınız. Birkaç düğmeye basın ve ne olacağını görün. Hala ders çalışmak istiyorsanız işte size uygun okumalar:
 
 | İllüstrasyon                                              | Tanım                                                                                                                                                                                                                                                 |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Peri ışıkları<br>C: Masa lambası<br>D:_dosya_<br>Usta: Her şeyi aynı anda değiştirin                                                                                                                                            |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | C: Bluetooth kutusu<br>B: Peri ışıkları<br>C: Masa lambası<br>D:_dosya_<br>Usta: Her şeyi aynı anda değiştirin                                                                                                                                        |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Kullanmadan önce girişteki ışık anahtarının "açık" konumda olduğundan emin olun.**<br>İlk satır: parlaklık, açık/kapalı<br>Renkli düğmeler: Renkleri değiştirmek için bunu kullanabilirsiniz.<br>Gri düğmeler: Farklı efektler arasında geçiş yapın |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Bu, bilgisayarın (iMac) uzaktan kumandasıdır._Bilgisayarı kullanmak için ilk uzaktan kumandadaki A düğmesine basın. Bilgisayarın ve Bluetooth kutusunun güç kaynağını etkinleştirir._                                                                 |
 
@@ -93,7 +93,7 @@ Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek �
 
 ### banyo
 
-Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması sorun değil. Suyu yalnızca 1/3 oranında açın ve banyo paspasını kuruması için ısıtıcının üzerine asın.
+Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması önemli değil. Suyu yalnızca 1/3 oranında açın ve banyo paspasını kuruması için ısıtıcının üzerine asın.
 
 Duvardaki Alexa "Bilgisayar" adını alır ve aynı zamanda en sevdiğiniz müziği veya radyoyu da çalar. Örneğin. "_Bilgisayar, Deutschlandfunk Nova'yı oyna_"
 
@@ -107,13 +107,13 @@ Ayakkabılarınızı burada bırakabilirsiniz. Bana bir şey söylemek istersen 
 
 ## Akıllı ev
 
-Dairede Alexa sesli asistanları bulunmaktadır. Onlara “Bilgisayar” adıyla hitap edebilir ve örneğin Deutschlandfunk Nova oynamalarını sağlayabilirsiniz. Cihazlar internete bağlıdır ve aynı zamanda alarm saati veya zamanlayıcı olarak da kullanılabilir. Kullanmak istemiyorsanız fişini prizden çekebilirsiniz.
+Dairede Alexa sesli asistanları bulunmaktadır. Onlara “Bilgisayar” adıyla hitap edebilir ve örneğin Deutschlandfunk Nova oynamalarını sağlayabilirsiniz. Cihazlar internete bağlıdır ve aynı zamanda alarm saati veya zamanlayıcı olarak da kullanılabilir. Kullanmak istemiyorsanız, fişini güç kaynağından çıkarabilirsiniz.
 
 Odanızda sesli asistan yok. Raftaki sepette yalnızca yönlendirici ve küçük bir bilgisayar bulunmaktadır.
 
 ## sıcaklık ve nem
 
-Sıcaklık ve nem sensörler aracılığıyla otomatik olarak ölçülür. Küf oluşumunu engellemek için kullanıyorum. Küçük ve beyazdırlar ve genellikle kapı çerçevelerinde bulunurlar. Ölçüm verilerinin bir kısmını koridordaki aynadan okuyabilirsiniz.
+Sıcaklık ve nem sensörler aracılığıyla otomatik olarak ölçülür. Küf oluşumunu engellemek için kullanıyorum. Küçük ve beyazdırlar ve genellikle kapı çerçevelerinde bulunurlar. Ölçüm verilerinin bir kısmını koridordaki aynada okuyabilirsiniz.
 
 > Lütfen düzenli olarak (en az günde bir kez) havalandırmayı unutmayın. Özellikle banyoda. Ayrıca ısıtmanın kapalı olduğundan emin olun. Teşekkür ederim 🙏
 
@@ -137,12 +137,12 @@ Ya ön kapının anahtarını kullanırsınız ya da kapıdan içeri girip kapı
 
 ### Bisikletim güvende mi?
 
-Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı sayesinde birçok yere ulaşabilir ve genellikle kırsal kesimden arabayla ulaşabilirsiniz.
-İstatistiklere inanıyorsanız, her yıl kişi başına en fazla bisikletin çalındığı yer Leipzig'dir. (100.000 kişi başına 1.539 çalıntı bisiklet) Hardenbergstraße'de yaşadığım 15 yıldan bu yana hiç bisikletim çalınmadı ve arka bahçesinden bisikleti çalınan sadece bir komşu tanıyorum. Her zaman doğrudan korkuluğa bağlarım.
+Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı sayesinde birçok yere ulaşabilir ve genellikle kırsal kesimden geçebilirsiniz.
+İstatistiklere inanıyorsanız, her yıl kişi başına en fazla bisikletin çalındığı yer Leipzig'dir. (100.000 kişi başına 1.539 çalıntı bisiklet) Hardenbergstraße'de yaşadığım 15 yıldan bu yana hiç bisikletim çalınmadı ve sadece arka bahçesinden bisikleti çalınan bir komşu tanıyorum. Her zaman doğrudan korkuluğa bağlarım.
 
 ### Hangi alternatifler var?
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), onlar için her biri 15 dakikalık 10 ücretsiz yolculuk hakkınız var_Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve tabii ki Leipzig MOVE uygulaması aracılığıyla da ödeme yapabileceğiniz otobüs ve trenler var.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), onlar için her biri 15 dakikalık 10 ücretsiz yolculuk hakkınız var_Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve tabii ki Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüs ve trenler de var.
 
 # Çıkış yapmak
 
@@ -159,9 +159,34 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 > Kısa versiyon: Anahtarı orada bırakın, kapıyı kapatın, bu kadar. 😀
 
+# Uzun kal
+
+Misafirlerimden bazıları bir ay veya daha uzun süre kalıyor. Eğer siz de onlardan biriyseniz bu bölüm tam size göre!
+
+## çamaşır makinesi
+
+Çamaşır makinesini sormanıza gerek kalmadan kullanabilirsiniz. Kurutma rafını, çamaşır tozunu ve yumuşatıcıyı da kullanabilirsiniz.
+
+## El fırçası ve toz tavası
+
+Mutfakta duvarda bir el fırçası ve faraş bulacaksınız. Bu, küçük kirlerden kurtulmanıza yardımcı olacaktır.
+
+## Silip süpürmek
+
+Paspaslamak için yeşil temizlik maddesini banyoda sprey şişesinde bulabilirsiniz. Mutfak kağıdıyla birlikte yüzeyleri kolayca temizlemek için kullanılabilir.
+
+## Elektrikli süpürge
+
+Zemin için bir robot elektrikli süpürgem var.
+Başlamadan önce yerdeki her şeyi temizleyin. Özellikle robotun boğulabileceği kablolar veya diğer şeyler. Daha sonra odaya koyun ve üstteki düğmeye bir kez basın. Hiçbir şey olmazsa yan taraftaki açma/kapama düğmesini kullanın.
+
+Bittiğinde lütfen şarj istasyonuna geri koyun!
+
 # İpuçları
 
-Leipzig MOVE uygulamasıyla her biri 15 dakikalık 10 ücretsiz yolculuk kazanırsınız_Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
+Leipzig MOVE uygulamasıyla her biri 15 dakikalık 10 ücretsiz yolculuk kazanırsınız_Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
+
+Seyahat rehberlerini AirBnB uygulamasında sakladım. Orada turistik yerler, eğlence ve restoranlarla ilgili önerilerimi bulacaksınız.
 
 # Sorunuz mu var?
 
