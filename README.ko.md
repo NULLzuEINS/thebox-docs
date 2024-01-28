@@ -41,7 +41,7 @@ Passwort: landungsbruecken
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### 다음 항목을 사용할 수 있습니다.
+### 주방에는 다음과 같은 것들이 준비되어 있습니다
 
 1.  떼
 2.  주전자
@@ -55,14 +55,13 @@ Passwort: landungsbruecken
 ### FAQ - 주방
 
 1.  스토브가 작동하지 않나요? 말해주세요
-    > "Computer, Werkbank an"
+    > "컴퓨터, 작업대"
 2.  어디서 씻을 수 있나요? 이것은 화장실에서만 작동합니다. 설거지용 특수 용기가 있습니다.
 
 ## 너의 방
 
-매트리스는 보관 목적으로만 서로 겹쳐서 배치됩니다. 필요에 따라 배포할 수 있습니다. 소파의 베개를 매트리스로 교체하면 좋은 침대가 됩니다.
-
-컴퓨터와 프린터를 자유롭게 이용하실 수 있습니다.
+매트리스는 보관 목적으로만 서로 겹쳐서 배치됩니다. 필요에 따라 배포할 수 있습니다.
+소파의 베개를 매트리스로 교체하면 침대로도 좋습니다.
 
 ### 컴퓨터(iMac)의 로그인 세부정보는 다음과 같습니다.
 
@@ -71,10 +70,10 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### 다음 항목을 사용할 수 있습니다.
+### 객실 내에서 다음과 같은 물품을 이용하실 수 있습니다.
 
 1.  모든 가구와 침대
-2.  컴퓨터
+2.  컴퓨터 및 프린터
 3.  조명 및 전기 원격 제어
 
 ### 리모콘
@@ -93,7 +92,7 @@ Passwort: thebox
 
 ### 화장실
 
-Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und hänge den Badewannenvorleger zum trocknen über der Heizung auf.
+서서 샤워를 할 수 있습니다. 땅이 조금 젖어도 상관 없습니다. 물의 양을 1/3만 맞추고 욕실매트를 히터 위에 걸어 건조시켜주세요.
 
 벽에 걸린 Alexa는 "컴퓨터"라는 이름으로 불리며 좋아하는 음악이나 라디오도 재생합니다. 예: "_컴퓨터, Deutschlandfunk Nova 플레이_"
 
@@ -115,7 +114,7 @@ Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Bo
 
 온도와 습도는 센서를 통해 자동으로 측정됩니다. 곰팡이 발생을 방지하기 위해 사용합니다. 그들은 작고 흰색이며 일반적으로 문틀 위에 놓여 있습니다. 복도에 있는 거울을 통해 일부 측정 데이터를 읽을 수 있습니다.
 
-> 정기적으로(최소 하루 1회) 환기를 시켜주세요. 특히 화장실에서요. 또한 난방이 꺼져 있는지 확인하십시오. 감사합니다 🙏
+?> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Acht dabei auch darauf, dass die Heizung abgestellt ist. Danke 🙏
 
 ## 마당
 
@@ -142,7 +141,7 @@ Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Bo
 
 ### 어떤 대안이 있나요?
 
-와 더불어[라이프치히 MOVE 앱](https://leipzig-move.de/), 각각 15분씩 10회 무료 탑승권을 드립니다._다음자전거_. 주요 도로(지도에서 보라색)에 자전거를 주차하지 않으면 비용이 더 많이 든다는 점에 유의하세요. 전기 스쿠터는 특정 주차 공간에만 주차할 수 있습니다. 무상 차량 공유 시스템도 있습니다. 그 말은 우리와 함께라는 뜻이에요[시티플리처](https://cityflitzer.de/). 물론 Leipzig MOVE 앱을 통해 비용을 지불할 수 있는 버스와 기차도 있습니다.
+와 더불어[라이프치히 MOVE 앱](https://leipzig-move.de/), 각 15분씩 10회 무료 탑승권을 드립니다._다음자전거_. 주요 도로(지도에서 보라색)에 자전거를 주차하지 않으면 비용이 더 많이 든다는 점에 유의하세요. 전기 스쿠터는 특정 주차 공간에만 주차할 수 있습니다. 무상 차량 공유 시스템도 있습니다. 그 말은 우리와 함께라는 뜻이에요[시티플리처](https://cityflitzer.de/). 물론 Leipzig MOVE 앱을 통해 비용을 지불할 수 있는 버스와 기차도 있습니다.
 
 # 점검
 
@@ -184,7 +183,7 @@ Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Bo
 
 # 팁
 
-라이프치히 MOVE 앱을 사용하면 각각 15분씩 10회 무료 탑승이 가능합니다._다음자전거_. 주요 도로(지도에서 보라색)에 자전거를 주차하지 않으면 비용이 더 많이 든다는 점에 유의하세요. 전기 스쿠터는 특정 주차 공간에만 주차할 수 있습니다.
+와 더불어[라이프치히 MOVE 앱](https://leipzig-move.de/), 각 15분씩 10회 무료 탑승권을 드립니다._다음자전거_. 주요 도로(지도에서 보라색)에 자전거를 주차하지 않으면 비용이 더 많이 든다는 점에 유의하세요. 전기 스쿠터는 특정 주차 공간에만 주차할 수 있습니다.
 
 에어비앤비 앱에 여행 가이드를 저장했습니다. 그곳에서 명소, 바, 펍, 쇼핑 기회 및 레스토랑에 대한 추천 정보를 찾을 수 있습니다.
 
