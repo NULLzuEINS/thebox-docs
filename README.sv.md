@@ -35,7 +35,7 @@ Eller så skannar du den här QR-koden, den ansluter dig automatiskt till nätve
 
 ![Raumplan](_media/thebox-map.png)
 
-## Kök
+## Küche
 
 Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt spartanskt. Tyvärr går det bara att diska i handfatet i badrummet. Men det finns en speciell behållare för disk.
 
@@ -165,7 +165,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 ## tvättmaskin
 
-Du kan använda tvättmaskinen utan att behöva fråga först. Du kan också använda torkställning, tvättpulver och sköljmedel.
+Du kannst die Waschmaschine mit benutzen ohne vorher fragen zu müssen. Du kannst auch das den Wäscheständer, Waschpulver und den Weichspüler benutzen.
 
 ## Handborste och sopskanna
 
