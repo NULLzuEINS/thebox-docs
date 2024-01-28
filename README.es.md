@@ -177,13 +177,20 @@ Puedes encontrar un agente de limpieza verde en una botella con atomizador en el
 ## aspiradora
 
 Tengo un robot aspirador para el suelo.
-Antes de que puedas comenzar, retira todo lo que esté en el suelo. Especialmente cables u otras cosas con las que el robot podría asfixiarse. Luego colóquelo en la habitación y presione el botón en la parte superior una vez. Si no sucede nada, utilice el interruptor de encendido/apagado que se encuentra en el lateral.
+Antes de que puedas comenzar, retira todo lo que esté en el suelo.
+Especialmente cables u otras cosas con las que el robot podría asfixiarse.
+Luego colócalo en tu habitación y presiona el botón en la parte superior una vez.
+Si no sucede nada, utilice el interruptor de encendido/apagado que se encuentra en el lateral y después
+enciéndelo nuevamente usando el botón en la parte superior.
 
 Cuando haya terminado, ¡vuélvalo a colocar en la estación de carga!
 
 # Consejos
 
-Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para el_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento.
+Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/),
+Obtienes 10 viajes gratis de 15 minutos cada uno para ellos._Siguientebicicletas_.
+Ten en cuenta que cuesta más si no aparcas el Raf en las calles principales (moradas en el mapa).
+Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento.
 
 He almacenado guías de viaje en la aplicación AirBnB. Allí encontrará mis recomendaciones sobre lugares de interés, bares y pubs, tiendas y restaurantes.
 
