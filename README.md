@@ -164,7 +164,7 @@ Mit der [Leipzig MOVE App](https://leipzig-move.de/), bekommst Du 10 Freifahrten
 
 ## Waschmaschine
 
-Du kannst die Waschmaschine mit benutzen ohne vorher fragen zu müssen. Du kannst auch das den Wäscheständer, Waschpulver und den Weichspüler benutzen. Falls Du neue Bettwäsche haben möchtest, sprich mich einfach an.
+Du kannst die Waschmaschine mit benutzen ohne vorher fragen zu müssen. Du kannst auch den Wäscheständer, das Waschpulver und den Weichspüler benutzen. Falls Du neue Bettwäsche haben möchtest, sprich mich einfach an.
 
 ## Handfeger und Kehrblech
 
@@ -177,13 +177,20 @@ Zum Wischen findest du im Bad grünes Reinigungsmittel in einer Sprühflasche. Z
 ## Staubsauger
 
 Für den Fußboden habe ich einen Staubsauger-Roboter.
-Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg. Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte. Stell ihn dann in den Zimmer und drücke den Knopf auf er Oberseite in mal. Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite.
+Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg. 
+Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte. 
+Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal. 
+Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
+anschalten noch einmal auf den Knopf auf drt Oberseite.
 
 Wenn er fertig ist, stelle ihn bitte wieder zurück in die Ladestation!
 
 # Tipps
 
-Mit der [Leipzig MOVE App](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die *Nextbikes*. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
+Mit der [Leipzig MOVE App](https://leipzig-move.de/), 
+bekommst Du 10 Freifahrten à 15 Minuten für die *Nextbikes*. 
+Beachte, dass es mehr kostet, wenn man das Raf nicht an den großen Straßen (Auf der Karte Lila) abstellt. 
+Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
 In der App von AirBnB habe ich Reiseführer hinterlegt. Dort findest Du meine Empfehlungen zu Sehenwürdigkeiten, Bars und Kneipen, Einkaufsmöglichkeiten und Restaurants.
 
