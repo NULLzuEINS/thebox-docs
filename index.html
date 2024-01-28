@@ -106,6 +106,10 @@
                 },
             }
         }
+        // Service worker for offline mode
+        if (typeof navigator.serviceWorker !== 'undefined') {
+            navigator.serviceWorker.register('sw.js')
+        }
     </script>
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
