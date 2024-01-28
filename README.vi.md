@@ -177,13 +177,20 @@ Bạn có thể tìm thấy chất tẩy rửa màu xanh lá cây đựng trong 
 ## Máy hút bụi
 
 Tôi có một robot hút bụi cho sàn nhà.
-Trước khi bạn có thể bắt đầu, hãy dọn sạch mọi thứ trên sàn. Đặc biệt là dây hoặc những thứ khác mà robot có thể bị nghẹn. Sau đó đặt nó vào phòng và nhấn nút trên cùng một lần. Nếu không có gì xảy ra, hãy sử dụng công tắc bật/tắt ở bên cạnh.
+Trước khi bạn có thể bắt đầu, hãy dọn sạch mọi thứ trên sàn.
+Đặc biệt là dây hoặc những thứ khác mà robot có thể bị nghẹn.
+Sau đó đặt nó vào phòng của bạn và nhấn nút trên cùng một lần.
+Nếu không có gì xảy ra, hãy sử dụng công tắc bật/tắt ở bên cạnh và sau đó
+bật lại bằng nút ở trên cùng.
 
 Khi dùng xong, vui lòng đặt lại vào trạm sạc!
 
 # Lời khuyên
 
-Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đỗ xe nhất định.
+Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/),
+bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho họ_xe đạp tiếp theo_.
+Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe Raf trên các đường phố chính (màu tím trên bản đồ).
+Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đỗ xe nhất định.
 
 Tôi đã lưu trữ hướng dẫn du lịch trong ứng dụng AirBnB. Ở đó bạn sẽ tìm thấy các đề xuất của tôi về các điểm tham quan, quán bar và quán rượu, cơ hội mua sắm và nhà hàng.
 
