@@ -144,7 +144,7 @@ Nếu bạn tin vào số liệu thống kê thì số lượng xe đạp tính 
 
 Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho họ_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đỗ xe nhất định. Ngoài ra còn có hệ thống chia sẻ xe miễn phí. Điều đó có nghĩa là với chúng tôi[cityflitzer](https://cityflitzer.de/). Và tất nhiên cũng có xe buýt và xe lửa mà bạn cũng có thể thanh toán thông qua ứng dụng Leipzig MOVE.
 
-# Checkout
+# Thủ tục thanh toán
 
 ## Chìa khóa
 
