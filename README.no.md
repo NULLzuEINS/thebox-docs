@@ -60,7 +60,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 ## Rommet ditt
 
-Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem etter dine behov. Bytter du ut putene på sofaen med en madrass, blir det en god seng.
+Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem i henhold til dine behov. Bytter du ut putene på sofaen med en madrass, blir det en god seng.
 
 Du er velkommen til å bruke datamaskinen og skriveren.
 
@@ -93,7 +93,7 @@ Et gammelt tysk ordtak gjelder for alle fjernkontroller: «Å prøve er bedre en
 
 ### baderom
 
-Du kan bruke dusjen mens du står. Det er ikke noe problem hvis bakken blir litt våt. Slå bare på vannet 1/3 og heng badematten over varmeren for å tørke.
+Du kan bruke dusjen mens du står. Det spiller ingen rolle om bakken blir litt våt. Slå bare på vannet 1/3 og heng badematten over varmeren for å tørke.
 
 Alexaen på veggen går under navnet "Computer" og spiller også favorittmusikken eller radioen din. f.eks."_Datamaskin, spill Deutschlandfunk Nova_"
 
@@ -107,7 +107,7 @@ Du er velkommen til å legge igjen skoene dine her. Jeg har også en liten notis
 
 ## Smart hjem
 
-Det er Alexa stemmeassistenter i leiligheten. Du kan adressere dem med navnet "Computer" og la dem spille Deutschlandfunk Nova, for eksempel. Enhetene er koblet til Internett og kan også brukes som vekkerklokke eller tidtakere. Hvis du ikke vil bruke den, kan du ganske enkelt koble den fra strømmen.
+Det er Alexa stemmeassistenter i leiligheten. Du kan adressere dem med navnet "Computer" og la dem spille Deutschlandfunk Nova, for eksempel. Enhetene er koblet til Internett og kan også brukes som vekkerklokke eller tidtakere. Hvis du ikke vil bruke den, kan du ganske enkelt koble den fra strømforsyningen.
 
 Det er ingen stemmeassistenter på rommet ditt. Kurven på hyllen inneholder kun ruteren og en liten datamaskin.
 
@@ -138,11 +138,11 @@ Lurer du på hvorfor søppeldunkene har forskjellige farger? Hvis du er usikker,
 ### Er sykkelen min trygg?
 
 Leipzig er en veldig sykkelvennlig by. Gjennom den store byparken som deler byen i to halvdeler, kan du komme deg til mange steder og kjører vanligvis gjennom landsbygda.
-Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hvert år. (1 539 stjålne sykler per 100 000 innbyggere) I løpet av de 15 årene siden jeg har bodd her på Hardenbergstraße har jeg aldri fått stjålet en sykkel og jeg vet bare om en nabo som har fått sykkelen sin fra bakgården hans. Jeg kobler den alltid direkte til rekkverket.
+Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hvert år. (1 539 stjålne sykler per 100 000 innbyggere) I løpet av de 15 årene siden jeg har bodd her på Hardenbergstraße har jeg aldri fått stjålet en sykkel og jeg vet bare om en nabo som har fått sykkelen hans stjålet fra bakgården hans. Jeg kobler den alltid direkte til rekkverket.
 
 ### Hvilke alternativer finnes?
 
-Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for dem_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser. Det er også et gratis-flytende bildelingssystem. Det betyr med oss[cityflitzer](https://cityflitzer.de/). Og selvfølgelig finnes det busser og tog som du også kan betale for via Leipzig MOVE-appen.
+Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for dem_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser. Det er også et gratis-flytende bildelingssystem. Det betyr med oss[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er det også busser og tog som du også kan betale for via Leipzig MOVE-appen.
 
 # Sjekk ut
 
@@ -159,11 +159,36 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 > Kortversjon: La nøkkelen ligge der, lukk døren, det er det. 😀
 
+# Langt opphold
+
+Noen av gjestene mine blir i en måned eller lenger. Hvis du er en av dem, så er denne delen for deg!
+
+## vaskemaskin
+
+Du kan bruke vaskemaskinen uten å måtte spørre først. Du kan også bruke tørkestativet, vaskepulver og tøymykner.
+
+## Håndbørste og støvpanne
+
+På kjøkkenet finner du en håndbørste og en feiebrett på veggen. Dette vil hjelpe deg å bli kvitt den lille skitten.
+
+## Tørke
+
+Du kan finne grønt rengjøringsmiddel i en sprayflaske på badet for mopping. Sammen med kjøkkenpapiret kan dette brukes til å rengjøre overflater enkelt.
+
+## Støvsuger
+
+Jeg har en robotstøvsuger til gulvet.
+Før du kan begynne, ryd alt på gulvet ut av veien. Spesielt ledninger eller andre ting som roboten kunne kveles på. Sett den deretter i rommet og trykk én gang på knappen på toppen. Hvis ingenting skjer, bruk av/på-bryteren på siden.
+
+Når den er ferdig, sett den tilbake i ladestasjonen!
+
 # Tips
 
 Med Leipzig MOVE-appen får du 10 gratisturer på 15 minutter hver_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser.
 
-# Fragen?
+Jeg har lagret reiseguider i AirBnB-appen. Der finner du mine anbefalinger for severdigheter, underholdning og restauranter.
+
+# Spørsmål?
 
 Hvis du har spørsmål eller trenger støtte, hjelper jeg deg gjerne. Hvis du har det travelt, er det best å gjøre det via telefon <a href="tel:+491707353067">+49 170 73 53 067</a>. Du kan også bruke den forhåndsinstallerte messenger-appen med begrenset funksjonalitet (SMS). Ellers har jeg en notatblokk og en penn i gangen.
 
