@@ -131,7 +131,7 @@ Antingen använder du nyckeln till ytterdörren eller så sträcker du dig genom
 
 ### Gul? Blå? Grön? Brun?
 
-Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i den bruna soptunnan.
+Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i det bruna kärlet.
 
 ### Cyklar
 
@@ -151,7 +151,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 -   Beroende på vilken veckodag det är kan vi säga hejdå personligen eller så kan du helt enkelt lägga nycklarna på skrivbordet och stänga dörren efter dig.
 -   Senaste tid för utcheckning är 19.00 på avresedagen.
 
-## Reinigung
+## rengöring
 
 -   Du kan lämna sängkläder på den.
 -   Jag diskar också och
@@ -161,7 +161,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 # Längre vistelse
 
-Några av mina gäster stannar i en månad eller längre. Om du är en av dem, då är det här avsnittet för dig!
+?> Några av mina gäster stannar i en månad eller längre. Om du är en av dem, då är det här avsnittet för dig!
 
 ## tvättmaskin
 
