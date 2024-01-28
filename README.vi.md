@@ -12,7 +12,7 @@ Trên AirBnB của tôi, bạn sẽ có được cái nhìn tổng quan chi ti�
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Cấu hình một giường với ghế dài                                                        | Cấu hình hai giường                                                           | Bàn làm việc                                                                            |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Bàn có đèn                                                                             | Bếp - bếp                                                                     | Küche - Tee                                                                             |
+| Bàn có đèn                                                                             | Bếp - bếp                                                                     | Bếp - trà                                                                               |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Bàn có đèn                                                                             | Bếp - bếp                                                                     | Bếp - trà                                                                               |
 
@@ -50,7 +50,7 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 5.  lò nướng bánh pizza
 6.  Nước khoáng
 7.  Trạm sạc điện thoại di động trên kệ
-8.  Waschmaschine
+8.  Máy giặt
 
 ### Câu hỏi thường gặp - Nhà bếp
 
@@ -83,7 +83,7 @@ Một câu nói cổ của người Đức áp dụng cho tất cả các loại
 
 | Hình minh họa                                             | Sự miêu tả                                                                                                                                                                                                                                                |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>D:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                       |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>Đ:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                       |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Trước khi bạn có thể sử dụng nó, hãy đảm bảo công tắc đèn ở lối vào được đặt ở chế độ "bật".**<br>Dòng đầu tiên: độ sáng, bật/tắt<br>Các nút màu: Bạn có thể sử dụng nút này để thay đổi màu sắc<br>Nút màu xám: Chuyển đổi giữa các hiệu ứng khác nhau |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Đây là điều khiển từ xa cho máy tính (iMac)._Để sử dụng máy tính, nhấn nút A trên điều khiển từ xa đầu tiên. Nó kích hoạt nguồn điện cho máy tính và hộp Bluetooth._                                                                                      |
 
@@ -97,7 +97,7 @@ Bạn có thể sử dụng vòi hoa sen trong khi đứng. Sẽ không có vấ
 
 Alexa trên tường có tên là "Máy tính" và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
 
-Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstellen.
+Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc của mình ở bất cứ đâu.
 
 ### hành lang
 
@@ -113,7 +113,7 @@ Không có trợ lý giọng nói trong phòng của bạn. Giỏ trên kệ ch�
 
 ## Nhiệt độ và độ ẩm
 
-Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst Du im Spiegel im Flur ablesen.
+Nhiệt độ và độ ẩm được đo tự động thông qua các cảm biến. Tôi sử dụng chúng để ngăn chặn sự hình thành nấm mốc. Chúng nhỏ, màu trắng và thường nằm trên khung cửa. Bạn có thể đọc một số dữ liệu đo trong gương ở hành lang.
 
 > Hãy đảm bảo thông gió thường xuyên (ít nhất một lần một ngày). Đặc biệt là trong phòng tắm. Ngoài ra hãy chắc chắn rằng hệ thống sưởi đã được tắt. Cảm ơn bạn 🙏
 
@@ -142,7 +142,7 @@ Nếu bạn tin vào số liệu thống kê thì số lượng xe đạp tính 
 
 ### Có những lựa chọn thay thế nào?
 
-Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho họ_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định. Ngoài ra còn có hệ thống chia sẻ xe miễn phí. Điều đó có nghĩa là với chúng tôi[cityflitzer](https://cityflitzer.de/). Và tất nhiên, có những chuyến xe buýt và tàu hỏa mà bạn cũng có thể thanh toán thông qua ứng dụng Leipzig MOVE.
+Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho họ_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đỗ xe nhất định. Ngoài ra còn có hệ thống chia sẻ xe miễn phí. Điều đó có nghĩa là với chúng tôi[cityflitzer](https://cityflitzer.de/). Và tất nhiên cũng có xe buýt và xe lửa mà bạn cũng có thể thanh toán thông qua ứng dụng Leipzig MOVE.
 
 # Thủ tục thanh toán
 
@@ -157,11 +157,36 @@ Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận đượ
 -   Tôi cũng rửa bát đĩa và
 -   Tôi cũng đi đổ rác.
 
-> Phiên bản ngắn: Để chìa khóa ở đó, đóng cửa lại, thế là xong. 😀
+> Phiên bản ngắn: Để chìa khóa ở đó, đóng cửa lại, thế thôi. 😀
+
+# Cư trú dài hạn
+
+Một số khách của tôi ở lại một tháng hoặc lâu hơn. Nếu bạn là một trong số họ, thì phần này là dành cho bạn!
+
+## Máy giặt
+
+Bạn có thể sử dụng máy giặt mà không cần phải hỏi trước. Bạn cũng có thể sử dụng giá phơi, bột giặt và nước xả vải.
+
+## Bàn chải cầm tay và chổi quét bụi
+
+Trong nhà bếp, bạn sẽ tìm thấy một chiếc bàn chải cầm tay và một cái hốt rác trên tường. Điều này sẽ giúp bạn loại bỏ những vết bẩn nhỏ.
+
+## Lau đi
+
+Bạn có thể tìm thấy chất tẩy rửa màu xanh lá cây đựng trong bình xịt trong phòng tắm để lau nhà. Cùng với giấy ăn, sản phẩm này có thể được sử dụng để làm sạch các bề mặt một cách dễ dàng.
+
+## Máy hút bụi
+
+Tôi có một robot hút bụi cho sàn nhà.
+Trước khi bạn có thể bắt đầu, hãy dọn sạch mọi thứ trên sàn. Đặc biệt là dây hoặc những thứ khác mà robot có thể bị nghẹn. Sau đó đặt nó vào phòng và nhấn nút trên cùng một lần. Nếu không có gì xảy ra, hãy sử dụng công tắc bật/tắt ở bên cạnh.
+
+Khi dùng xong, vui lòng đặt lại vào trạm sạc!
 
 # Lời khuyên
 
-Với ứng dụng Leipzig MOVE, bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định.
+Với ứng dụng Leipzig MOVE, bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đỗ xe nhất định.
+
+Tôi đã lưu trữ hướng dẫn du lịch trong ứng dụng AirBnB. Ở đó bạn sẽ tìm thấy những gợi ý của tôi về các điểm tham quan, giải trí và nhà hàng.
 
 # Câu hỏi?
 
