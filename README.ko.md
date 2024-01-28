@@ -1,6 +1,6 @@
 # 환영
 
-Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
+안녕하세요, “Box”에 오신 것을 환영합니다! 여행할 때 에어비앤비에 머무르는 것도 좋아하는데 때로는 숙소, 체크인, 체크아웃에 대해 필요한 모든 정보가 적힌 종이가 있었으면 좋겠는데 이것이 더 나은 서비스를 제공하려는 시도입니다.
 
 > [!공지사항]해당 문서를 귀하의 언어로 자동 번역해 드리겠습니다. 어느 정도 이해가 되셨으면 좋겠습니다. 그렇지 않은 경우에는 나에게 메시지를 보내 주시기 바랍니다. 그런 다음 개선하려고 노력합니다.
 
@@ -12,7 +12,7 @@ Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | 소파가 포함된 침대 1개 구성                                                                       | 2베드 구성                                                                        | 책상                                                                                      |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Schreibtisch mit Licht                                                                 | 주방 - 스토브                                                                      | 주방 - 차                                                                                  |
+| 조명이 있는 책상                                                                              | 주방 - 스토브                                                                      | 주방 - 차                                                                                  |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | 조명이 있는 책상                                                                              | 주방 - 스토브                                                                      | 주방 - 차                                                                                  |
 
@@ -82,7 +82,7 @@ Passwort: thebox
 
 | 삽화                                                        | 설명                                                                                                                              |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 답: 블루투스박스<br>B: 요정 조명<br>C: 책상 램프<br>디:_파일_<br>Master: Alles gleichzeitig schalten                                              |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 답: 블루투스박스<br>B: 요정 조명<br>C: 책상 램프<br>디:_파일_<br>마스터: 모든 것을 동시에 전환하세요                                                             |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **사용하시기 전, 입구의 전등 스위치가 '켜짐'으로 설정되어 있는지 확인하세요.**<br>첫 번째 줄: 밝기, 켜기/끄기<br>컬러 버튼: 이 버튼을 사용하여 색상을 변경할 수 있습니다.<br>회색 버튼: 다양한 효과 간 전환 |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | 컴퓨터(iMac)용 리모컨입니다._컴퓨터를 사용하려면 첫 번째 리모콘의 A 버튼을 누르세요. 컴퓨터와 Bluetooth 상자의 전원 공급 장치를 활성화합니다._                                       |
 
@@ -92,7 +92,7 @@ Passwort: thebox
 
 ### 화장실
 
-Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und hänge den Badewannenvorleger zum trocknen über der Heizung auf.
+서서 샤워를 할 수 있습니다. 땅이 조금 젖어도 상관 없습니다. 물의 양을 1/3만 맞추고 욕실매트를 히터 위에 걸어 건조시켜주세요.
 
 벽에 걸린 Alexa는 "컴퓨터"라는 이름으로 불리며 좋아하는 음악이나 라디오도 재생합니다. 예: "_컴퓨터, Deutschlandfunk Nova 플레이_"
 
@@ -177,13 +177,20 @@ Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Bo
 ## 진공 청소기
 
 바닥 청소용 로봇 청소기가 있어요.
-시작하기 전에 바닥에 있는 모든 것을 방해가 되지 않도록 치우세요. 특히 로봇이 질식할 수 있는 코드나 기타 물건. 그런 다음 방에 넣고 상단의 버튼을 한 번 누르십시오. 아무 일도 일어나지 않으면 측면에 있는 ON/OFF 스위치를 사용하세요.
+시작하기 전에 바닥에 있는 모든 것을 방해가 되지 않도록 치우세요.
+특히 로봇이 질식할 수 있는 코드나 기타 물건.
+그런 다음 방에 놓고 상단의 버튼을 한 번 누르십시오.
+아무 일도 일어나지 않으면 옆면과 뒤에 있는 ON/OFF 스위치를 이용하세요.
+상단의 버튼을 사용하여 다시 켜세요.
 
 완료되면 다시 충전소에 꽂아주세요!
 
 # 팁
 
-와 더불어[라이프치히 MOVE 앱](https://leipzig-move.de/), 각 15분씩 10회 무료 탑승권을 드립니다._다음자전거_. 주요 도로(지도에서 보라색)에 자전거를 주차하지 않으면 비용이 더 많이 든다는 점에 유의하세요. 전기 스쿠터는 특정 주차 공간에만 주차할 수 있습니다.
+와 더불어[라이프치히 MOVE 앱](https://leipzig-move.de/),
+각 15분씩 10회 무료 탑승권을 드립니다._다음자전거_.
+Raf를 주요 거리(지도에서 보라색)에 주차하지 않으면 비용이 더 많이 든다는 점에 유의하세요.
+전기 스쿠터는 특정 주차 공간에만 주차할 수 있습니다.
 
 에어비앤비 앱에 여행 가이드를 저장했습니다. 그곳에서 명소, 바, 펍, 쇼핑 기회 및 레스토랑에 대한 추천 정보를 찾을 수 있습니다.
 
