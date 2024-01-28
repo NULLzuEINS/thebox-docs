@@ -35,7 +35,7 @@ Eller så skannar du den här QR-koden, den ansluter dig automatiskt till nätve
 
 ![Raumplan](_media/thebox-map.png)
 
-## Küche
+## Kök
 
 Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt spartanskt. Tyvärr går det bara att diska i handfatet i badrummet. Men det finns en speciell behållare för disk.
 
@@ -60,7 +60,7 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 ## Ditt rum
 
-Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov. Byter du ut kuddarna på soffan mot en madrass blir det en bra säng.
+Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov. Om du byter ut kuddarna i soffan mot en madrass blir det en bra säng.
 
 Du är välkommen att använda datorn och skrivaren.
 
@@ -93,7 +93,7 @@ Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre
 
 ### badrum
 
-Du kan använda duschen stående. Det är inga problem om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
+Du kan använda duschen stående. Det spelar ingen roll om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
 
 Alexa på väggen går under namnet "Dator" och spelar även din favoritmusik eller radio. T.ex. "_Dator, spela Deutschlandfunk Nova_"
 
@@ -137,12 +137,12 @@ Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid 
 
 ### Är min cykel säker?
 
-Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många ställen och brukar köra genom landsbygden.
-Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 åren sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
+Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många platser och brukar köra genom landsbygden.
+Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 år sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
 
 ### Vilka alternativ finns det?
 
-Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för dem_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser. Det finns också ett friflytande bildelningssystem. Det betyder med oss[cityflitzer](https://cityflitzer.de/). Och självklart finns det även bussar och tåg som du också skulle kunna betala för via Leipzig MOVE-appen.
+Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för dem_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser. Det finns också ett friflytande bildelningssystem. Det betyder med oss[cityflitzer](https://cityflitzer.de/). Och självklart finns det bussar och tåg som du även kan betala för via Leipzig MOVE-appen.
 
 # Kolla upp
 
@@ -165,7 +165,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 ## tvättmaskin
 
-Du kannst die Waschmaschine mit benutzen ohne vorher fragen zu müssen. Du kannst auch das den Wäscheständer, Waschpulver und den Weichspüler benutzen.
+Du kan använda tvättmaskinen utan att behöva fråga först. Du kan också använda torkställning, tvättpulver och sköljmedel. Om du vill ha nya sängkläder är det bara att prata med mig.
 
 ## Handborste och sopskanna
 
@@ -186,7 +186,7 @@ När den är klar, lägg tillbaka den i laddstationen!
 
 Med Leipzig MOVE-appen får du 10 gratisturer på 15 minuter vardera_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser.
 
-Jag har lagrat reseguider i AirBnB-appen. Där hittar du mina rekommendationer för sevärdheter, nöjen och restauranger.
+Jag har lagrat reseguider i AirBnB-appen. Där hittar du mina rekommendationer för sevärdheter, barer och pubar, shoppingmöjligheter och restauranger.
 
 # Frågor?
 
