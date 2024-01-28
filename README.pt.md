@@ -161,7 +161,7 @@ Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viag
 
 # Estadia mais longa
 
-Alguns dos meus hóspedes ficam por um mês ou mais. Se você é um deles, esta seção é para você!
+?> Alguns dos meus hóspedes ficam por um mês ou mais. Se você é um deles, esta seção é para você!
 
 ## máquina de lavar
 
