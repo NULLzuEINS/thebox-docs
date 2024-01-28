@@ -14,7 +14,7 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Bureau avec lumière                                                                    | Cuisinière                                                                    | Cuisine - thé                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Bureau avec lumière                                                                    | Cuisinière                                                                    | Cuisine - thé                                                                           |
+| Bureau avec lumière                                                                    | Küche - Herd                                                                  | Cuisine - thé                                                                           |
 
 ## Clé
 
@@ -81,11 +81,11 @@ Passwort: thebox
 
 Un vieux dicton allemand s'applique à toutes les télécommandes : « Mieux vaut essayer qu'étudier ». Vous ne pouvez rien casser. Appuyez sur quelques boutons et voyez ce qui se passe. Si vous souhaitez continuer à étudier, voici la lecture qui vous convient :
 
-| Illustration                                              | Description                                                                                                                                                                                                                                                            |
-| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R : boîtier Bluetooth<br>B : Guirlande lumineuse<br>C : Lampe de bureau<br>D:_déposer_<br>Maître : Changez tout en même temps                                                                                                                                          |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Avant de pouvoir l'utiliser, assurez-vous que l'interrupteur d'éclairage à l'entrée est réglé sur « on ».**<br>Première ligne : luminosité, marche/arrêt<br>Farbige Tasten: Hiermit kannst Du die Farben wechseln<br>Boutons gris : basculez entre différents effets |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Il s'agit de la télécommande de l'ordinateur (iMac)._Pour utiliser l'ordinateur, appuyez sur le bouton A de la première télécommande. Il active l'alimentation de l'ordinateur et du boîtier Bluetooth._                                                               |
+| Illustration                                              | Description                                                                                                                                                                                                                                                                 |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R : boîtier Bluetooth<br>B : Guirlande lumineuse<br>C : Lampe de bureau<br>D:_déposer_<br>Maître : Changez tout en même temps                                                                                                                                               |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Bevor du es benutzen kannst, stell sicher, dass der Lichtschalter an am Eingang auf "an" steht.**<br>Première ligne : luminosité, marche/arrêt<br>Boutons colorés : vous pouvez les utiliser pour changer les couleurs<br>Boutons gris : basculez entre différents effets |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Il s'agit de la télécommande de l'ordinateur (iMac)._Pour utiliser l'ordinateur, appuyez sur le bouton A de la première télécommande. Il active l'alimentation de l'ordinateur et du boîtier Bluetooth._                                                                    |
 
 ### FAQ - Votre chambre
 
@@ -161,7 +161,7 @@ Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficie
 
 # Séjour plus long
 
-Certains de mes invités restent un mois ou plus. Si vous en faites partie, alors cette rubrique est faite pour vous !
+?> Certains de mes invités restent un mois ou plus. Si vous en faites partie, alors cette rubrique est faite pour vous !
 
 ## Machine à laver
 
