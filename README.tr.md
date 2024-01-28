@@ -177,13 +177,20 @@ Paspaslamak için yeşil temizlik maddesini banyoda sprey şişesinde bulabilirs
 ## Elektrikli süpürge
 
 Zemin için bir robot elektrikli süpürgem var.
-Başlamadan önce yerdeki her şeyi temizleyin. Özellikle robotun boğulabileceği kablolar veya diğer şeyler. Daha sonra odaya koyun ve üstteki düğmeye bir kez basın. Hiçbir şey olmazsa yan taraftaki açma/kapama düğmesini kullanın.
+Başlamadan önce yerdeki her şeyi temizleyin.
+Özellikle robotun boğulabileceği kablolar veya diğer şeyler.
+Daha sonra odanıza koyun ve üstteki düğmeye bir kez basın.
+Hiçbir şey olmazsa yan taraftaki açma/kapama düğmesini kullanın ve ardından
+üstteki düğmeyi kullanarak tekrar açın.
 
 Bittiğinde lütfen şarj istasyonuna geri koyun!
 
 # İpuçları
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/),
+onlar için her biri 15 dakikalık 10 ücretsiz yolculuk kazanırsınız_Sonraki bisikletler_.
+Raf'ı ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın.
+E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
 
 Seyahat rehberlerini AirBnB uygulamasında sakladım. Orada turistik yerler, barlar ve publar, alışveriş fırsatları ve restoranlarla ilgili önerilerimi bulacaksınız.
 
