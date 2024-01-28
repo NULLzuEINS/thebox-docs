@@ -14,7 +14,7 @@ En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | escritorio con luz                                                                     | Estufa de cocina                                                              | Cocina - té                                                                             |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| escritorio con luz                                                                     | Estufa de cocina                                                              | Cocina - té                                                                             |
+| escritorio con luz                                                                     | Küche - Herd                                                                  | Cocina - té                                                                             |
 
 ## Llave
 
@@ -60,7 +60,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 ## Tu cuarto
 
-Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas los cojines del sofá por un colchón, será una buena cama.
+Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. Si reemplazas las almohadas del sofá por un colchón, será una buena cama.
 
 Le invitamos a utilizar la computadora y la impresora.
 
@@ -93,7 +93,7 @@ Un viejo dicho alemán se aplica a todos los mandos a distancia: "Intentar es me
 
 ### baño
 
-Puedes utilizar la ducha estando de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
+Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und hänge den Badewannenvorleger zum trocknen über der Heizung auf.
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
@@ -142,7 +142,7 @@ Si nos fijamos en las estadísticas, en Leipzig se roban cada año el mayor núm
 
 ### ¿Qué alternativas hay?
 
-Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para ellos_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[ciudadflitzer](https://cityflitzer.de/). Y, por supuesto, también hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
+Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para ellos_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[ciudadflitzer](https://cityflitzer.de/). Y, por supuesto, hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
 
 # Verificar
 
@@ -165,7 +165,7 @@ Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes g
 
 ## lavadora
 
-Podrás utilizar la lavadora sin tener que preguntar primero. También puedes utilizar el tendedero, detergente en polvo y suavizante.
+Podrás utilizar la lavadora sin tener que preguntar primero. También puedes utilizar el tendedero, detergente en polvo y suavizante. Si quieres ropa de cama nueva, háblame.
 
 ## Cepillo de mano y recogedor
 
@@ -186,14 +186,14 @@ Cuando haya terminado, ¡vuélvalo a colocar en la estación de carga!
 
 Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada uno_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento.
 
-He almacenado guías de viaje en la aplicación AirBnB. Allí encontrará mis recomendaciones sobre lugares de interés, entretenimiento y restaurantes.
+He almacenado guías de viaje en la aplicación AirBnB. Allí encontrará mis recomendaciones sobre lugares de interés, bares y pubs, tiendas y restaurantes.
 
 # ¿Preguntas?
 
 Si tienes alguna pregunta o necesitas ayuda, estaré encantado de ayudarte. Si tienes prisa, lo mejor es hacerlo por teléfono. <a href="tel:+491707353067">+49 170 73 53 067</a>. También puede utilizar la aplicación de mensajería preinstalada con funcionalidad limitada (SMS). De lo contrario, tengo una libreta y un bolígrafo en el pasillo.
 
-¡Les deseo una agradable estancia en Leipzig!
-andré
+Ich wünsche einen schönen Aufenthalt in Leipzig!
+André
 
 * * *
 
