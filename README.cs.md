@@ -177,13 +177,20 @@ Zelený čisticí prostředek najdete v rozprašovači v koupelně na vytírán�
 ## Vysavač
 
 Mám robotický vysavač na podlahu.
-Než začnete, vyčistěte vše na podlaze z cesty. Zejména šňůry nebo jiné věci, kterými by se robot mohl udusit. Poté jej vložte do místnosti a jednou stiskněte tlačítko nahoře. Pokud se nic nestane, použijte vypínač na boku.
+Než začnete, vyčistěte vše na podlaze z cesty.
+Zejména šňůry nebo jiné věci, kterými by se robot mohl udusit.
+Poté jej dejte do svého pokoje a jednou stiskněte tlačítko nahoře.
+Pokud se nic neděje, použijte vypínač na boku a po něm
+znovu jej zapněte pomocí tlačítka na horní straně.
 
 Po dokončení jej vraťte zpět do nabíjecí stanice!
 
 # Tipy
 
-s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech.
+s[Aplikace Leipzig MOVE](https://leipzig-move.de/),
+získáte za ně 10 jízd zdarma, každá po 15 minutách_Nextbikes_.
+Všimněte si, že to stojí více, pokud nezaparkujete Raf na hlavních ulicích (na mapě fialová).
+Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech.
 
 V aplikaci AirBnB mám uložené cestovní průvodce. Najdete tam moje doporučení na památky, bary a hospůdky, nákupní příležitosti a restaurace.
 
