@@ -81,11 +81,11 @@ Passwort: thebox
 
 Un viejo dicho alemán se aplica a todos los mandos a distancia: "Intentar es mejor que estudiar". No puedes romper nada. Presione algunos botones y vea qué sucede. Si aún quieres estudiar, aquí tienes la lectura adecuada para ti:
 
-| Ilustración                                               | Descripción                                                                                                                                                                                                                                                        |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caja Bluetooth<br>B: luces de hadas<br>C: lámpara de escritorio<br>D:_leer_<br>Maestro: cambia todo al mismo tiempo                                                                                                                                             |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Bevor du es benutzen kannst, stell sicher, dass der Lichtschalter an am Eingang auf "an" steht.**<br>Primera línea: brillo, encendido/apagado<br>Botones de colores: puedes usarlos para cambiar los colores.<br>Botones grises: cambia entre diferentes efectos |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Este es el control remoto de la computadora (iMac)._Para usar la computadora, presione el botón A en el primer control remoto. Activa la fuente de alimentación del ordenador y de la caja Bluetooth._                                                             |
+| Ilustración                                               | Descripción                                                                                                                                                                                                                                                            |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caja Bluetooth<br>B: luces de hadas<br>C: lámpara de escritorio<br>D:_leer_<br>Maestro: cambia todo al mismo tiempo                                                                                                                                                 |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usarlo, asegúrese de que el interruptor de la luz en la entrada esté en "encendido".**<br>Primera línea: brillo, encendido/apagado<br>Botones de colores: puedes usarlos para cambiar los colores.<br>Botones grises: cambia entre diferentes efectos |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Este es el control remoto de la computadora (iMac)._Para usar la computadora, presione el botón A en el primer control remoto. Activa la fuente de alimentación del ordenador y de la caja Bluetooth._                                                                 |
 
 ### Preguntas frecuentes - Tu habitación
 
@@ -161,7 +161,7 @@ Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes g
 
 # estancia más larga
 
-Algunos de mis invitados se quedan por un mes o más. Si eres uno de ellos, ¡esta sección es para ti!
+?> Algunos de mis invitados se quedan por un mes o más. Si eres uno de ellos, ¡esta sección es para ti!
 
 ## lavadora
 
@@ -186,7 +186,7 @@ Cuando haya terminado, ¡vuélvalo a colocar en la estación de carga!
 
 Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada uno_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento.
 
-In der App von AirBnB habe ich Reiseführer hinterlegt. Dort findet ihr meine Empfehlungen zu Sehenwürdigkeiten, Unterhaltung und Restaurants.
+He almacenado guías de viaje en la aplicación AirBnB. Allí encontrará mis recomendaciones sobre lugares de interés, entretenimiento y restaurantes.
 
 # ¿Preguntas?
 
