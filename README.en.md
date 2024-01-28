@@ -60,7 +60,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ## Your room
 
-The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the cushions on the couch with a mattress, it makes a good bed.
 
 You are welcome to use the computer and printer.
 
@@ -87,13 +87,13 @@ An old German saying applies to all remote controls: “Trying is better than st
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Before you can use it, make sure the light switch at the entrance is set to "on".**<br>First line: brightness, on/off<br>Colored buttons: You can use this to change the colors<br>Gray buttons: Switch between different effects |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | This is the remote control for the computer (iMac)._To use the computer, press the A button on the first remote control. It activates the power supply for the computer and the Bluetooth box._                                     |
 
-### FAQ - Dein Zimmer
+### FAQ - Your room
 
 1.  The light doesn't come on or flashes wildly. Use the small remote controls with the colorful buttons.
 
 ### bathroom
 
-You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
@@ -155,11 +155,11 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 
 -   You can leave bedding on it.
 -   I also wash the dishes and
--   I also take out the trash.
+-   den Müll bring ich auch raus.
 
 > Short version: Leave the key there, close the door, that's it. 😀
 
-# Long stay
+# Longer stay
 
 Some of my guests stay for a month or longer. If you are one of them, then this section is for you!
 
@@ -167,7 +167,7 @@ Some of my guests stay for a month or longer. If you are one of them, then this 
 
 You can use the washing machine without having to ask first. You can also use the drying rack, washing powder and fabric softener.
 
-## Hand brush and dust pan
+## Hand brush and dustpan
 
 In the kitchen you will find a hand brush and a dustpan on the wall. This will help you get rid of the small dirt.
 
