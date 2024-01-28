@@ -41,7 +41,7 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Följande saker är tillgängliga för dig
+### Följande saker finns i köket
 
 1.  Besättning
 2.  Vattenkokare
@@ -60,9 +60,8 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 ## Ditt rum
 
-Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov. Om du byter ut kuddarna i soffan mot en madrass blir det en bra säng.
-
-Du är välkommen att använda datorn och skrivaren.
+Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov.
+Byter du ut kuddarna i soffan mot en madrass fungerar den bra som säng.
 
 ### Inloggningsuppgifterna för datorn (iMac) är
 
@@ -71,10 +70,10 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Följande saker är tillgängliga för dig
+### Följande saker finns i rummet
 
 1.  Alla möbler och sängar
-2.  Dator
+2.  Datorer och skrivare
 3.  Fjärrkontroller för ljus och el
 
 ### Fjärrkontroller
@@ -115,7 +114,7 @@ Det finns inga röstassistenter i ditt rum. Korgen på hyllan innehåller bara r
 
 Temperaturen och luftfuktigheten mäts automatiskt via sensorerna. Jag använder dem för att förhindra mögelbildning. De är små och vita och brukar ligga på dörrkarmar. Du kan läsa en del av mätdata i spegeln i korridoren.
 
-> Se till att ventilera regelbundet (minst en gång om dagen). Speciellt i badrummet. Se också till att värmen är avstängd. Tack 🙏
+?> Se till att ventilera regelbundet (minst en gång om dagen). Speciellt i badrummet. Se också till att värmen är avstängd. Tack 🙏
 
 ## Gården
 
@@ -142,7 +141,7 @@ Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje 
 
 ### Vilka alternativ finns det?
 
-Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för dem_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser. Det finns också ett friflytande bildelningssystem. Det betyder med oss[cityflitzer](https://cityflitzer.de/). Och självklart finns det bussar och tåg som du även kan betala för via Leipzig MOVE-appen.
+Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser. Det finns också ett friflytande bildelningssystem. Det betyder med oss[cityflitzer](https://cityflitzer.de/). Och självklart finns det bussar och tåg som du också kan betala för via Leipzig MOVE-appen.
 
 # Kolla upp
 
@@ -184,7 +183,7 @@ När den är klar, lägg tillbaka den i laddstationen!
 
 # Tips
 
-Med Leipzig MOVE-appen får du 10 gratisturer på 15 minuter vardera_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser.
+Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser.
 
 Jag har lagrat reseguider i AirBnB-appen. Där hittar du mina rekommendationer för sevärdheter, barer och pubar, shoppingmöjligheter och restauranger.
 
