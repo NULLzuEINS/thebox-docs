@@ -72,7 +72,7 @@ Passwort: thebox
 
 ### W pokoju dostępne są następujące rzeczy
 
-1.  Alle Möbel und Betten
+1.  Wszystkie meble i łóżka
 2.  Komputery i drukarki
 3.  Piloty do sterowania oświetleniem i prądem
 
@@ -177,13 +177,20 @@ Zielony środek czyszczący można znaleźć w butelce ze sprayem w łazience do
 ## Odkurzacz
 
 Mam robota odkurzającego podłogę.
-Zanim zaczniesz, usuń wszystko z podłogi. Zwłaszcza sznury i inne rzeczy, którymi robot mógłby się udławić. Następnie umieść go w pomieszczeniu i naciśnij raz przycisk na górze. Jeśli nic się nie dzieje, użyj włącznika/wyłącznika z boku.
+Zanim zaczniesz, usuń wszystko z podłogi.
+Zwłaszcza sznury i inne rzeczy, którymi robot mógłby się udławić.
+Następnie umieść go w swoim pokoju i naciśnij raz przycisk na górze.
+Jeśli nic się nie dzieje, użyj włącznika/wyłącznika z boku i z tyłu
+włącz go ponownie za pomocą przycisku na górze.
 
 Po zakończeniu odłóż go z powrotem do stacji ładującej!
 
 # Porady
 
-Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych przejazdów po 15 minut każdy dla_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
+Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/),
+dostajesz dla nich 10 bezpłatnych przejazdów po 15 minut każdy_Następnerowery_.
+Pamiętaj, że kosztuje to więcej, jeśli nie parkujesz Rafa na głównych ulicach (fioletowy na mapie).
+Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
 
 Przewodniki turystyczne przechowuję w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
 
