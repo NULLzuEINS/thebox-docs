@@ -41,7 +41,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Dostępne są następujące rzeczy
+### W kuchni dostępne są następujące rzeczy
 
 1.  Stado
 2.  Czajnik
@@ -60,9 +60,8 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 
 ## Twój pokój
 
-Materace są ułożone jeden na drugim wyłącznie w celu przechowywania. Możesz je dystrybuować według swoich potrzeb. Jeśli zastąpisz poduszki na kanapie materacem, będzie to dobre łóżko.
-
-Zapraszamy do korzystania z komputera i drukarki.
+Materace są ułożone jeden na drugim wyłącznie w celu przechowywania. Możesz je dystrybuować według swoich potrzeb.
+Jeśli zastąpisz poduszki na kanapie materacem, sprawdzi się ona również jako łóżko.
 
 ### Dane logowania do komputera (iMac) to
 
@@ -71,10 +70,10 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Dostępne są następujące rzeczy
+### W pokoju dostępne są następujące rzeczy
 
 1.  Wszystkie meble i łóżka
-2.  Komputer
+2.  Komputery i drukarki
 3.  Piloty do sterowania oświetleniem i prądem
 
 ### Zdalne sterowanie
@@ -115,7 +114,7 @@ W Twoim pokoju nie ma asystentów głosowych. W koszyku na półce mieści się 
 
 Temperatura i wilgotność są mierzone automatycznie za pomocą czujników. Używam ich, aby zapobiec tworzeniu się pleśni. Są małe i białe i zwykle leżą na ościeżnicach drzwi. Część danych pomiarowych możesz odczytać w lustrze w przedpokoju.
 
-> Pamiętaj o regularnej wentylacji (przynajmniej raz dziennie). Szczególnie w łazience. Upewnij się także, że ogrzewanie jest wyłączone. Dziękuję 🙏
+?> Pamiętaj o regularnej wentylacji (przynajmniej raz dziennie). Szczególnie w łazience. Upewnij się także, że ogrzewanie jest wyłączone. Dziękuję 🙏
 
 ## Podwórko
 
@@ -142,7 +141,7 @@ Jeśli wierzyć statystykom, w Lipsku co roku kradnie się najwięcej rowerów n
 
 ### Jakie są alternatywy?
 
-Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz dla nich 10 bezpłatnych przejazdów po 15 minut każdy_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych. Istnieje również bezpłatny system wspólnego korzystania z samochodów. To znaczy z nami[miejskiflitzer](https://cityflitzer.de/). Oczywiście są też autobusy i pociągi, za które można zapłacić także za pomocą aplikacji Leipzig MOVE.
+Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych przejazdów po 15 minut każdy dla_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych. Istnieje również bezpłatny system wspólnego korzystania z samochodów. To znaczy z nami[miejskiflitzer](https://cityflitzer.de/). Oczywiście są też autobusy i pociągi, za które można zapłacić także za pomocą aplikacji Leipzig MOVE.
 
 # Wymeldować się
 
@@ -184,7 +183,7 @@ Po zakończeniu odłóż go z powrotem do stacji ładującej!
 
 # Porady
 
-Dzięki aplikacji Leipzig MOVE zyskujesz 10 bezpłatnych przejazdów po 15 minut każdy_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
+Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych przejazdów po 15 minut każdy dla_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
 
 Przechowuję przewodniki turystyczne w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
 
