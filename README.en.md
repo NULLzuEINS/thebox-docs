@@ -41,7 +41,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### The following things are available to you
+### The following things are available in the kitchen
 
 1.  Herd
 2.  Kettle
@@ -60,9 +60,8 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ## Your room
 
-The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. If you replace the pillows on the couch with a mattress, it makes a good bed.
-
-You are welcome to use the computer and printer.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs.
+If you replace the pillows on the couch with a mattress, it works well as a bed.
 
 ### The login details for the computer (iMac) are
 
@@ -71,10 +70,10 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### The following things are available to you
+### The following things are available in the room
 
 1.  All furniture and beds
-2.  Computer
+2.  Computers & Printers
 3.  Remote controls for lights and electricity
 
 ### Remote controls
@@ -109,13 +108,13 @@ You are welcome to leave your shoes here. I also have a small notepad on the she
 
 There are Alexa voice assistants in the apartment. You can address them by the name “Computer” and have them play Deutschlandfunk Nova, for example. The devices are connected to the Internet and can also be used as alarm clocks or timers. If you don't want to use it, you can simply unplug it from the power supply.
 
-There are no voice assistants in your room. The basket on the shelf only contains the router and a small computer.
+In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
 
 ## temperature and humidity
 
 The temperature and humidity are automatically measured via the sensors. I use them to prevent mold formation. They are small and white and usually lie on door frames. You can read some of the measurement data in the mirror in the hallway.
 
-> Please make sure to ventilate regularly (at least once a day). Especially in the bathroom. Also make sure that the heating is turned off. Thank you 🙏
+?> Please make sure to ventilate regularly (at least once a day). Especially in the bathroom. Also make sure that the heating is turned off. Thank you 🙏
 
 ## The yard
 
@@ -142,7 +141,7 @@ If you believe the statistics, then the most bicycles per capita are stolen in L
 
 ### What alternatives are there?
 
-With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for them_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). And of course there are buses and trains that you can also pay for via the Leipzig MOVE app.
+With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for the_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). And of course there are buses and trains that you could also pay for via the Leipzig MOVE app.
 
 # Checkout
 
@@ -153,7 +152,7 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 
 ## cleaning
 
--   You can leave bedding on it.
+-   Bettzeug kannst Du drauf lassen.
 -   I also wash the dishes and
 -   I also take out the trash.
 
@@ -184,7 +183,7 @@ When it's finished, please put it back in the charging station!
 
 # Tips
 
-With the Leipzig MOVE app, you get 10 free rides of 15 minutes each_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces.
+With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for the_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces.
 
 I have stored travel guides in the AirBnB app. There you will find my recommendations for sights, bars and pubs, shopping opportunities and restaurants.
 
