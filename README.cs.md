@@ -93,7 +93,7 @@ Pro všechna dálková ovládání platí staré německé přísloví: „Zkou�
 
 ### koupelna
 
-Sprchu můžete používat ve stoje. Nevadí, když se půda trochu namočí. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
+Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
 
 Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
 
@@ -131,7 +131,7 @@ Buď použijete klíč od předních dveří, nebo sáhnete skrz bránu a nahmat
 
 ### Žlutá? Modrý? Zelená? Hnědý?
 
-Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jisti, odpadky vždy odkládejte do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
+Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jistí, vždy dávejte odpadky do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
 
 ### Cykly
 
@@ -142,7 +142,7 @@ Pokud věříte statistikám, tak v Lipsku se ročně ukradne nejvíce kol na hl
 
 ### Jaké alternativy existují?
 
-s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte za ně 10 jízd zdarma po 15 minutách_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmě existují také autobusy a vlaky, které můžete také zaplatit prostřednictvím aplikace Leipzig MOVE.
+s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte za ně 10 bezplatných jízd po 15 minutách_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmě existují také autobusy a vlaky, které můžete také zaplatit prostřednictvím aplikace Leipzig MOVE.
 
 # Překontrolovat
 
@@ -153,13 +153,13 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte za ně 10 jízd zd
 
 ## čištění
 
--   Můžete na něm nechat ložní prádlo.
+-   Můžete na něm nechat lůžkoviny.
 -   Také myji nádobí a
 -   Také vynáším odpadky.
 
 > Krátká verze: Nechte tam klíč, zavřete dveře, je to. 😀
 
-# Dlouhá zastávka
+# Delší pobyt
 
 Někteří z mých hostů zůstávají měsíc nebo déle. Pokud jste jedním z nich, pak je tato sekce určena právě vám!
 
@@ -167,9 +167,9 @@ Někteří z mých hostů zůstávají měsíc nebo déle. Pokud jste jedním z 
 
 Pračku můžete používat, aniž byste se museli nejprve ptát. Využít můžete i sušák, prací prášek a aviváž.
 
-## Ruční kartáč a nádoba na prach
+## Ruční kartáč a lopatka
 
-V kuchyni najdete na stěně kartáč na ruce a lopatku. To vám pomůže zbavit se drobných nečistot.
+V kuchyni najdete na zdi kartáč na ruce a lopatku. To vám pomůže zbavit se drobných nečistot.
 
 ## Otřete
 
