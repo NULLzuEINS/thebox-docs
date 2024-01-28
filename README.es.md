@@ -93,7 +93,7 @@ Un viejo dicho alemán se aplica a todos los mandos a distancia: "Intentar es me
 
 ### baño
 
-Puedes utilizar la ducha estando de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
+Puedes utilizar la ducha estando de pie. No importa si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
@@ -107,7 +107,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 ## Casa inteligente
 
-Hay asistentes de voz Alexa en el apartamento. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Los dispositivos están conectados a Internet y también pueden utilizarse como despertadores o temporizadores. Si no desea utilizarlo, simplemente puede desconectarlo de la corriente.
+Hay asistentes de voz Alexa en el apartamento. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Los dispositivos están conectados a Internet y también pueden utilizarse como despertadores o temporizadores. Si no desea utilizarlo, simplemente puede desconectarlo de la fuente de alimentación.
 
 No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene el enrutador y una pequeña computadora.
 
@@ -142,7 +142,7 @@ Si nos fijamos en las estadísticas, en Leipzig se roban cada año el mayor núm
 
 ### ¿Qué alternativas hay?
 
-Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para ellos_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[ciudadflitzer](https://cityflitzer.de/). Y, por supuesto, hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
+Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para ellos_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[ciudadflitzer](https://cityflitzer.de/). Y, por supuesto, también hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
 
 # Verificar
 
@@ -159,9 +159,34 @@ Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes g
 
 > Versión corta: Deja la llave ahí, cierra la puerta y listo. 😀
 
+# Larga estancia
+
+Algunos de mis invitados se quedan por un mes o más. Si eres uno de ellos, ¡esta sección es para ti!
+
+## lavadora
+
+Podrás utilizar la lavadora sin tener que preguntar primero. También puedes utilizar el tendedero, detergente en polvo y suavizante.
+
+## Cepillo de mano y recogedor
+
+En la cocina encontrarás un cepillo de mano y un recogedor en la pared. Esto te ayudará a deshacerte de la pequeña suciedad.
+
+## Limpiar
+
+Puedes encontrar un agente de limpieza verde en una botella con atomizador en el baño para trapear. Junto con el papel de cocina, se puede utilizar para limpiar superficies fácilmente.
+
+## aspiradora
+
+Tengo un robot aspirador para el suelo.
+Antes de que puedas comenzar, retira todo lo que esté en el suelo. Especialmente cables u otras cosas con las que el robot podría asfixiarse. Luego colóquelo en la habitación y presione el botón en la parte superior una vez. Si no sucede nada, utilice el interruptor de encendido/apagado que se encuentra en el lateral.
+
+Cuando haya terminado, ¡vuélvalo a colocar en la estación de carga!
+
 # Consejos
 
 Con la aplicación Leipzig MOVE obtendrás 10 viajes gratis de 15 minutos cada uno_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento.
+
+He almacenado guías de viaje en la aplicación AirBnB. Allí encontrará mis recomendaciones sobre lugares de interés, entretenimiento y restaurantes.
 
 # ¿Preguntas?
 
