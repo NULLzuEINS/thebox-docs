@@ -113,7 +113,7 @@ Passwort: thebox
 
 ## 온도와 습도
 
-온도와 습도는 센서를 통해 자동으로 측정됩니다. 곰팡이 발생을 방지하기 위해 사용합니다. 그들은 작고 흰색이며 일반적으로 문틀 위에 놓여 있습니다. 복도에 있는 거울을 통해 일부 측정 데이터를 읽을 수 있습니다.
+Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst Du im Spiegel im Flur ablesen.
 
 ?> 반드시 정기적으로(최소 하루 1회) 환기를 시켜주세요. 특히 화장실에서요. 또한 난방이 꺼져 있는지 확인하십시오. 감사합니다 🙏
 
@@ -177,12 +177,12 @@ Passwort: thebox
 
 ## 진공 청소기
 
-바닥 청소용 로봇 청소기가 있어요.
-시작하기 전에 바닥에 있는 모든 것을 방해가 되지 않도록 치우세요.
-특히 로봇이 질식할 수 있는 코드나 기타 물건.
-그런 다음 방에 놓고 상단의 버튼을 한 번 누르십시오.
-아무 일도 일어나지 않으면 옆면과 뒤에 있는 ON/OFF 스위치를 이용하세요.
-상단의 버튼을 사용하여 다시 켜세요.
+Für den Fußboden habe ich einen Staubsauger-Roboter.
+Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
+Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
+Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
+Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
+anschalten noch einmal auf den Knopf auf drt Oberseite.
 
 완료되면 다시 충전소에 꽂아주세요!
 
