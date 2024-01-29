@@ -22,6 +22,10 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: cs
+      - name: Adding README - Dutch
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: nl
       - name: Adding README - Greek
         uses: dephraiim/translate-readme@main
         with:
@@ -30,14 +34,26 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: es
+      - name: Adding README - Estonian
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: et
+      - name: Adding README - English
+        uses: dephraiim/translate-readme@main
+        with:
+            LANG: en
+      - name: Adding README - Finnish
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: fi
       - name: Adding README - French
         uses: dephraiim/translate-readme@main
         with:
           LANG: fr
-      - name: Adding README - English
+      - name: Adding README - Hindi
         uses: dephraiim/translate-readme@main
         with:
-          LANG: en
+          LANG: hi
       - name: Adding README - Japanese
         uses: dephraiim/translate-readme@main
         with:
@@ -58,10 +74,14 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: pt
-      - name: Adding README - Ukrainian
+      - name: Adding README - Romanian
         uses: dephraiim/translate-readme@main
         with:
-          LANG: uk
+          LANG: ro
+      - name: Adding README - Russian
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: ru
       - name: Adding README - Swedish
         uses: dephraiim/translate-readme@main
         with:
@@ -74,6 +94,10 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: tr
+      - name: Adding README - Ukrainian
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: uk
       - name: Adding README - Vietnamese
         uses: dephraiim/translate-readme@main
         with:

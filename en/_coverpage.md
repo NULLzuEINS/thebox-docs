@@ -10,15 +10,20 @@
 
 [🇨🇳](README.zh-CN.md) ‧
 [🇨🇿](README.cs.md) ‧
+[🇳🇱](README.nl.md) ‧
 [🇫🇷](README.fr.md) ‧
 [🇬🇧](README.en.md) ‧
+[🇪🇪](README.et.md) ‧
 [🇬🇷](README.el.md) ‧
 [🇪🇸](README.es.md) ‧
+[🇫🇮](README.fi.md) ‧
 [🇯🇵](README.ja.md) ‧
+[🇮🇳](README.hi.md) ‧
 [🇰🇷](README.ko.md) ‧
 [🇳🇴](README.no.md) ‧
 [🇵🇱](README.pl.md) ‧
 [🇷🇴](README.ro.md) ‧
+[🇷🇺](README.ru.md) ‧
 [🇸🇪](README.sv.md) ‧
 [🇷🇸](README.sr.md) ‧
 [🇹🇷](README.tr.md) ‧
