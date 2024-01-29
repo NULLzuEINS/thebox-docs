@@ -12,7 +12,7 @@
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Конфигурация с одной кроватью и диваном                                                | Конфигурация с двумя кроватями                                                | Рабочий стол                                                                            |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Schreibtisch mit Licht                                                                 | Кухонная плита                                                                | Кухня - чай                                                                             |
+| Стол со светом                                                                         | Кухонная плита                                                                | Кухня - чай                                                                             |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Стол со светом                                                                         | Кухонная плита                                                                | Кухня - чай                                                                             |
 
@@ -100,7 +100,7 @@ Alexa на стене называется «Компьютер» и также 
 
 ### Прихожая
 
-Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
+Вы можете оставить здесь свою обувь. Еще у меня на полке лежит небольшой блокнотик на случай, если ты захочешь мне что-нибудь сказать.
 
 # Разнообразный
 
