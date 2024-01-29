@@ -14,7 +14,7 @@ Na moim AirBnB otrzymasz szczegółowy przegląd wszystkich pokoi i udogodnień.
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
+| Biurko ze światłem                                                                     | Küche - Herd                                                                  | Kuchnia - herbata                                                                       |
 
 ## Klucz
 
@@ -131,7 +131,7 @@ Albo użyjesz klucza do drzwi wejściowych, albo sięgniesz przez bramę i poczu
 
 ### Żółty? Niebieski? Zielony? Brązowy?
 
-Zastanawiasz się dlaczego kosze na śmieci mają różne kolory? Jeżeli nie jesteś pewien, zawsze wrzucaj śmieci do zielonego kosza. Tam trafiają resztki odpadów. Profesjonaliści wrzucają odpady papierowe do niebieskiego pojemnika, surowce wtórne do żółtego, a odpady organiczne do brązowego.
+Du fragst Dich warum die Mülltonnen verschiedene Farben haben? Wenn Du dir unsicher bist, mach den Müll immer in die grüne Tonne. Darin landet der Restmüll. Profis machen den Papiermüll in die blaue Tonne, Wertstoffe in die gelbe Tonne und organische Abfälle in die braune Tonne.
 
 ### Cykle
 
@@ -197,7 +197,7 @@ Przewodniki turystyczne przechowuję w aplikacji AirBnB. Znajdziesz tam moje rek
 # Pytania?
 
 Jeśli masz jakieś pytania lub potrzebujesz wsparcia, chętnie Ci pomogę.
-Jeśli się spieszysz, najlepiej zrobić to telefonicznie <a href="tel:+491707353067">+49 170 73 53 067</a>.
+Jeśli się spieszysz, najlepiej zrobić to telefonicznie  <a href="tel:+491707353067">+49 170 73 53 067</a>.
 Możesz także skorzystać z preinstalowanej aplikacji komunikatora o ograniczonej funkcjonalności (SMS).
 W przeciwnym razie mam notatnik i długopis na korytarzu.
 
