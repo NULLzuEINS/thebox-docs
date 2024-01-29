@@ -4,7 +4,7 @@ Dobrý den a vítejte v „Boxu“! Když cestuji, také rád pobývám v AirBnB
 
 > [!Oznámení]Nechám dokument automaticky přeložit do vašeho jazyka. Doufám, že je to trochu srozumitelné. Pokud ne, klidně mi napište zprávu. Pak se to snažím zlepšit.
 
-## obrázky
+## Bilder
 
 Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zde je jen stručný přehled:
 
@@ -61,7 +61,7 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 ## Tvůj pokoj
 
 Matrace se pokládají na sebe pouze pro účely skladování. Můžete je distribuovat podle svých potřeb.
-Pokud vyměníte polštáře na gauči za matraci, je z toho dobrá postel.
+Pokud polštáře na gauči nahradíte matrací, funguje dobře jako postel.
 
 ### Přihlašovací údaje pro počítač (iMac) jsou
 
@@ -80,7 +80,7 @@ Passwort: thebox
 
 Pro všechna dálková ovládání platí staré německé přísloví: „Zkoušet je lepší než studovat“. Nemůžeš nic rozbít. Stiskněte několik tlačítek a uvidíte, co se stane. Pokud stále chcete studovat, zde je to správné čtení pro vás:
 
-| Ilustrace                                                 | Popis                                                                                                                                                                                                                                        |
+| Abbildung                                                 | Popis                                                                                                                                                                                                                                        |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Pohádková světla<br>C: Stolní lampa<br>D:_soubor_<br>Master: Přepněte vše současně                                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Než jej budete moci použít, ujistěte se, že je spínač světel u vchodu nastaven na „zapnuto“.**<br>První řádek: jas, zapnuto/vypnuto<br>Barevná tlačítka: Toto můžete použít ke změně barev<br>Šedá tlačítka: Přepínání mezi různými efekty |
@@ -131,7 +131,7 @@ Buď použijete klíč od předních dveří, nebo sáhnete skrz bránu a nahmat
 
 ### Žlutá? Modrý? Zelená? Hnědý?
 
-Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jisti, odpadky vždy odkládejte do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
+Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jistí, vždy dávejte odpadky do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
 
 ### Cykly
 
@@ -167,7 +167,7 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných j�
 
 Pračku můžete používat, aniž byste se museli nejprve ptát. Využít můžete i sušák, prací prášek a aviváž. Pokud byste chtěli nové ložní prádlo, stačí se mi domluvit.
 
-## Ruční kartáč a nádoba na prach
+## Ruční kartáč a lopatka
 
 V kuchyni najdete na stěně kartáč na ruce a lopatku. To vám pomůže zbavit se drobných nečistot.
 
@@ -194,7 +194,7 @@ Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích mís
 
 V aplikaci AirBnB mám uložené cestovní průvodce. Najdete tam moje doporučení na památky, bary a hospůdky, nákupní příležitosti a restaurace.
 
-# Otázky?
+# Fragen?
 
 Pokud máte nějaké dotazy nebo potřebujete podporu, rád vám pomohu.
 Pokud spěcháte, je nejlepší tak učinit telefonicky <a href="tel:+491707353067">+49 170 73 53 067</a>.
