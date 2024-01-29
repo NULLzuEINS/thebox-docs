@@ -20,14 +20,14 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 Vous obtenez deux paires de clés, chacune avec une clé pour le bas et une pour le haut. Il y a aussi une clé sur un porte-clés que vous pouvez utiliser pour verrouiller votre chambre.
 
-## accès Internet
+## Internetzugang
 
 ```txt
 SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Ou vous scannez ce QR code, il vous connectera automatiquement au réseau :
+Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -56,7 +56,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 
 1.  Le poêle ne fonctionne pas ? s'il te plaît dis
     > "Ordinateur, établi et"
-2.  Où puis-je me laver ? Cela ne fonctionne que dans la salle de bain. Il existe un récipient spécial pour laver la vaisselle.
+2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
 
 ## Ta chambre
 
@@ -153,7 +153,7 @@ Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficie
 
 ## nettoyage
 
--   Bettzeug kannst Du drauf lassen.
+-   Vous pouvez y laisser de la literie.
 -   Je fais aussi la vaisselle et
 -   Je sors aussi les poubelles.
 
@@ -201,7 +201,7 @@ Si vous êtes pressé, il est préférable de le faire par téléphone <a href=
 Vous pouvez également utiliser l'application de messagerie préinstallée avec des fonctionnalités limitées (SMS).
 Sinon, j'ai un bloc-notes et un stylo dans le couloir.
 
-Je vous souhaite un bon séjour à Leipzig !
+Ich wünsche einen schönen Aufenthalt in Leipzig!
 André
 
 * * *
