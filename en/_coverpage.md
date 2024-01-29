@@ -19,6 +19,7 @@
 [🇫🇮](README.fi.md) ‧
 [🇯🇵](README.ja.md) ‧
 [🇮🇳](README.hi.md) ‧
+[🇮🇹](README.it.md) ‧
 [🇰🇷](README.ko.md) ‧
 [🇳🇴](README.no.md) ‧
 [🇵🇱](README.pl.md) ‧
