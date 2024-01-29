@@ -76,7 +76,7 @@ Passwort: thebox
 2.  Ordinateurs et imprimantes
 3.  Télécommandes pour lumières et électricité
 
-### Télécommandes
+### Fernbedienungen
 
 Un vieux dicton allemand s'applique à toutes les télécommandes : « Mieux vaut essayer qu'étudier ». Vous ne pouvez rien casser. Appuyez sur quelques boutons et voyez ce qui se passe. Si vous souhaitez continuer à étudier, voici la lecture qui vous convient :
 
