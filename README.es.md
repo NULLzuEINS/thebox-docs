@@ -2,7 +2,7 @@
 
 ¡Hola y bienvenidos a la “Caja”! Cuando viajo, también me gusta quedarme en AirBnB y a veces desearía tener un papel con toda la información necesaria sobre el alojamiento, check-in y check-out y este es mi intento de mejorarlo.
 
-> [!Una noticia]Haré que el documento se traduzca automáticamente a su idioma. Espero que sea algo comprensible. Si no, no dudes en escribirme un mensaje. Luego trato de mejorarlo.
+> [!Hinweis]Haré que el documento se traduzca automáticamente a su idioma. Espero que sea algo comprensible. Si no, no dudes en escribirme un mensaje. Luego trato de mejorarlo.
 
 ## Fotos
 
@@ -35,7 +35,7 @@ O escaneas este código QR, te conectará automáticamente a la red:
 
 ![Raumplan](_media/thebox-map.png)
 
-## Küche
+## Cocina
 
 Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunadamente, solo se puede lavar en el lavabo del baño. Pero hay un recipiente especial para lavar los platos.
 
@@ -92,11 +92,11 @@ Un viejo dicho alemán se aplica a todos los mandos a distancia: "Intentar es me
 
 ### baño
 
-Puedes utilizar la ducha estando de pie. No importa si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
+Puedes utilizar la ducha estando de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
-Puedes colgar toallas en todos los ganchos y poner tus cosas en cualquier lugar. Hay un estante frente a la puerta del baño. Una parte es tuya.
+Puedes colgar toallas en todos los ganchos y poner tus cosas en cualquier lugar. Hay un estante frente a la puerta del baño. Uno de ellos es el tuyo.
 
 ### Pasillo
 
@@ -109,7 +109,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 Hay asistentes de voz Alexa en el baño y la cocina. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Entienden alemán y también inglés. Si no quieres usarlos,
 También puedes simplemente desconectarlo de la corriente.
 
-In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
+No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene el enrutador y una pequeña computadora.
 
 ## temperatura y humedad
 
@@ -186,7 +186,7 @@ enciéndelo nuevamente usando el botón en la parte superior.
 
 Cuando haya terminado, ¡vuélvalo a colocar en la estación de carga!
 
-# Consejos
+# Tipps
 
 Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para el_Siguientebicicletas_.
 Ten en cuenta que cuesta más si no aparcas el Raf en las calles principales (moradas en el mapa).
