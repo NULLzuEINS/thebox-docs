@@ -61,7 +61,7 @@ Passwort: landungsbruecken
 ## 你的房间
 
 床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。
-如果你把沙发上的垫子换成床垫，它就是一张好床。
+如果你把沙发上的枕头换成床垫，它就可以很好地充当床。
 
 ### 计算机 (iMac) 的登录详细信息是
 
@@ -92,11 +92,11 @@ Passwort: thebox
 
 ### 浴室
 
-您可以站着使用淋浴。如果地面有点湿也没有问题。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
+您可以站着使用淋浴。地面稍微湿一点也没关系。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
 
 墙上的 Alexa 名称为“计算机”，还可以播放您最喜欢的音乐或收音机。例如“_电脑上，玩 Deutschlandfunk Nova_"
 
-您可以将毛巾挂在所有挂钩上，并将物品放在任何地方。浴室门前有一个架子。其中之一就是你的。
+您可以将毛巾挂在所有挂钩上，并将物品放在任何地方。浴室门前有一个架子。其中一件是你的。
 
 ### 门厅
 
@@ -177,12 +177,12 @@ Passwort: thebox
 
 ## 吸尘器
 
-我有一个扫地机器人。
-在开始之前，请清理地板上的所有物品。
-尤其是绳子或其他可能会导致机器人窒息的东西。
-然后将其放入您的房间并按一次顶部的按钮。
-如果没有任何反应，请使用侧面和后面的开关
-使用顶部的按钮再次打开它。
+Für den Fußboden habe ich einen Staubsauger-Roboter.
+Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
+Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
+Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
+Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
+anschalten noch einmal auf den Knopf auf drt Oberseite.
 
 使用完毕后，请将其放回充电座！
 
