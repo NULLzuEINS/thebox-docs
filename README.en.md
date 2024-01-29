@@ -12,7 +12,7 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | One bed configuration with couch                                                       | Two bed configuration                                                         | Desk                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Desk with light                                                                        | Küche - Herd                                                                  | Kitchen - tea                                                                           |
+| Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
 
@@ -76,7 +76,7 @@ Passwort: thebox
 2.  Computers & Printers
 3.  Remote controls for lights and electricity
 
-### Remote controls
+### Fernbedienungen
 
 An old German saying applies to all remote controls: “Trying is better than studying”. You can't break anything. Press a few buttons and see what happens. If you still want to study, here is the right reading for you:
 
@@ -171,7 +171,7 @@ You can use the washing machine without having to ask first. You can also use th
 
 In the kitchen you will find a hand brush and a dustpan on the wall. This will help you get rid of the small dirt.
 
-## Wischen
+## Wipe
 
 You can find green cleaning agent in a spray bottle in the bathroom for mopping. Together with the kitchen paper, this can be used to clean surfaces easily.
 
