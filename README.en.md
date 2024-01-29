@@ -92,11 +92,11 @@ An old German saying applies to all remote controls: “Trying is better than st
 
 ### bathroom
 
-You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
-You can hang towels on all hooks and put your things anywhere.
+You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One piece of it is yours.
 
 ### Hallway
 
@@ -106,7 +106,8 @@ You are welcome to leave your shoes here. I also have a small notepad on the she
 
 ## Smart Home
 
-There are Alexa voice assistants in the apartment. You can address them by the name “Computer” and have them play Deutschlandfunk Nova, for example. The devices are connected to the Internet and can also be used as alarm clocks or timers. If you don't want to use it, you can simply unplug it from the power supply.
+There are Alexa voice assistants in the bathroom and kitchen. You can address them by the name “Computer” and have them play Deutschlandfunk Nova, for example. They understand German and also English. If you don't want to use them,
+You can also simply disconnect it from the power.
 
 There are no voice assistants in your room. The basket on the shelf only contains the router and a small computer.
 
@@ -166,7 +167,7 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 
 You can use the washing machine without having to ask first. You can also use the drying rack, washing powder and fabric softener. If you would like new bed linen, just talk to me.
 
-## Hand brush and dustpan
+## Hand brush and dust pan
 
 In the kitchen you will find a hand brush and a dustpan on the wall. This will help you get rid of the small dirt.
 
