@@ -142,7 +142,7 @@ Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje 
 
 ### Vilka alternativ finns det?
 
-Mit der [Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser. Det finns också ett friflytande bildelningssystem. Det betyder med oss[cityflitzer](https://cityflitzer.de/). Och självklart finns det bussar och tåg som du också kan betala för via Leipzig MOVE-appen.
+Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser. Det finns också ett friflytande bildelningssystem. Det betyder med oss[cityflitzer](https://cityflitzer.de/). Och självklart finns det bussar och tåg som du också kan betala för via Leipzig MOVE-appen.
 
 # Kolla upp
 
