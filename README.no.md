@@ -129,7 +129,7 @@ Enten bruker du hoveddørnøkkelen, eller så strekker du deg gjennom porten og 
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
-### Gul? Blå? Grønn? Brun?
+### Gelb? Blau? Grün? Braun?
 
 Lurer du på hvorfor søppeldunkene har forskjellige farger? Hvis du er usikker, legg alltid søppelet i den grønne søppelbøtta. Der havner restavfallet. Fagfolk legger papiravfall i den blå dunken, resirkulerbart i den gule dunken og organisk avfall i den brune dunken.
 
@@ -142,7 +142,7 @@ Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hver
 
 ### Hvilke alternativer finnes?
 
-Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser. Det er også et gratis-flytende bildelingssystem. Det betyr med oss[cityflitzer](https://cityflitzer.de/). Und gibt es natürlich noch Bus und Bahn welche Du ebenfalls über die Leipzig MOVE App bezahlen könnte.
+Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser. Det er også et gratis-flytende bildelingssystem. Det betyr med oss[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er det busser og tog som du også kan betale for via Leipzig MOVE-appen.
 
 # Sjekk ut
 
@@ -173,7 +173,7 @@ På kjøkkenet finner du en håndbørste og en feiebrett på veggen. Dette vil h
 
 ## Tørke
 
-Zum Wischen findest du im Bad grünes Reinigungsmittel in einer Sprühflasche. Zusammen mit dem Küchenpapier lassen sich hiermit Oberflächen gut säubern.
+Du kan finne grønt rengjøringsmiddel i en sprayflaske på badet for mopping. Sammen med kjøkkenpapiret kan dette brukes til å rengjøre overflater enkelt.
 
 ## Støvsuger
 
