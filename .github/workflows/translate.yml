@@ -22,6 +22,10 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: cs
+      - name: Adding README - Danish
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: da
       - name: Adding README - Dutch
         uses: dephraiim/translate-readme@main
         with:
