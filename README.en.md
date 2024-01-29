@@ -61,7 +61,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 ## Your room
 
 The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs.
-If you replace the cushions on the couch with a mattress, it makes a good bed.
+If you replace the pillows on the couch with a mattress, it works well as a bed.
 
 ### The login details for the computer (iMac) are
 
@@ -167,7 +167,7 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 
 You can use the washing machine without having to ask first. You can also use the drying rack, washing powder and fabric softener. If you would like new bed linen, just talk to me.
 
-## Hand brush and dust pan
+## Hand brush and dustpan
 
 In the kitchen you will find a hand brush and a dustpan on the wall. This will help you get rid of the small dirt.
 
