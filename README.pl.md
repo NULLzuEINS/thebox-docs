@@ -92,21 +92,22 @@ Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować n
 
 ### łazienka
 
-Z prysznica można korzystać na stojąco. Nie stanowi to problemu, jeśli ziemia lekko zamoknie. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
+Z prysznica można korzystać na stojąco. Nie ma znaczenia, jeśli ziemia będzie trochę mokra. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
 
 Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Komputerze, włącz Deutschlandfunk Nova_"
 
-Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu.
+Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jedna jego część jest Twoja.
 
 ### Korytarz
 
-Zapraszamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
+Zachęcamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
 
 # Różnorodny
 
 ## Inteligentny dom
 
-W mieszkaniu znajdują się asystenci głosowi Alexa. Możesz zwrócić się do nich nazwą „Komputer” i na przykład poprosić ich o zagranie w Deutschlandfunk Nova. Urządzenia są podłączone do Internetu i mogą służyć również jako budziki lub timery. Jeśli nie chcesz go używać, możesz po prostu odłączyć go od źródła zasilania.
+W łazience i kuchni znajdują się asystenci głosowi Alexa. Możesz zwrócić się do nich nazwą „Komputer” i na przykład poprosić ich o zagranie w Deutschlandfunk Nova. Rozumieją niemiecki i angielski. Jeśli nie chcesz z nich korzystać,
+Można go także po prostu odłączyć od zasilania.
 
 W Twoim pokoju nie ma asystentów głosowych. W koszyku na półce mieści się tylko router i mały komputer.
 
@@ -150,7 +151,7 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych prz
 -   W zależności od tego, jaki jest dzień tygodnia, możemy pożegnać się osobiście lub po prostu odłożyć klucze na biurko i zamknąć za sobą drzwi.
 -   Najpóźniejszy termin wymeldowania to godzina 19:00 w dniu wyjazdu.
 
-## Czyszczenie
+## czyszczenie
 
 -   Można na nim zostawić pościel.
 -   Zmywam też naczynia i
@@ -166,7 +167,7 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych prz
 
 Możesz korzystać z pralki bez konieczności wcześniejszego pytania. Możesz także użyć suszarki, proszku do prania i płynu zmiękczającego do tkanin. Jeśli chcesz nową pościel, po prostu porozmawiaj ze mną.
 
-## Ręczna szczotka i szufelka
+## Szczotka ręczna i pojemnik na kurz
 
 W kuchni znajdziesz ręczną szczotkę i szufelkę na ścianie. Dzięki temu pozbędziesz się drobnych zabrudzeń.
 
@@ -185,13 +186,13 @@ włącz go ponownie za pomocą przycisku na górze.
 
 Po zakończeniu odłóż go z powrotem do stacji ładującej!
 
-# Wskazówki
+# Porady
 
 Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych przejazdów po 15 minut każdy dla_Następnerowery_.
 Pamiętaj, że kosztuje to więcej, jeśli nie parkujesz Rafa na głównych ulicach (fioletowy na mapie).
 Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
 
-Przechowuję przewodniki turystyczne w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
+Przewodniki turystyczne przechowuję w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
 
 # Pytania?
 
