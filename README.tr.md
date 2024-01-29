@@ -61,7 +61,7 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 ## Senin odan
 
 Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz.
-Kanepedeki minderleri şilteyle değiştirirseniz iyi bir yatak olur.
+Kanepedeki yastıkları şilteyle değiştirirseniz yatak olarak işe yarar.
 
 ### Bilgisayarın (iMac) oturum açma ayrıntıları şunlardır:
 
@@ -78,7 +78,7 @@ Passwort: thebox
 
 ### Uzaktan kumandalar
 
-Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek çalışmaktan iyidir”. Hiçbir şeyi kıramazsınız. Birkaç düğmeye basın ve ne olacağını görün. Hala ders çalışmak istiyorsanız işte size uygun okumalar:
+Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek çalışmaktan iyidir”. Hiçbir şeyi kıramazsın. Birkaç düğmeye basın ve ne olacağını görün. Hala ders çalışmak istiyorsanız işte size uygun okumalar:
 
 | İllüstrasyon                                              | Tanım                                                                                                                                                                                                                                                 |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -138,11 +138,11 @@ Ya ön kapının anahtarını kullanırsınız ya da kapıdan içeri girip kapı
 ### Bisikletim güvende mi?
 
 Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı sayesinde birçok yere ulaşabilir ve genellikle kırsal kesimden geçebilirsiniz.
-İstatistiklere inanıyorsanız, her yıl kişi başına en fazla bisikletin çalındığı yer Leipzig'dir. (100.000 kişi başına 1.539 çalıntı bisiklet) Hardenbergstraße'de yaşadığım 15 yıldan bu yana hiç bisikletim çalınmadı ve sadece arka bahçesinden bisikleti çalınan bir komşu tanıyorum. Her zaman doğrudan korkuluğa bağlarım.
+İstatistiklere inanıyorsanız, her yıl kişi başına en fazla bisikletin çalındığı yer Leipzig'dir. (100.000 kişi başına 1.539 çalıntı bisiklet) Hardenbergstraße'de yaşadığım 15 yıldan bu yana hiç bisikletim çalınmadı ve arka bahçesinden bisikleti çalınan sadece bir komşu tanıyorum. Her zaman doğrudan korkuluğa bağlarım.
 
 ### Hangi alternatifler var?
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
 
 # Çıkış yapmak
 
@@ -167,7 +167,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 Çamaşır makinesini sormanıza gerek kalmadan kullanabilirsiniz. Kurutma rafını, çamaşır tozunu ve yumuşatıcıyı da kullanabilirsiniz. Yeni nevresimler istiyorsanız benimle konuşmanız yeterli.
 
-## El fırçası ve toz tavası
+## El fırçası ve faraş
 
 Mutfakta duvarda bir el fırçası ve faraş bulacaksınız. Bu, küçük kirlerden kurtulmanıza yardımcı olacaktır.
 
