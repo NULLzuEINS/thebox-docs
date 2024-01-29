@@ -92,11 +92,11 @@ Pro všechna dálková ovládání platí staré německé přísloví: „Zkou�
 
 ### koupelna
 
-Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
+Sprchu můžete používat ve stoje. Nevadí, když se půda trochu namočí. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
 
 Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
 
-Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli.
+Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli. Před dveřmi do koupelny je polička. Jeden kousek je váš.
 
 ### Chodba
 
@@ -106,7 +106,8 @@ Zde si můžete nechat boty. Na poličce mám také malý poznámkový blok, kdy
 
 ## Chytrý domov
 
-V bytě jsou hlasoví asistenti Alexa. Můžete je oslovovat „Computer“ a nechat je hrát například Deutschlandfunk Nova. Zařízení jsou připojena k internetu a lze je použít i jako budíky nebo časovače. Pokud jej nechcete používat, můžete jej jednoduše odpojit od napájení.
+V koupelně a kuchyni jsou hlasoví asistenti Alexa. Můžete je oslovovat „Computer“ a nechat je hrát například Deutschlandfunk Nova. Rozumí německy a také anglicky. Pokud je nechcete používat,
+Můžete jej také jednoduše odpojit od napájení.
 
 Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje pouze router a malý počítač.
 
@@ -130,7 +131,7 @@ Buď použijete klíč od předních dveří, nebo sáhnete skrz bránu a nahmat
 
 ### Žlutá? Modrý? Zelená? Hnědý?
 
-Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jistí, vždy dávejte odpadky do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
+Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jisti, odpadky vždy odkládejte do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
 
 ### Cykly
 
@@ -152,7 +153,7 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných j�
 
 ## čištění
 
--   Můžete na něm nechat lůžkoviny.
+-   Můžete na něm nechat ložní prádlo.
 -   Také myji nádobí a
 -   Také vynáším odpadky.
 
@@ -166,9 +167,9 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných j�
 
 Pračku můžete používat, aniž byste se museli nejprve ptát. Využít můžete i sušák, prací prášek a aviváž. Pokud byste chtěli nové ložní prádlo, stačí se mi domluvit.
 
-## Ruční kartáč a lopatka
+## Ruční kartáč a nádoba na prach
 
-V kuchyni najdete na zdi kartáč na ruce a lopatku. To vám pomůže zbavit se drobných nečistot.
+V kuchyni najdete na stěně kartáč na ruce a lopatku. To vám pomůže zbavit se drobných nečistot.
 
 ## Otřete
 
