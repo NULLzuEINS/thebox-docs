@@ -23,7 +23,7 @@
 [🇰🇷](README.ko.md "Korean") ‧
 [🇳🇴](README.no.md "Norwegian") ‧
 [🇵🇱](README.pl.md "Polish") ‧
-[🇵🇱](README.pt.md "Portuguese") ‧
+[🇵🇹](README.pt.md "Portuguese") ‧
 [🇷🇴](README.ro.md "Romanian") ‧
 [🇷🇺](README.ru.md "Russian") ‧
 [🇪🇸](README.es.md "Spanish") ‧
