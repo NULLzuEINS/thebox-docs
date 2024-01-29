@@ -18,7 +18,7 @@ Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zd
 
 ## Klíč
 
-Získáte dva páry klíčů, každý s jedním klíčem pro spodní a jedním pro horní. Na klíčence je také klíč, kterým můžete zamknout svůj pokoj.
+Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du Dein Zimmer abschließen kannst.
 
 ## Přístup na internet
 
@@ -61,7 +61,7 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 ## Tvůj pokoj
 
 Matrace se pokládají na sebe pouze pro účely skladování. Můžete je distribuovat podle svých potřeb.
-Pokud vyměníte polštáře na gauči za matraci, je z toho dobrá postel.
+Pokud polštáře na gauči nahradíte matrací, funguje dobře jako postel.
 
 ### Přihlašovací údaje pro počítač (iMac) jsou
 
@@ -92,11 +92,11 @@ Pro všechna dálková ovládání platí staré německé přísloví: „Zkou�
 
 ### koupelna
 
-Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
+Sprchu můžete používat ve stoje. Nevadí, když se půda trochu namočí. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
 
 Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
 
-Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli. Před dveřmi do koupelny je polička. Jeden z nich je váš.
+Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli. Před dveřmi do koupelny je polička. Jeden kousek je váš.
 
 ### Chodba
 
@@ -111,7 +111,7 @@ Můžete jej také jednoduše odpojit od napájení.
 
 Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje pouze router a malý počítač.
 
-## Temperatur und Feuchtigkeit
+## teplota a vlhkost
 
 Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, abych zabránil tvorbě plísní. Jsou malé a bílé a obvykle leží na rámech dveří. Některá naměřená data si můžete přečíst v zrcadle na chodbě.
 
@@ -153,7 +153,7 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných j�
 
 ## čištění
 
--   Můžete na něm nechat lůžkoviny.
+-   Můžete na něm nechat ložní prádlo.
 -   Také myji nádobí a
 -   Také vynáším odpadky.
 
