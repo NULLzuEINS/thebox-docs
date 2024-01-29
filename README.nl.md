@@ -18,7 +18,7 @@ Op mijn AirBnB krijg je een gedetailleerd overzicht van alle kamers en de facili
 
 ## Sleutel
 
-Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du Dein Zimmer abschließen kannst.
+Je krijgt twee paar sleutels, elk met één sleutel voor de onderkant en één voor de bovenkant. Er zit ook een sleutel aan een sleutelhanger waarmee u uw kamer kunt afsluiten.
 
 ## internet toegang
 
@@ -102,7 +102,7 @@ Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor
 
 U kunt uw schoenen hier achterlaten. Ik heb ook een klein notitieboekje op de plank liggen, voor het geval je me iets wilt vertellen.
 
-# Sonstiges
+# Gemengd
 
 ## Slimme woning
 
@@ -159,7 +159,7 @@ Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten va
 
 > Korte versie: Laat de sleutel daar liggen, sluit de deur, dat is alles. 😀
 
-# Längerer Aufenthalt
+# Langer verblijf
 
 ?> Sommige van mijn gasten blijven een maand of langer. Als jij een van hen bent, dan is deze sectie iets voor jou!
 
@@ -201,7 +201,7 @@ Als u haast heeft, kunt u dit het beste telefonisch doen <a href="tel:+49170735
 U kunt ook de vooraf geïnstalleerde messenger-app met beperkte functionaliteit (SMS) gebruiken.
 Anders heb ik een notitieblok en een pen in de gang.
 
-Ich wünsche einen schönen Aufenthalt in Leipzig!
+Ik wens u een prettig verblijf in Leipzig!
 André
 
 * * *
