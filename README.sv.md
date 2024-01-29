@@ -2,8 +2,7 @@
 
 Hej och välkommen till "Boxen"! När jag reser gillar jag också att bo i AirBnB's och ibland önskar jag att jag hade ett papper med all nödvändig information om boendet, in- och utcheckning och detta är mitt försök att göra det bättre.
 
-> [!En notis]
-> Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
+> [!En notis]Jag kommer att få dokumentet automatiskt översatt till ditt språk. Jag hoppas att det är lite förståeligt. Om inte, skriv gärna ett meddelande till mig. Då försöker jag förbättra det.
 
 ## Bilder
 
