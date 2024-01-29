@@ -48,7 +48,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 3.  Naczynia sztućce
 4.  Lodówka
 5.  piec do pizzy
-6.  Mineralwasser
+6.  Woda mineralna
 7.  Stacja ładowania telefonów komórkowych na półce
 8.  pralka
 
@@ -70,7 +70,7 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Folgende Dinge stehen im Zimmer zur Verfügung
+### W pokoju dostępne są następujące rzeczy
 
 1.  Wszystkie meble i łóżka
 2.  Komputery i drukarki
@@ -92,15 +92,15 @@ Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować n
 
 ### łazienka
 
-Z prysznica można korzystać na stojąco. Nie ma znaczenia, jeśli ziemia będzie trochę mokra. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
+Z prysznica można korzystać na stojąco. Nie stanowi to problemu, jeśli ziemia lekko zamoknie. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
 
 Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Komputerze, włącz Deutschlandfunk Nova_"
 
-Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jedna jego część jest Twoja.
+Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jeden z nich jest Twój.
 
 ### Korytarz
 
-Zachęcamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
+Zapraszamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
 
 # Różnorodny
 
@@ -192,14 +192,14 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych prz
 Pamiętaj, że kosztuje to więcej, jeśli nie parkujesz Rafa na głównych ulicach (fioletowy na mapie).
 Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
 
-Przewodniki turystyczne przechowuję w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
+Przechowuję przewodniki turystyczne w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
 
 # Pytania?
 
 Jeśli masz jakieś pytania lub potrzebujesz wsparcia, chętnie Ci pomogę.
 Jeśli się spieszysz, najlepiej zrobić to telefonicznie <a href="tel:+491707353067">+49 170 73 53 067</a>.
-Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS).
-Ansonsten habe ich im Flur einen Notizblock und einen Stift.
+Możesz także skorzystać z preinstalowanej aplikacji komunikatora o ograniczonej funkcjonalności (SMS).
+W przeciwnym razie mam notatnik i długopis na korytarzu.
 
 Życzę miłego pobytu w Lipsku!
 Andre
