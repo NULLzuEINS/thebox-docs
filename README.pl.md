@@ -12,9 +12,9 @@ Na moim AirBnB otrzymasz szczegółowy przegląd wszystkich pokoi i udogodnień.
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Konfiguracja z jednym łóżkiem i kanapą                                                 | Konfiguracja z dwoma łóżkami                                                  | Biurko                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
-| ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Biurko ze światłem                                                                     | Küche - Herd                                                                  | Kuchnia - herbata                                                                       |
+| ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
+| Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
 
 ## Klucz
 
@@ -92,15 +92,15 @@ Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować n
 
 ### łazienka
 
-Z prysznica można korzystać na stojąco. Nie ma znaczenia, jeśli ziemia będzie trochę mokra. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
+Z prysznica można korzystać na stojąco. Nie stanowi to problemu, jeśli ziemia lekko zamoknie. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
 
 Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Komputerze, włącz Deutschlandfunk Nova_"
 
-Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jedna jego część jest Twoja.
+Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jeden z nich jest Twój.
 
 ### Korytarz
 
-Zachęcamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
+Zapraszamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
 
 # Różnorodny
 
@@ -131,7 +131,7 @@ Albo użyjesz klucza do drzwi wejściowych, albo sięgniesz przez bramę i poczu
 
 ### Żółty? Niebieski? Zielony? Brązowy?
 
-Du fragst Dich warum die Mülltonnen verschiedene Farben haben? Wenn Du dir unsicher bist, mach den Müll immer in die grüne Tonne. Darin landet der Restmüll. Profis machen den Papiermüll in die blaue Tonne, Wertstoffe in die gelbe Tonne und organische Abfälle in die braune Tonne.
+Zastanawiasz się dlaczego kosze na śmieci mają różne kolory? Jeżeli nie jesteś pewien, zawsze wrzucaj śmieci do zielonego kosza. Tam trafiają resztki odpadów. Profesjonaliści wrzucają odpady papierowe do niebieskiego pojemnika, surowce wtórne do żółtego, a odpady organiczne do brązowego.
 
 ### Cykle
 
@@ -192,12 +192,12 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych prz
 Pamiętaj, że kosztuje to więcej, jeśli nie parkujesz Rafa na głównych ulicach (fioletowy na mapie).
 Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
 
-Przewodniki turystyczne przechowuję w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
+Przechowuję przewodniki turystyczne w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
 
 # Pytania?
 
 Jeśli masz jakieś pytania lub potrzebujesz wsparcia, chętnie Ci pomogę.
-Jeśli się spieszysz, najlepiej zrobić to telefonicznie  <a href="tel:+491707353067">+49 170 73 53 067</a>.
+Jeśli się spieszysz, najlepiej zrobić to telefonicznie <a href="tel:+491707353067">+49 170 73 53 067</a>.
 Możesz także skorzystać z preinstalowanej aplikacji komunikatora o ograniczonej funkcjonalności (SMS).
 W przeciwnym razie mam notatnik i długopis na korytarzu.
 
