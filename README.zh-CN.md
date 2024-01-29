@@ -37,13 +37,13 @@ Passwort: landungsbruecken
 
 ## 厨房
 
-由于我通常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗漱只能在浴室的水槽里进行。但有一个专门的容器可以用来清洗。
+由于我经常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗碗只能在浴室的水槽里进行。但有一个专门的容器可以用来清洗。
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
 ### 厨房里有以下物品
 
-1.  Herd
+1.  一群
 2.  壶
 3.  餐具餐具
 4.  冰箱
@@ -92,15 +92,15 @@ Passwort: thebox
 
 ### 浴室
 
-您可以站着使用淋浴。如果地面有点湿也没有问题。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
+您可以站着使用淋浴。地面稍微湿一点也没关系。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
 
 墙上的 Alexa 名称为“计算机”，还可以播放您最喜欢的音乐或收音机。例如“_电脑上，玩 Deutschlandfunk Nova_"
 
-您可以将毛巾挂在所有挂钩上，并将物品放在任何地方。浴室门前有一个架子。其中之一就是你的。
+您可以将毛巾挂在所有挂钩上，并将物品放在任何地方。浴室门前有一个架子。其中一件是你的。
 
 ### 门厅
 
-欢迎您把鞋子留在这里。我的架子上还有一个小记事本，以防你想告诉我一些事情。
+欢迎您把鞋子留在这里。我的架子上还有一个小记事本，方便你告诉我一些事情。
 
 # 各种各样的
 
@@ -137,8 +137,8 @@ Passwort: thebox
 
 ### 我的自行车安全吗？
 
-莱比锡是一个非常适合骑自行车的城市。通过将城市分为两半的大型城市公园，您可以到达许多地方，通常开车穿过乡村。
-如果您相信统计数据，那么莱比锡每年的人均自行车被盗数量最多。 （每 100,000 名居民就有 1,539 辆自行车被盗）自从我住在 Hardenbergstraße 以来的 15 年里，我从未遇到过自行车被盗的情况，我只知道一位邻居的自行车在他的后院被盗。我总是将它直接连接到栏杆上。
+Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
+Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
 
 ### 还有哪些替代方案？
 
