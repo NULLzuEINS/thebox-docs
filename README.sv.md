@@ -54,7 +54,7 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 ### FAQ - Kök
 
-1.  Kaminen fungerar inte? snälla säg
+1.  Fungerar inte kaminen? snälla säg
     > "Dator, arbetsbänk och"
 2.  Var kan jag diska? Detta fungerar bara i badrummet. Det finns en speciell behållare för att diska.
 
@@ -92,11 +92,11 @@ Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre
 
 ### badrum
 
-Du kan använda duschen stående. Det är inga problem om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
+Du kan använda duschen stående. Det spelar ingen roll om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
 
 Alexa på väggen går under namnet "Dator" och spelar även din favoritmusik eller radio. T.ex. "_Dator, spela Deutschlandfunk Nova_"
 
-Du kan hänga handdukar på alla krokar och ställa dina saker var som helst.
+Du kan hänga handdukar på alla krokar och ställa dina saker var som helst. Det finns en hylla framför badrumsdörren. En del av den är din.
 
 ### Hall
 
@@ -106,7 +106,8 @@ Du är välkommen att lämna dina skor här. Jag har även ett litet antecknings
 
 ## Smart hem
 
-Det finns Alexa röstassistenter i lägenheten. Du kan tilltala dem med namnet "Dator" och låta dem spela Deutschlandfunk Nova, till exempel. Enheterna är anslutna till internet och kan även användas som väckarklockor eller timers. Om du inte vill använda den kan du helt enkelt koppla bort den från strömförsörjningen.
+Det finns Alexa röstassistenter i badrummet och köket. Du kan tilltala dem med namnet "Dator" och låta dem spela Deutschlandfunk Nova, till exempel. De förstår tyska och även engelska. Om du inte vill använda dem,
+Du kan också helt enkelt koppla bort den från strömmen.
 
 Det finns inga röstassistenter i ditt rum. Korgen på hyllan innehåller bara routern och en liten dator.
 
@@ -118,7 +119,7 @@ Temperaturen och luftfuktigheten mäts automatiskt via sensorerna. Jag använder
 
 ## Gården
 
-In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
+På vår innergård kan du koppla ihop dina cyklar och ta bort ditt skräp.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
@@ -136,8 +137,8 @@ Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid 
 
 ### Är min cykel säker?
 
-Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många ställen och brukar köra genom landsbygden.
-Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 åren sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
+Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många platser och brukar köra genom landsbygden.
+Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 år sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
 
 ### Vilka alternativ finns det?
 
@@ -147,14 +148,14 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 ## Nyckel
 
--   Beroende på vilken veckodag det är kan vi säga hejdå personligen eller så kan du helt enkelt lägga nycklarna på skrivbordet och stänga dörren efter dig.
+-   Beroende på vilken veckodag det är kan vi säga hejdå personligen, eller så kan du helt enkelt lägga nycklarna på skrivbordet och stänga dörren efter dig.
 -   Senaste tid för utcheckning är 19.00 på avresedagen.
 
 ## rengöring
 
 -   Du kan lämna sängkläder på den.
 -   Jag diskar också och
--   Jag tar också ut soporna.
+-   den Müll bring ich auch raus.
 
 > Kortversion: Lämna nyckeln där, stäng dörren, så är det. 😀
 
@@ -166,7 +167,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 Du kan använda tvättmaskinen utan att behöva fråga först. Du kan också använda torkställning, tvättpulver och sköljmedel. Om du vill ha nya sängkläder är det bara att prata med mig.
 
-## Handborste och sopskanna
+## Handborste och dammpanna
 
 I köket hittar du en handborste och en soptunna på väggen. Detta hjälper dig att bli av med den lilla smutsen.
 
