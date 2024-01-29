@@ -137,8 +137,8 @@ Passwort: thebox
 
 ### 我的自行车安全吗？
 
-Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
-Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
+莱比锡是一个非常适合骑自行车的城市。通过将城市分为两半的大型城市公园，您可以到达许多地方，通常开车穿过乡村。
+如果您相信统计数据，那么莱比锡每年的人均自行车被盗数量最多。 （每 100,000 名居民就有 1,539 辆自行车被盗）自从我住在 Hardenbergstraße 以来的 15 年里，我从未遇到过自行车被盗的情况，而且我只知道一位邻居的自行车在自家后院被盗。我总是将它直接连接到栏杆上。
 
 ### 还有哪些替代方案？
 
