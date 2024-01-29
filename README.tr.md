@@ -129,7 +129,7 @@ Ya ön kapının anahtarını kullanırsınız ya da kapıdan içeri girip kapı
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
-### Sarı? Mavi? Yeşil? Kahverengi?
+### Gelb? Blau? Grün? Braun?
 
 Çöp kutularının neden farklı renklerde olduğunu merak ediyor musunuz? Emin değilseniz çöpü her zaman yeşil çöp kutusuna atın. Geriye kalan atıklar orada bitiyor. Profesyoneller kağıt atıklarını mavi çöp kutusuna, geri dönüştürülebilir atıkları sarı çöp kutusuna ve organik atıkları kahverengi çöp kutusuna koyuyor.
 
@@ -186,7 +186,7 @@ Hiçbir şey olmazsa yan taraftaki açma/kapama düğmesini kullanın ve ardınd
 
 Bittiğinde lütfen şarj istasyonuna geri koyun!
 
-# Tipps
+# İpuçları
 
 İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_.
 Raf'ı ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın.
