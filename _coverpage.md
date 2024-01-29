@@ -8,22 +8,30 @@
 
 <div style="font-size: 1.6rem">
 
-[🇨🇳](README.zh-CN.md) ‧
-[🇨🇿](README.cs.md) ‧
-[🇫🇷](README.fr.md) ‧
-[🇬🇧](README.en.md) ‧
-[🇬🇷](README.el.md) ‧
-[🇪🇸](README.es.md) ‧
-[🇯🇵](README.ja.md) ‧
-[🇰🇷](README.ko.md) ‧
-[🇳🇴](README.no.md) ‧
-[🇵🇱](README.pl.md) ‧
-[🇵🇹](README.pt.md) ‧
-[🇷🇴](README.ro.md) ‧
-[🇸🇪](README.sv.md) ‧
-[🇷🇸](README.sr.md) ‧
-[🇹🇷](README.tr.md) ‧
-[🇺🇦](README.uk.md) ‧
-[🇻🇳](README.vi.md)
+[🇨🇳](README.zh-CN.md "Chinese (Simplified)") ‧
+[🇨🇿](README.cs.md "Czech") ‧
+[🇩🇰](README.da.md "Danish") ‧
+[🇳🇱](README.nl.md "Dutch") ‧
+[🇫🇷](README.fr.md "French") ‧
+[🇬🇧](README.en.md "English") ‧
+[🇪🇪](README.et.md "Estonian") ‧
+[🇬🇷](README.el.md "Greek") ‧
+[🇫🇮](README.fi.md "Finnish") ‧
+[🇮🇳](README.hi.md "Hindi") ‧
+[🇮🇹](README.it.md "Italian") ‧
+[🇯🇵](README.ja.md "Japanese") ‧
+[🇰🇷](README.ko.md "Korean") ‧
+[🇳🇴](README.no.md "Norwegian") ‧
+[🇵🇱](README.pl.md "Polish") ‧
+[🇵🇱](README.pt.md "Portuguese") ‧
+[🇷🇴](README.ro.md "Romanian") ‧
+[🇷🇺](README.ru.md "Russian") ‧
+[🇪🇸](README.es.md "Spanish") ‧
+[🇸🇪](README.sv.md "Swedish") ‧
+[🇷🇸](README.sr.md "Serbian") ‧
+[🇹🇷](README.tr.md "Turkish") ‧
+[🇺🇦](README.uk.md "Ukrainian") ‧
+[🇵🇰](README.uk.md "Urdu") ‧
+[🇻🇳](README.vi.md "Vietnamese")
 
 </div>
