@@ -12,7 +12,7 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | One bed configuration with couch                                                       | Two bed configuration                                                         | Desk                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
+| Desk with light                                                                        | Küche - Herd                                                                  | Kitchen - tea                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
 
@@ -92,11 +92,11 @@ An old German saying applies to all remote controls: “Trying is better than st
 
 ### bathroom
 
-You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
-You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One of them is yours.
+You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One piece of it is yours.
 
 ### Hallway
 
@@ -171,7 +171,7 @@ You can use the washing machine without having to ask first. You can also use th
 
 In the kitchen you will find a hand brush and a dustpan on the wall. This will help you get rid of the small dirt.
 
-## Wipe
+## Wischen
 
 You can find green cleaning agent in a spray bottle in the bathroom for mopping. Together with the kitchen paper, this can be used to clean surfaces easily.
 
