@@ -45,7 +45,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 
 1.  turma
 2.  Fierbător
-3.  Geschirr, Besteck
+3.  Vase tacâmuri
 4.  Frigider
 5.  Cuptor pentru pizza
 6.  Apă minerală
