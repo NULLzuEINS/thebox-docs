@@ -56,7 +56,7 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 
 1.  Bếp không hoạt động? làm ơn nói
     > "Máy tính, bàn làm việc"
-2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
+2.  Tôi có thể rửa ở đâu? Điều này chỉ hoạt động trong phòng tắm. Có một hộp đựng đặc biệt để rửa chén.
 
 ## Phòng của bạn
 
@@ -82,7 +82,7 @@ Một câu nói cổ của người Đức áp dụng cho tất cả các loại
 
 | Hình minh họa                                             | Sự miêu tả                                                                                                                                                                                                                                                |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>Đ:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                       |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>D:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                       |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Trước khi bạn có thể sử dụng nó, hãy đảm bảo công tắc đèn ở lối vào được đặt ở chế độ "bật".**<br>Dòng đầu tiên: độ sáng, bật/tắt<br>Các nút màu: Bạn có thể sử dụng nút này để thay đổi màu sắc<br>Nút màu xám: Chuyển đổi giữa các hiệu ứng khác nhau |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Đây là điều khiển từ xa cho máy tính (iMac)._Để sử dụng máy tính, nhấn nút A trên điều khiển từ xa đầu tiên. Nó kích hoạt nguồn điện cho máy tính và hộp Bluetooth._                                                                                      |
 
@@ -96,11 +96,11 @@ Bạn có thể sử dụng vòi hoa sen trong khi đứng. Sẽ không có vấ
 
 Alexa trên tường có tên là "Máy tính" và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
 
-Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc của mình ở bất cứ đâu. Có một chiếc kệ ở phía trước cửa phòng tắm. Một phần của nó là của bạn.
+Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc của mình ở bất cứ đâu. Có một chiếc kệ ở phía trước cửa phòng tắm. Một trong số đó là của bạn.
 
 ### hành lang
 
-Bạn có thể để lại giày của bạn ở đây. Tôi cũng có một cuốn sổ nhỏ trên kệ phòng trường hợp bạn muốn nói với tôi điều gì đó.
+Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
 
 # Điều khoản khác
 
@@ -157,7 +157,7 @@ Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận đượ
 -   Tôi cũng rửa bát đĩa và
 -   Tôi cũng đi đổ rác.
 
-> Phiên bản ngắn: Để chìa khóa ở đó, đóng cửa lại, thế thôi. 😀
+> Phiên bản ngắn: Để chìa khóa ở đó, đóng cửa lại, thế là xong. 😀
 
 # Ở lại lâu hơn
 
