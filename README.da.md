@@ -20,7 +20,7 @@ På min AirBnB får du et detaljeret overblik over alle værelserne og facilitet
 
 Du får to par nøgler, hver med en nøgle til bunden og en til toppen. Der er også en nøgle på en nøglering, som du kan bruge til at låse dit værelse.
 
-## Internetadgang
+## Internetzugang
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -47,7 +47,7 @@ Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. 
 2.  Kedel
 3.  Fade bestik
 4.  Køleskab
-5.  Pizzaovn
+5.  Pizzaofen
 6.  Mineralvand
 7.  Mobiltelefon ladestation på hylden
 8.  vaskemaskine
