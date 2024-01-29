@@ -78,7 +78,7 @@ Passwort: thebox
 
 ### Uzaktan kumandalar
 
-Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek çalışmaktan iyidir”. Hiçbir şeyi kıramazsınız. Birkaç düğmeye basın ve ne olacağını görün. Hala ders çalışmak istiyorsanız işte size uygun okumalar:
+Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek çalışmaktan iyidir”. Hiçbir şeyi kıramazsın. Birkaç düğmeye basın ve ne olacağını görün. Hala ders çalışmak istiyorsanız işte size uygun okumalar:
 
 | İllüstrasyon                                              | Tanım                                                                                                                                                                                                                                                 |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -92,7 +92,7 @@ Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek �
 
 ### banyo
 
-Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması önemli değil. Suyu yalnızca 1/3 oranında açın ve banyo paspasını kuruması için ısıtıcının üzerine asın.
+Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması sorun değil. Suyu yalnızca 1/3 oranında açın ve banyo paspasını kuruması için ısıtıcının üzerine asın.
 
 Duvardaki Alexa "Bilgisayar" adını alır ve aynı zamanda en sevdiğiniz müziği veya radyoyu da çalar. Örneğin. "_Bilgisayar, Deutschlandfunk Nova'yı oyna_"
 
@@ -141,7 +141,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 ### Hangi alternatifler var?
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Und gibt es natürlich noch Bus und Bahn welche Du ebenfalls über die Leipzig MOVE App bezahlen könnte.
 
 # Çıkış yapmak
 
@@ -166,13 +166,13 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 Çamaşır makinesini sormanıza gerek kalmadan kullanabilirsiniz. Kurutma rafını, çamaşır tozunu ve yumuşatıcıyı da kullanabilirsiniz. Yeni nevresimler istiyorsanız benimle konuşmanız yeterli.
 
-## El fırçası ve toz tavası
+## El fırçası ve faraş
 
 Mutfakta duvarda bir el fırçası ve faraş bulacaksınız. Bu, küçük kirlerden kurtulmanıza yardımcı olacaktır.
 
 ## Silip süpürmek
 
-Paspaslamak için yeşil temizlik maddesini banyoda sprey şişesinde bulabilirsiniz. Mutfak kağıdıyla birlikte yüzeyleri kolayca temizlemek için kullanılabilir.
+Paspaslamak için yeşil temizlik maddesini banyodaki sprey şişesinde bulabilirsiniz. Mutfak kağıdıyla birlikte yüzeyleri kolayca temizlemek için kullanılabilir.
 
 ## Elektrikli süpürge
 
@@ -187,8 +187,7 @@ Bittiğinde lütfen şarj istasyonuna geri koyun!
 
 # İpuçları
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/),
-onlar için her biri 15 dakikalık 10 ücretsiz yolculuk kazanırsınız_Sonraki bisikletler_.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_.
 Raf'ı ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın.
 E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
 
@@ -196,7 +195,10 @@ Seyahat rehberlerini AirBnB uygulamasında sakladım. Orada turistik yerler, bar
 
 # Sorunuz mu var?
 
-Herhangi bir sorunuz varsa veya desteğe ihtiyacınız varsa, size yardımcı olmaktan memnuniyet duyarım. Aceleniz varsa bunu telefonla yapmak en iyisidir. <a href="tel:+491707353067">+49 170 73 53 067</a>. Sınırlı işlevselliğe (SMS) sahip, önceden yüklenmiş mesajlaşma uygulamasını da kullanabilirsiniz. Aksi takdirde koridorda bir not defterim ve bir kalemim var.
+Herhangi bir sorunuz varsa veya desteğe ihtiyacınız varsa, size yardımcı olmaktan memnuniyet duyarım.
+Aceleniz varsa bunu telefonla yapmak en iyisidir. <a href="tel:+491707353067">+49 170 73 53 067</a>.
+Sınırlı işlevselliğe (SMS) sahip, önceden yüklenmiş mesajlaşma uygulamasını da kullanabilirsiniz.
+Aksi takdirde koridorda bir not defterim ve bir kalemim var.
 
 Leipzig'de güzel bir konaklama geçirmenizi dilerim!
 André
