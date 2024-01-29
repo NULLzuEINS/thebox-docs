@@ -37,7 +37,7 @@ Nebo naskenujete tento QR kód, automaticky vás připojí k síti:
 
 ## Kuchyně
 
-Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
+Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spartánská. Bohužel, mytí lze provádět pouze v umyvadle v koupelně. Existuje však speciální nádoba na mytí nádobí.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -70,7 +70,7 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Folgende Dinge stehen im Zimmer zur Verfügung
+### V místnosti jsou k dispozici následující věci
 
 1.  Veškerý nábytek a postele
 2.  Počítače a tiskárny
@@ -92,7 +92,7 @@ Pro všechna dálková ovládání platí staré německé přísloví: „Zkou�
 
 ### koupelna
 
-Sprchu můžete používat ve stoje. Nevadí, když se půda trochu namočí. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
+Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
 
 Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
 
@@ -110,7 +110,7 @@ V bytě jsou hlasoví asistenti Alexa. Můžete je oslovovat „Computer“ a ne
 
 Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje pouze router a malý počítač.
 
-## Temperatur und Feuchtigkeit
+## teplota a vlhkost
 
 Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, abych zabránil tvorbě plísní. Jsou malé a bílé a obvykle leží na rámech dveří. Některá naměřená data si můžete přečíst v zrcadle na chodbě.
 
@@ -130,7 +130,7 @@ Buď použijete klíč od předních dveří, nebo sáhnete skrz bránu a nahmat
 
 ### Žlutá? Modrý? Zelená? Hnědý?
 
-Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jisti, odpadky vždy odkládejte do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
+Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jistí, vždy dávejte odpadky do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
 
 ### Cykly
 
@@ -152,7 +152,7 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných j�
 
 ## čištění
 
--   Můžete na něm nechat ložní prádlo.
+-   Můžete na něm nechat lůžkoviny.
 -   Také myji nádobí a
 -   Také vynáším odpadky.
 
@@ -166,9 +166,9 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných j�
 
 Pračku můžete používat, aniž byste se museli nejprve ptát. Využít můžete i sušák, prací prášek a aviváž. Pokud byste chtěli nové ložní prádlo, stačí se mi domluvit.
 
-## Ruční kartáč a nádoba na prach
+## Ruční kartáč a lopatka
 
-V kuchyni najdete na stěně kartáč na ruce a lopatku. To vám pomůže zbavit se drobných nečistot.
+V kuchyni najdete na zdi kartáč na ruce a lopatku. To vám pomůže zbavit se drobných nečistot.
 
 ## Otřete
 
@@ -187,8 +187,7 @@ Po dokončení jej vraťte zpět do nabíjecí stanice!
 
 # Tipy
 
-s[Aplikace Leipzig MOVE](https://leipzig-move.de/),
-získáte za ně 10 jízd zdarma, každá po 15 minutách_Nextbikes_.
+s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_.
 Všimněte si, že to stojí více, pokud nezaparkujete Raf na hlavních ulicích (na mapě fialová).
 Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech.
 
@@ -196,7 +195,10 @@ V aplikaci AirBnB mám uložené cestovní průvodce. Najdete tam moje doporuče
 
 # Otázky?
 
-Pokud máte nějaké dotazy nebo potřebujete podporu, rád vám pomohu. Pokud spěcháte, je nejlepší tak učinit telefonicky <a href="tel:+491707353067">+49 170 73 53 067</a>. Můžete také použít předinstalovanou aplikaci messenger s omezenou funkčností (SMS). Jinak mám na chodbě poznámkový blok a propisku.
+Pokud máte nějaké dotazy nebo potřebujete podporu, rád vám pomohu.
+Pokud spěcháte, je nejlepší tak učinit telefonicky <a href="tel:+491707353067">+49 170 73 53 067</a>.
+Můžete také použít předinstalovanou aplikaci messenger s omezenou funkčností (SMS).
+Jinak mám na chodbě poznámkový blok a propisku.
 
 Přeji vám příjemný pobyt v Lipsku!
 Andre
