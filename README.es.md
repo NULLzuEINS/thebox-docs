@@ -56,14 +56,14 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 1.  ¿La estufa no funciona? por favor di
     > "Computadora, banco de trabajo y"
-2.  ¿Dónde puedo lavarme? Esto sólo funciona en el baño. Hay un recipiente especial para lavar los platos.
+2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
 
 ## Tu cuarto
 
 Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades.
 Si reemplazas los cojines del sofá por un colchón, será una buena cama.
 
-### Los detalles de inicio de sesión para la computadora (iMac) son
+### Die Zugangsdaten für den Computer (iMac) sind
 
 ```txt
 Nutzer:   thebox
@@ -82,7 +82,7 @@ Un viejo dicho alemán se aplica a todos los mandos a distancia: "Intentar es me
 
 | Ilustración                                               | Descripción                                                                                                                                                                                                                                                            |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caja Bluetooth<br>B: luces de hadas<br>C: lámpara de escritorio<br>D:_leer_<br>Maestro: cambia todo al mismo tiempo                                                                                                                                                 |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caja Bluetooth<br>B: luces de hadas<br>C: lámpara de escritorio<br>D: _leer_<br>Maestro: cambia todo al mismo tiempo                                                                                                                                                |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usarlo, asegúrese de que el interruptor de la luz en la entrada esté en "encendido".**<br>Primera línea: brillo, encendido/apagado<br>Botones de colores: puedes usarlos para cambiar los colores.<br>Botones grises: cambia entre diferentes efectos |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Este es el control remoto de la computadora (iMac)._Para usar la computadora, presione el botón A en el primer control remoto. Activa la fuente de alimentación del ordenador y de la caja Bluetooth._                                                                 |
 
@@ -92,11 +92,11 @@ Un viejo dicho alemán se aplica a todos los mandos a distancia: "Intentar es me
 
 ### baño
 
-Puedes utilizar la ducha estando de pie. No importa si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
+Puedes utilizar la ducha estando de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
-Puedes colgar toallas en todos los ganchos y poner tus cosas en cualquier lugar. Hay un estante frente a la puerta del baño. Una parte es tuya.
+Puedes colgar toallas en todos los ganchos y poner tus cosas en cualquier lugar. Hay un estante frente a la puerta del baño. Uno de ellos es el tuyo.
 
 ### Pasillo
 
@@ -169,7 +169,7 @@ Podrás utilizar la lavadora sin tener que preguntar primero. También puedes ut
 
 ## Cepillo de mano y recogedor
 
-En la cocina encontrarás un cepillo de mano y un recogedor en la pared. Esto te ayudará a deshacerte de la pequeña suciedad.
+In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Damit bekommst du den kleinen Dreck weg.
 
 ## Limpiar
 
