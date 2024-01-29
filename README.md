@@ -97,7 +97,7 @@ Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Bo
 
 Die Alexa an der Wand hört auf den Namen "Computer" und spielt dir auch Deine Lieblingsmusik oder Radio. Z. B. "*Computer, spiele Deutschlandfunk Nova*"
 
-Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstellen.
+Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstellen. Im vor der Badezimmertür ist ein Regal. Ein fach davon gehört Dir.
 
 ### Flur
 
@@ -107,7 +107,8 @@ Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notiz
 
 ## Smart Home
 
-In der Wohnung befinden sich Alexa Sprachassistenten. Du kannst sie mit dem Namen "Computer" ansprechen und Dir zum Beispiel Deutschlandfunk Nova spielen lassen. Die Geräte sind mit dem Internet verbunden und können auch als Wecker oder Timer genutzt werden. Wenn Du sie nicht nutzen möchtest, kannst Du sie auch einfach vom Strom trennen.
+Im Bad und in der Küche befinden sich Alexa Sprachassistenten. Du kannst sie mit dem Namen "Computer" ansprechen und Dir zum Beispiel Deutschlandfunk Nova spielen lassen. Sie verstehen Deutsch und auch Englisch. Wenn Du sie nicht nutzen möchtest, 
+kannst Du sie auch einfach vom Strom trennen.
 
 In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
 
