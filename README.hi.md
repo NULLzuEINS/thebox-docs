@@ -78,7 +78,7 @@ Passwort: thebox
 
 ### रिमोट कंट्रोल्स
 
-एक पुरानी जर्मन कहावत सभी रिमोट कंट्रोल पर लागू होती है: "कोशिश करना पढ़ाई से बेहतर है"। आप कुछ भी नहीं तोड़ सकते. कुछ बटन दबाएँ और देखें क्या होता है। यदि आप अभी भी अध्ययन करना चाहते हैं, तो यहां आपके लिए सही पाठ है:
+Für alle Fernbedienungen gilt ein altes deutsches Sprichwort: "Probieren geht über Studieren". Du kannst nichts kaputt machen. Drücke ein paar Knöpfe und schau was passiert. Falls Du dennoch studieren möchtest, habe hier die passenden Lektüre für Dich:
 
 | चित्रण                                                    | विवरण                                                                                                                                                                                                                                         |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -192,7 +192,7 @@ Passwort: thebox
 ध्यान दें कि यदि आप राफ को मुख्य सड़कों (मानचित्र पर बैंगनी) पर पार्क नहीं करते हैं तो इसकी लागत अधिक है।
 ई-स्कूटर केवल कुछ निश्चित पार्किंग स्थानों पर ही पार्क किए जा सकते हैं।
 
-In der App von AirBnB habe ich Reiseführer hinterlegt. Dort findest Du meine Empfehlungen zu Sehenwürdigkeiten, Bars und Kneipen, Einkaufsmöglichkeiten und Restaurants.
+मैंने AirBnB ऐप में यात्रा मार्गदर्शिकाएँ संग्रहीत की हैं। वहां आपको दर्शनीय स्थलों, बार और पब, खरीदारी के अवसरों और रेस्तरां के लिए मेरी सिफारिशें मिलेंगी।
 
 # प्रशन?
 
