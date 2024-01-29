@@ -37,7 +37,7 @@ Nebo naskenujete tento QR kód, automaticky vás připojí k síti:
 
 ## Kuchyně
 
-Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spartánská. Bohužel, mytí lze provádět pouze v umyvadle v koupelně. Existuje však speciální nádoba na mytí nádobí.
+Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -70,7 +70,7 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### V místnosti jsou k dispozici následující věci
+### Folgende Dinge stehen im Zimmer zur Verfügung
 
 1.  Veškerý nábytek a postele
 2.  Počítače a tiskárny
@@ -110,7 +110,7 @@ V bytě jsou hlasoví asistenti Alexa. Můžete je oslovovat „Computer“ a ne
 
 Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje pouze router a malý počítač.
 
-## teplota a vlhkost
+## Temperatur und Feuchtigkeit
 
 Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, abych zabránil tvorbě plísní. Jsou malé a bílé a obvykle leží na rámech dveří. Některá naměřená data si můžete přečíst v zrcadle na chodbě.
 
