@@ -31,7 +31,7 @@
 [🇷🇸](README.sr.md "Serbian") ‧
 [🇹🇷](README.tr.md "Turkish") ‧
 [🇺🇦](README.uk.md "Ukrainian") ‧
-[🇵🇰](README.uk.md "Urdu") ‧
+[🇵🇰](README.ur.md "Urdu") ‧
 [🇻🇳](README.vi.md "Vietnamese")
 
 </div>
