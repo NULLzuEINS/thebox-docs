@@ -41,7 +41,7 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Köögis on saadaval järgmised asjad
+### Folgende Dinge stehen in der Küche zur Verfügung
 
 1.  Kari
 2.  Veekeetja
@@ -113,7 +113,7 @@ Teie toas pole hääleabilisi. Riiulil olevas korvis on ainult ruuter ja väike 
 
 ## temperatuur ja niiskus
 
-Temperatuuri ja niiskust mõõdetakse automaatselt andurite kaudu. Kasutan neid hallituse tekke vältimiseks. Need on väikesed ja valged ning asuvad tavaliselt ukseraamidel. Osa mõõtmisandmeid saate lugeda koridoris peeglist.
+Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst Du im Spiegel im Flur ablesen.
 
 ?> Palun ventileerige regulaarselt (vähemalt kord päevas). Eriti vannitoas. Veenduge ka, et küte on välja lülitatud. Aitäh 🙏
 
@@ -140,7 +140,7 @@ Kas teid huvitab, miks prügikastid on erinevat värvi? Kui te pole milleski kin
 Leipzig on väga rattasõbralik linn. Läbi suure linnapargi, mis jagab linna kaheks pooleks, pääseb paljudesse kohtadesse ja sõidab tavaliselt läbi maakohtade.
 Kui uskuda statistikat, siis Leipzigis varastatakse igal aastal kõige rohkem jalgrattaid elaniku kohta. (1539 varastatud jalgratast 100 000 elaniku kohta) 15 aasta jooksul, mil olen siin Hardenbergstraßel elanud, pole mul kordagi jalgratast varastatud ja tean vaid üht naabrimeest, kelle jalgratas varastati tema tagahoovist. Ühendan selle alati otse reelinguga.
 
-### Milliseid alternatiive on?
+### Welche Alternativen gibt es
 
 Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, igaüks 15 minutit_Järgmised jalgrattad_. Pange tähele, et see maksab rohkem, kui te ei pargi rattaid peatänavatele (kaardil lilla). E-tõukerattaid tohib parkida ainult teatud parkimiskohtadele. Olemas on ka vabalt ujuv autojagamissüsteem. See tähendab meiega[linnaflitzer](https://cityflitzer.de/). Ja loomulikult on bussid ja rongid, mille eest saate maksta ka Leipzigi MOVE rakenduse kaudu.
 
@@ -163,7 +163,7 @@ Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, 
 
 ?> Mõned minu külalised jäävad kuuks või kauemaks. Kui olete üks neist, siis see jaotis on teie jaoks!
 
-## pesumasin
+## Waschmaschine
 
 Saate pesumasinat kasutada, ilma et peaksite seda eelnevalt küsima. Võite kasutada ka kuivatusresti, pesupulbrit ja pesupehmendajat. Kui soovid uut voodipesu, siis räägi minuga.
 
@@ -198,8 +198,8 @@ Olen salvestanud reisijuhid AirBnB rakendusse. Sealt leiate minu soovitused vaat
 
 Kui teil on küsimusi või vajate tuge, aitan teid hea meelega.
 Kui teil on kiire, on parem seda teha telefoni teel <a href="tel:+491707353067">+49 170 73 53 067</a>.
-Võite kasutada ka eelinstallitud piiratud funktsionaalsusega sõnumirakendust (SMS).
-Muidu on mul koridoris märkmik ja pastakas.
+Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS).
+Ansonsten habe ich im Flur einen Notizblock und einen Stift.
 
 Soovin teile mõnusat viibimist Leipzigis!
 Andre
