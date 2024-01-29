@@ -2,7 +2,7 @@
 
 ¡Hola y bienvenidos a la “Caja”! Cuando viajo, también me gusta quedarme en AirBnB y a veces desearía tener un papel con toda la información necesaria sobre el alojamiento, check-in y check-out y este es mi intento de mejorarlo.
 
-> [!Hinweis]Haré que el documento se traduzca automáticamente a su idioma. Espero que sea algo comprensible. Si no, no dudes en escribirme un mensaje. Luego trato de mejorarlo.
+> [!Una noticia]Haré que el documento se traduzca automáticamente a su idioma. Espero que sea algo comprensible. Si no, no dudes en escribirme un mensaje. Luego trato de mejorarlo.
 
 ## Fotos
 
@@ -186,7 +186,7 @@ enciéndelo nuevamente usando el botón en la parte superior.
 
 Cuando haya terminado, ¡vuélvalo a colocar en la estación de carga!
 
-# Tipps
+# Consejos
 
 Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para el_Siguientebicicletas_.
 Ten en cuenta que cuesta más si no aparcas el Raf en las calles principales (moradas en el mapa).
