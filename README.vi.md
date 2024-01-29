@@ -48,7 +48,7 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 3.  Dao kéo bát đĩa
 4.  Tủ lạnh
 5.  lò nướng bánh pizza
-6.  Nước khoáng
+6.  Mineralwasser
 7.  Trạm sạc điện thoại di động trên kệ
 8.  Máy giặt
 
@@ -82,7 +82,7 @@ Một câu nói cổ của người Đức áp dụng cho tất cả các loại
 
 | Hình minh họa                                             | Sự miêu tả                                                                                                                                                                                                                                                |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>D:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                       |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>Đ:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                       |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Trước khi bạn có thể sử dụng nó, hãy đảm bảo công tắc đèn ở lối vào được đặt ở chế độ "bật".**<br>Dòng đầu tiên: độ sáng, bật/tắt<br>Các nút màu: Bạn có thể sử dụng nút này để thay đổi màu sắc<br>Nút màu xám: Chuyển đổi giữa các hiệu ứng khác nhau |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Đây là điều khiển từ xa cho máy tính (iMac)._Để sử dụng máy tính, nhấn nút A trên điều khiển từ xa đầu tiên. Nó kích hoạt nguồn điện cho máy tính và hộp Bluetooth._                                                                                      |
 
@@ -96,7 +96,7 @@ Bạn có thể sử dụng vòi hoa sen trong khi đứng. Sẽ không có vấ
 
 Alexa trên tường có tên là "Máy tính" và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
 
-Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc của mình ở bất cứ đâu.
+Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc của mình ở bất cứ đâu. Có một chiếc kệ ở phía trước cửa phòng tắm. Một phần của nó là của bạn.
 
 ### hành lang
 
@@ -106,7 +106,8 @@ Bạn có thể để lại giày của bạn ở đây. Tôi cũng có một cu
 
 ## Nhà thông minh
 
-Có trợ lý giọng nói Alexa trong căn hộ. Bạn có thể gọi họ bằng tên “Máy tính” và cho họ chơi Deutschlandfunk Nova chẳng hạn. Các thiết bị được kết nối với Internet và cũng có thể được sử dụng làm đồng hồ báo thức hoặc đồng hồ hẹn giờ. Nếu không muốn sử dụng, bạn chỉ cần rút phích cắm ra khỏi nguồn điện.
+Có trợ lý giọng nói Alexa trong phòng tắm và nhà bếp. Bạn có thể gọi họ bằng tên “Máy tính” và cho họ chơi Deutschlandfunk Nova chẳng hạn. Họ hiểu tiếng Đức và cả tiếng Anh. Nếu bạn không muốn sử dụng chúng,
+Bạn cũng có thể chỉ cần ngắt kết nối nó khỏi nguồn điện.
 
 Không có trợ lý giọng nói trong phòng của bạn. Giỏ trên kệ chỉ chứa bộ định tuyến và một máy tính nhỏ.
 
@@ -156,7 +157,7 @@ Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận đượ
 -   Tôi cũng rửa bát đĩa và
 -   Tôi cũng đi đổ rác.
 
-> Phiên bản ngắn: Để chìa khóa ở đó, đóng cửa lại, thế là xong. 😀
+> Phiên bản ngắn: Để chìa khóa ở đó, đóng cửa lại, thế thôi. 😀
 
 # Ở lại lâu hơn
 
@@ -166,7 +167,7 @@ Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận đượ
 
 Bạn có thể sử dụng máy giặt mà không cần phải hỏi trước. Bạn cũng có thể sử dụng giá phơi, bột giặt và nước xả vải. Nếu bạn muốn khăn trải giường mới, hãy nói chuyện với tôi.
 
-## Bàn chải cầm tay và đồ hốt rác
+## Bàn chải cầm tay và chổi quét bụi
 
 Trong nhà bếp, bạn sẽ tìm thấy một chiếc bàn chải cầm tay và một cái hốt rác trên tường. Điều này sẽ giúp bạn loại bỏ những vết bẩn nhỏ.
 
@@ -188,8 +189,8 @@ Khi dùng xong, vui lòng đặt lại vào trạm sạc!
 # Lời khuyên
 
 Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho_xe đạp tiếp theo_.
-Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe Raf trên các đường phố chính (màu tím trên bản đồ).
-Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đỗ xe nhất định.
+Beachte, dass es mehr kostet, wenn man das Raf nicht an den großen Straßen (Auf der Karte Lila) abstellt.
+Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
 Tôi đã lưu trữ hướng dẫn du lịch trong ứng dụng AirBnB. Ở đó bạn sẽ tìm thấy các đề xuất của tôi về các điểm tham quan, quán bar và quán rượu, cơ hội mua sắm và nhà hàng.
 
