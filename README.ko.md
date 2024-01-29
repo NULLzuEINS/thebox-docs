@@ -96,7 +96,7 @@ Passwort: thebox
 
 벽에 걸린 Alexa는 "컴퓨터"라는 이름으로 불리며 좋아하는 음악이나 라디오도 재생합니다. 예: "_컴퓨터, Deutschlandfunk Nova 플레이_"
 
-Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstellen. Im vor der Badezimmertür ist ein Regal. Ein fach davon gehört Dir.
+모든 후크에 수건을 걸고 물건을 어디에나 놓을 수 있습니다. 욕실 문 앞에 선반이 있습니다. 그 중 하나는 당신 것입니다.
 
 ### 현관
 
@@ -173,7 +173,7 @@ Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstel
 
 ## 닦음
 
-Zum Wischen findest du im Bad grünes Reinigungsmittel in einer Sprühflasche. Zusammen mit dem Küchenpapier lassen sich hiermit Oberflächen gut säubern.
+욕실에 있는 스프레이 병에서 걸레질을 위해 녹색 세척제를 찾을 수 있습니다. 키친 페이퍼와 함께 사용하면 표면을 쉽게 청소할 수 있습니다.
 
 ## 진공 청소기
 
