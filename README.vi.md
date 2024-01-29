@@ -88,7 +88,7 @@ Một câu nói cổ của người Đức áp dụng cho tất cả các loại
 
 ### Câu hỏi thường gặp - Phòng của bạn
 
-1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
+1.  Đèn không sáng hoặc nhấp nháy dữ dội. Hãy sử dụng điều khiển từ xa nhỏ với các nút nhiều màu sắc.
 
 ### phòng tắm
 
