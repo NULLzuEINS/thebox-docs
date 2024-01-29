@@ -16,7 +16,7 @@ AirBnB:ssäni saat yksityiskohtaisen yleiskatsauksen kaikista huoneista ja tiloi
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Työpöytä valolla                                                                       | Keittiö - liesi                                                               | Keittiö - teetä                                                                         |
 
-## Schlüssel
+## Avain
 
 Saat kaksi paria avaimia, joista kummassakin on yksi avain alaosaan ja yksi yläosaan. Avaimenperässä on myös avain, jolla voit lukita huoneesi.
 
