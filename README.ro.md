@@ -92,11 +92,11 @@ O veche zicală germană se aplică tuturor telecomenzilor: „Este mai bine să
 
 ### baie
 
-Puteți folosi dușul în timp ce stați în picioare. Nu este o problemă dacă pământul se udă puțin. Dați apa doar 1/3 și atârnă covorașul de baie peste încălzitor pentru a se usuca.
+Puteți folosi dușul în timp ce stați în picioare. Nu contează dacă pământul se udă puțin. Dați apa doar 1/3 și atârnă covorașul de baie peste încălzitor pentru a se usuca.
 
 Alexa de pe perete poartă numele „Computer” și redă, de asemenea, muzica sau radioul preferat. De exemplu. "_Computer, joacă Deutschlandfunk Nova_"
 
-Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. Unul dintre ei este al tău.
+Puteți agăța prosoape de toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. O bucată din ea este a ta.
 
 ### Holul
 
@@ -146,7 +146,7 @@ Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratui
 
 # Verifică
 
-## Schlüssel
+## Cheie
 
 -   În funcție de ce zi a săptămânii este, ne putem lua rămas bun personal, sau poți pur și simplu să pui cheile pe birou și să închizi ușa în urma ta.
 -   Ultima oră pentru checkout este ora 19:00 în ziua plecării.
@@ -167,7 +167,7 @@ Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratui
 
 Puteți folosi mașina de spălat fără a fi nevoie să întrebați mai întâi. De asemenea, puteți utiliza suportul de uscare, praful de spălat și balsam de rufe. Dacă vrei lenjerie de pat nouă, vorbește cu mine.
 
-## Perie de mână și paletă de praf
+## Perie de mână și recipient pentru praf
 
 În bucătărie veți găsi o perie de mână și o cutie de praf pe perete. Acest lucru vă va ajuta să scăpați de murdăria mică.
 
@@ -188,7 +188,7 @@ Când este terminat, vă rugăm să îl puneți înapoi în stația de încărca
 
 # sfaturi
 
-Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die _Nextbikes_.
+Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratuite a câte 15 minute fiecare pentru_Nextbikes_.
 Rețineți că costă mai mult dacă nu parcați Raf-ul pe străzile principale (violet pe hartă).
 Trotinetele electrice pot fi parcate numai în anumite locuri de parcare.
 
@@ -201,7 +201,7 @@ Dacă vă grăbiți, cel mai bine este să faceți acest lucru prin telefon <a 
 De asemenea, puteți utiliza aplicația de mesagerie preinstalată cu funcționalitate limitată (SMS).
 În rest, am un blocnotes și un pix pe hol.
 
-Vă doresc o ședere plăcută în Leipzig!
+Vă doresc un sejur plăcut în Leipzig!
 Andre
 
 * * *
