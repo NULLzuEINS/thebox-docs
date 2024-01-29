@@ -49,7 +49,7 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 4.  Lednička
 5.  Pizza pec
 6.  Minerální voda
-7.  Nabíjecí stanice pro mobilní telefony na polici
+7.  Handy-Aufladestation im Regal
 8.  pračka
 
 ### FAQ - Kuchyně
@@ -194,7 +194,7 @@ Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích mís
 
 V aplikaci AirBnB mám uložené cestovní průvodce. Najdete tam moje doporučení na památky, bary a hospůdky, nákupní příležitosti a restaurace.
 
-# Fragen?
+# Otázky?
 
 Pokud máte nějaké dotazy nebo potřebujete podporu, rád vám pomohu.
 Pokud spěcháte, je nejlepší tak učinit telefonicky <a href="tel:+491707353067">+49 170 73 53 067</a>.
