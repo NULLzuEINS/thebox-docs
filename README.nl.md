@@ -1,4 +1,4 @@
-# Willkommen
+# Welkom
 
 Hallo en welkom bij de “Box”! Als ik reis, verblijf ik ook graag in AirBnB's en soms zou ik willen dat ik een vel papier had met alle nodige informatie over de accommodatie, het in- en uitchecken en dit is mijn poging om het beter te maken.
 
@@ -129,7 +129,7 @@ Of je gebruikt de sleutel van de voordeur, of je reikt door het hek en voelt aan
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
-### Gelb? Blau? Grün? Braun?
+### Geel? Blauw? Groente? Bruin?
 
 Vraag je je af waarom de vuilnisbakken verschillende kleuren hebben? Als u het niet zeker weet, deponeer het afval dan altijd in de groene bak. Daarin komt het restafval terecht. Professionals gooien papierafval in de blauwe bak, recyclebaar afval in de gele bak en organisch afval in de bruine bak.
 
@@ -142,7 +142,7 @@ Als je de statistieken mag geloven, worden in Leipzig jaarlijks de meeste fietse
 
 ### Welke alternatieven zijn er?
 
-Met de[Leipzig MOVE App](https://leipzig-move.de/), krijg je 10 gratis ritten van elk 15 minuten voor de_Volgendefietsen_. Houd er rekening mee dat het duurder is als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). En natuurlijk zijn er bussen en treinen die je ook via de Leipzig MOVE-app kunt betalen.
+Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten van elk 15 minuten voor de_Volgendefietsen_. Houd er rekening mee dat het duurder is als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). En natuurlijk zijn er bussen en treinen die je ook via de Leipzig MOVE-app kunt betalen.
 
 # Uitchecken
 
@@ -198,12 +198,12 @@ Ik heb reisgidsen opgeslagen in de AirBnB-app. Daar vindt u mijn aanbevelingen v
 
 Als je vragen hebt of ondersteuning nodig hebt, help ik je graag verder.
 Als u haast heeft, kunt u dit het beste telefonisch doen <a href="tel:+491707353067">+49 170 73 53 067</a>.
-Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS).
-Ansonsten habe ich im Flur einen Notizblock und einen Stift.
+U kunt ook de vooraf geïnstalleerde messenger-app met beperkte functionaliteit (SMS) gebruiken.
+Anders heb ik een notitieblok en een pen in de gang.
 
 Ik wens u een prettig verblijf in Leipzig!
 André
 
 * * *
 
-_Gemaakt met ❤️ door [documenteren](https://docsify.js.org/)_
+_Made with ❤️ by  [documenteren](https://docsify.js.org/)_
