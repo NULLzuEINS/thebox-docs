@@ -92,11 +92,11 @@ Pro všechna dálková ovládání platí staré německé přísloví: „Zkou�
 
 ### koupelna
 
-Sprchu můžete používat ve stoje. Nevadí, když se půda trochu namočí. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
+Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
 
 Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
 
-Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli. Před dveřmi do koupelny je polička. Jeden kousek je váš.
+Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli. Před dveřmi do koupelny je polička. Jeden z nich je váš.
 
 ### Chodba
 
@@ -131,7 +131,7 @@ Buď použijete klíč od předních dveří, nebo sáhnete skrz bránu a nahmat
 
 ### Žlutá? Modrý? Zelená? Hnědý?
 
-Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jisti, odpadky vždy odkládejte do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
+Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jistí, vždy dávejte odpadky do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
 
 ### Cykly
 
@@ -153,7 +153,7 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných j�
 
 ## čištění
 
--   Můžete na něm nechat ložní prádlo.
+-   Můžete na něm nechat lůžkoviny.
 -   Také myji nádobí a
 -   Také vynáším odpadky.
 
@@ -194,7 +194,7 @@ Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích mís
 
 V aplikaci AirBnB mám uložené cestovní průvodce. Najdete tam moje doporučení na památky, bary a hospůdky, nákupní příležitosti a restaurace.
 
-# Otázky?
+# Fragen?
 
 Pokud máte nějaké dotazy nebo potřebujete podporu, rád vám pomohu.
 Pokud spěcháte, je nejlepší tak učinit telefonicky <a href="tel:+491707353067">+49 170 73 53 067</a>.
