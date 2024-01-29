@@ -33,6 +33,7 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 ![WiFi](_media/wlan.png ':size=200')
 
 # Die Zimmer
+
 ![Raumplan](_media/thebox-map.png)
 
 ## Küche
@@ -177,9 +178,9 @@ Zum Wischen findest du im Bad grünes Reinigungsmittel in einer Sprühflasche. Z
 ## Staubsauger
 
 Für den Fußboden habe ich einen Staubsauger-Roboter.
-Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg. 
-Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte. 
-Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal. 
+Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
+Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
+Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
 Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
 anschalten noch einmal auf den Knopf auf drt Oberseite.
 
@@ -187,16 +188,18 @@ Wenn er fertig ist, stelle ihn bitte wieder zurück in die Ladestation!
 
 # Tipps
 
-Mit der [Leipzig MOVE App](https://leipzig-move.de/), 
-bekommst Du 10 Freifahrten à 15 Minuten für die *Nextbikes*. 
-Beachte, dass es mehr kostet, wenn man das Raf nicht an den großen Straßen (Auf der Karte Lila) abstellt. 
+Mit der [Leipzig MOVE App](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die *Nextbikes*.
+Beachte, dass es mehr kostet, wenn man das Raf nicht an den großen Straßen (Auf der Karte Lila) abstellt.
 Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
 In der App von AirBnB habe ich Reiseführer hinterlegt. Dort findest Du meine Empfehlungen zu Sehenwürdigkeiten, Bars und Kneipen, Einkaufsmöglichkeiten und Restaurants.
 
 # Fragen?
 
-Wenn Du Fragen hast, oder Unterstützung benötigt, stehe ich dir gern zur Verfügung. Wenn es eilig ist, dann besten via Telefon&nbsp; <a href="tel:+491707353067">+49 170 73 53 067</a>. Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS). Ansonsten habe ich im Flur einen Notizblock und einen Stift.
+Wenn Du Fragen hast, oder Unterstützung benötigt, stehe ich dir gern zur Verfügung.
+Wenn es eilig ist, dann besten via Telefon&nbsp; <a href="tel:+491707353067">+49 170 73 53 067</a>.
+Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS).
+Ansonsten habe ich im Flur einen Notizblock und einen Stift.
 
 Ich wünsche einen schönen Aufenthalt in Leipzig!
 André
