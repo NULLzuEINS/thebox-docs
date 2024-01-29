@@ -140,7 +140,7 @@ Você está se perguntando por que as latas de lixo têm cores diferentes? Se n�
 Leipzig é uma cidade muito amiga das bicicletas. Através do grande parque da cidade que divide a cidade em duas metades, você pode chegar a vários lugares e costuma dirigir pelo campo.
 Se você acredita nas estatísticas, então o maior número de bicicletas per capita é roubado em Leipzig todos os anos. (1.539 bicicletas roubadas por 100.000 habitantes) Nos 15 anos desde que moro aqui na Hardenbergstraße, nunca tive uma bicicleta roubada e só conheço um vizinho cuja bicicleta foi roubada do seu quintal. Eu sempre o conecto diretamente ao corrimão.
 
-### Welche Alternativen gibt es
+### Que alternativas existem?
 
 Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
 
