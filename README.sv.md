@@ -54,7 +54,7 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 ### FAQ - Kök
 
-1.  Fungerar inte kaminen? snälla säg
+1.  Kaminen fungerar inte? snälla säg
     > "Dator, arbetsbänk och"
 2.  Var kan jag diska? Detta fungerar bara i badrummet. Det finns en speciell behållare för att diska.
 
@@ -92,7 +92,7 @@ Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre
 
 ### badrum
 
-Du kan använda duschen stående. Det spelar ingen roll om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
+Du kan använda duschen stående. Det är inga problem om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
 
 Alexa på väggen går under namnet "Dator" och spelar även din favoritmusik eller radio. T.ex. "_Dator, spela Deutschlandfunk Nova_"
 
@@ -118,7 +118,7 @@ Temperaturen och luftfuktigheten mäts automatiskt via sensorerna. Jag använder
 
 ## Gården
 
-På vår innergård kan du koppla ihop dina cyklar och ta bort ditt skräp.
+In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
@@ -136,8 +136,8 @@ Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid 
 
 ### Är min cykel säker?
 
-Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många platser och brukar köra genom landsbygden.
-Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 år sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
+Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många ställen och brukar köra genom landsbygden.
+Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 åren sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
 
 ### Vilka alternativ finns det?
 
@@ -147,7 +147,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 ## Nyckel
 
--   Beroende på vilken veckodag det är kan vi säga hejdå personligen, eller så kan du helt enkelt lägga nycklarna på skrivbordet och stänga dörren efter dig.
+-   Beroende på vilken veckodag det är kan vi säga hejdå personligen eller så kan du helt enkelt lägga nycklarna på skrivbordet och stänga dörren efter dig.
 -   Senaste tid för utcheckning är 19.00 på avresedagen.
 
 ## rengöring
@@ -166,7 +166,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 Du kan använda tvättmaskinen utan att behöva fråga först. Du kan också använda torkställning, tvättpulver och sköljmedel. Om du vill ha nya sängkläder är det bara att prata med mig.
 
-## Handborste och dammpanna
+## Handborste och sopskanna
 
 I köket hittar du en handborste och en soptunna på väggen. Detta hjälper dig att bli av med den lilla smutsen.
 
@@ -187,8 +187,7 @@ När den är klar, lägg tillbaka den i laddstationen!
 
 # Tips
 
-Med[Leipzig MOVE App](https://leipzig-move.de/),
-du får 10 gratisturer på 15 minuter vardera för dem_Nextbikes_.
+Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för_Nextbikes_.
 Observera att det kostar mer om du inte parkerar Raf på huvudgatorna (lila på kartan).
 El-skotrarna får endast parkeras på vissa parkeringsplatser.
 
@@ -196,7 +195,10 @@ Jag har lagrat reseguider i AirBnB-appen. Där hittar du mina rekommendationer f
 
 # Frågor?
 
-Om du har några frågor eller behöver stöd så hjälper jag dig gärna. Om du har bråttom är det bäst att göra det via telefon <a href="tel:+491707353067">+49 170 73 53 067</a>. Du kan också använda den förinstallerade messenger-appen med begränsad funktionalitet (SMS). Annars har jag ett anteckningsblock och en penna i korridoren.
+Om du har några frågor eller behöver stöd så hjälper jag dig gärna.
+Om du har bråttom är det bäst att göra det via telefon <a href="tel:+491707353067">+49 170 73 53 067</a>.
+Du kan också använda den förinstallerade messenger-appen med begränsad funktionalitet (SMS).
+Annars har jag ett anteckningsblock och en penna i korridoren.
 
 Jag önskar dig en trevlig vistelse i Leipzig!
 Andre
