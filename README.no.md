@@ -60,7 +60,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 ## Rommet ditt
 
-Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem etter dine behov.
+Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem i henhold til dine behov.
 Bytter du ut putene på sofaen med en madrass, blir det en god seng.
 
 ### Påloggingsdetaljene for datamaskinen (iMac) er
@@ -92,11 +92,11 @@ Et gammelt tysk ordtak gjelder for alle fjernkontroller: «Å prøve er bedre en
 
 ### baderom
 
-Du kan bruke dusjen mens du står. Det er ikke noe problem hvis bakken blir litt våt. Slå bare på vannet 1/3 og heng badematten over varmeren for å tørke.
+Du kan bruke dusjen mens du står. Det spiller ingen rolle om bakken blir litt våt. Slå bare på vannet 1/3 og heng badematten over varmeren for å tørke.
 
 Alexaen på veggen går under navnet "Computer" og spiller også favorittmusikken eller radioen din. f.eks."_Datamaskin, spill Deutschlandfunk Nova_"
 
-Du kan henge håndklær på alle kroker og sette tingene dine hvor som helst.
+Du kan henge håndklær på alle kroker og sette tingene dine hvor som helst. Det er en hylle foran baderomsdøren. En del av den er din.
 
 ### Gang
 
@@ -106,9 +106,10 @@ Du er velkommen til å legge igjen skoene dine her. Jeg har også en liten notis
 
 ## Smart hjem
 
-Det er Alexa stemmeassistenter i leiligheten. Du kan adressere dem med navnet "Computer" og la dem spille Deutschlandfunk Nova, for eksempel. Enhetene er koblet til Internett og kan også brukes som vekkerklokke eller tidtakere. Hvis du ikke vil bruke den, kan du ganske enkelt koble den fra strømforsyningen.
+Det er Alexa stemmeassistenter på badet og kjøkkenet. Du kan adressere dem med navnet "Computer" og la dem spille Deutschlandfunk Nova, for eksempel. De forstår tysk og også engelsk. Hvis du ikke vil bruke dem,
+Du kan også ganske enkelt koble den fra strømmen.
 
-In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
+Det er ingen stemmeassistenter på rommet ditt. Kurven på hyllen inneholder kun ruteren og en liten datamaskin.
 
 ## temperatur og fuktighet
 
@@ -118,7 +119,7 @@ Temperatur og fuktighet måles automatisk via sensorene. Jeg bruker dem for å h
 
 ## Hagen
 
-In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
+På gårdsplassen vår kan du koble sammen syklene og ta bort søppelet ditt.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
@@ -130,14 +131,14 @@ Enten bruker du hoveddørnøkkelen, eller så strekker du deg gjennom porten og 
 
 ### Gul? Blå? Grønn? Brun?
 
-Lurer du på hvorfor søppeldunkene har forskjellige farger? Hvis du er usikker, legg alltid søppelet i den grønne søppelbøtta. Der havner restavfallet. Fagfolk legger papiravfall i den blå dunken, resirkulerbart i den gule dunken og organisk avfall i den brune dunken.
+Lurer du på hvorfor søppeldunkene har forskjellige farger? Hvis du er usikker, legg alltid søppelet i den grønne søppelbøtta. Der havner restavfallet. Fagfolk legger papiravfall i den blå søppelkassen, resirkulerbart i den gule søppelkassen og organisk avfall i den brune søppelbøtta.
 
 ### Sykluser
 
 ### Er sykkelen min trygg?
 
 Leipzig er en veldig sykkelvennlig by. Gjennom den store byparken som deler byen i to halvdeler, kan du komme deg til mange steder og kjører vanligvis gjennom landsbygda.
-Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hvert år. (1 539 stjålne sykler per 100 000 innbyggere) I løpet av de 15 årene siden jeg har bodd her på Hardenbergstraße har jeg aldri fått stjålet en sykkel og jeg vet bare om en nabo som har fått sykkelen sin fra bakgården hans. Jeg kobler den alltid direkte til rekkverket.
+Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hvert år. (1 539 stjålne sykler per 100 000 innbyggere) I løpet av de 15 årene siden jeg har bodd her på Hardenbergstraße har jeg aldri fått stjålet en sykkel og jeg vet bare om en nabo som har fått sykkelen hans stjålet fra bakgården hans. Jeg kobler den alltid direkte til rekkverket.
 
 ### Hvilke alternativer finnes?
 
@@ -148,7 +149,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 ## Nøkkel
 
 -   Avhengig av hvilken ukedag det er, kan vi si farvel personlig, eller du kan ganske enkelt legge nøklene på skrivebordet og lukke døren bak deg.
--   Siste tidspunkt for utsjekking er 19.00 på avreisedagen.
+-   Siste tidspunkt for utsjekking er kl. 19.00 på avreisedagen.
 
 ## rengjøring
 
@@ -166,7 +167,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 Du kan bruke vaskemaskinen uten å måtte spørre først. Du kan også bruke tørkestativet, vaskepulver og tøymykner. Hvis du vil ha nytt sengetøy, bare snakk med meg.
 
-## Håndbørste og støvbrett
+## Håndbørste og støvpanne
 
 På kjøkkenet finner du en håndbørste og en feiebrett på veggen. Dette vil hjelpe deg å bli kvitt den lille skitten.
 
