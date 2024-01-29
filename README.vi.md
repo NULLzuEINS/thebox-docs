@@ -82,7 +82,7 @@ Một câu nói cổ của người Đức áp dụng cho tất cả các loại
 
 | Hình minh họa                                             | Sự miêu tả                                                                                                                                                                                                                                                |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>Đ:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                       |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>D:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                       |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Trước khi bạn có thể sử dụng nó, hãy đảm bảo công tắc đèn ở lối vào được đặt ở chế độ "bật".**<br>Dòng đầu tiên: độ sáng, bật/tắt<br>Các nút màu: Bạn có thể sử dụng nút này để thay đổi màu sắc<br>Nút màu xám: Chuyển đổi giữa các hiệu ứng khác nhau |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Đây là điều khiển từ xa cho máy tính (iMac)._Để sử dụng máy tính, nhấn nút A trên điều khiển từ xa đầu tiên. Nó kích hoạt nguồn điện cho máy tính và hộp Bluetooth._                                                                                      |
 
@@ -156,7 +156,7 @@ Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận đượ
 -   Tôi cũng rửa bát đĩa và
 -   Tôi cũng đi đổ rác.
 
-> Phiên bản ngắn: Để chìa khóa ở đó, đóng cửa lại, thế thôi. 😀
+> Phiên bản ngắn: Để chìa khóa ở đó, đóng cửa lại, thế là xong. 😀
 
 # Ở lại lâu hơn
 
@@ -166,7 +166,7 @@ Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận đượ
 
 Bạn có thể sử dụng máy giặt mà không cần phải hỏi trước. Bạn cũng có thể sử dụng giá phơi, bột giặt và nước xả vải. Nếu bạn muốn khăn trải giường mới, hãy nói chuyện với tôi.
 
-## Bàn chải cầm tay và chổi quét bụi
+## Bàn chải cầm tay và đồ hốt rác
 
 Trong nhà bếp, bạn sẽ tìm thấy một chiếc bàn chải cầm tay và một cái hốt rác trên tường. Điều này sẽ giúp bạn loại bỏ những vết bẩn nhỏ.
 
@@ -187,8 +187,7 @@ Khi dùng xong, vui lòng đặt lại vào trạm sạc!
 
 # Lời khuyên
 
-Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/),
-bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho họ_xe đạp tiếp theo_.
+Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho_xe đạp tiếp theo_.
 Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe Raf trên các đường phố chính (màu tím trên bản đồ).
 Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đỗ xe nhất định.
 
@@ -196,7 +195,10 @@ Tôi đã lưu trữ hướng dẫn du lịch trong ứng dụng AirBnB. Ở đ�
 
 # Câu hỏi?
 
-Nếu bạn có bất kỳ câu hỏi hoặc cần hỗ trợ, tôi sẽ sẵn lòng giúp đỡ bạn. Nếu đang vội thì tốt nhất nên làm qua điện thoại <a href="tel:+491707353067">+49 170 73 53 067</a>. Bạn cũng có thể sử dụng ứng dụng nhắn tin được cài đặt sẵn với chức năng hạn chế (SMS). Ngoài ra, tôi có một cuốn sổ ghi chú và một cây bút ở hành lang.
+Nếu bạn có bất kỳ câu hỏi hoặc cần hỗ trợ, tôi sẽ sẵn lòng giúp đỡ bạn.
+Nếu đang vội thì tốt nhất nên làm qua điện thoại <a href="tel:+491707353067">+49 170 73 53 067</a>.
+Bạn cũng có thể sử dụng ứng dụng nhắn tin được cài đặt sẵn với chức năng hạn chế (SMS).
+Ngoài ra, tôi có một cuốn sổ ghi chú và một cây bút ở hành lang.
 
 Tôi chúc bạn có một kỳ nghỉ vui vẻ ở Leipzig!
 Andre
