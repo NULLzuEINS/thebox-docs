@@ -86,7 +86,7 @@ Một câu nói cổ của người Đức áp dụng cho tất cả các loại
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Trước khi bạn có thể sử dụng nó, hãy đảm bảo công tắc đèn ở lối vào được đặt ở chế độ "bật".**<br>Dòng đầu tiên: độ sáng, bật/tắt<br>Các nút màu: Bạn có thể sử dụng nút này để thay đổi màu sắc<br>Nút màu xám: Chuyển đổi giữa các hiệu ứng khác nhau |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Đây là điều khiển từ xa cho máy tính (iMac)._Để sử dụng máy tính, nhấn nút A trên điều khiển từ xa đầu tiên. Nó kích hoạt nguồn điện cho máy tính và hộp Bluetooth._                                                                                      |
 
-### Câu hỏi thường gặp - Phòng của bạn
+### FAQ - Dein Zimmer
 
 1.  Đèn không sáng hoặc nhấp nháy dữ dội. Hãy sử dụng điều khiển từ xa nhỏ với các nút nhiều màu sắc.
 
