@@ -1,6 +1,6 @@
 # Velkommen
 
-Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
+Hej og velkommen til "Boksen"! Når jeg rejser, kan jeg også godt lide at bo i AirBnB's, og nogle gange ville jeg ønske, at jeg havde et stykke papir med alle de nødvendige oplysninger om overnatning, ind- og udtjekning, og dette er mit forsøg på at gøre det bedre.
 
 > [!En meddelelse]Jeg vil få dokumentet automatisk oversat til dit sprog. Jeg håber det er lidt forståeligt. Hvis ikke, er du velkommen til at skrive en besked til mig. Så prøver jeg at forbedre det.
 
@@ -92,11 +92,11 @@ Et gammelt tysk ordsprog gælder for alle fjernbetjeninger: "Det er bedre at pr�
 
 ### badeværelse
 
-Du kan bruge bruseren, mens du står. Det gør ikke noget, hvis jorden bliver lidt våd. Tænd kun for vandet 1/3 og hæng bademåtten over varmeren til tørre.
+Du kan bruge bruseren, mens du står. Det er ikke noget problem, hvis jorden bliver lidt våd. Tænd kun for vandet 1/3 og hæng bademåtten over varmeren til tørre.
 
 Alexaen på væggen går under navnet "Computer" og spiller også din yndlingsmusik eller radio. F.eks. "_Computer, spil Deutschlandfunk Nova_"
 
-Du kan hænge håndklæder på alle kroge og sætte dine ting hvor som helst. Der er en hylde foran badeværelsesdøren. Et stykke af det er dit.
+Du kan hænge håndklæder på alle kroge og sætte dine ting hvor som helst. Der er en hylde foran badeværelsesdøren. En af dem er din.
 
 ### Gang
 
@@ -138,18 +138,18 @@ Undrer du dig over, hvorfor skraldespandene har forskellige farver? Hvis du er u
 ### Er min cykel sikker?
 
 Leipzig er en meget cykelvenlig by. Gennem den store bypark, der deler byen i to halvdele, kan man komme mange steder hen og normalt køre gennem landskabet.
-Hvis man skal tro statistikken, så stjæles der hvert år flest cykler pr. indbygger i Leipzig. (1.539 stjålne cykler pr. 100.000 indbyggere) I de 15 år, siden jeg har boet her på Hardenbergstraße, har jeg aldrig fået stjålet en cykel, og jeg kender kun én nabo, hvis cykel blev stjålet fra hans baghave. Jeg forbinder den altid direkte til rækværket.
+Hvis man skal tro statistikken, så stjæles der flest cykler pr. indbygger i Leipzig hvert år. (1.539 stjålne cykler pr. 100.000 indbyggere) I de 15 år, siden jeg har boet her på Hardenbergstraße, har jeg aldrig fået stjålet en cykel, og jeg kender kun én nabo, hvis cykel blev stjålet fra hans baghave. Jeg forbinder den altid direkte til rækværket.
 
 ### Hvilke alternativer er der?
 
-Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 15 minutter hver for_Nextbikes_. Bemærk, at det koster mere, hvis du ikke parkerer dine cykler på hovedgaderne (lilla på kortet). El-scooterne må kun parkeres på visse parkeringspladser. Der er også et free-float delebilssystem. Det betyder med os[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er der busser og tog, som du også kan betale for via Leipzig MOVE-appen.
+Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 15 minutter hver for_Nextbikes_. Bemærk, at det koster mere, hvis du ikke parkerer dine cykler på hovedgaderne (lilla på kortet). El-scooterne må kun parkeres på visse parkeringspladser. Der er også et free-float delebilssystem. Det betyder med os[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er der busser og tog, som du også kunne betale for via Leipzig MOVE-appen.
 
 # Checkout
 
 ## Nøgle
 
 -   Alt efter hvilken ugedag det er, kan vi sige farvel personligt, eller du kan blot lægge nøglerne på skrivebordet og lukke døren efter dig.
--   Seneste tidspunkt for udtjekning er kl. 19 på afrejsedagen.
+-   Seneste tidspunkt for udtjekning er kl. 19.00 på afrejsedagen.
 
 ## rengøring
 
