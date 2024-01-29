@@ -44,7 +44,7 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 ### V kuchyni jsou k dispozici následující věci
 
 1.  Stádo
-2.  Wasserkocher
+2.  Konvice
 3.  Nádobí příbory
 4.  Lednička
 5.  Pizza pec
@@ -70,7 +70,7 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Folgende Dinge stehen im Zimmer zur Verfügung
+### V místnosti jsou k dispozici následující věci
 
 1.  Veškerý nábytek a postele
 2.  Počítače a tiskárny
