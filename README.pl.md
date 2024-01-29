@@ -48,20 +48,20 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 3.  Naczynia sztućce
 4.  Lodówka
 5.  piec do pizzy
-6.  Woda mineralna
+6.  Mineralwasser
 7.  Stacja ładowania telefonów komórkowych na półce
 8.  pralka
 
 ### Często zadawane pytania - Kuchnia
 
 1.  Piec nie działa? proszę powiedz
-    > "Computer, Werkbank an"
+    > „Komputer, stół warsztatowy”
 2.  Gdzie mogę się umyć? To działa tylko w łazience. Jest specjalny pojemnik do mycia naczyń.
 
 ## Twój pokój
 
 Materace są ułożone jeden na drugim wyłącznie w celu przechowywania. Możesz je dystrybuować według swoich potrzeb.
-Jeśli zastąpisz poduszki na kanapie materacem, sprawdzi się ona również jako łóżko.
+Jeśli zastąpisz poduszki na kanapie materacem, będzie to dobre łóżko.
 
 ### Dane logowania do komputera (iMac) to
 
@@ -70,7 +70,7 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### W pokoju dostępne są następujące rzeczy
+### Folgende Dinge stehen im Zimmer zur Verfügung
 
 1.  Wszystkie meble i łóżka
 2.  Komputery i drukarki
@@ -100,7 +100,7 @@ Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w 
 
 ### Korytarz
 
-Zapraszamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
+Zachęcamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
 
 # Różnorodny
 
@@ -146,7 +146,7 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych prz
 
 # Wymeldować się
 
-## Schlüssel
+## Klucz
 
 -   W zależności od tego, jaki jest dzień tygodnia, możemy pożegnać się osobiście lub po prostu odłożyć klucze na biurko i zamknąć za sobą drzwi.
 -   Najpóźniejszy termin wymeldowania to godzina 19:00 w dniu wyjazdu.
@@ -192,14 +192,14 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych prz
 Pamiętaj, że kosztuje to więcej, jeśli nie parkujesz Rafa na głównych ulicach (fioletowy na mapie).
 Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
 
-Przechowuję przewodniki turystyczne w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
+Przewodniki turystyczne przechowuję w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
 
 # Pytania?
 
 Jeśli masz jakieś pytania lub potrzebujesz wsparcia, chętnie Ci pomogę.
 Jeśli się spieszysz, najlepiej zrobić to telefonicznie <a href="tel:+491707353067">+49 170 73 53 067</a>.
-Możesz także skorzystać z preinstalowanej aplikacji komunikatora o ograniczonej funkcjonalności (SMS).
-W przeciwnym razie mam notatnik i długopis na korytarzu.
+Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS).
+Ansonsten habe ich im Flur einen Notizblock und einen Stift.
 
 Życzę miłego pobytu w Lipsku!
 Andre
