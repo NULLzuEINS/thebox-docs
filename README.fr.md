@@ -106,8 +106,8 @@ Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'ét
 
 ## Maison intelligente
 
-Im Bad und in der Küche befinden sich Alexa Sprachassistenten. Du kannst sie mit dem Namen "Computer" ansprechen und Dir zum Beispiel Deutschlandfunk Nova spielen lassen. Sie verstehen Deutsch und auch Englisch. Wenn Du sie nicht nutzen möchtest, 
-kannst Du sie auch einfach vom Strom trennen.
+Il y a des assistants vocaux Alexa dans la salle de bain et la cuisine. Vous pouvez les appeler par le nom « Ordinateur » et les faire jouer par exemple à Deutschlandfunk Nova. Ils comprennent l'allemand et aussi l'anglais. Si vous ne souhaitez pas les utiliser,
+Vous pouvez également simplement le débrancher du secteur.
 
 Il n'y a pas d'assistant vocal dans votre chambre. Le panier sur l'étagère contient uniquement le routeur et un petit ordinateur.
 
