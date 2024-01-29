@@ -82,7 +82,7 @@ An old German saying applies to all remote controls: “Trying is better than st
 
 | Illustration                                              | Description                                                                                                                                                                                                                         |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Schreibtischlampe<br>D:_file_<br>Master: Switch everything at the same time                                                                                                                |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Desk lamp<br>D:_file_<br>Master: Switch everything at the same time                                                                                                                        |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Before you can use it, make sure the light switch at the entrance is set to "on".**<br>First line: brightness, on/off<br>Colored buttons: You can use this to change the colors<br>Gray buttons: Switch between different effects |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | This is the remote control for the computer (iMac)._To use the computer, press the A button on the first remote control. It activates the power supply for the computer and the Bluetooth box._                                     |
 
@@ -92,7 +92,7 @@ An old German saying applies to all remote controls: “Trying is better than st
 
 ### bathroom
 
-You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
@@ -166,7 +166,7 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 
 You can use the washing machine without having to ask first. You can also use the drying rack, washing powder and fabric softener. If you would like new bed linen, just talk to me.
 
-## Hand brush and dust pan
+## Hand brush and dustpan
 
 In the kitchen you will find a hand brush and a dustpan on the wall. This will help you get rid of the small dirt.
 
@@ -187,8 +187,7 @@ When it's finished, please put it back in the charging station!
 
 # Tips
 
-With the[Leipzig MOVE App](https://leipzig-move.de/),
-you get 10 free rides of 15 minutes each for them_Nextbikes_.
+With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for the_Nextbikes_.
 Note that it costs more if you don't park the Raf on the main streets (purple on the map).
 The e-scooters may only be parked in certain parking spaces.
 
@@ -196,7 +195,10 @@ I have stored travel guides in the AirBnB app. There you will find my recommenda
 
 # Questions?
 
-If you have any questions or need support, I will be happy to help you. If you're in a hurry, it's best to do so via telephone <a href="tel:+491707353067">+49 170 73 53 067</a>. You can also use the pre-installed messenger app with limited functionality (SMS). Otherwise, I have a notepad and a pen in the hallway.
+If you have any questions or need support, I will be happy to help you.
+If you're in a hurry, it's best to do so via telephone <a href="tel:+491707353067">+49 170 73 53 067</a>.
+You can also use the pre-installed messenger app with limited functionality (SMS).
+Otherwise, I have a notepad and a pen in the hallway.
 
 I wish you a nice stay in Leipzig!
 Andre
