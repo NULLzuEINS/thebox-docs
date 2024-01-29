@@ -10,7 +10,7 @@ Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zd
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Konfigurace s jednou postelí s pohovkou                                                | Konfigurace se dvěma lůžky                                                    | Lavice                                                                                  |
+| Konfigurace s jednou postelí s pohovkou                                                | Zwei-Bett-Konfiguration                                                       | Lavice                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Psací stůl se světlem                                                                  | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -18,7 +18,7 @@ Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zd
 
 ## Klíč
 
-Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du Dein Zimmer abschließen kannst.
+Získáte dva páry klíčů, každý s jedním klíčem pro spodní a jedním pro horní. Na klíčence je také klíč, kterým můžete zamknout svůj pokoj.
 
 ## Přístup na internet
 
@@ -31,7 +31,7 @@ Nebo naskenujete tento QR kód, automaticky vás připojí k síti:
 
 ![WiFi](_media/wlan.png ":size=200")
 
-# Pokoje
+# Die Zimmer
 
 ![Raumplan](_media/thebox-map.png)
 
@@ -61,7 +61,7 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 ## Tvůj pokoj
 
 Matrace se pokládají na sebe pouze pro účely skladování. Můžete je distribuovat podle svých potřeb.
-Pokud polštáře na gauči nahradíte matrací, funguje dobře jako postel.
+Pokud vyměníte polštáře na gauči za matraci, je z toho dobrá postel.
 
 ### Přihlašovací údaje pro počítač (iMac) jsou
 
@@ -111,7 +111,7 @@ Můžete jej také jednoduše odpojit od napájení.
 
 Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje pouze router a malý počítač.
 
-## teplota a vlhkost
+## Temperatur und Feuchtigkeit
 
 Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, abych zabránil tvorbě plísní. Jsou malé a bílé a obvykle leží na rámech dveří. Některá naměřená data si můžete přečíst v zrcadle na chodbě.
 
@@ -131,7 +131,7 @@ Buď použijete klíč od předních dveří, nebo sáhnete skrz bránu a nahmat
 
 ### Žlutá? Modrý? Zelená? Hnědý?
 
-Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jistí, vždy dávejte odpadky do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
+Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jisti, odpadky vždy odkládejte do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
 
 ### Cykly
 
