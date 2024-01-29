@@ -146,7 +146,7 @@ Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratui
 
 # Verifică
 
-## Cheie
+## Schlüssel
 
 -   În funcție de ce zi a săptămânii este, ne putem lua rămas bun personal, sau poți pur și simplu să pui cheile pe birou și să închizi ușa în urma ta.
 -   Ultima oră pentru checkout este ora 19:00 în ziua plecării.
@@ -188,7 +188,7 @@ Când este terminat, vă rugăm să îl puneți înapoi în stația de încărca
 
 # sfaturi
 
-Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratuite a câte 15 minute fiecare pentru_Nextbikes_.
+Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die _Nextbikes_.
 Rețineți că costă mai mult dacă nu parcați Raf-ul pe străzile principale (violet pe hartă).
 Trotinetele electrice pot fi parcate numai în anumite locuri de parcare.
 
