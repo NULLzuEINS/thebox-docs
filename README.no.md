@@ -31,7 +31,7 @@ Eller du skanner denne QR-koden, den vil automatisk koble deg til nettverket:
 
 ![WiFi](_media/wlan.png ":size=200")
 
-# Die Zimmer
+# Rommene
 
 ![Raumplan](_media/thebox-map.png)
 
@@ -108,11 +108,11 @@ Du er velkommen til å legge igjen skoene dine her. Jeg har også en liten notis
 
 Det er Alexa stemmeassistenter i leiligheten. Du kan adressere dem med navnet "Computer" og la dem spille Deutschlandfunk Nova, for eksempel. Enhetene er koblet til Internett og kan også brukes som vekkerklokke eller tidtakere. Hvis du ikke vil bruke den, kan du ganske enkelt koble den fra strømforsyningen.
 
-Det er ingen stemmeassistenter på rommet ditt. Kurven på hyllen inneholder kun ruteren og en liten datamaskin.
+In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
 
 ## temperatur og fuktighet
 
-Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst Du im Spiegel im Flur ablesen.
+Temperatur og fuktighet måles automatisk via sensorene. Jeg bruker dem for å hindre muggdannelse. De er små og hvite og ligger vanligvis på dørkarmer. Noen av måledataene kan du lese i speilet i gangen.
 
 ?> Sørg for å ventilere regelmessig (minst en gang om dagen). Spesielt på badet. Pass også på at varmen er slått av. Takk 🙏
 
@@ -166,9 +166,9 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 Du kan bruke vaskemaskinen uten å måtte spørre først. Du kan også bruke tørkestativet, vaskepulver og tøymykner. Hvis du vil ha nytt sengetøy, bare snakk med meg.
 
-## Handfeger und Kehrblech
+## Håndbørste og støvpanne
 
-In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Damit bekommst du den kleinen Dreck weg.
+På kjøkkenet finner du en håndbørste og en feiebrett på veggen. Dette vil hjelpe deg å bli kvitt den lille skitten.
 
 ## Tørke
 
