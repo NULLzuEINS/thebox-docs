@@ -1,6 +1,6 @@
 # Velkommen
 
-Hej og velkommen til "Boksen"! Når jeg rejser, kan jeg også godt lide at bo i AirBnB's, og nogle gange ville jeg ønske, at jeg havde et stykke papir med alle de nødvendige oplysninger om overnatning, ind- og udtjekning, og dette er mit forsøg på at gøre det bedre.
+Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
 
 > [!En meddelelse]Jeg vil få dokumentet automatisk oversat til dit sprog. Jeg håber det er lidt forståeligt. Hvis ikke, er du velkommen til at skrive en besked til mig. Så prøver jeg at forbedre det.
 
@@ -46,7 +46,7 @@ Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. 
 1.  Flok
 2.  Kedel
 3.  Fade bestik
-4.  Kühlschrank
+4.  Køleskab
 5.  Pizzaovn
 6.  Mineralvand
 7.  Mobiltelefon ladestation på hylden
@@ -167,7 +167,7 @@ Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 1
 
 Du kan bruge vaskemaskinen uden at skulle spørge først. Du kan også bruge tørrestativ, vaskepulver og skyllemiddel. Hvis du gerne vil have nyt sengetøj, så tal bare med mig.
 
-## Handfeger und Kehrblech
+## Håndbørste og fejebakke
 
 I køkkenet finder du en håndbørste og en fejebakke på væggen. Dette vil hjælpe dig med at slippe af med det lille snavs.
 
