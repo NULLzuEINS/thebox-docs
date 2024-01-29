@@ -125,7 +125,7 @@ Passwort: thebox
 
 ### Πώς ανοίγει η πύλη;
 
-Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
+Είτε χρησιμοποιείτε το κλειδί της μπροστινής πόρτας είτε περνάτε από την πύλη και νιώθετε το κουμπί για να ανοίξει η πόρτα. Ενώ κρατάτε πατημένο το κουμπί μπορείτε να ανοίξετε την πόρτα.
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
