@@ -167,7 +167,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 Çamaşır makinesini sormanıza gerek kalmadan kullanabilirsiniz. Kurutma rafını, çamaşır tozunu ve yumuşatıcıyı da kullanabilirsiniz. Yeni nevresimler istiyorsanız benimle konuşmanız yeterli.
 
-## Handfeger und Kehrblech
+## El fırçası ve faraş
 
 Mutfakta duvarda bir el fırçası ve faraş bulacaksınız. Bu, küçük kirlerden kurtulmanıza yardımcı olacaktır.
 
