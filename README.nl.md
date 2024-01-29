@@ -1,4 +1,4 @@
-# Welkom
+# Willkommen
 
 Hallo en welkom bij de “Box”! Als ik reis, verblijf ik ook graag in AirBnB's en soms zou ik willen dat ik een vel papier had met alle nodige informatie over de accommodatie, het in- en uitchecken en dit is mijn poging om het beter te maken.
 
@@ -92,11 +92,11 @@ Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter 
 
 ### badkamer
 
-U kunt staand van de douche gebruik maken. Het maakt niet uit als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
+U kunt staand van de douche gebruik maken. Het is geen probleem als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
 
 De Alexa aan de muur heet ‘Computer’ en speelt ook je favoriete muziek of radio af. Bijvoorbeeld "_Computer, speel Deutschlandfunk Nova_"
 
-Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén stukje ervan is van jou.
+Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén ervan is van jou.
 
 ### Gang
 
@@ -129,7 +129,7 @@ Of je gebruikt de sleutel van de voordeur, of je reikt door het hek en voelt aan
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
-### Geel? Blauw? Groente? Bruin?
+### Gelb? Blau? Grün? Braun?
 
 Vraag je je af waarom de vuilnisbakken verschillende kleuren hebben? Als u het niet zeker weet, deponeer het afval dan altijd in de groene bak. Daarin komt het restafval terecht. Professionals gooien papierafval in de blauwe bak, recyclebaar afval in de gele bak en organisch afval in de bruine bak.
 
@@ -142,7 +142,7 @@ Als je de statistieken mag geloven, worden in Leipzig jaarlijks de meeste fietse
 
 ### Welke alternatieven zijn er?
 
-Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten van elk 15 minuten voor de_Volgendefietsen_. Houd er rekening mee dat het meer kost als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). En natuurlijk zijn er bussen en treinen die je ook via de Leipzig MOVE-app kunt betalen.
+Met de[Leipzig MOVE App](https://leipzig-move.de/), krijg je 10 gratis ritten van elk 15 minuten voor de_Volgendefietsen_. Houd er rekening mee dat het duurder is als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). En natuurlijk zijn er bussen en treinen die je ook via de Leipzig MOVE-app kunt betalen.
 
 # Uitchecken
 
@@ -153,7 +153,7 @@ Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten va
 
 ## schoonmaak
 
--   Je kunt beddengoed erop laten liggen.
+-   Je kunt er beddengoed op laten liggen.
 -   Ik doe ook de afwas en
 -   Ik zet ook het afval buiten.
 
@@ -198,8 +198,8 @@ Ik heb reisgidsen opgeslagen in de AirBnB-app. Daar vindt u mijn aanbevelingen v
 
 Als je vragen hebt of ondersteuning nodig hebt, help ik je graag verder.
 Als u haast heeft, kunt u dit het beste telefonisch doen <a href="tel:+491707353067">+49 170 73 53 067</a>.
-U kunt ook de vooraf geïnstalleerde messenger-app met beperkte functionaliteit (SMS) gebruiken.
-Anders heb ik een notitieblok en een pen in de gang.
+Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS).
+Ansonsten habe ich im Flur einen Notizblock und einen Stift.
 
 Ik wens u een prettig verblijf in Leipzig!
 André
