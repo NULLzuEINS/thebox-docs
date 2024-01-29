@@ -61,7 +61,7 @@ Dato che di solito mangio al piano di sotto con la mia famiglia, la cucina è mo
 ## La vostra stanza
 
 I materassi sono posizionati uno sopra l'altro solo a scopo di stoccaggio. Puoi distribuirli in base alle tue esigenze.
-Se sostituisci i cuscini del divano con un materasso, funziona bene come letto.
+Se sostituisci i cuscini del divano con un materasso, diventa un buon letto.
 
 ### I dettagli di accesso per il computer (iMac) sono
 
@@ -107,7 +107,7 @@ Puoi lasciare le tue scarpe qui. Ho anche un piccolo blocco note sullo scaffale 
 ## Casa intelligente
 
 Sono presenti gli assistenti vocali Alexa in bagno e in cucina. Puoi chiamarli "Computer" e farli giocare, ad esempio, a Deutschlandfunk Nova. Capiscono il tedesco e anche l'inglese. Se non vuoi usarli,
-Puoi anche semplicemente scollegarlo dalla corrente.
+Puoi anche semplicemente scollegarlo dall'alimentazione.
 
 Non ci sono assistenti vocali nella tua stanza. Il cestino sullo scaffale contiene solo il router e un piccolo computer.
 
@@ -131,7 +131,7 @@ O usi la chiave della porta d'ingresso, oppure raggiungi il cancello e senti il 
 
 ### Giallo? Blu? Verde? Marrone?
 
-Ti stai chiedendo perché i bidoni della spazzatura hanno colori diversi? Se non sei sicuro, getta sempre la spazzatura nel cestino verde. I rifiuti residui finiscono lì. I professionisti mettono i rifiuti cartacei nel contenitore blu, i materiali riciclabili nel contenitore giallo e i rifiuti organici nel contenitore marrone.
+Ti stai chiedendo perché i bidoni della spazzatura hanno colori diversi? Se non sei sicuro, getta sempre la spazzatura nel cestino verde. I rifiuti residui finiscono lì. I professionisti mettono la carta nel contenitore blu, i materiali riciclabili nel contenitore giallo e i rifiuti organici nel contenitore marrone.
 
 ### Cicli
 
@@ -142,7 +142,7 @@ Secondo le statistiche, ogni anno a Lipsia viene rubata la maggior parte delle b
 
 ### Quali alternative ci sono?
 
-Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_. Tieni presente che costa di più se non parcheggi le bici nelle strade principali (viola sulla mappa). Gli e-scooter possono essere parcheggiati solo in determinati parcheggi. Esiste anche un sistema di car sharing a flusso libero. Ciò significa con noi[cityflitzer](https://cityflitzer.de/). E naturalmente ci sono autobus e treni che potete pagare anche tramite l'app Leipzig MOVE.
+Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden. Es gibt auch ein Free-Float-Car-Shairing-System. Das heißt bei uns [cityflitzer](https://cityflitzer.de/). E naturalmente ci sono autobus e treni che potete pagare anche tramite l'app Leipzig MOVE.
 
 # Guardare
 
@@ -181,7 +181,7 @@ Ho un robot aspirapolvere per pavimenti.
 Prima di iniziare, togli tutto dal pavimento.
 Soprattutto cavi o altri oggetti con cui il robot potrebbe soffocare.
 Quindi mettilo nella tua stanza e premi una volta il pulsante in alto.
-Se non succede nulla, utilizzare l'interruttore on/off sul lato e successivamente
+Se non succede nulla, utilizzare l'interruttore di accensione/spegnimento sul lato e successivamente
 riaccenderlo utilizzando il pulsante in alto.
 
 Una volta terminato, rimettilo nella stazione di ricarica!
