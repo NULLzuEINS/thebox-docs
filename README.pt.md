@@ -20,7 +20,7 @@ No meu AirBnB você tem uma visão detalhada de todos os quartos e instalações
 
 Você recebe dois pares de chaves, cada um com uma chave para a parte inferior e outra para a parte superior. Há também uma chave em um chaveiro que você pode usar para trancar seu quarto.
 
-## Acesso à internet
+## Internetzugang
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -92,11 +92,11 @@ Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é mel
 
 ### banheiro
 
-Você pode usar o chuveiro em pé. Não há problema se o solo ficar um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
+Você pode usar o chuveiro em pé. Não importa se o chão fica um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
 
 A Alexa na parede atende pelo nome de “Computador” e também toca sua música ou rádio favorita. Por exemplo. "_Computador, jogue Deutschlandfunk Nova_"
 
-Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualquer lugar.
+Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualquer lugar. Há uma prateleira na frente da porta do banheiro. Um pedaço dele é seu.
 
 ### Corredor
 
@@ -106,7 +106,8 @@ Você está convidado a deixar seus sapatos aqui. Também tenho um pequeno bloco
 
 ## Lar inteligente
 
-Existem assistentes de voz Alexa no apartamento. Você pode chamá-los pelo nome “Computador” e fazer com que toquem Deutschlandfunk Nova, por exemplo. Os dispositivos estão conectados à Internet e também podem ser usados ​​como despertadores ou temporizadores. Se não quiser usá-lo, basta desconectá-lo da fonte de alimentação.
+Existem assistentes de voz Alexa no banheiro e na cozinha. Você pode chamá-los pelo nome “Computador” e fazer com que toquem Deutschlandfunk Nova, por exemplo. Eles entendem alemão e também inglês. Se você não quiser usá-los,
+Você também pode simplesmente desconectá-lo da energia.
 
 Não há assistentes de voz em sua sala. A cesta na prateleira contém apenas o roteador e um pequeno computador.
 
@@ -141,14 +142,14 @@ Se você acredita nas estatísticas, então o maior número de bicicletas per ca
 
 ### Que alternativas existem?
 
-Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
+Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
 
 # Confira
 
 ## Chave
 
 -   Dependendo do dia da semana, podemos nos despedir pessoalmente ou você pode simplesmente colocar as chaves na mesa e fechar a porta atrás de você.
--   O último horário para check-out é às 19h do dia da partida.
+-   O último horário para checkout é às 19h do dia da partida.
 
 ## limpeza
 
@@ -166,7 +167,7 @@ Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viag
 
 Você pode usar a máquina de lavar sem precisar perguntar primeiro. Você também pode usar escorredor, sabão em pó e amaciante. Se quiser roupa de cama nova, é só falar comigo.
 
-## Escova de mão e pá de lixo
+## Escova manual e pá de lixo
 
 Na cozinha você encontrará uma escova manual e uma pá de lixo na parede. Isso ajudará você a se livrar da pequena sujeira.
 
