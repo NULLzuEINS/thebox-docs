@@ -54,14 +54,14 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 ### FAQ - Kök
 
-1.  Fungerar inte kaminen? snälla säg
+1.  Kaminen fungerar inte? snälla säg
     > "Dator, arbetsbänk och"
 2.  Var kan jag diska? Detta fungerar bara i badrummet. Det finns en speciell behållare för att diska.
 
 ## Ditt rum
 
 Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov.
-Byter du ut kuddarna på soffan mot en madrass blir det en bra säng.
+Byter du ut kuddarna i soffan mot en madrass fungerar den bra som säng.
 
 ### Inloggningsuppgifterna för datorn (iMac) är
 
@@ -148,14 +148,14 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 ## Nyckel
 
--   Beroende på vilken veckodag det är kan vi säga hejdå personligen, eller så kan du helt enkelt lägga nycklarna på skrivbordet och stänga dörren efter dig.
+-   Beroende på vilken veckodag det är kan vi säga hejdå personligen eller så kan du helt enkelt lägga nycklarna på skrivbordet och stänga dörren efter dig.
 -   Senaste tid för utcheckning är 19.00 på avresedagen.
 
 ## rengöring
 
 -   Du kan lämna sängkläder på den.
 -   Jag diskar också och
--   den Müll bring ich auch raus.
+-   Jag tar också ut soporna.
 
 > Kortversion: Lämna nyckeln där, stäng dörren, så är det. 😀
 
@@ -167,7 +167,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 Du kan använda tvättmaskinen utan att behöva fråga först. Du kan också använda torkställning, tvättpulver och sköljmedel. Om du vill ha nya sängkläder är det bara att prata med mig.
 
-## Handborste och dammpanna
+## Handborste och sopskanna
 
 I köket hittar du en handborste och en soptunna på väggen. Detta hjälper dig att bli av med den lilla smutsen.
 
