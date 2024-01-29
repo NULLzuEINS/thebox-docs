@@ -80,11 +80,11 @@ Passwort: thebox
 
 Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é melhor do que estudar”. Você não pode quebrar nada. Pressione alguns botões e veja o que acontece. Se você ainda quer estudar, aqui está a leitura certa para você:
 
-| Ilustração                                                | Descrição                                                                                                                                                                                                                                                               |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caixa Bluetooth<br>B: Luzes de fada<br>C: Candeeiro de mesa<br>D:_arquivo_<br>Mestre: Troque tudo ao mesmo tempo                                                                                                                                                     |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usá-lo, certifique-se de que o interruptor da luz da entrada esteja na posição "ligado".**<br>Primeira linha: brilho, ligar/desligar<br>Botões coloridos: você pode usar isso para alterar as cores<br>Botões cinza: Alternar entre diferentes efeitos |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Este é o controle remoto do computador (iMac)._Para usar o computador, pressione o botão A no primeiro controle remoto. Ativa a fonte de alimentação do computador e da caixa Bluetooth._                                                                               |
+| Ilustração                                                | Descrição                                                                                                                                                                                                                                                         |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caixa Bluetooth<br>B: Luzes de fada<br>C: Candeeiro de mesa<br>D:_arquivo_<br>Mestre: Troque tudo ao mesmo tempo                                                                                                                                               |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usá-lo, certifique-se de que o interruptor da luz da entrada esteja na posição "ligado".**<br>Primeira linha: brilho, ligar/desligar<br>Farbige Tasten: Hiermit kannst Du die Farben wechseln<br>Botões cinza: Alternar entre diferentes efeitos |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Este é o controle remoto do computador (iMac)._Para usar o computador, pressione o botão A no primeiro controle remoto. Ativa a fonte de alimentação do computador e da caixa Bluetooth._                                                                         |
 
 ### Perguntas frequentes - Seu quarto
 
@@ -92,11 +92,11 @@ Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é mel
 
 ### banheiro
 
-Você pode usar o chuveiro em pé. Não importa se o chão fica um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
+Você pode usar o chuveiro em pé. Não há problema se o solo ficar um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
 
 A Alexa na parede atende pelo nome de “Computador” e também toca sua música ou rádio favorita. Por exemplo. "_Computador, jogue Deutschlandfunk Nova_"
 
-Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualquer lugar. Há uma prateleira na frente da porta do banheiro. Um pedaço dele é seu.
+Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualquer lugar. Há uma prateleira na frente da porta do banheiro. Um deles é seu.
 
 ### Corredor
 
@@ -142,14 +142,14 @@ Se você acredita nas estatísticas, então o maior número de bicicletas per ca
 
 ### Que alternativas existem?
 
-Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
+Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
 
 # Confira
 
 ## Chave
 
 -   Dependendo do dia da semana, podemos nos despedir pessoalmente ou você pode simplesmente colocar as chaves na mesa e fechar a porta atrás de você.
--   O último horário para checkout é às 19h do dia da partida.
+-   O último horário para check-out é às 19h do dia da partida.
 
 ## limpeza
 
@@ -159,7 +159,7 @@ Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viag
 
 > Versão curta: Deixe a chave aí, feche a porta, pronto. 😀
 
-# Estadia mais longa
+# Längerer Aufenthalt
 
 ?> Alguns dos meus hóspedes ficam por um mês ou mais. Se você é um deles, esta seção é para você!
 
@@ -175,7 +175,7 @@ Na cozinha você encontrará uma escova manual e uma pá de lixo na parede. Isso
 
 Você pode encontrar um agente de limpeza verde em um borrifador no banheiro para limpar. Juntamente com o papel de cozinha, pode ser utilizado para limpar facilmente superfícies.
 
-## Aspirador de pó
+## Staubsauger
 
 Tenho um aspirador robô para o chão.
 Antes de começar, limpe tudo que estiver no chão.
