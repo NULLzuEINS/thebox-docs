@@ -1,6 +1,6 @@
 # Καλώς ήρθατε στο The Box
 
-Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
+Γεια σας και καλώς ήρθατε στο "Box"! Όταν ταξιδεύω, μου αρέσει επίσης να μένω σε AirBnB και μερικές φορές εύχομαι να είχα ένα χαρτί με όλες τις απαραίτητες πληροφορίες για τη διαμονή, το check-in και το check-out και αυτή είναι η προσπάθειά μου να το κάνω καλύτερο.
 
 > [!Μία σημείωση]Θα μεταφραστεί αυτόματα το έγγραφο στη γλώσσα σας. Ελπίζω να είναι κάπως κατανοητό. Αν όχι, μη διστάσετε να μου γράψετε ένα μήνυμα. Μετά προσπαθώ να το βελτιώσω.
 
@@ -41,7 +41,7 @@ Passwort: landungsbruecken
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Folgende Dinge stehen in der Küche zur Verfügung
+### Τα ακόλουθα πράγματα είναι διαθέσιμα στην κουζίνα
 
 1.  Αγέλη
 2.  Βραστήρας
@@ -54,7 +54,7 @@ Passwort: landungsbruecken
 
 ### Συχνές ερωτήσεις - Κουζίνα
 
-1.  Herd funktioniert nicht? Bitte sage
+1.  Η σόμπα δεν λειτουργεί; Παρακαλώ πείτε
     > "Υπολογιστής, πάγκος εργασίας και"
 2.  Πού μπορώ να πλυθώ; Αυτό λειτουργεί μόνο στο μπάνιο. Υπάρχει ειδικό δοχείο για το πλύσιμο των πιάτων.
 
@@ -125,7 +125,7 @@ Passwort: thebox
 
 ### Πώς ανοίγει η πύλη;
 
-Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
+Είτε χρησιμοποιείτε το κλειδί της μπροστινής πόρτας είτε περνάτε από την πύλη και νιώθετε το κουμπί για να ανοίξει η πόρτα. Ενώ κρατάτε πατημένο το κουμπί μπορείτε να ανοίξετε την πόρτα.
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
