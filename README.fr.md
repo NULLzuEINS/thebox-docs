@@ -102,7 +102,7 @@ Vous pouvez accrocher des serviettes à tous les crochets et ranger vos affaires
 
 Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'étagère au cas où tu voudrais me dire quelque chose.
 
-# Sonstiges
+# Divers
 
 ## Maison intelligente
 
