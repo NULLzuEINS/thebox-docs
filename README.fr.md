@@ -96,9 +96,9 @@ Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est u
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
-Vous pouvez accrocher des serviettes à tous les crochets et ranger vos affaires n'importe où. Il y a une étagère devant la porte de la salle de bain. L'un d'eux est le vôtre.
+Vous pouvez accrocher des serviettes à tous les crochets et ranger vos affaires n'importe où. Il y a une étagère devant la porte de la salle de bain. Un morceau est à vous.
 
-### Flur
+### Couloir
 
 Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'étagère au cas où tu voudrais me dire quelque chose.
 
