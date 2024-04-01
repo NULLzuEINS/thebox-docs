@@ -10,7 +10,7 @@ Pe AirBnB-ul meu primești o imagine de ansamblu detaliată a tuturor camerelor 
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Configurație cu un pat cu canapea                                                      | Zwei-Bett-Konfiguration                                                       | Birou                                                                                   |
+| Configurație cu un pat cu canapea                                                      | Configurație cu două paturi                                                   | Birou                                                                                   |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Bucătărie - ceai                                                                        |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -61,7 +61,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 ## Camera dvs
 
 Saltelele sunt așezate una peste alta numai în scop de depozitare. Le poți distribui în funcție de nevoile tale.
-Dacă înlocuiți pernele de pe canapea cu o saltea, este un pat bun.
+Dacă înlocuiți pernele de pe canapea cu o saltea, aceasta funcționează bine ca un pat.
 
 ### Detaliile de conectare pentru computer (iMac) sunt
 
@@ -142,7 +142,7 @@ Dacă credeți statisticile, atunci cele mai multe biciclete pe cap de locuitor 
 
 ### Ce alternative există?
 
-Mit der [Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratuite a câte 15 minute fiecare pentru_Nextbikes_. Rețineți că costă mai mult dacă nu vă parcați bicicletele pe străzile principale (violet pe hartă). Trotinetele electrice pot fi parcate numai în anumite locuri de parcare. Există, de asemenea, un sistem de partajare a mașinii. Asta înseamnă cu noi[cityflitzer](https://cityflitzer.de/). Și, desigur, există autobuze și trenuri pe care le puteți plăti și prin aplicația Leipzig MOVE.
+Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratuite a câte 15 minute fiecare pentru_Nextbikes_. Rețineți că costă mai mult dacă nu vă parcați bicicletele pe străzile principale (violet pe hartă). Trotinetele electrice pot fi parcate numai în anumite locuri de parcare. Există, de asemenea, un sistem de partajare a mașinii. Asta înseamnă cu noi[cityflitzer](https://cityflitzer.de/). Și, desigur, există autobuze și trenuri pe care le puteți plăti și prin aplicația Leipzig MOVE.
 
 # Verifică
 
@@ -167,7 +167,7 @@ Mit der [Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse 
 
 Puteți folosi mașina de spălat fără a fi nevoie să întrebați mai întâi. De asemenea, puteți utiliza suportul de uscare, praful de spălat și balsam de rufe. Dacă vrei lenjerie de pat nouă, vorbește cu mine.
 
-## Handfeger und Kehrblech
+## Perie de mână și paletă de praf
 
 În bucătărie veți găsi o perie de mână și o cutie de praf pe perete. Acest lucru vă va ajuta să scăpați de murdăria mică.
 
