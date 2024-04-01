@@ -1,4 +1,4 @@
-# Willkommen in TheBox
+# Velkommen til The Box
 
 Hej og velkommen til "Boksen"! Når jeg rejser, kan jeg også godt lide at bo i AirBnB's, og nogle gange ville jeg ønske, at jeg havde et stykke papir med alle de nødvendige oplysninger om overnatning, ind- og udtjekning, og dette er mit forsøg på at gøre det bedre.
 
@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Eller du scanner denne QR-kode, den vil automatisk forbinde dig til netværket:
+Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -37,7 +37,7 @@ Eller du scanner denne QR-kode, den vil automatisk forbinde dig til netværket:
 
 ## Køkken
 
-Da jeg plejer at spise nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
+Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -76,15 +76,15 @@ Passwort: thebox
 2.  Computere og printere
 3.  Fjernbetjeninger til lys og el
 
-### Fernbedienungen
+### Fjernbetjeninger
 
 Et gammelt tysk ordsprog gælder for alle fjernbetjeninger: "Det er bedre at prøve end at studere". Du kan ikke bryde noget. Tryk på et par knapper og se, hvad der sker. Hvis du stadig vil studere, er her den rigtige læsning for dig:
 
-| Illustration                                              | Beskrivelse                                                                                                                                                                                                                                          |
-| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Bordlampe<br>D:_fil_<br>Mester: Skift alt på samme tid                                                                                                                                                      |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Bevor du es benutzen kannst, stell sicher, dass der Lichtschalter an am Eingang auf "an" steht.**<br>Første linje: lysstyrke, tænd/sluk<br>Farbige Tasten: Hiermit kannst Du die Farben wechseln<br>Grå knapper: Skift mellem forskellige effekter |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Dette er fjernbetjeningen til computeren (iMac)._For at bruge computeren skal du trykke på A-knappen på den første fjernbetjening. Den aktiverer strømforsyningen til computeren og Bluetooth-boksen._                                               |
+| Illustration                                              | Beskrivelse                                                                                                                                                                                                                                         |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Bordlampe<br>D:_fil_<br>Mester: Skift alt på samme tid                                                                                                                                                     |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Før du kan bruge den, skal du sørge for, at lyskontakten ved indgangen er sat til "tændt".**<br>Første linje: lysstyrke, tænd/sluk<br>Farvede knapper: Du kan bruge dette til at ændre farverne<br>Grå knapper: Skift mellem forskellige effekter |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Dette er fjernbetjeningen til computeren (iMac)._For at bruge computeren skal du trykke på A-knappen på den første fjernbetjening. Den aktiverer strømforsyningen til computeren og Bluetooth-boksen._                                              |
 
 ### FAQ - Dit værelse
 
@@ -113,11 +113,11 @@ Der er ingen stemmeassistenter på dit værelse. Kurven på hylden indeholder ku
 
 ## temperatur og fugtighed
 
-Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre dannelse af skimmelsvamp. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
+Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre mugdannelse. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
 
 ?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Især på badeværelset. Sørg også for, at varmen er slukket. Tak 🙏
 
-## Der Hof
+## Gården
 
 I vores gårdhave kan du tilslutte dine cykler og tage dit affald væk.
 
@@ -140,7 +140,7 @@ Undrer du dig over, hvorfor skraldespandene har forskellige farver? Hvis du er u
 Leipzig er en meget cykelvenlig by. Gennem den store bypark, der deler byen i to halvdele, kan man komme mange steder hen og normalt køre gennem landskabet.
 Hvis man skal tro statistikken, så stjæles der flest cykler pr. indbygger i Leipzig hvert år. (1.539 stjålne cykler pr. 100.000 indbyggere) I de 15 år, siden jeg har boet her på Hardenbergstraße, har jeg aldrig fået stjålet en cykel, og jeg kender kun én nabo, hvis cykel blev stjålet fra hans baghave. Jeg forbinder den altid direkte til rækværket.
 
-### Welche Alternativen gibt es
+### Hvilke alternativer er der?
 
 Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 15 minutter hver for_Nextbikes_. Bemærk, at det koster mere, hvis du ikke parkerer dine cykler på hovedgaderne (lilla på kortet). El-scooterne må kun parkeres på visse parkeringspladser. Der er også et free-float delebilssystem. Det betyder med os[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er der busser og tog, som du også kunne betale for via Leipzig MOVE-appen.
 
@@ -154,7 +154,7 @@ Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 1
 ## rengøring
 
 -   Du kan efterlade sengetøj på den.
--   Das Geschirr spüle ich auch ab und
+-   Jeg vasker også op og
 -   Jeg tager også skraldet ud.
 
 > Kort version: Lad nøglen blive der, luk døren, det er det. 😀
