@@ -83,7 +83,7 @@ Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre
 | Illustration                                              | Beskrivning                                                                                                                                                                                                                                |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | S: Bluetoothbox<br>B: Fairy lights<br>C: Skrivbordslampa<br>D:_fil_<br>Mästare: Byt allt på samma gång                                                                                                                                     |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Innan du kan använda den, se till att ljusströmbrytaren vid entrén är inställd på "på".**<br>Erste Zeile: Helligkeit, An/Aus<br>Färgade knappar: Du kan använda detta för att ändra färgerna<br>Grå knappar: Växla mellan olika effekter |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Innan du kan använda den, se till att ljusströmbrytaren vid entrén är inställd på "på".**<br>Första raden: ljusstyrka, på/av<br>Färgade knappar: Du kan använda detta för att ändra färgerna<br>Grå knappar: Växla mellan olika effekter |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Detta är fjärrkontrollen till datorn (iMac)._För att använda datorn, tryck på A-knappen på den första fjärrkontrollen. Den aktiverar strömförsörjningen till datorn och Bluetooth-boxen._                                                  |
 
 ### FAQ - Ditt rum
@@ -92,7 +92,7 @@ Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre
 
 ### badrum
 
-Du kan använda duschen stående. Det spelar ingen roll om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
+Du kan använda duschen stående. Det är inga problem om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
 
 Alexa på väggen går under namnet "Dator" och spelar även din favoritmusik eller radio. T.ex. "_Dator, spela Deutschlandfunk Nova_"
 
@@ -131,7 +131,7 @@ Antingen använder du nyckeln till ytterdörren eller så sträcker du dig genom
 
 ### Gul? Blå? Grön? Brun?
 
-Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i det bruna kärlet.
+Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i den bruna soptunnan.
 
 ### Cyklar
 
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Gjord med ❤️ av [dokumentera](https://docsify.js.org/)_
+_Made with ❤️ by  [dokumentera](https://docsify.js.org/)_
