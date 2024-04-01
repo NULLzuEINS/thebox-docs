@@ -61,7 +61,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 ## Ta chambre
 
 Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins.
-Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
+Si vous remplacez les oreillers du canapé par un matelas, celui-ci fera également office de lit.
 
 ### Les informations de connexion pour l'ordinateur (iMac) sont
 
