@@ -1,6 +1,6 @@
 # Добродошли у Тхе Бок
 
-Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
+Здраво и добродошли у „Бокс“! Када путујем, такође волим да боравим у АирБнБ-у и понекад пожелим да имам парче папира са свим потребним информацијама о смештају, пријави и одјави и ово је мој покушај да га побољшам.
 
 > [!Обавештење]Документ ћу аутоматски превести на ваш језик. Надам се да је донекле разумљиво. Ако не, слободно ми напишите поруку. Онда покушавам да га побољшам.
 
@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
+Или скенирате овај КР код, он ће вас аутоматски повезати на мрежу:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -82,7 +82,7 @@ Passwort: thebox
 
 | Илустрација                                               | Опис                                                                                                                                                                                                                                                                                  |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>Б: Вилинска светла<br>Ц: Стона лампа<br>Д:_фајл_<br>Мајстор: Пребаците све у исто време                                                                                                                                                                            |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | О: Блуетоотхбок<br>Б: Вилинска светла<br>Ц: Стона лампа<br>Д:_фајл_<br>Мајстор: Пребаците све у исто време                                                                                                                                                                            |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Пре него што будете могли да га користите, проверите да ли је прекидач за светло на улазу постављен на "укључено".**<br>Прва линија: осветљеност, укључено/искључено<br>Дугмад у боји: Ово можете користити да промените боје<br>Сива дугмад: Пребацивање између различитих ефеката |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Ово је даљински управљач за рачунар (иМац)._Да бисте користили рачунар, притисните дугме А на првом даљинском управљачу. Активира напајање за рачунар и Блуетоотх кутију._                                                                                                            |
 
@@ -135,10 +135,10 @@ Passwort: thebox
 
 ### Циклуси
 
-### Да ли је мој бицикл безбедан?
+### Ist mein Fahrrad sicher?
 
-Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
-Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
+Лајпциг је град веома погодан за бициклисте. Кроз велики градски парк који дели град на две половине, можете стићи на многа места и обично се возити кроз природу.
+Ако је веровати статистици, у Лајпцигу се сваке године украде највише бицикала по глави становника. (1.539 украдених бицикала на 100.000 становника) За 15 година од када живим овде у Харденбергштрасе, никада ми није украден бицикл и знам само за једног комшију коме је бицикл украден из његовог дворишта. Увек га спајам директно на ограду.
 
 ### Које алтернативе постоје?
 
