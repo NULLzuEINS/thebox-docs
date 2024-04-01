@@ -61,7 +61,7 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 ## Sinu tuba
 
 Madratsid asetatakse üksteise peale ainult ladustamise eesmärgil. Saate neid vastavalt oma vajadustele levitada.
-Kui asendad diivanil olevad padjad madratsiga, saab sellest hea voodi.
+Kui asendad diivanil olevad padjad madratsiga, siis sobib see hästi voodina.
 
 ### Arvuti (iMac) sisselogimisandmed on
 
@@ -84,7 +84,7 @@ Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". 
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Haldjatuled<br>C: laualamp<br>D:_faili_<br>Meister: Lülitage kõike korraga                                                                                                                                            |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Enne selle kasutamist veenduge, et sissepääsu valguslüliti oleks asendis "sees".**<br>Esimene rida: heledus, sisse/välja<br>Värvilised nupud: saate seda kasutada värvide muutmiseks<br>Hallid nupud: erinevate efektide vahel vahetamine |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | See on arvuti (iMac) kaugjuhtimispult._Arvuti kasutamiseks vajutage esimesel kaugjuhtimispuldil nuppu A. See aktiveerib arvuti ja Bluetooth-kasti toiteallika._                                                                             |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | See on arvuti (iMac) kaugjuhtimispult._Arvuti kasutamiseks vajutage esimesel kaugjuhtimispuldil nuppu A. See aktiveerib arvuti ja Bluetooth-boksi toiteallika._                                                                             |
 
 ### KKK – Sinu tuba
 
@@ -92,11 +92,11 @@ Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". 
 
 ### vannituba
 
-Dušši saate kasutada seistes. Pole probleemi, kui maapind veidi märjaks saab. Lülitage vesi sisse ainult 1/3 ja riputage vannimatt kerise kohale kuivama.
+Dušši saate kasutada seistes. Vahet pole, kui maapind veidi märjaks saab. Lülitage vesi sisse ainult 1/3 ja riputage vannimatt kerise kohale kuivama.
 
 Seinal olev Alexa kannab nime "Computer" ja mängib ka teie lemmikmuusikat või raadiot. Nt "_Arvuti, mängi Deutschlandfunk Nova_"
 
-Saate riputada käterätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks neist on sinu oma.
+Saate riputada rätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks neist on sinu oma.
 
 ### Esik
 
