@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        language: [de, en]
+        language: [de]
     steps:
       - name: Step 1 - Checkout sources
         uses: actions/checkout@v4
@@ -25,10 +25,12 @@ jobs:
         run: |
           ./Scripts/build.sh ${{ matrix.language }}
       - name: Step 3.2 - Cache Docker layers
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: /tmp/.buildx-cache
-          key: ${{ runner.os }}-buildx-cache-thebox-pdf-${{ matrix.language }}-${{ hashFiles('**/Dockerfile') }}
+          key: ${{ runner.os }}-buildx-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-buildx-
       - name: Step 4 - Upload PDF artifact for ${{ matrix.language }}
         uses: actions/upload-artifact@v3
         with:
@@ -71,8 +73,8 @@ jobs:
           prerelease: false
       - name: Save upload URL for later use
         run: |
-            mkdir -p Assets
-            echo "${{ steps.create_release.outputs.upload_url }}" > ./Assets/upload-url.txt
+          mkdir -p Assets
+          echo "${{ steps.create_release.outputs.upload_url }}" > ./Assets/upload-url.txt
       - name: Upload upload_url.txt as artifact
         uses: actions/upload-artifact@v2
         with:
