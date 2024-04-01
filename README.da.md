@@ -37,7 +37,7 @@ Eller du scanner denne QR-kode, den vil automatisk forbinde dig til netværket:
 
 ## Køkken
 
-Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
+Da jeg plejer at spise nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -61,7 +61,7 @@ Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. 
 ## Dit værelse
 
 Madrasserne placeres kun oven på hinanden til opbevaringsformål. Du kan fordele dem efter dine behov.
-Udskifter du puderne på sofaen med en madras, er det en god seng.
+Udskifter du puderne på sofaen med en madras, fungerer den godt som seng.
 
 ### Loginoplysningerne til computeren (iMac) er
 
@@ -92,7 +92,7 @@ Et gammelt tysk ordsprog gælder for alle fjernbetjeninger: "Det er bedre at pr�
 
 ### badeværelse
 
-Du kan bruge bruseren, mens du står. Det er ikke noget problem, hvis jorden bliver lidt våd. Tænd kun for vandet 1/3 og hæng bademåtten over varmeren til tørre.
+Du kan bruge bruseren, mens du står. Det gør ikke noget, hvis jorden bliver lidt våd. Tænd kun for vandet 1/3 og hæng bademåtten over varmeren til tørre.
 
 Alexaen på væggen går under navnet "Computer" og spiller også din yndlingsmusik eller radio. F.eks. "_Computer, spil Deutschlandfunk Nova_"
 
@@ -113,7 +113,7 @@ Der er ingen stemmeassistenter på dit værelse. Kurven på hylden indeholder ku
 
 ## temperatur og fugtighed
 
-Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre mugdannelse. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
+Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre dannelse af skimmelsvamp. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
 
 ?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Især på badeværelset. Sørg også for, at varmen er slukket. Tak 🙏
 
@@ -159,7 +159,7 @@ Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 1
 
 > Kort version: Lad nøglen blive der, luk døren, det er det. 😀
 
-# Længere ophold
+# Längerer Aufenthalt
 
 ?> Nogle af mine gæster bliver i en måned eller længere. Hvis du er en af ​​dem, så er denne sektion noget for dig!
 
@@ -194,7 +194,7 @@ El-scooterne må kun parkeres på visse parkeringspladser.
 
 Jeg har gemt rejseguider i AirBnB-appen. Der finder du mine anbefalinger til seværdigheder, barer og pubber, indkøbsmuligheder og restauranter.
 
-# Fragen?
+# Spørgsmål?
 
 Hvis du har spørgsmål eller brug for support, hjælper jeg dig gerne.
 Hvis du har travlt, er det bedst at gøre det via telefonen <a href="tel:+491707353067">+49 170 73 53 067</a>.
