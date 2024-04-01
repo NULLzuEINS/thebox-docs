@@ -14,7 +14,7 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
+| Desk with light                                                                        | Küche - Herd                                                                  | Kitchen - tea                                                                           |
 
 ## Key
 
@@ -58,10 +58,10 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
     > "Computer, Workbench an"
 2.  Where can I wash up? This only works in the bathroom. There is a special container for washing dishes.
 
-## Your room
+## Dein Zimmer
 
 The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs.
-If you replace the cushions on the couch with a mattress, it makes a good bed.
+If you replace the pillows on the couch with a mattress, it works well as a bed.
 
 ### The login details for the computer (iMac) are
 
@@ -96,11 +96,11 @@ You can use the shower while standing. It's not a problem if the ground gets a l
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
-You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One piece of it is yours.
+You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One of them is yours.
 
 ### Hallway
 
-You are welcome to leave your shoes here. I also have a small notepad on the shelf in case you want to tell me something.
+Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
 
 # Miscellaneous
 
@@ -184,7 +184,7 @@ Then put it in your room and press the button on the top once.
 If nothing happens, use the on/off switch on the side and after
 turn it on again using the button on the top.
 
-When it's finished, please put it back in the charging station!
+Wenn er fertig ist, stelle ihn bitte wieder zurück in die Ladestation!
 
 # Tips
 
