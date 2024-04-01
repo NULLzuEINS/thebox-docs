@@ -37,7 +37,7 @@ Passwort: landungsbruecken
 
 ## 厨房
 
-由于我经常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗碗只能在浴室的水槽里进行。但有一个专门的容器可以用来清洗。
+由于我通常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗漱只能在浴室的水槽里进行。但有一个专门的容器可以用来清洗。
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -82,7 +82,7 @@ Passwort: thebox
 
 | 插图                                                        | 描述                                                                               |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 答：蓝牙盒子<br>B：仙女灯<br>C：台灯<br>d：_文件_<br>大师：同时切换所有内容                                 |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 答：蓝牙盒子<br>B：仙女灯<br>C：台灯<br>d:_文件_<br>大师：同时切换所有内容                                 |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **在使用之前，请确保入口处的电灯开关设置为“打开”。**<br>第一行：亮度、开/关<br>彩色按钮：您可以使用它来更改颜色<br>灰色按钮：不同效果之间切换 |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | 这是电脑 (iMac) 的遥控器。_要使用计算机，请按第一个遥控器上的 A 按钮。它激活计算机和蓝牙盒的电源。_                         |
 
@@ -106,8 +106,8 @@ Passwort: thebox
 
 ## 智能家居
 
-Im Bad und in der Küche befinden sich Alexa Sprachassistenten. Du kannst sie mit dem Namen "Computer" ansprechen und Dir zum Beispiel Deutschlandfunk Nova spielen lassen. Sie verstehen Deutsch und auch Englisch. Wenn Du sie nicht nutzen möchtest, 
-kannst Du sie auch einfach vom Strom trennen.
+浴室和厨房都有Alexa语音助手。例如，您可以用“计算机”这个名字来称呼他们，并让他们玩 Deutschlandfunk Nova。他们懂德语，也懂英语。如果你不想使用它们，
+您也可以简单地将其与电源断开。
 
 您的房间里没有语音助手。架子上的篮子里只有路由器和一台小电脑。
 
@@ -127,7 +127,7 @@ kannst Du sie auch einfach vom Strom trennen.
 
 要么使用前门钥匙，要么伸手穿过大门并感觉到开门按钮。当您按住按钮时，您可以打开门。
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
+![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
 ### 黄色的？蓝色的？绿色的？棕色的？
 
