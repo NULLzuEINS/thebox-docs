@@ -98,7 +98,7 @@ A Alexa na parede atende pelo nome de “Computador” e também toca sua músic
 
 Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualquer lugar. Há uma prateleira na frente da porta do banheiro. Um deles é seu.
 
-### Corredor
+### Flur
 
 Você está convidado a deixar seus sapatos aqui. Também tenho um pequeno bloco de notas na prateleira, caso você queira me contar alguma coisa.
 
