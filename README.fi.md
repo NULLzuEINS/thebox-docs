@@ -80,13 +80,13 @@ Passwort: thebox
 
 Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on parempi kuin opiskelu". Et voi rikkoa mitään. Paina muutamaa painiketta ja katso mitä tapahtuu. Jos haluat vielä opiskella, tässä on sinulle sopivaa luettavaa:
 
-| Kuva                                                      | Kuvaus                                                                                                                                                                                                                                        |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Keijuvalot<br>C: Pöytälamppu<br>D:_tiedosto_<br>Mestari: Vaihda kaikki samaan aikaan                                                                                                                                    |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Ennen kuin voit käyttää sitä, varmista, että sisäänkäynnin valokytkin on asennossa "on".**<br>Ensimmäinen rivi: kirkkaus, päällä/pois<br>Värilliset painikkeet: Voit muuttaa värejä tällä<br>Harmaat painikkeet: Vaihda tehosteiden välillä |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Tämä on tietokoneen (iMac) kaukosäädin._Käytä tietokonetta painamalla ensimmäisen kaukosäätimen A-painiketta. Se aktivoi tietokoneen ja Bluetooth-laitteen virtalähteen._                                                                     |
+| Kuva                                                      | Kuvaus                                                                                                                                                                                                                                               |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Keijuvalot<br>C: Pöytälamppu<br>D:_tiedosto_<br>Mestari: Vaihda kaikki samaan aikaan                                                                                                                                           |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Bevor du es benutzen kannst, stell sicher, dass der Lichtschalter an am Eingang auf "an" steht.**<br>Ensimmäinen rivi: kirkkaus, päällä/pois<br>Värilliset painikkeet: Voit muuttaa värejä tällä<br>Harmaat painikkeet: Vaihda tehosteiden välillä |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Tämä on tietokoneen (iMac) kaukosäädin._Käytä tietokonetta painamalla ensimmäisen kaukosäätimen A-painiketta. Se aktivoi tietokoneen ja Bluetooth-laitteen virtalähteen._                                                                            |
 
-### FAQ - Oma huone
+### FAQ - Huoneesi
 
 1.  Valo ei syty tai vilkkuu villisti. Käytä pieniä kaukosäätimiä värikkäillä painikkeilla.
 
@@ -96,7 +96,7 @@ Voit käyttää suihkua seisten. Ei haittaa, jos maa hieman kastuu. Kytke vesi p
 
 Seinällä oleva Alexa on nimeltään "Computer", ja se soittaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
 
-Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi niistä on sinun.
+Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi osa siitä on sinun.
 
 ### Käytävä
 
@@ -129,9 +129,9 @@ Joko käytät etuoven avainta tai kurkotat portin läpi ja tunnet oven avaavan p
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
-### Gelb? Blau? Grün? Braun?
+### Keltainen? Sininen? Vihreä? Ruskea?
 
-Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan.
+Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan roskakoriin.
 
 ### Pyörät
 
@@ -151,13 +151,13 @@ Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 -   Riippuen siitä, mikä viikonpäivä on, voimme sanoa hyvästit henkilökohtaisesti tai voit laittaa avaimet pöydälle ja sulkea oven perässäsi.
 -   Viimeisin maksuaika on lähtöpäivänä klo 19.
 
-## puhdistus
+## Reinigung
 
 -   Voit jättää siihen vuodevaatteet.
 -   Pesen myös astiat ja
 -   Vien roskat myös pois.
 
-> Lyhyt versio: Jätä avain sinne, sulje ovi, se on siinä. 😀
+> Lyhyt versio: Jätä avain sinne, sulje ovi, siinä kaikki. 😀
 
 # Pidempi oleskelu
 
@@ -173,16 +173,16 @@ Keittiöstä löytyy käsiharja ja seinälle sivellin. Tämä auttaa sinua pää
 
 ## Pyyhi
 
-Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppaukseen. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
+Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppausta varten. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
 
 ## Imuri
 
-Für den Fußboden habe ich einen Staubsauger-Roboter.
-Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
-Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
-Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
-Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
-anschalten noch einmal auf den Knopf auf drt Oberseite.
+Minulla on robottipölynimuri lattialle.
+Ennen kuin aloitat, poista kaikki lattialla oleva tieltä.
+Erityisesti johdot tai muut asiat, joihin robotti voi tukehtua.
+Aseta se sitten huoneeseesi ja paina kerran yläosassa olevaa painiketta.
+Jos mitään ei tapahdu, käytä päällä/pois-kytkintä sivulla ja sen jälkeen
+käynnistä se uudelleen yläosassa olevalla painikkeella.
 
 Kun se on valmis, laita se takaisin latausasemaan!
 
