@@ -56,7 +56,7 @@ Dato che di solito mangio al piano di sotto con la mia famiglia, la cucina è mo
 
 1.  La stufa non funziona? per favore dì
     > "Computer, banco di lavoro e"
-2.  Dove posso lavarmi? Funziona solo in bagno. C'è un contenitore speciale per lavare i piatti.
+2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
 
 ## La vostra stanza
 
@@ -80,11 +80,11 @@ Passwort: thebox
 
 Per tutti i telecomandi vale un vecchio detto tedesco: “Provare è meglio che studiare”. Non puoi rompere nulla. Premi alcuni pulsanti e guarda cosa succede. Se hai ancora voglia di studiare, ecco la lettura giusta per te:
 
-| Illustrazione                                             | Descrizione                                                                                                                                                                                                                                              |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Scatola Bluetooth<br>B: Lucine<br>C: Lampada da scrivania<br>D:_file_<br>Maestro: Cambia tutto allo stesso tempo                                                                                                                                      |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Prima di poterlo utilizzare, assicurati che l'interruttore della luce all'ingresso sia impostato su "on".**<br>Prima riga: luminosità, on/off<br>Pulsanti colorati: puoi usarli per cambiare i colori<br>Pulsanti grigi: passa da un effetto all'altro |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Questo è il telecomando del computer (iMac)._Per utilizzare il computer, premere il pulsante A sul primo telecomando. Attiva l'alimentazione del computer e del box Bluetooth._                                                                          |
+| Illustrazione                                             | Descrizione                                                                                                                                                                                                                                    |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Scatola Bluetooth<br>B: Lucine<br>C: Lampada da scrivania<br>D:_file_<br>Maestro: Cambia tutto allo stesso tempo                                                                                                                            |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Bevor du es benutzen kannst, stell sicher, dass der Lichtschalter an am Eingang auf "an" steht.**<br>Prima riga: luminosità, on/off<br>Pulsanti colorati: puoi usarli per cambiare i colori<br>Pulsanti grigi: passa da un effetto all'altro |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Questo è il telecomando del computer (iMac)._Per utilizzare il computer, premere il pulsante A sul primo telecomando. Attiva l'alimentazione del computer e del box Bluetooth._                                                                |
 
 ### FAQ - La tua camera
 
@@ -107,7 +107,7 @@ Puoi lasciare le tue scarpe qui. Ho anche un piccolo blocco note sullo scaffale 
 ## Casa intelligente
 
 Sono presenti gli assistenti vocali Alexa in bagno e in cucina. Puoi chiamarli "Computer" e farli giocare, ad esempio, a Deutschlandfunk Nova. Capiscono il tedesco e anche l'inglese. Se non vuoi usarli,
-Puoi anche semplicemente scollegarlo dall'alimentazione.
+Puoi anche semplicemente scollegarlo dalla corrente.
 
 Non ci sono assistenti vocali nella tua stanza. Il cestino sullo scaffale contiene solo il router e un piccolo computer.
 
