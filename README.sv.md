@@ -96,7 +96,7 @@ Du kan använda duschen stående. Det är inga problem om marken blir lite blöt
 
 Alexa på väggen går under namnet "Dator" och spelar även din favoritmusik eller radio. T.ex. "_Dator, spela Deutschlandfunk Nova_"
 
-Du kan hänga handdukar på alla krokar och ställa dina saker var som helst. Det finns en hylla framför badrumsdörren. En av dem är din.
+Du kan hänga handdukar på alla krokar och ställa dina saker var som helst. Det finns en hylla framför badrumsdörren. En del av den är din.
 
 ### Hall
 
@@ -125,7 +125,7 @@ På vår innergård kan du koppla ihop dina cyklar och ta bort ditt skräp.
 
 ### Hur öppnas porten?
 
-Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
+Antingen använder du nyckeln till ytterdörren eller så sträcker du dig genom porten och känner på knappen för att öppna dörren. Medan du håller ner knappen kan du öppna dörren.
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
