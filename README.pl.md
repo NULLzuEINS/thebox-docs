@@ -61,7 +61,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 ## Twój pokój
 
 Materace są ułożone jeden na drugim wyłącznie w celu przechowywania. Możesz je dystrybuować według swoich potrzeb.
-Jeśli zastąpisz poduszki na kanapie materacem, sprawdzi się ona również jako łóżko.
+Jeśli zastąpisz poduszki na kanapie materacem, będzie to dobre łóżko.
 
 ### Dane logowania do komputera (iMac) to
 
@@ -96,7 +96,7 @@ Z prysznica można korzystać na stojąco. Nie stanowi to problemu, jeśli ziemi
 
 Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Komputerze, włącz Deutschlandfunk Nova_"
 
-Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jeden z nich jest Twój.
+Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jedna jego część jest Twoja.
 
 ### Korytarz
 
@@ -142,7 +142,7 @@ Jeśli wierzyć statystykom, w Lipsku co roku kradnie się najwięcej rowerów n
 
 ### Jakie są alternatywy?
 
-Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych przejazdów po 15 minut każdy dla_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych. Istnieje również bezpłatny system wspólnego korzystania z samochodów. To znaczy z nami[miejskiflitzer](https://cityflitzer.de/). Oczywiście są też autobusy i pociągi, za które można zapłacić także za pomocą aplikacji Leipzig MOVE.
+Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych przejazdów po 15 minut każdy dla_Następnerowery_. Pamiętaj, że jeśli nie parkujesz rowerów przy głównych ulicach (fioletowe na mapie), kosztuje to więcej. Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych. Istnieje również bezpłatny system wspólnego korzystania z samochodów. To znaczy z nami[miejskiflitzer](https://cityflitzer.de/). Und gibt es natürlich noch Bus und Bahn welche Du ebenfalls über die Leipzig MOVE App bezahlen könnte.
 
 # Wymeldować się
 
@@ -157,7 +157,7 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych prz
 -   Zmywam też naczynia i
 -   Wynoszę też śmieci.
 
-> Wersja krótka: Zostaw klucz tam, zamknij drzwi i to wszystko. 😀
+> Kurzfassung: Schlüssel da lassen, Tür zuziehen, das wars. 😀
 
 # Dłuższy pobyt
 
