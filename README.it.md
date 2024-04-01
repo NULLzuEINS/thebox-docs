@@ -61,7 +61,7 @@ Dato che di solito mangio al piano di sotto con la mia famiglia, la cucina è mo
 ## La vostra stanza
 
 I materassi sono posizionati uno sopra l'altro solo a scopo di stoccaggio. Puoi distribuirli in base alle tue esigenze.
-Se sostituisci i cuscini del divano con un materasso, funziona bene come letto.
+Se sostituisci i cuscini del divano con un materasso, diventa un buon letto.
 
 ### I dettagli di accesso per il computer (iMac) sono
 
@@ -96,7 +96,7 @@ Puoi usare la doccia stando in piedi. Non è un problema se il terreno si bagna 
 
 L'Alexa sul muro si chiama "Computer" e riproduce anche la tua musica o radio preferita. Per esempio. "_Computer, riproduci Deutschlandfunk Nova_"
 
-Puoi appendere gli asciugamani a tutti i ganci e riporre le tue cose ovunque. C'è uno scaffale davanti alla porta del bagno. Uno di questi è tuo.
+Puoi appendere gli asciugamani a tutti i ganci e riporre le tue cose ovunque. C'è uno scaffale davanti alla porta del bagno. Un pezzo è tuo.
 
 ### Corridoio
 
@@ -117,7 +117,7 @@ La temperatura e l'umidità vengono misurate automaticamente tramite i sensori. 
 
 ?> Assicurati di ventilare regolarmente (almeno una volta al giorno). Soprattutto in bagno. Assicurati anche che il riscaldamento sia spento. Grazie 🙏
 
-## Der Hof
+## Il cortile
 
 Nel nostro cortile puoi collegare le tue biciclette e portare via la tua spazzatura.
 
@@ -131,7 +131,7 @@ O usi la chiave della porta d'ingresso, oppure raggiungi il cancello e senti il 
 
 ### Giallo? Blu? Verde? Marrone?
 
-Du fragst Dich warum die Mülltonnen verschiedene Farben haben? Wenn Du dir unsicher bist, mach den Müll immer in die grüne Tonne. Darin landet der Restmüll. Profis machen den Papiermüll in die blaue Tonne, Wertstoffe in die gelbe Tonne und organische Abfälle in die braune Tonne.
+Ti stai chiedendo perché i bidoni della spazzatura hanno colori diversi? Se non sei sicuro, getta sempre la spazzatura nel cestino verde. I rifiuti residui finiscono lì. I professionisti mettono la carta nel contenitore blu, i materiali riciclabili nel contenitore giallo e i rifiuti organici nel contenitore marrone.
 
 ### Cicli
 
@@ -188,7 +188,7 @@ Una volta terminato, rimettilo nella stazione di ricarica!
 
 # Suggerimenti
 
-Mit der [App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_.
+Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_.
 Tieni presente che costa di più se non parcheggi il Raf nelle strade principali (viola sulla mappa).
 Gli e-scooter possono essere parcheggiati solo in determinati parcheggi.
 
