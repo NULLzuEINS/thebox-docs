@@ -2,7 +2,7 @@
 
 Bonjour et bienvenue dans la « Box » ! Lorsque je voyage, j'aime aussi séjourner dans des AirBnB et parfois j'aimerais avoir un morceau de papier avec toutes les informations nécessaires sur l'hébergement, l'enregistrement et le départ et c'est ma tentative de l'améliorer.
 
-> [!Un avis]Je ferai traduire automatiquement le document dans votre langue. J'espère que c'est quelque peu compréhensible. Sinon, n'hésitez pas à m'écrire un message. J'essaie ensuite de l'améliorer.
+> [!Hinweis]Je ferai traduire automatiquement le document dans votre langue. J'espère que c'est quelque peu compréhensible. Sinon, n'hésitez pas à m'écrire un message. J'essaie ensuite de l'améliorer.
 
 ## Des photos
 
@@ -151,7 +151,7 @@ Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficie
 -   Selon le jour de la semaine, nous pouvons vous dire au revoir en personne ou vous pouvez simplement poser les clés sur le bureau et fermer la porte derrière vous.
 -   L'heure limite de départ est 19 heures le jour du départ.
 
-## nettoyage
+## Reinigung
 
 -   Vous pouvez y laisser de la literie.
 -   Je fais aussi la vaisselle et
