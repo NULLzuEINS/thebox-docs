@@ -55,7 +55,7 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 ### KKK – Köök
 
 1.  Ahi ei tööta? Palun ütle
-    > "Computer, Werkbank an"
+    > "Arvuti, töölaud ja"
 2.  Kus ma saan pesta? See toimib ainult vannitoas. Nõude pesemiseks on spetsiaalne anum.
 
 ## Sinu tuba
@@ -70,7 +70,7 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Folgende Dinge stehen im Zimmer zur Verfügung
+### Toas on saadaval järgmised asjad
 
 1.  Kogu mööbel ja voodid
 2.  Arvutid ja printerid
