@@ -1,4 +1,4 @@
-# Powitanie
+# Witamy w Pudełku
 
 Witamy w „Boxie”! Kiedy podróżuję, lubię też nocować w AirBnB i czasami żałuję, że nie mam kartki papieru ze wszystkimi niezbędnymi informacjami na temat zakwaterowania, zameldowania i wymeldowania, i to jest moja próba ulepszenia tego.
 
@@ -61,7 +61,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 ## Twój pokój
 
 Materace są ułożone jeden na drugim wyłącznie w celu przechowywania. Możesz je dystrybuować według swoich potrzeb.
-Jeśli zastąpisz poduszki na kanapie materacem, sprawdzi się ona również jako łóżko.
+Jeśli zastąpisz poduszki na kanapie materacem, będzie to dobre łóżko.
 
 ### Dane logowania do komputera (iMac) to
 
@@ -82,7 +82,7 @@ Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować n
 
 | Ilustracja                                                | Opis                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Odp.: Bluetoothbox<br>B: Bajkowe światełka<br>C: Lampka na biurko<br>D:_plik_<br>Mistrz: Przełącz wszystko w tym samym czasie                                                                                                                                                    |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Odp.: Bluetoothbox<br>B: Bajkowe światełka<br>C: Schreibtischlampe<br>D:_plik_<br>Mistrz: Przełącz wszystko w tym samym czasie                                                                                                                                                   |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Zanim będziesz mógł z niego skorzystać, upewnij się, że włącznik światła przy wejściu jest ustawiony na „włączony”.**<br>Pierwsza linia: jasność, wł./wył<br>Kolorowe przyciski: Można ich używać do zmiany kolorów<br>Szare przyciski: przełączanie pomiędzy różnymi efektami |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | To jest pilot do komputera (iMac)._Aby skorzystać z komputera, naciśnij przycisk A na pierwszym pilocie. Aktywuje zasilanie komputera i modułu Bluetooth._                                                                                                                       |
 
