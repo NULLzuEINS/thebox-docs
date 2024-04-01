@@ -1,6 +1,6 @@
 # Tervetuloa The Boxiin
 
-Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
+Hei ja tervetuloa "Boksiin"! Kun matkustan, pidän myös AirBnB:ssä ja joskus toivon, että minulla olisi paperi, jossa on kaikki tarvittavat tiedot majoituksesta, sisään- ja uloskirjautumisesta, ja tämä on minun yritykseni tehdä siitä parempi.
 
 > [!Huomautus]Käännän asiakirjan automaattisesti kielellesi. Toivottavasti se on jotenkin ymmärrettävää. Jos ei, kirjoita minulle viestiä. Yritän sitten parantaa sitä.
 
@@ -10,9 +10,9 @@ AirBnB:ssäni saat yksityiskohtaisen yleiskatsauksen kaikista huoneista ja tiloi
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Ein-Bett-Konfiguration mit Couch                                                       | Kahden sängyn kokoonpano                                                      | Vastaanotto                                                                             |
+| Yksi sänky ja sohva                                                                    | Kahden sängyn kokoonpano                                                      | Vastaanotto                                                                             |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Työpöytä valolla                                                                       | Küche - Herd                                                                  | Keittiö - teetä                                                                         |
+| Työpöytä valolla                                                                       | Keittiö - liesi                                                               | Keittiö - teetä                                                                         |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Työpöytä valolla                                                                       | Keittiö - liesi                                                               | Keittiö - teetä                                                                         |
 
@@ -94,7 +94,7 @@ Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on par
 
 Voit käyttää suihkua seisten. Ei haittaa, jos maa hieman kastuu. Kytke vesi päälle vain 1/3 ja ripusta kylpymatto kuivumaan kiukaan päälle.
 
-Seinällä oleva Alexa on nimeltään "Computer", ja se soittaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
+Die Alexa an der Wand hört auf den Namen "Computer" und spielt dir auch Deine Lieblingsmusik oder Radio. Z. B. "_Tietokone, pelaa Deutschlandfunk Novaa_"
 
 Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi niistä on sinun.
 
@@ -106,8 +106,8 @@ Olet tervetullut jättämään kengät tänne. Minulla on myös pieni muistileht
 
 ## Älykoti
 
-Im Bad und in der Küche befinden sich Alexa Sprachassistenten. Du kannst sie mit dem Namen "Computer" ansprechen und Dir zum Beispiel Deutschlandfunk Nova spielen lassen. Sie verstehen Deutsch und auch Englisch. Wenn Du sie nicht nutzen möchtest, 
-kannst Du sie auch einfach vom Strom trennen.
+Kylpyhuoneessa ja keittiössä on Alexa-ääniavustaja. Voit kutsua heitä nimellä “Computer” ja saada heidät soittamaan esimerkiksi Deutschlandfunk Novaa. He ymmärtävät saksaa ja myös englantia. Jos et halua käyttää niitä,
+Voit myös irrottaa sen virtalähteestä.
 
 Huoneessasi ei ole ääniavustajia. Hyllyssä oleva kori sisältää vain reitittimen ja pienen tietokoneen.
 
@@ -188,7 +188,7 @@ Kun se on valmis, laita se takaisin latausasemaan!
 
 # Vinkkejä
 
-Kanssa[Leipzig MOVE App](https://leipzig-move.de/), saat 10 ilmaista 15 minuutin kyytiä_Seuraavat pyörät_.
+Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 minuutin kyytiä_Seuraavat pyörät_.
 Huomaa, että se maksaa enemmän, jos et pysäköi Rafia pääkaduille (violetti kartalla).
 E-skootterit saa pysäköidä vain tietyille pysäköintipaikoille.
 
