@@ -73,7 +73,7 @@ Passwort: thebox
 ### Seuraavat asiat ovat saatavilla huoneessa
 
 1.  Kaikki kalusteet ja sängyt
-2.  Tietokoneet ja tulostimet
+2.  Computer & Drucker
 3.  Kaukosäätimet valoille ja sähkölle
 
 ### Kaukosäätimet
