@@ -4,7 +4,7 @@ Dobrý den a vítejte v „Boxu“! Když cestuji, také rád pobývám v AirBnB
 
 > [!Oznámení]Nechám dokument automaticky přeložit do vašeho jazyka. Doufám, že je to trochu srozumitelné. Pokud ne, klidně mi napište zprávu. Pak se to snažím zlepšit.
 
-## Bilder
+## obrázky
 
 Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zde je jen stručný přehled:
 
@@ -80,7 +80,7 @@ Passwort: thebox
 
 Pro všechna dálková ovládání platí staré německé přísloví: „Zkoušet je lepší než studovat“. Nemůžeš nic rozbít. Stiskněte několik tlačítek a uvidíte, co se stane. Pokud stále chcete studovat, zde je to správné čtení pro vás:
 
-| Ilustrace                                                 | Popis                                                                                                                                                                                                                                        |
+| Ilustrace                                                 | Beschreibung                                                                                                                                                                                                                                 |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Pohádková světla<br>C: Stolní lampa<br>D:_soubor_<br>Master: Přepněte vše současně                                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Než jej budete moci použít, ujistěte se, že je spínač světel u vchodu nastaven na „zapnuto“.**<br>První řádek: jas, zapnuto/vypnuto<br>Barevná tlačítka: Toto můžete použít ke změně barev<br>Šedá tlačítka: Přepínání mezi různými efekty |
@@ -96,7 +96,7 @@ Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne.
 
 Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
 
-Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli. Před dveřmi do koupelny je polička. Jeden z nich je váš.
+Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli. Před dveřmi do koupelny je polička. Jeden kousek je váš.
 
 ### Chodba
 
@@ -165,7 +165,7 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných j�
 
 ## pračka
 
-Du kannst die Waschmaschine mit benutzen ohne vorher fragen zu müssen. Du kannst auch den Wäscheständer, das Waschpulver und den Weichspüler benutzen. Falls Du neue Bettwäsche haben möchtest, sprich mich einfach an.
+Pračku můžete používat, aniž byste se museli nejprve ptát. Využít můžete i sušák, prací prášek a aviváž. Pokud byste chtěli nové ložní prádlo, stačí se mi domluvit.
 
 ## Ruční kartáč a lopatka
 
@@ -194,7 +194,7 @@ Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích mís
 
 V aplikaci AirBnB mám uložené cestovní průvodce. Najdete tam moje doporučení na památky, bary a hospůdky, nákupní příležitosti a restaurace.
 
-# Fragen?
+# Otázky?
 
 Pokud máte nějaké dotazy nebo potřebujete podporu, rád vám pomohu.
 Pokud spěcháte, je nejlepší tak učinit telefonicky <a href="tel:+491707353067">+49 170 73 53 067</a>.
