@@ -78,7 +78,7 @@ Passwort: thebox
 
 ### Afstandsbedieningen
 
-Für alle Fernbedienungen gilt ein altes deutsches Sprichwort: "Probieren geht über Studieren". Du kannst nichts kaputt machen. Drücke ein paar Knöpfe und schau was passiert. Falls Du dennoch studieren möchtest, habe hier die passenden Lektüre für Dich:
+Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter dan studeren”. Je kunt niets breken. Druk op een paar knoppen en kijk wat er gebeurt. Als je nog steeds wilt studeren, is hier de juiste lectuur voor jou:
 
 | Illustratie                                               | Beschrijving                                                                                                                                                                                                                                                          |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -137,12 +137,12 @@ Vraag je je af waarom de vuilnisbakken verschillende kleuren hebben? Als u het n
 
 ### Is mijn fiets veilig?
 
-Leipzig is een zeer fietsvriendelijke stad. Via het grote stadspark dat de stad in twee helften verdeelt, kun je op veel plekken komen en meestal door het platteland rijden.
-Als je de statistieken mag geloven, worden in Leipzig jaarlijks de meeste fietsen per hoofd van de bevolking gestolen. (1.539 gestolen fietsen per 100.000 inwoners) In de 15 jaar sinds ik hier aan de Hardenbergstraße woon, is er nog nooit een fiets gestolen en ken ik slechts één buurman wiens fiets uit zijn achtertuin is gestolen. Ik sluit hem altijd rechtstreeks aan op de reling.
+Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
+Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
 
 ### Welke alternatieven zijn er?
 
-Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten van elk 15 minuten voor de_Volgendefietsen_. Houd er rekening mee dat het meer kost als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). En natuurlijk zijn er bussen en treinen die je ook via de Leipzig MOVE-app kunt betalen.
+Mit der [Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten van elk 15 minuten voor de_Volgendefietsen_. Houd er rekening mee dat het meer kost als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). En natuurlijk zijn er bussen en treinen die je ook via de Leipzig MOVE-app kunt betalen.
 
 # Uitchecken
 
