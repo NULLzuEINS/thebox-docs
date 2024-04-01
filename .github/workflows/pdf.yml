@@ -93,12 +93,12 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: thebox-pdf-de
-          path: Assets/thebox.de.pdf
+          path: Assets/
       - name: Step 2.2 - Download upload url artifact
         uses: actions/download-artifact@v2
         with:
           name: upload-url
-          path: Assets/upload-url.txt
+          path: Assets/
       - name: List files in release
         run: |
           ls -lisah Assets
