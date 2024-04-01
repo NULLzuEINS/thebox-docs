@@ -14,7 +14,7 @@
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Радни сто са светлом                                                                   | Кухиња - шпорет                                                               | Кухиња - чај                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Радни сто са светлом                                                                   | Кухиња - шпорет                                                               | Küche - Tee                                                                             |
+| Радни сто са светлом                                                                   | Кухиња - шпорет                                                               | Кухиња - чај                                                                            |
 
 ## Кључ
 
