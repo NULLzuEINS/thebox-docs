@@ -61,7 +61,7 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 ## Phòng của bạn
 
 Các tấm nệm được đặt chồng lên nhau chỉ nhằm mục đích cất giữ. Bạn có thể phân phối chúng theo nhu cầu của bạn.
-Nếu bạn thay đệm trên ghế dài bằng nệm thì nó sẽ tạo thành một chiếc giường tốt.
+Nếu bạn thay thế những chiếc gối trên ghế dài bằng một tấm nệm thì nó sẽ hoạt động tốt như một chiếc giường.
 
 ### Chi tiết đăng nhập cho máy tính (iMac) là
 
