@@ -133,7 +133,7 @@ O usi la chiave della porta d'ingresso, oppure raggiungi il cancello e senti il 
 
 Ti stai chiedendo perché i bidoni della spazzatura hanno colori diversi? Se non sei sicuro, getta sempre la spazzatura nel cestino verde. I rifiuti residui finiscono lì. I professionisti mettono i rifiuti cartacei nel contenitore blu, i materiali riciclabili nel contenitore giallo e i rifiuti organici nel contenitore marrone.
 
-### Cicli
+### Biciclette
 
 ### La mia bici è sicura?
 
