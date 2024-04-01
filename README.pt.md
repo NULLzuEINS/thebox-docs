@@ -61,7 +61,7 @@ Como costumo comer lá embaixo com minha família, a cozinha é muito espartana.
 ## Seu quarto
 
 Os colchões são colocados uns sobre os outros apenas para fins de armazenamento. Você pode distribuí-los de acordo com suas necessidades.
-Se você substituir as almofadas do sofá por um colchão, fica uma boa cama.
+Se você substituir as almofadas do sofá por um colchão, ele funciona bem como cama.
 
 ### Os detalhes de login do computador (iMac) são
 
@@ -113,7 +113,7 @@ Não há assistentes de voz em sua sala. A cesta na prateleira contém apenas o 
 
 ## temperatura e umidade
 
-Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst Du im Spiegel im Flur ablesen.
+A temperatura e a umidade são medidas automaticamente através dos sensores. Eu os uso para evitar a formação de mofo. Eles são pequenos e brancos e geralmente ficam nos batentes das portas. Você pode ler alguns dos dados de medição no espelho do corredor.
 
 ?> Certifique-se de ventilar regularmente (pelo menos uma vez por dia). Principalmente no banheiro. Certifique-se também de que o aquecimento está desligado. Obrigado 🙏
 
@@ -142,14 +142,14 @@ Se você acredita nas estatísticas, então o maior número de bicicletas per ca
 
 ### Que alternativas existem?
 
-Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
+Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
 
 # Confira
 
 ## Chave
 
 -   Dependendo do dia da semana, podemos nos despedir pessoalmente ou você pode simplesmente colocar as chaves na mesa e fechar a porta atrás de você.
--   O último horário para check-out é às 19h do dia da partida.
+-   O último horário para checkout é às 19h do dia da partida.
 
 ## limpeza
 
