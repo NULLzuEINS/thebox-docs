@@ -12,7 +12,7 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | One bed configuration with couch                                                       | Two bed configuration                                                         | Desk                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
+| Schreibtisch mit Licht                                                                 | Kitchen - stove                                                               | Kitchen - tea                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
 
@@ -55,7 +55,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 ### FAQ - Kitchen
 
 1.  Stove not working? please say
-    > "Computer, Workbench an"
+    > "Computer, Werkbank an"
 2.  Where can I wash up? This only works in the bathroom. There is a special container for washing dishes.
 
 ## Your room
@@ -92,7 +92,7 @@ An old German saying applies to all remote controls: “Trying is better than st
 
 ### bathroom
 
-You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
@@ -131,7 +131,7 @@ Either you use the front door key, or you reach through the gate and feel the bu
 
 ### Yellow? Blue? Green? Brown?
 
-Are you wondering why the garbage cans have different colors? If you are unsure, always put the trash in the green bin. The residual waste ends up in there. Professionals put paper waste in the blue bin, recyclables in the yellow bin and organic waste in the brown bin.
+Du fragst Dich warum die Mülltonnen verschiedene Farben haben? Wenn Du dir unsicher bist, mach den Müll immer in die grüne Tonne. Darin landet der Restmüll. Profis machen den Papiermüll in die blaue Tonne, Wertstoffe in die gelbe Tonne und organische Abfälle in die braune Tonne.
 
 ### Cycles
 
@@ -142,7 +142,7 @@ If you believe the statistics, then the most bicycles per capita are stolen in L
 
 ### What alternatives are there?
 
-With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for the_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). And of course there are buses and trains that you could also pay for via the Leipzig MOVE app.
+With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for the_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). Und gibt es natürlich noch Bus und Bahn welche Du ebenfalls über die Leipzig MOVE App bezahlen könnte.
 
 # Checkout
 
@@ -151,7 +151,7 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 -   Depending on what day of the week it is, we can say goodbye in person, or you can simply put the keys on the desk and close the door behind you.
 -   The latest time for checkout is 7 p.m. on the day of departure.
 
-## cleaning
+## Reinigung
 
 -   You can leave bedding on it.
 -   I also wash the dishes and
