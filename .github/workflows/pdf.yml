@@ -97,7 +97,7 @@ jobs:
       - name: Step 2.1 - Download pdf artifact for ${{ matrix.language }}
         uses: actions/download-artifact@v2
         with:
-          name: thebox-pdf-de
+          name: thebox-pdf-${{ matrix.language }}
           path: Assets/
       - name: Step 2.2 - Download upload url artifact
         uses: actions/download-artifact@v2
