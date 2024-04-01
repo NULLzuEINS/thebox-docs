@@ -197,9 +197,9 @@ Passwort: thebox
 # 问题？
 
 如果您有任何疑问或需要支持，我将很乐意为您提供帮助。
-如果您赶时间，最好通过电话联系 <a href="tel:+491707353067">+49 170 73 53 067</a>。
-您还可以使用功能有限的预装消息应用程序 (SMS)。
-除此之外，我在走廊里有一个记事本和一支笔。
+如果您赶时间，最好通过电话联系 <a href="tel:+491707353067">+49 170 73 53 067</a>.
+Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS).
+Ansonsten habe ich im Flur einen Notizblock und einen Stift.
 
 祝您在莱比锡过得愉快！
 安德烈
