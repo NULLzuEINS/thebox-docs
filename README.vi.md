@@ -94,7 +94,7 @@ Một câu nói cổ của người Đức áp dụng cho tất cả các loại
 
 Bạn có thể sử dụng vòi hoa sen trong khi đứng. Sẽ không có vấn đề gì nếu mặt đất bị ướt một chút. Chỉ vặn nước 1/3 và treo thảm tắm lên trên lò sưởi cho khô.
 
-Alexa trên tường có tên là "Máy tính" và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
+Alexa trên tường có tên là “Máy tính” và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
 
 Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc của mình ở bất cứ đâu. Có một chiếc kệ ở phía trước cửa phòng tắm. Một trong số đó là của bạn.
 
