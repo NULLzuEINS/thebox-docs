@@ -96,7 +96,7 @@ Passwort: thebox
 
 دیوار پر موجود الیکسا "کمپیوٹر" کے نام سے جاتا ہے اور آپ کی پسندیدہ موسیقی یا ریڈیو بھی چلاتا ہے۔ مثال کے طور پر "_کمپیوٹر، Deutschlandfunk Nova کھیلیں_"
 
-آپ تمام ہکس پر تولیے لٹکا سکتے ہیں اور اپنی چیزیں کہیں بھی رکھ سکتے ہیں۔ باتھ روم کے دروازے کے سامنے ایک شیلف ہے۔ اس کا ایک ٹکڑا آپ کا ہے۔
+Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstellen. Im vor der Badezimmertür ist ein Regal. Ein fach davon gehört Dir.
 
 ### دالان
 
