@@ -18,7 +18,7 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 
 ## Key
 
-Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du Dein Zimmer abschließen kannst.
+You get two pairs of keys, each with one key for the bottom and one for the top. There is also a key on a keychain that you can use to lock your room.
 
 ## Internet access
 
@@ -48,7 +48,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 3.  Dishes cutlery
 4.  Refrigerator
 5.  Pizza oven
-6.  Mineral water
+6.  Mineralwasser
 7.  Cell phone charging station on the shelf
 8.  washing machine
 
@@ -80,11 +80,11 @@ Passwort: thebox
 
 An old German saying applies to all remote controls: “Trying is better than studying”. You can't break anything. Press a few buttons and see what happens. If you still want to study, here is the right reading for you:
 
-| Illustration                                              | Description                                                                                                                                                                                                                         |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Desk lamp<br>D:_file_<br>Master: Switch everything at the same time                                                                                                                        |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Before you can use it, make sure the light switch at the entrance is set to "on".**<br>First line: brightness, on/off<br>Colored buttons: You can use this to change the colors<br>Gray buttons: Switch between different effects |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | This is the remote control for the computer (iMac)._To use the computer, press the A button on the first remote control. It activates the power supply for the computer and the Bluetooth box._                                     |
+| Illustration                                              | Description                                                                                                                                                                                                                                |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Desk lamp<br>D:_file_<br>Master: Switch everything at the same time                                                                                                                               |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Before you can use it, make sure the light switch at the entrance is set to "on".**<br>First line: brightness, on/off<br>Colored buttons: You can use this to change the colors<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | This is the remote control for the computer (iMac)._To use the computer, press the A button on the first remote control. It activates the power supply for the computer and the Bluetooth box._                                            |
 
 ### FAQ - Your room
 
@@ -177,12 +177,12 @@ You can find green cleaning agent in a spray bottle in the bathroom for mopping.
 
 ## Vacuum cleaner
 
-I have a robot vacuum cleaner for the floor.
-Before you can start, clear everything on the floor out of the way.
-Especially cords or other things that the robot could choke on.
-Then put it in your room and press the button on the top once.
-If nothing happens, use the on/off switch on the side and after
-turn it on again using the button on the top.
+Für den Fußboden habe ich einen Staubsauger-Roboter.
+Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
+Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
+Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
+Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
+anschalten noch einmal auf den Knopf auf drt Oberseite.
 
 When it's finished, please put it back in the charging station!
 
