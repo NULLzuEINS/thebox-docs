@@ -82,7 +82,7 @@ Et gammelt tysk ordsprog gælder for alle fjernbetjeninger: "Det er bedre at pr�
 
 | Illustration                                              | Beskrivelse                                                                                                                                                                                                                                         |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Bordlampe<br>D:_fil_<br>Mester: Skift alt på samme tid                                                                                                                                                     |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Bordlampe<br>D:_fil_<br>Master: Alles gleichzeitig schalten                                                                                                                                                |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Før du kan bruge den, skal du sørge for, at lyskontakten ved indgangen er sat til "tændt".**<br>Første linje: lysstyrke, tænd/sluk<br>Farvede knapper: Du kan bruge dette til at ændre farverne<br>Grå knapper: Skift mellem forskellige effekter |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Dette er fjernbetjeningen til computeren (iMac)._For at bruge computeren skal du trykke på A-knappen på den første fjernbetjening. Den aktiverer strømforsyningen til computeren og Bluetooth-boksen._                                              |
 
@@ -94,7 +94,7 @@ Et gammelt tysk ordsprog gælder for alle fjernbetjeninger: "Det er bedre at pr�
 
 Du kan bruge bruseren, mens du står. Det er ikke noget problem, hvis jorden bliver lidt våd. Tænd kun for vandet 1/3 og hæng bademåtten over varmeren til tørre.
 
-Alexaen på væggen går under navnet "Computer" og spiller også din yndlingsmusik eller radio. F.eks. "_Computer, spil Deutschlandfunk Nova_"
+Die Alexa an der Wand hört auf den Namen "Computer" und spielt dir auch Deine Lieblingsmusik oder Radio. Z. B. "_Computer, spil Deutschlandfunk Nova_"
 
 Du kan hænge håndklæder på alle kroge og sætte dine ting hvor som helst. Der er en hylde foran badeværelsesdøren. Et stykke af det er dit.
 
@@ -142,7 +142,7 @@ Hvis man skal tro statistikken, så stjæles der flest cykler pr. indbygger i Le
 
 ### Hvilke alternativer er der?
 
-Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 15 minutter hver for_Nextbikes_. Bemærk, at det koster mere, hvis du ikke parkerer dine cykler på hovedgaderne (lilla på kortet). El-scooterne må kun parkeres på visse parkeringspladser. Der er også et free-float delebilssystem. Det betyder med os[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er der busser og tog, som du også kunne betale for via Leipzig MOVE-appen.
+Mit der[Leipzig MOVE App](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die _Nextbikes_. Bemærk, at det koster mere, hvis du ikke parkerer dine cykler på hovedgaderne (lilla på kortet). El-scooterne må kun parkeres på visse parkeringspladser. Der er også et free-float delebilssystem. Det betyder med os[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er der busser og tog, som du også kunne betale for via Leipzig MOVE-appen.
 
 # Checkout
 
@@ -194,7 +194,7 @@ El-scooterne må kun parkeres på visse parkeringspladser.
 
 Jeg har gemt rejseguider i AirBnB-appen. Der finder du mine anbefalinger til seværdigheder, barer og pubber, indkøbsmuligheder og restauranter.
 
-# Spørgsmål?
+# Fragen?
 
 Hvis du har spørgsmål eller brug for support, hjælper jeg dig gerne.
 Hvis du har travlt, er det bedst at gøre det via telefonen <a href="tel:+491707353067">+49 170 73 53 067</a>.
