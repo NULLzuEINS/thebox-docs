@@ -2,12 +2,11 @@
 
 Bună ziua și bun venit în „Cutie”! Când călătoresc, îmi place și să stau în AirBnB și uneori mi-aș dori să am o foaie de hârtie cu toate informațiile necesare despre cazare, check-in și check-out și aceasta este încercarea mea de a o îmbunătăți.
 
-> [!O inștiințare]
-> Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
+> [!O inștiințare]Voi avea documentul tradus automat în limba dvs. Sper să fie oarecum de înțeles. Dacă nu, nu ezitați să-mi scrieți un mesaj. Apoi încerc să-l îmbunătățesc.
 
 ## Poze
 
-Pe AirBnB-ul meu primești o imagine de ansamblu detaliată a tuturor camerelor și facilităților. Iată doar o scurtă prezentare generală:
+Pe AirBnB-ul meu ai o imagine de ansamblu detaliată a tuturor camerelor și facilităților. Iată doar o scurtă prezentare generală:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -62,7 +61,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 ## Camera dvs
 
 Saltelele sunt așezate una peste alta numai în scop de depozitare. Le poți distribui în funcție de nevoile tale.
-Dacă înlocuiți pernele de pe canapea cu o saltea, este un pat bun.
+Dacă înlocuiți pernele de pe canapea cu o saltea, aceasta funcționează bine ca un pat.
 
 ### Detaliile de conectare pentru computer (iMac) sunt
 
@@ -207,4 +206,4 @@ Andre
 
 * * *
 
-_Made with ❤️ by  [docsifica](https://docsify.js.org/)_
+_Realizat cu ❤️ de [docsifica](https://docsify.js.org/)_
