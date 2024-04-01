@@ -6,7 +6,7 @@ Merhaba ve “Kutu”ya hoş geldiniz! Seyahat ederken AirBnB'lerde kalmayı da 
 
 ## Resimler
 
-Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
+AirBnB'mde tüm odalara ve olanaklara ilişkin ayrıntılı bir genel bakış bulacaksınız. İşte kısa bir genel bakış:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -61,7 +61,7 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 ## Senin odan
 
 Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz.
-Kanepedeki yastıkları şilteyle değiştirirseniz yatak olarak işe yarar.
+Kanepedeki minderleri şilteyle değiştirirseniz iyi bir yatak olur.
 
 ### Bilgisayarın (iMac) oturum açma ayrıntıları şunlardır:
 
@@ -96,7 +96,7 @@ Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması sorun değil. Suyu yal
 
 Duvardaki Alexa "Bilgisayar" adını alır ve aynı zamanda en sevdiğiniz müziği veya radyoyu da çalar. Örneğin. "_Bilgisayar, Deutschlandfunk Nova'yı oyna_"
 
-Tüm kancalara havlu asabilir, eşyalarınızı istediğiniz yere koyabilirsiniz. Banyo kapısının önünde raf bulunmaktadır. Bir parçası senin.
+Tüm kancalara havlu asabilir, eşyalarınızı istediğiniz yere koyabilirsiniz. Banyo kapısının önünde raf bulunmaktadır. Bunlardan biri senin.
 
 ### Koridor
 
@@ -119,7 +119,7 @@ Sıcaklık ve nem sensörler aracılığıyla otomatik olarak ölçülür. Küf 
 
 ## Yarda
 
-In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
+Avlumuzda bisikletlerinizi bağlayabilir ve çöplerinizi atabilirsiniz.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
@@ -142,7 +142,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 ### Hangi alternatifler var?
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüş hakkına sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
 
 # Çıkış yapmak
 
@@ -188,7 +188,7 @@ Bittiğinde lütfen şarj istasyonuna geri koyun!
 
 # İpuçları
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüş hakkına sahip olursunuz._Sonraki bisikletler_.
 Raf'ı ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın.
 E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
 
