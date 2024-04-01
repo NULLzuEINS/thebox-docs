@@ -61,7 +61,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 ## Your room
 
 The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs.
-If you replace the cushions on the couch with a mattress, it makes a good bed.
+If you replace the pillows on the couch with a mattress, it works well as a bed.
 
 ### The login details for the computer (iMac) are
 
@@ -96,9 +96,9 @@ You can use the shower while standing. It's not a problem if the ground gets a l
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
-You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One of them is yours.
+You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One piece of it is yours.
 
-### Flur
+### Hallway
 
 You are welcome to leave your shoes here. I also have a small notepad on the shelf in case you want to tell me something.
 
