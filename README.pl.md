@@ -61,7 +61,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 ## Twój pokój
 
 Materace są ułożone jeden na drugim wyłącznie w celu przechowywania. Możesz je dystrybuować według swoich potrzeb.
-Jeśli zastąpisz poduszki na kanapie materacem, będzie to dobre łóżko.
+Jeśli zastąpisz poduszki na kanapie materacem, sprawdzi się ona również jako łóżko.
 
 ### Dane logowania do komputera (iMac) to
 
@@ -96,7 +96,7 @@ Z prysznica można korzystać na stojąco. Nie stanowi to problemu, jeśli ziemi
 
 Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Komputerze, włącz Deutschlandfunk Nova_"
 
-Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jedna jego część jest Twoja.
+Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jeden z nich jest Twój.
 
 ### Korytarz
 
