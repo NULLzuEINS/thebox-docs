@@ -77,7 +77,6 @@ jobs:
           name: upload-url
           path: ./Results/upload-url.txt
 
-
   upload:
     name: upload – ${{ github.ref_name }}
     runs-on: ubuntu-latest
