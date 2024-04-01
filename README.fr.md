@@ -61,7 +61,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 ## Ta chambre
 
 Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins.
-Si vous remplacez les oreillers du canapé par un matelas, celui-ci fera également office de lit.
+Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
 
 ### Les informations de connexion pour l'ordinateur (iMac) sont
 
@@ -88,7 +88,7 @@ Un vieux dicton allemand s'applique à toutes les télécommandes : « Mieux vau
 
 ### FAQ - Votre chambre
 
-1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
+1.  La lumière ne s'allume pas ou clignote énormément. Utilisez les petites télécommandes aux boutons colorés.
 
 ### salle de bain
 
@@ -198,8 +198,8 @@ J'ai stocké des guides de voyage dans l'application AirBnB. Vous y trouverez me
 
 Si vous avez des questions ou avez besoin d'aide, je serai heureux de vous aider.
 Si vous êtes pressé, il est préférable de le faire par téléphone <a href="tel:+491707353067">+49 170 73 53 067</a>.
-Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS).
-Ansonsten habe ich im Flur einen Notizblock und einen Stift.
+Vous pouvez également utiliser l'application de messagerie préinstallée avec des fonctionnalités limitées (SMS).
+Sinon, j'ai un bloc-notes et un stylo dans le couloir.
 
 Je vous souhaite un bon séjour à Leipzig !
 André
