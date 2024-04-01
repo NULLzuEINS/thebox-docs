@@ -94,7 +94,7 @@ An old German saying applies to all remote controls: “Trying is better than st
 
 You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
-The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, spiele Deutschlandfunk Nova_"
+The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
 You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One piece of it is yours.
 
