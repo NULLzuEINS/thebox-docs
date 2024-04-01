@@ -14,7 +14,7 @@
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | रोशनी के साथ डेस्क                                                                     | रसोई का चूल्हा                                                                | रसोई - चाय                                                                              |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| रोशनी के साथ डेस्क                                                                     | रसोई का चूल्हा                                                                | रसोई - चाय                                                                              |
+| रोशनी के साथ डेस्क                                                                     | Küche - Herd                                                                  | रसोई - चाय                                                                              |
 
 ## चाबी
 
@@ -178,7 +178,7 @@ Passwort: thebox
 ## वैक्यूम क्लीनर
 
 मेरे पास फर्श के लिए एक रोबोट वैक्यूम क्लीनर है।
-शुरू करने से पहले, फर्श पर मौजूद सभी चीज़ों को रास्ते से हटा दें।
+इससे पहले कि आप शुरू करें, फर्श पर मौजूद सभी चीज़ों को रास्ते से हटा दें।
 विशेष रूप से डोरियाँ या अन्य चीज़ें जिनसे रोबोट का दम घुट सकता है।
 फिर इसे अपने कमरे में रख दें और ऊपर लगे बटन को एक बार दबा दें।
 यदि कुछ नहीं होता है, तो साइड में और बाद में ऑन/ऑफ स्विच का उपयोग करें
