@@ -14,13 +14,13 @@ Op mijn AirBnB krijg je een gedetailleerd overzicht van alle kamers en de facili
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Bureau met licht                                                                       | Fornuis                                                                       | Keuken - thee                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Bureau met licht                                                                       | Fornuis                                                                       | Keuken - thee                                                                           |
+| Schreibtisch mit Licht                                                                 | Fornuis                                                                       | Keuken - thee                                                                           |
 
 ## Sleutel
 
 Je krijgt twee paar sleutels, elk met één sleutel voor de onderkant en één voor de bovenkant. Er zit ook een sleutel aan een sleutelhanger waarmee u uw kamer kunt afsluiten.
 
-## Internetzugang
+## internet toegang
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -109,7 +109,7 @@ U kunt uw schoenen hier achterlaten. Ik heb ook een klein notitieboekje op de pl
 Er zijn Alexa-stemassistenten in de badkamer en keuken. Je kunt ze aanspreken met de naam “Computer” en ze bijvoorbeeld Deutschlandfunk Nova laten spelen. Ze begrijpen Duits en ook Engels. Als u ze niet wilt gebruiken,
 Je kunt hem ook eenvoudig loskoppelen van de stroom.
 
-In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
+Er zijn geen stemassistenten in uw kamer. In de mand op de plank bevinden zich alleen de router en een kleine computer.
 
 ## temperatuur en vochtigheid
 
@@ -123,7 +123,7 @@ Op onze binnenplaats kunt u uw fietsen aansluiten en uw afval meenemen.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
-### Wie geht das Tor auf?
+### Hoe gaat de poort open?
 
 Of je gebruikt de sleutel van de voordeur, of je reikt door het hek en voelt aan de knop om de deur te openen. Terwijl u de knop ingedrukt houdt, kunt u de deur openen.
 
