@@ -46,7 +46,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 1.  Herd
 2.  Kettle
 3.  Dishes cutlery
-4.  Refrigerator
+4.  Kühlschrank
 5.  Pizza oven
 6.  Mineral water
 7.  Cell phone charging station on the shelf
