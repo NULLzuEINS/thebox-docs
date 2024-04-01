@@ -43,7 +43,7 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 
 ### Những thứ sau đây có sẵn trong nhà bếp
 
-1.  Bầy đàn
+1.  Herd
 2.  Ấm đun nước
 3.  Dao kéo bát đĩa
 4.  Tủ lạnh
@@ -52,7 +52,7 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 7.  Trạm sạc điện thoại di động trên kệ
 8.  Máy giặt
 
-### Câu hỏi thường gặp - Nhà bếp
+### FAQ - Küche
 
 1.  Bếp không hoạt động? làm ơn nói
     > "Máy tính, bàn làm việc"
@@ -60,8 +60,8 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 
 ## Phòng của bạn
 
-Các tấm nệm được đặt chồng lên nhau chỉ nhằm mục đích cất giữ. Bạn có thể phân phối chúng theo nhu cầu của bạn.
-Nếu bạn thay thế những chiếc gối trên ghế dài bằng một tấm nệm thì nó sẽ hoạt động tốt như một chiếc giường.
+Die Matratzen liegen nur zu Lagerung übereinander. Du kannst sie nach Deinen Bedürfnissen verteilen. 
+Wenn Du die Kissen auf der Couch durch eine Matratze ersetzt, eignet sie sich gut als Bett.
 
 ### Chi tiết đăng nhập cho máy tính (iMac) là
 
@@ -80,11 +80,11 @@ Passwort: thebox
 
 Một câu nói cổ của người Đức áp dụng cho tất cả các loại điều khiển từ xa: “Cố gắng còn hơn học”. Bạn không thể phá vỡ bất cứ điều gì. Nhấn một vài nút và xem điều gì sẽ xảy ra. Nếu bạn vẫn muốn học thì đây là cách đọc phù hợp với bạn:
 
-| Hình minh họa                                             | Sự miêu tả                                                                                                                                                                                                                                                |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>D:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                       |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Trước khi bạn có thể sử dụng nó, hãy đảm bảo công tắc đèn ở lối vào được đặt ở chế độ "bật".**<br>Dòng đầu tiên: độ sáng, bật/tắt<br>Các nút màu: Bạn có thể sử dụng nút này để thay đổi màu sắc<br>Nút màu xám: Chuyển đổi giữa các hiệu ứng khác nhau |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Đây là điều khiển từ xa cho máy tính (iMac)._Để sử dụng máy tính, nhấn nút A trên điều khiển từ xa đầu tiên. Nó kích hoạt nguồn điện cho máy tính và hộp Bluetooth._                                                                                      |
+| Hình minh họa                                             | Sự miêu tả                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>D:_tài liệu_<br>Master: Alles gleichzeitig schalten                                                                                                                                              |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Bevor du es benutzen kannst, stell sicher, dass der Lichtschalter an am Eingang auf "an" steht.**<br>Dòng đầu tiên: độ sáng, bật/tắt<br>Các nút màu: Bạn có thể sử dụng nút này để thay đổi màu sắc<br>Nút màu xám: Chuyển đổi giữa các hiệu ứng khác nhau |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Đây là điều khiển từ xa cho máy tính (iMac)._Để sử dụng máy tính, nhấn nút A trên điều khiển từ xa đầu tiên. Nó kích hoạt nguồn điện cho máy tính và hộp Bluetooth._                                                                                         |
 
 ### Câu hỏi thường gặp - Phòng của bạn
 
@@ -94,7 +94,7 @@ Một câu nói cổ của người Đức áp dụng cho tất cả các loại
 
 Bạn có thể sử dụng vòi hoa sen trong khi đứng. Sẽ không có vấn đề gì nếu mặt đất bị ướt một chút. Chỉ vặn nước 1/3 và treo thảm tắm lên trên lò sưởi cho khô.
 
-Alexa trên tường có tên là “Máy tính” và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
+Alexa trên tường có tên là "Máy tính" và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
 
 Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc của mình ở bất cứ đâu. Có một chiếc kệ ở phía trước cửa phòng tắm. Một trong số đó là của bạn.
 
@@ -163,7 +163,7 @@ Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận đượ
 
 ?> Một số khách của tôi ở lại một tháng hoặc lâu hơn. Nếu bạn là một trong số họ, thì phần này là dành cho bạn!
 
-## Máy giặt
+## Waschmaschine
 
 Bạn có thể sử dụng máy giặt mà không cần phải hỏi trước. Bạn cũng có thể sử dụng giá phơi, bột giặt và nước xả vải. Nếu bạn muốn khăn trải giường mới, hãy nói chuyện với tôi.
 
