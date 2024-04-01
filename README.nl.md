@@ -100,7 +100,7 @@ Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor
 
 ### Gang
 
-U kunt uw schoenen hier achterlaten. Ik heb ook een klein notitieboekje op de plank liggen, voor het geval je me iets wilt vertellen.
+Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
 
 # Gemengd
 
@@ -153,7 +153,7 @@ Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten va
 
 ## schoonmaak
 
--   Je kunt er beddengoed op laten liggen.
+-   Bettzeug kannst Du drauf lassen.
 -   Ik doe ook de afwas en
 -   Ik zet ook het afval buiten.
 
