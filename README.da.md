@@ -16,7 +16,7 @@ På min AirBnB får du et detaljeret overblik over alle værelserne og facilitet
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Skrivebord med lys                                                                     | Køkken - komfur                                                               | Køkken - te                                                                             |
 
-## Schlüssel
+## Nøgle
 
 Du får to par nøgler, hver med en nøgle til bunden og en til toppen. Der er også en nøgle på en nøglering, som du kan bruge til at låse dit værelse.
 
@@ -37,7 +37,7 @@ Eller du scanner denne QR-kode, den vil automatisk forbinde dig til netværket:
 
 ## Køkken
 
-Da jeg plejer at spise nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
+Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -92,7 +92,7 @@ Et gammelt tysk ordsprog gælder for alle fjernbetjeninger: "Det er bedre at pr�
 
 ### badeværelse
 
-Du kan bruge bruseren, mens du står. Det gør ikke noget, hvis jorden bliver lidt våd. Tænd kun for vandet 1/3 og hæng bademåtten over varmeren til tørre.
+Du kan bruge bruseren, mens du står. Det er ikke noget problem, hvis jorden bliver lidt våd. Tænd kun for vandet 1/3 og hæng bademåtten over varmeren til tørre.
 
 Alexaen på væggen går under navnet "Computer" og spiller også din yndlingsmusik eller radio. F.eks. "_Computer, spil Deutschlandfunk Nova_"
 
@@ -113,7 +113,7 @@ Der er ingen stemmeassistenter på dit værelse. Kurven på hylden indeholder ku
 
 ## temperatur og fugtighed
 
-Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre dannelse af skimmelsvamp. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
+Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre mugdannelse. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
 
 ?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Især på badeværelset. Sørg også for, at varmen er slukket. Tak 🙏
 
