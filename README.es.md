@@ -52,7 +52,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 7.  Estación de carga de teléfonos móviles en el estante.
 8.  lavadora
 
-### Preguntas frecuentes - Cocina
+### FAQ - Küche
 
 1.  ¿La estufa no funciona? por favor di
     > "Computadora, banco de trabajo y"
@@ -106,7 +106,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 ## Casa inteligente
 
-Hay asistentes de voz Alexa en el baño y la cocina. Puede dirigirse a ellos con el nombre "Ordenador" y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Entienden alemán y también inglés. Si no quieres usarlos,
+Hay asistentes de voz Alexa en el baño y la cocina. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Entienden alemán y también inglés. Si no quieres usarlos,
 También puedes simplemente desconectarlo de la corriente.
 
 No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene el enrutador y una pequeña computadora.
@@ -135,7 +135,7 @@ O usas la llave de la puerta principal o cruzas la puerta y sientes el botón pa
 
 ### Ciclos
 
-### Ist mein Fahrrad sicher?
+### ¿Mi bicicleta es segura?
 
 Leipzig es una ciudad muy amigable con las bicicletas. A través del gran parque urbano que divide la ciudad en dos mitades, se puede llegar a muchos lugares y normalmente conducir por el campo.
 Si nos fijamos en las estadísticas, en Leipzig se roban cada año el mayor número de bicicletas per cápita. (1.539 bicicletas robadas por cada 100.000 habitantes) Desde hace 15 años que vivo aquí en Hardenbergstraße, nunca me han robado una bicicleta y sólo conozco a un vecino a quien le robaron la bicicleta en su patio trasero. Siempre lo conecto directamente a la barandilla.
