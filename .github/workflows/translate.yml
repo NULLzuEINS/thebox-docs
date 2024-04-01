@@ -8,6 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     strategy:
       matrix:
         language-code:
@@ -30,9 +31,7 @@ jobs:
             'ru',
             'sv',
             'tr',
-            'uk',
-            'vi',
-            'zh-TW'
+            'uk'
           ]
         language-name:
           [
@@ -54,9 +53,7 @@ jobs:
             'Russian',
             'Swedish',
             'Turkish',
-            'Ukrainian',
-            'Vietnamese',
-            'Chinese Traditional'
+            'Ukrainian'
           ]
     steps:
       - uses: actions/checkout@v2
