@@ -61,7 +61,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 ## Twój pokój
 
 Materace są ułożone jeden na drugim wyłącznie w celu przechowywania. Możesz je dystrybuować według swoich potrzeb.
-Jeśli zastąpisz poduszki na kanapie materacem, będzie to dobre łóżko.
+Jeśli zastąpisz poduszki na kanapie materacem, sprawdzi się ona również jako łóżko.
 
 ### Dane logowania do komputera (iMac) to
 
