@@ -127,7 +127,7 @@ In our courtyard you can connect your bikes and take away your rubbish.
 
 Either you use the front door key, or you reach through the gate and feel the button to open the door. While you hold down the button you can open the door.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
+![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
 ### Yellow? Blue? Green? Brown?
 
