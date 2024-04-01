@@ -94,7 +94,7 @@ Một câu nói cổ của người Đức áp dụng cho tất cả các loại
 
 Bạn có thể sử dụng vòi hoa sen trong khi đứng. Sẽ không có vấn đề gì nếu mặt đất bị ướt một chút. Chỉ vặn nước 1/3 và treo thảm tắm lên trên lò sưởi cho khô.
 
-Alexa trên tường có tên là “Máy tính” và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
+Alexa trên tường có tên là "Máy tính" và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
 
 Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc của mình ở bất cứ đâu. Có một chiếc kệ ở phía trước cửa phòng tắm. Một trong số đó là của bạn.
 
@@ -113,11 +113,11 @@ Không có trợ lý giọng nói trong phòng của bạn. Giỏ trên kệ ch�
 
 ## Nhiệt độ và độ ẩm
 
-Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst Du im Spiegel im Flur ablesen.
+Nhiệt độ và độ ẩm được đo tự động thông qua các cảm biến. Tôi sử dụng chúng để ngăn chặn sự hình thành nấm mốc. Chúng nhỏ, màu trắng và thường nằm trên khung cửa. Bạn có thể đọc một số dữ liệu đo trong gương ở hành lang.
 
 ?> Hãy đảm bảo thông gió thường xuyên (ít nhất một lần một ngày). Đặc biệt là trong phòng tắm. Ngoài ra hãy chắc chắn rằng hệ thống sưởi đã được tắt. Cảm ơn bạn 🙏
 
-## Cái sân
+## Der Hof
 
 Trong sân của chúng tôi, bạn có thể để xe đạp và vứt rác.
 
@@ -192,7 +192,7 @@ Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận đượ
 Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe Raf trên các đường phố chính (màu tím trên bản đồ).
 Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định.
 
-In der App von AirBnB habe ich Reiseführer hinterlegt. Dort findest Du meine Empfehlungen zu Sehenwürdigkeiten, Bars und Kneipen, Einkaufsmöglichkeiten und Restaurants.
+Tôi đã lưu trữ hướng dẫn du lịch trong ứng dụng AirBnB. Ở đó bạn sẽ tìm thấy các đề xuất của tôi về các điểm tham quan, quán bar và quán rượu, cơ hội mua sắm và nhà hàng.
 
 # Câu hỏi?
 
