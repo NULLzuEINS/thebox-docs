@@ -60,8 +60,8 @@ Dato che di solito mangio al piano di sotto con la mia famiglia, la cucina è mo
 
 ## La vostra stanza
 
-I materassi sono posizionati uno sopra l'altro solo a scopo di stoccaggio. Puoi distribuirli in base alle tue esigenze.
-Se sostituisci i cuscini del divano con un materasso, diventa un buon letto.
+Die Matratzen liegen nur zu Lagerung übereinander. Du kannst sie nach Deinen Bedürfnissen verteilen. 
+Wenn Du die Kissen auf der Couch durch eine Matratze ersetzt, eignet sie sich gut als Bett.
 
 ### I dettagli di accesso per il computer (iMac) sono
 
@@ -82,7 +82,7 @@ Per tutti i telecomandi vale un vecchio detto tedesco: “Provare è meglio che 
 
 | Illustrazione                                             | Descrizione                                                                                                                                                                                                                                              |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Scatola Bluetooth<br>B: Lucine<br>C: Lampada da scrivania<br>D:_file_<br>Maestro: Cambia tutto allo stesso tempo                                                                                                                                      |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Scatola Bluetooth<br>B: Lucine<br>C: Lampada da scrivania<br>D:_leer_<br>Maestro: Cambia tutto allo stesso tempo                                                                                                                                      |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Prima di poterlo utilizzare, assicurati che l'interruttore della luce all'ingresso sia impostato su "on".**<br>Prima riga: luminosità, on/off<br>Pulsanti colorati: puoi usarli per cambiare i colori<br>Pulsanti grigi: passa da un effetto all'altro |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Questo è il telecomando del computer (iMac)._Per utilizzare il computer, premere il pulsante A sul primo telecomando. Attiva l'alimentazione del computer e del box Bluetooth._                                                                          |
 
@@ -92,11 +92,11 @@ Per tutti i telecomandi vale un vecchio detto tedesco: “Provare è meglio che 
 
 ### bagno
 
-Puoi usare la doccia stando in piedi. Non importa se il terreno si bagna un po'. Apri l'acqua solo a 1/3 e appendi il tappetino da bagno sopra il riscaldamento per asciugarlo.
+Puoi usare la doccia stando in piedi. Non è un problema se il terreno si bagna un po'. Apri l'acqua solo a 1/3 e appendi il tappetino da bagno sopra il riscaldamento per asciugarlo.
 
 L'Alexa sul muro si chiama "Computer" e riproduce anche la tua musica o radio preferita. Per esempio. "_Computer, riproduci Deutschlandfunk Nova_"
 
-Puoi appendere gli asciugamani a tutti i ganci e riporre le tue cose ovunque. C'è uno scaffale davanti alla porta del bagno. Un pezzo è tuo.
+Puoi appendere gli asciugamani a tutti i ganci e riporre le tue cose ovunque. C'è uno scaffale davanti alla porta del bagno. Uno di questi è tuo.
 
 ### Corridoio
 
@@ -107,7 +107,7 @@ Puoi lasciare le tue scarpe qui. Ho anche un piccolo blocco note sullo scaffale 
 ## Casa intelligente
 
 Sono presenti gli assistenti vocali Alexa in bagno e in cucina. Puoi chiamarli "Computer" e farli giocare, ad esempio, a Deutschlandfunk Nova. Capiscono il tedesco e anche l'inglese. Se non vuoi usarli,
-Puoi anche semplicemente scollegarlo dall'alimentazione.
+Puoi anche semplicemente scollegarlo dalla corrente.
 
 Non ci sono assistenti vocali nella tua stanza. Il cestino sullo scaffale contiene solo il router e un piccolo computer.
 
@@ -167,7 +167,7 @@ Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite d
 
 È possibile utilizzare la lavatrice senza dover chiedere prima. È possibile utilizzare anche lo stendino, il detersivo e l'ammorbidente. Se desideri una nuova biancheria da letto, parlami.
 
-## Spazzola a mano e paletta per la polvere
+## Spazzola a mano e paletta
 
 In cucina troverete una spazzola a mano e una paletta appesa al muro. Questo ti aiuterà a sbarazzarti del piccolo sporco.
 
@@ -181,7 +181,7 @@ Ho un robot aspirapolvere per pavimenti.
 Prima di iniziare, togli tutto dal pavimento.
 Soprattutto cavi o altri oggetti con cui il robot potrebbe soffocare.
 Quindi mettilo nella tua stanza e premi una volta il pulsante in alto.
-Se non succede nulla, utilizzare l'interruttore di accensione/spegnimento sul lato e successivamente
+Se non succede nulla, utilizzare l'interruttore on/off sul lato e successivamente
 riaccenderlo utilizzando il pulsante in alto.
 
 Una volta terminato, rimettilo nella stazione di ricarica!
