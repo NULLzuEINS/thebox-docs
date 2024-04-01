@@ -1,0 +1,180 @@
+name: Build resume and publish it on GitHub releases
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Step 1 - Checkout sources
+        uses: actions/checkout@v2
+      - name: Step 2 - Read dotenv vars
+        uses: xom9ikk/dotenv@v2
+      - name: Step 3 - Create temporary folders
+        run: |
+          mkdir -p Results
+          mkdir -p Temp
+      - name: Step 3 - Generate the documents using Docker
+        run: |
+          ./Scripts/build.sh
+          ls -lisah Results
+
+      - name: Step 4.1 - Upload the single PDF Introduction artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: resume-pdf-introduction
+          path: Results/${{ env.THEBOX_FILENAME }}-introduction.pdf
+          if-no-files-found: error
+          retention-days: 12
+      - name: Step 4.2 - Upload the single PDF CV artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: resume-pdf-curriculum-vitae
+          path: Results/${{ env.THEBOX_FILENAME }}-curriculum-vitae.pdf
+          if-no-files-found: error
+          retention-days: 12
+      - name: Step 4.3 - Upload the single PDF Portfolio artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: resume-pdf-portfolio
+          path: Results/${{ env.THEBOX_FILENAME }}-portfolio.pdf
+          if-no-files-found: error
+          retention-days: 12
+
+      - name: Step 5.1 - Upload the PDF artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: resume-pdf
+          path: Results/resume-${{ env.THEBOX_FILENAME }}.pdf
+          if-no-files-found: error
+          retention-days: 12
+      - name: Step 5.2 - Upload the EPUB artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: resume-epub
+          path: Results/resume-${{ env.THEBOX_FILENAME }}.epub
+          if-no-files-found: error
+          retention-days: 12
+
+  release:
+    name: release – ${{ github.ref_name }}
+    runs-on: ubuntu-latest
+    needs:
+      - build
+    steps:
+      - name: Step 1.1 - Checkout sources
+        uses: actions/checkout@v2
+      - name: Step 1.2 - Read dotenv vars
+        uses: xom9ikk/dotenv@v2
+
+      - name: Step 2.1 Download pdf artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: resume-pdf
+          path: resume-pdf
+      - name: Step 2.2 Download epub artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: resume-epub
+          path: resume-epub
+      - name: Step 2.3 Download introduction artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: resume-pdf-introduction
+          path: ${{ env.THEBOX_FILENAME }}-introduction
+      - name: Step 2.4 Download CV artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: resume-pdf-curriculum-vitae
+          path: ${{ env.THEBOX_FILENAME }}-curriculum-vitae
+      - name: Step 2.5 Download portfolio artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: resume-pdf-portfolio
+          path: ${{ env.THEBOX_FILENAME }}-portfolio
+      - name: Step 3. Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          body: |
+            #### Changes in this Release
+
+            - ${{ github.event.head_commit.message }}
+
+            #### Download
+
+            | PDF | EPUB |
+            | --- | ---- |
+            | <a href="https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/resume-${{ env.THEBOX_FILENAME }}.pdf"><img width="144" src="https://cdn.githubraw.com/${{ github.repository }}/main/Content/Media/Cover/Cover-pdf.png" alt="Cover for pdf" /></a> | <a href="https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/resume-${{ env.THEBOX_FILENAME }}.epub"><img width="144" src="https://cdn.githubraw.com/${{ github.repository }}/main/Content/Media/Cover/Cover-epub.png" alt="Cover for epub" /></a> |
+            | [![Badge PDF](https://img.shields.io/badge/PDF-resume-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/resume-${{ env.THEBOX_FILENAME }}.pdf) | [![Badge Epub](https://img.shields.io/badge/EPUB-resume-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/resume-${{ env.THEBOX_FILENAME }}.epub) |
+            
+            ##### Download single files
+
+            | Document     | Download |
+            | ------------ | -------- |
+            | Introduction | [![Badge CV](https://img.shields.io/badge/DE-Introduction-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/${{ env.THEBOX_FILENAME }}-introduction.pdf) | 
+            | CV           | [![Badge CV](https://img.shields.io/badge/DE-CV-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/${{ env.THEBOX_FILENAME }}-curriculum-vitae.pdf) | 
+            | Portfolio    | [![Badge CV](https://img.shields.io/badge/DE-Portfoilo-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/${{ env.THEBOX_FILENAME }}-portfolio.pdf) |
+
+          draft: false
+          prerelease: false
+
+      - name: Step 4.1 Upload Introduction PDF Release Asset
+        id: upload-release-asset-pdf-introduction
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./${{ env.THEBOX_FILENAME }}-introduction/${{ env.THEBOX_FILENAME }}-introduction.pdf
+          asset_name: ${{ env.THEBOX_FILENAME }}-introduction.pdf
+          asset_content_type: application/pdf
+      - name: Step 3.2 Upload CV PDF Release Asset
+        id: upload-release-asset-pdf-cv
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./${{ env.THEBOX_FILENAME }}-curriculum-vitae/${{ env.THEBOX_FILENAME }}-curriculum-vitae.pdf
+          asset_name: ${{ env.THEBOX_FILENAME }}-curriculum-vitae.pdf
+          asset_content_type: application/pdf
+      - name: Step 4.3 Upload Portfolio PDF Release Asset
+        id: upload-release-asset-pdf-portfolio
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./${{ env.THEBOX_FILENAME }}-portfolio/${{ env.THEBOX_FILENAME }}-portfolio.pdf
+          asset_name: ${{ env.THEBOX_FILENAME }}-portfolio.pdf
+          asset_content_type: application/pdf
+
+      - name: Step 5.1 Upload PDF Release Asset
+        id: upload-release-asset-pdf
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./resume-pdf/resume-${{ env.THEBOX_FILENAME }}.pdf
+          asset_name: resume-${{ env.THEBOX_FILENAME }}.pdf
+          asset_content_type: application/pdf
+      - name: Step 5.2 Upload EPUB Release Asset
+        id: upload-release-asset-epub
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./resume-epub/resume-${{ env.THEBOX_FILENAME }}.epub
+          asset_name: resume-${{ env.THEBOX_FILENAME }}.epub
+          asset_content_type: application/epub
