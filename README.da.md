@@ -18,7 +18,7 @@ På min AirBnB får du et detaljeret overblik over alle værelserne og facilitet
 
 ## Nøgle
 
-Du får to par nøgler, hver med en nøgle til bunden og en til toppen. Der er også en nøgle på en nøglering, som du kan bruge til at låse dit værelse.
+Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du Dein Zimmer abschließen kannst.
 
 ## Internetadgang
 
@@ -54,14 +54,14 @@ Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. 
 
 ### FAQ - Køkken
 
-1.  Virker komfuret ikke? Vær 'sød at sige
+1.  Herd funktioniert nicht? Bitte sage
     > "Computer, arbejdsbord og"
 2.  Hvor kan jeg vaske op? Dette virker kun på badeværelset. Der er en speciel beholder til opvask.
 
 ## Dit værelse
 
 Madrasserne placeres kun oven på hinanden til opbevaringsformål. Du kan fordele dem efter dine behov.
-Udskifter du puderne på sofaen med en madras, fungerer den godt som seng.
+Udskifter du puderne på sofaen med en madras, er det en god seng.
 
 ### Loginoplysningerne til computeren (iMac) er
 
@@ -88,7 +88,7 @@ Et gammelt tysk ordsprog gælder for alle fjernbetjeninger: "Det er bedre at pr�
 
 ### FAQ - Dit værelse
 
-1.  Lyset tænder ikke eller blinker vildt Brug de små fjernbetjeninger med de farverige knapper.
+1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
 
 ### badeværelse
 
@@ -189,8 +189,8 @@ Når det er færdigt, skal du sætte det tilbage i ladestationen!
 # Tips
 
 Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 15 minutter hver for_Nextbikes_.
-Bemærk, at det koster mere, hvis du ikke parkerer Raf på hovedgaderne (lilla på kortet).
-El-scooterne må kun parkeres på visse parkeringspladser.
+Beachte, dass es mehr kostet, wenn man das Raf nicht an den großen Straßen (Auf der Karte Lila) abstellt.
+Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
 Jeg har gemt rejseguider i AirBnB-appen. Der finder du mine anbefalinger til seværdigheder, barer og pubber, indkøbsmuligheder og restauranter.
 
