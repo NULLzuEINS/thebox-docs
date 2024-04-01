@@ -80,11 +80,11 @@ Passwort: thebox
 
 Per tutti i telecomandi vale un vecchio detto tedesco: “Provare è meglio che studiare”. Non puoi rompere nulla. Premi alcuni pulsanti e guarda cosa succede. Se hai ancora voglia di studiare, ecco la lettura giusta per te:
 
-| Illustrazione                                             | Descrizione                                                                                                                                                                                                                                               |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Scatola Bluetooth<br>B: Lucine<br>C: Lampada da scrivania<br>D:_file_<br>Maestro: Cambia tutto allo stesso tempo                                                                                                                                       |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Prima di poterlo utilizzare, assicurati che l'interruttore della luce all'ingresso sia impostato su "on".**<br>Erste Zeile: Helligkeit, An/Aus<br>Pulsanti colorati: puoi usarli per cambiare i colori<br>Pulsanti grigi: passa da un effetto all'altro |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Questo è il telecomando del computer (iMac)._Per utilizzare il computer, premere il pulsante A sul primo telecomando. Attiva l'alimentazione del computer e del box Bluetooth._                                                                           |
+| Illustrazione                                             | Descrizione                                                                                                                                                                                                                                              |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Scatola Bluetooth<br>B: Lucine<br>C: Lampada da scrivania<br>D:_file_<br>Maestro: Cambia tutto allo stesso tempo                                                                                                                                      |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Prima di poterlo utilizzare, assicurati che l'interruttore della luce all'ingresso sia impostato su "on".**<br>Prima riga: luminosità, on/off<br>Pulsanti colorati: puoi usarli per cambiare i colori<br>Pulsanti grigi: passa da un effetto all'altro |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Questo è il telecomando del computer (iMac)._Per utilizzare il computer, premere il pulsante A sul primo telecomando. Attiva l'alimentazione del computer e del box Bluetooth._                                                                          |
 
 ### FAQ - La tua camera
 
@@ -98,7 +98,7 @@ L'Alexa sul muro si chiama "Computer" e riproduce anche la tua musica o radio pr
 
 Puoi appendere gli asciugamani a tutti i ganci e riporre le tue cose ovunque. C'è uno scaffale davanti alla porta del bagno. Uno di questi è tuo.
 
-### Flur
+### Corridoio
 
 Puoi lasciare le tue scarpe qui. Ho anche un piccolo blocco note sullo scaffale nel caso volessi dirmi qualcosa.
 
@@ -106,8 +106,8 @@ Puoi lasciare le tue scarpe qui. Ho anche un piccolo blocco note sullo scaffale 
 
 ## Casa intelligente
 
-Im Bad und in der Küche befinden sich Alexa Sprachassistenten. Du kannst sie mit dem Namen "Computer" ansprechen und Dir zum Beispiel Deutschlandfunk Nova spielen lassen. Sie verstehen Deutsch und auch Englisch. Wenn Du sie nicht nutzen möchtest, 
-kannst Du sie auch einfach vom Strom trennen.
+Sono presenti gli assistenti vocali Alexa in bagno e in cucina. Puoi chiamarli "Computer" e farli giocare, ad esempio, a Deutschlandfunk Nova. Capiscono il tedesco e anche l'inglese. Se non vuoi usarli,
+Puoi anche semplicemente scollegarlo dall'alimentazione.
 
 Non ci sono assistenti vocali nella tua stanza. Il cestino sullo scaffale contiene solo il router e un piccolo computer.
 
@@ -127,7 +127,7 @@ Nel nostro cortile puoi collegare le tue biciclette e portare via la tua spazzat
 
 O usi la chiave della porta d'ingresso, oppure raggiungi il cancello e senti il ​​pulsante per aprire la porta. Mentre tieni premuto il pulsante puoi aprire la porta.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
+![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
 ### Giallo? Blu? Verde? Marrone?
 
@@ -142,7 +142,7 @@ Secondo le statistiche, ogni anno a Lipsia viene rubata la maggior parte delle b
 
 ### Quali alternative ci sono?
 
-Con il[App MOVE di Lipsia](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die _Nextbikes_. Tieni presente che costa di più se non parcheggi le bici nelle strade principali (viola sulla mappa). Gli e-scooter possono essere parcheggiati solo in determinati parcheggi. Esiste anche un sistema di car sharing a flusso libero. Ciò significa con noi[cityflitzer](https://cityflitzer.de/). E naturalmente ci sono autobus e treni che potete pagare anche tramite l'app Leipzig MOVE.
+Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_. Tieni presente che costa di più se non parcheggi le bici nelle strade principali (viola sulla mappa). Gli e-scooter possono essere parcheggiati solo in determinati parcheggi. Esiste anche un sistema di car sharing a flusso libero. Ciò significa con noi[cityflitzer](https://cityflitzer.de/). E naturalmente ci sono autobus e treni che potete pagare anche tramite l'app Leipzig MOVE.
 
 # Guardare
 
