@@ -18,7 +18,7 @@
 
 ## Ключ
 
-Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du Dein Zimmer abschließen kannst.
+Вы получаете две пары ключей, каждая из которых имеет один ключ для нижнего и один для верхнего. На связке ключей также есть ключ, которым вы можете запереть свою комнату.
 
 ## доступ в Интернет
 
@@ -206,4 +206,4 @@ Alexa на стене называется «Компьютер» и также 
 
 * * *
 
-_Сделано с ❤️ автором [документировать](https://docsify.js.org/)_
+_Made with ❤️ by  [документировать](https://docsify.js.org/)_
