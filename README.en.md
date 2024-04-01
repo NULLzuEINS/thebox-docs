@@ -61,7 +61,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 ## Your room
 
 The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs.
-If you replace the cushions on the couch with a mattress, it makes a good bed.
+If you replace the pillows on the couch with a mattress, it works well as a bed.
 
 ### The login details for the computer (iMac) are
 
