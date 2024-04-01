@@ -46,7 +46,7 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 1.  Kari
 2.  Veekeetja
 3.  Nõud söögiriistad
-4.  Külmkapp
+4.  Külmik
 5.  Pitsaahi
 6.  Mineraalvesi
 7.  Riiulil mobiiltelefoni laadimisjaam
@@ -61,7 +61,7 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 ## Sinu tuba
 
 Madratsid asetatakse üksteise peale ainult ladustamise eesmärgil. Saate neid vastavalt oma vajadustele levitada.
-Kui asendad diivanil olevad padjad madratsiga, saab sellest hea voodi.
+Kui asendad diivanil olevad padjad madratsiga, siis sobib see hästi voodina.
 
 ### Arvuti (iMac) sisselogimisandmed on
 
@@ -82,7 +82,7 @@ Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". 
 
 | Illustratsioon                                            | Kirjeldus                                                                                                                                                                                                                                   |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Haldjatuled<br>C: laualamp<br>D:_faili_<br>Meister: Lülitage kõike korraga                                                                                                                                            |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Haldjatuled<br>C: laualamp<br>D: _faili_<br>Meister: Lülitage kõike korraga                                                                                                                                           |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Enne selle kasutamist veenduge, et sissepääsu valguslüliti oleks asendis "sees".**<br>Esimene rida: heledus, sisse/välja<br>Värvilised nupud: saate seda kasutada värvide muutmiseks<br>Hallid nupud: erinevate efektide vahel vahetamine |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | See on arvuti (iMac) kaugjuhtimispult._Arvuti kasutamiseks vajutage esimesel kaugjuhtimispuldil nuppu A. See aktiveerib arvuti ja Bluetooth-boksi toiteallika._                                                                             |
 
@@ -92,11 +92,11 @@ Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". 
 
 ### vannituba
 
-Dušši saate kasutada seistes. Vahet pole, kui maapind veidi märjaks saab. Lülitage vesi sisse ainult 1/3 ja riputage vannimatt kerise kohale kuivama.
+Dušši saate kasutada seistes. Pole probleemi, kui maapind veidi märjaks saab. Lülitage vesi sisse ainult 1/3 ja riputage vannimatt kerise kohale kuivama.
 
 Seinal olev Alexa kannab nime "Computer" ja mängib ka teie lemmikmuusikat või raadiot. Nt "_Arvuti, mängi Deutschlandfunk Nova_"
 
-Saate riputada rätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks tükk sellest on sinu.
+Saate riputada rätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks neist on sinu oma.
 
 ### Esik
 
@@ -125,7 +125,7 @@ Meie sisehoovis saate ühendada oma jalgrattad ja viia prügi ära.
 
 ### Kuidas värav avaneb?
 
-Kas kasutate välisukse võtit või sirutate käe läbi värava ja tunnete, kuidas uks avab. Kui hoiate nuppu all, saate ukse avada.
+Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
 
