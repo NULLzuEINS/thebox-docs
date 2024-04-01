@@ -72,7 +72,7 @@ Passwort: thebox
 
 ### Toas on saadaval järgmised asjad
 
-1.  Kogu mööbel ja voodid
+1.  Alle Möbel und Betten
 2.  Arvutid ja printerid
 3.  Kaugjuhtimispuldid tuledele ja elektrile
 
@@ -94,7 +94,7 @@ Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". 
 
 Dušši saate kasutada seistes. Pole probleemi, kui maapind veidi märjaks saab. Lülitage vesi sisse ainult 1/3 ja riputage vannimatt kerise kohale kuivama.
 
-Seinal olev Alexa kannab nime "Computer" ja mängib ka teie lemmikmuusikat või raadiot. Nt "_Computer, spiele Deutschlandfunk Nova_"
+Seinal olev Alexa kannab nime "Computer" ja mängib ka teie lemmikmuusikat või raadiot. Nt "_Arvuti, mängi Deutschlandfunk Nova_"
 
 Saate riputada rätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks neist on sinu oma.
 
@@ -131,7 +131,7 @@ Kas kasutate välisukse võtit või sirutate käe läbi värava ja tunnete, kuid
 
 ### Kollane? Sinine? Roheline? Pruun?
 
-Kas teid huvitab, miks prügikastid on erinevat värvi? Kui te pole milleski kindel, pange prügikast alati rohelisse prügikasti. Jääkjäätmed satuvad sinna. Professionaalid panevad paberijäätmed sinisesse prügikasti, taaskasutatavad jäätmed kollasesse ja orgaanilised jäätmed pruuni prügikasti.
+Du fragst Dich warum die Mülltonnen verschiedene Farben haben? Wenn Du dir unsicher bist, mach den Müll immer in die grüne Tonne. Darin landet der Restmüll. Profis machen den Papiermüll in die blaue Tonne, Wertstoffe in die gelbe Tonne und organische Abfälle in die braune Tonne.
 
 ### Tsüklid
 
@@ -153,7 +153,7 @@ Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, 
 
 ## puhastamine
 
--   Bettzeug kannst Du drauf lassen.
+-   Selle peale võib jätta voodipesu.
 -   Samuti pesen nõusid ja
 -   Viin ka prügi välja.
 
