@@ -48,7 +48,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 3.  Tallerkener bestikk
 4.  Kjøleskap
 5.  Pizzaovn
-6.  Mineralwasser
+6.  Mineralvann
 7.  Mobilladestasjon i hylla
 8.  vaskemaskin
 
@@ -138,7 +138,7 @@ Lurer du på hvorfor søppeldunkene har forskjellige farger? Hvis du er usikker,
 ### Er sykkelen min trygg?
 
 Leipzig er en veldig sykkelvennlig by. Gjennom den store byparken som deler byen i to halvdeler, kan du komme deg til mange steder og kjører vanligvis gjennom landsbygda.
-Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hvert år. (1 539 stjålne sykler per 100 000 innbyggere) I løpet av de 15 årene siden jeg har bodd her på Hardenbergstraße har jeg aldri fått stjålet en sykkel og jeg vet bare om en nabo som har fått sykkelen hans stjålet fra bakgården hans. Jeg kobler den alltid direkte til rekkverket.
+Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hvert år. (1 539 stjålne sykler per 100 000 innbyggere) I løpet av de 15 årene siden jeg har bodd her på Hardenbergstraße har jeg aldri fått stjålet en sykkel og jeg vet bare om en nabo som har fått sykkelen sin fra bakgården hans. Jeg kobler den alltid direkte til rekkverket.
 
 ### Hvilke alternativer finnes?
 
@@ -148,8 +148,8 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 ## Nøkkel
 
--   Je nach dem welcher Wochentag ist, können wir uns persönlich verabschieden, oder du legst einfach die Schlüssel auf den Schreibtisch und ziehst die Tür hinter Dir zu.
--   Siste tidspunkt for utsjekking er 19.00 på avreisedagen.
+-   Avhengig av hvilken ukedag det er, kan vi si farvel personlig, eller du kan ganske enkelt legge nøklene på skrivebordet og lukke døren bak deg.
+-   Siste tidspunkt for utsjekking er kl. 19.00 på avreisedagen.
 
 ## rengjøring
 
@@ -177,12 +177,12 @@ Du kan finne grønt rengjøringsmiddel i en sprayflaske på badet for mopping. S
 
 ## Støvsuger
 
-Für den Fußboden habe ich einen Staubsauger-Roboter.
-Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
-Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
-Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
-Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
-anschalten noch einmal auf den Knopf auf drt Oberseite.
+Jeg har en robotstøvsuger til gulvet.
+Før du kan begynne, ryd alt på gulvet ut av veien.
+Spesielt ledninger eller andre ting som roboten kunne kveles på.
+Sett den deretter på rommet ditt og trykk på knappen på toppen én gang.
+Hvis ingenting skjer, bruk av/på-bryteren på siden og etter
+slå den på igjen med knappen på toppen.
 
 Når den er ferdig, sett den tilbake i ladestasjonen!
 
