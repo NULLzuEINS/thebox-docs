@@ -106,7 +106,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 ## Casa inteligente
 
-Hay asistentes de voz Alexa en el baño y la cocina. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Entienden alemán y también inglés. Si no quieres usarlos,
+Hay asistentes de voz Alexa en el baño y la cocina. Puede dirigirse a ellos con el nombre "Ordenador" y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Entienden alemán y también inglés. Si no quieres usarlos,
 También puedes simplemente desconectarlo de la corriente.
 
 No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene el enrutador y una pequeña computadora.
@@ -177,12 +177,12 @@ Puedes encontrar un agente de limpieza verde en una botella con atomizador en el
 
 ## aspiradora
 
-Tengo un robot aspirador para el suelo.
-Antes de que puedas comenzar, retira todo lo que esté en el suelo.
-Especialmente cables u otras cosas con las que el robot podría asfixiarse.
-Luego colócalo en tu habitación y presiona el botón en la parte superior una vez.
-Si no sucede nada, utilice el interruptor de encendido/apagado que se encuentra en el lateral y después
-enciéndelo nuevamente usando el botón en la parte superior.
+Für den Fußboden habe ich einen Staubsauger-Roboter.
+Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
+Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
+Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
+Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
+anschalten noch einmal auf den Knopf auf drt Oberseite.
 
 Cuando haya terminado, ¡vuélvalo a colocar en la estación de carga!
 
