@@ -72,7 +72,7 @@ Passwort: thebox
 
 ### V místnosti jsou k dispozici následující věci
 
-1.  Veškerý nábytek a postele
+1.  Alle Möbel und Betten
 2.  Počítače a tiskárny
 3.  Dálkové ovládání světel a elektřiny
 
