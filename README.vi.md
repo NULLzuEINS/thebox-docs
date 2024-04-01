@@ -92,7 +92,7 @@ Một câu nói cổ của người Đức áp dụng cho tất cả các loại
 
 ### phòng tắm
 
-Bạn có thể sử dụng vòi hoa sen trong khi đứng. Sẽ không có vấn đề gì nếu mặt đất bị ướt một chút. Chỉ vặn nước 1/3 và treo thảm tắm lên trên lò sưởi cho khô.
+Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und hänge den Badewannenvorleger zum trocknen über der Heizung auf.
 
 Alexa trên tường có tên là “Máy tính” và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
 
@@ -102,14 +102,14 @@ Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc c�
 
 Bạn có thể để lại giày của bạn ở đây. Tôi cũng có một cuốn sổ nhỏ trên kệ phòng trường hợp bạn muốn nói với tôi điều gì đó.
 
-# Điều khoản khác
+# Sonstiges
 
 ## Nhà thông minh
 
 Có trợ lý giọng nói Alexa trong phòng tắm và nhà bếp. Bạn có thể gọi họ bằng tên “Máy tính” và cho họ chơi Deutschlandfunk Nova chẳng hạn. Họ hiểu tiếng Đức và cả tiếng Anh. Nếu bạn không muốn sử dụng chúng,
 Bạn cũng có thể chỉ cần ngắt kết nối nó khỏi nguồn điện.
 
-Không có trợ lý giọng nói trong phòng của bạn. Giỏ trên kệ chỉ chứa bộ định tuyến và một máy tính nhỏ.
+In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
 
 ## Nhiệt độ và độ ẩm
 
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Được làm bằng ❤️ bởi [làm tài liệu](https://docsify.js.org/)_
+_Được làm bằng ❤️ bởi [docsify](https://docsify.js.org/)_
