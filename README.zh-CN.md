@@ -10,7 +10,7 @@
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 一张床配置，带沙发                                                                              | Zwei-Bett-Konfiguration                                                       | 桌子                                                                                      |
+| 一张床配置，带沙发                                                                              | 两张床配置                                                                         | 桌子                                                                                      |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | 带灯书桌                                                                                   | 厨房-炉灶                                                                         | 厨房-茶                                                                                    |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -74,7 +74,7 @@ Passwort: thebox
 
 1.  所有家具和床
 2.  电脑和打印机
-3.  Fernbedienungen für Licht und Strom
+3.  远程控制灯光和电力
 
 ### 遥控器
 
