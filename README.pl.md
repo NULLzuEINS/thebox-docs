@@ -127,7 +127,7 @@ Na naszym dziedzińcu możesz podłączyć rowery i wywieźć śmieci.
 
 Albo użyjesz klucza do drzwi wejściowych, albo sięgniesz przez bramę i poczujesz przycisk, aby otworzyć drzwi. Przytrzymując przycisk możesz otworzyć drzwi.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
+![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
 ### Żółty? Niebieski? Zielony? Brązowy?
 
