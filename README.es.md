@@ -52,7 +52,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 7.  Estación de carga de teléfonos móviles en el estante.
 8.  lavadora
 
-### FAQ - Küche
+### Preguntas frecuentes - Cocina
 
 1.  ¿La estufa no funciona? por favor di
     > "Computadora, banco de trabajo y"
@@ -106,7 +106,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 ## Casa inteligente
 
-Hay asistentes de voz Alexa en el baño y la cocina. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Entienden alemán y también inglés. Si no quieres usarlos,
+Hay asistentes de voz Alexa en el baño y la cocina. Puede dirigirse a ellos con el nombre "Ordenador" y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Entienden alemán y también inglés. Si no quieres usarlos,
 También puedes simplemente desconectarlo de la corriente.
 
 No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene el enrutador y una pequeña computadora.
