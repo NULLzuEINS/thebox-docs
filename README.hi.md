@@ -12,7 +12,7 @@
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | सोफ़े के साथ एक बिस्तर का विन्यास                                                      | दो बिस्तरों का विन्यास                                                        | मेज़                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| रोशनी के साथ डेस्क                                                                     | रसोई का चूल्हा                                                                | रसोई - चाय                                                                              |
+| रोशनी के साथ डेस्क                                                                     | रसोई का चूल्हा                                                                | Küche - Tee                                                                             |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | रोशनी के साथ डेस्क                                                                     | रसोई का चूल्हा                                                                | रसोई - चाय                                                                              |
 
@@ -188,7 +188,7 @@ Passwort: thebox
 
 # सुझावों
 
-साथ[लीपज़िग मूव ऐप](https://leipzig-move.de/), आपको प्रत्येक 15 मिनट की 10 मुफ्त सवारी मिलती है_नेक्स्टबाइक्स_.
+Mit der [लीपज़िग मूव ऐप](https://leipzig-move.de/), आपको प्रत्येक 15 मिनट की 10 मुफ्त सवारी मिलती है_नेक्स्टबाइक्स_.
 ध्यान दें कि यदि आप राफ को मुख्य सड़कों (मानचित्र पर बैंगनी) पर पार्क नहीं करते हैं तो इसकी लागत अधिक है।
 ई-स्कूटर केवल कुछ निश्चित पार्किंग स्थानों पर ही पार्क किए जा सकते हैं।
 
