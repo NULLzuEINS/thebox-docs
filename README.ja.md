@@ -14,7 +14,7 @@
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | ライト付きデスク                                                                               | キッチン - コンロ                                                                    | キッチン - お茶                                                                               |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Schreibtisch mit Licht                                                                 | キッチン - コンロ                                                                    | キッチン - お茶                                                                               |
+| ライト付きデスク                                                                               | キッチン - コンロ                                                                    | キッチン - お茶                                                                               |
 
 ## 鍵
 
@@ -86,7 +86,7 @@ Passwort: thebox
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **ご使用前に玄関の照明スイッチが「入」になっていることをご確認ください。**<br>1行目：明るさ、オン/オフ<br>色付きボタン: これを使用して色を変更できます<br>灰色のボタン: さまざまな効果を切り替えます |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | パソコン（iMac）のリモコンです。_コンピューターを使用するには、最初のリモコンの A ボタンを押します。コンピューターと Bluetooth ボックスの電源を有効にします。_                     |
 
-### FAQ - Dein Zimmer
+### FAQ - お部屋について
 
 1.  ライトが点灯したり激しく点滅したりしません。カラフルなボタンが付いた小さなリモコンを使用してください。
 
@@ -153,7 +153,7 @@ Passwort: thebox
 
 ## クリーニング
 
--   Bettzeug kannst Du drauf lassen.
+-   寝具類はそのまま置いておいても大丈夫です。
 -   お皿も洗ってますし、
 -   ゴミも出します。
 
