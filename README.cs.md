@@ -6,7 +6,7 @@ Dobrý den a vítejte v „Boxu“! Když cestuji, také rád pobývám v AirBnB
 
 ## obrázky
 
-Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zde je jen stručný přehled:
+Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -14,7 +14,7 @@ Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zd
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Psací stůl se světlem                                                                  | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Schreibtisch mit Licht                                                                 | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
+| Psací stůl se světlem                                                                  | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
 
 ## Klíč
 
@@ -46,10 +46,10 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 1.  Stádo
 2.  Konvice
 3.  Nádobí příbory
-4.  Kühlschrank
+4.  Lednička
 5.  Pizza pec
 6.  Minerální voda
-7.  Handy-Aufladestation im Regal
+7.  Nabíjecí stanice pro mobilní telefony na polici
 8.  pračka
 
 ### FAQ - Kuchyně
@@ -61,7 +61,7 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 ## Tvůj pokoj
 
 Matrace se pokládají na sebe pouze pro účely skladování. Můžete je distribuovat podle svých potřeb.
-Pokud vyměníte polštáře na gauči za matraci, je z toho dobrá postel.
+Pokud polštáře na gauči nahradíte matrací, funguje dobře jako postel.
 
 ### Přihlašovací údaje pro počítač (iMac) jsou
 
@@ -73,7 +73,7 @@ Passwort: thebox
 ### V místnosti jsou k dispozici následující věci
 
 1.  Veškerý nábytek a postele
-2.  Počítače a tiskárny
+2.  Computer & Drucker
 3.  Dálkové ovládání světel a elektřiny
 
 ### Dálková ovládání
@@ -82,7 +82,7 @@ Pro všechna dálková ovládání platí staré německé přísloví: „Zkou�
 
 | Ilustrace                                                 | Popis                                                                                                                                                                                                                                        |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Pohádková světla<br>C: Schreibtischlampe<br>D:_soubor_<br>Master: Přepněte vše současně                                                                                                                                |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Pohádková světla<br>C: Stolní lampa<br>D:_soubor_<br>Master: Přepněte vše současně                                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Než jej budete moci použít, ujistěte se, že je spínač světel u vchodu nastaven na „zapnuto“.**<br>První řádek: jas, zapnuto/vypnuto<br>Barevná tlačítka: Toto můžete použít ke změně barev<br>Šedá tlačítka: Přepínání mezi různými efekty |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Toto je dálkový ovladač pro počítač (iMac)._Chcete-li použít počítač, stiskněte tlačítko A na prvním dálkovém ovladači. Aktivuje napájení počítače a Bluetooth boxu._                                                                        |
 
@@ -96,7 +96,7 @@ Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne.
 
 Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
 
-Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli. Před dveřmi do koupelny je polička. Jeden kousek je váš.
+Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli. Před dveřmi do koupelny je polička. Jeden z nich je váš.
 
 ### Chodba
 
@@ -106,7 +106,7 @@ Zde si můžete nechat boty. Na poličce mám také malý poznámkový blok, kdy
 
 ## Chytrý domov
 
-V koupelně a kuchyni jsou hlasoví asistenti Alexa. Můžete je oslovovat jménem „Computer“ a nechat je hrát například Deutschlandfunk Nova. Rozumí německy a také anglicky. Pokud je nechcete používat,
+V koupelně a kuchyni jsou hlasoví asistenti Alexa. Můžete je oslovovat „Computer“ a nechat je hrát například Deutschlandfunk Nova. Rozumí německy a také anglicky. Pokud je nechcete používat,
 Můžete jej také jednoduše odpojit od napájení.
 
 Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje pouze router a malý počítač.
@@ -117,7 +117,7 @@ Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, ab
 
 ?> Zajistěte prosím pravidelné větrání (alespoň jednou denně). Zejména v koupelně. Ujistěte se také, že je topení vypnuté. Děkujeme 🙏
 
-## Dvorek
+## Der Hof
 
 Na našem dvoře si můžete připojit kola a odvézt odpadky.
 
@@ -153,7 +153,7 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných j�
 
 ## čištění
 
--   Můžete na něm nechat lůžkoviny.
+-   Můžete na něm nechat ložní prádlo.
 -   Také myji nádobí a
 -   Také vynáším odpadky.
 
@@ -189,8 +189,8 @@ Po dokončení jej vraťte zpět do nabíjecí stanice!
 # Tipy
 
 s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_.
-Všimněte si, že to stojí více, pokud nezaparkujete Raf na hlavních ulicích (na mapě fialová).
-Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech.
+Beachte, dass es mehr kostet, wenn man das Raf nicht an den großen Straßen (Auf der Karte Lila) abstellt.
+Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
 V aplikaci AirBnB mám uložené cestovní průvodce. Najdete tam moje doporučení na památky, bary a hospůdky, nákupní příležitosti a restaurace.
 
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Made with ❤️ by  [docsify](https://docsify.js.org/)_
+_Vyrobeno s ❤️ od [docsify](https://docsify.js.org/)_
