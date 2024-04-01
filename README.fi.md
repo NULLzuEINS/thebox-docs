@@ -61,7 +61,7 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
 ## Huoneesi
 
 Patjat asetetaan päällekkäin vain säilytystä varten. Voit jakaa niitä tarpeidesi mukaan.
-Jos vaihdat sohvan tyynyt patjaan, siitä tulee hyvä sänky.
+Jos vaihdat sohvan tyynyt patjaan, se toimii hyvin sänkynä.
 
 ### Tietokoneen (iMac) kirjautumistiedot ovat
 
@@ -82,11 +82,11 @@ Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on par
 
 | Kuva                                                      | Kuvaus                                                                                                                                                                                                                                        |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Keijuvalot<br>C: Pöytälamppu<br>D:_leer_<br>Mestari: Vaihda kaikki samaan aikaan                                                                                                                                        |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Keijuvalot<br>C: Pöytälamppu<br>D:_tiedosto_<br>Mestari: Vaihda kaikki samaan aikaan                                                                                                                                    |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Ennen kuin voit käyttää sitä, varmista, että sisäänkäynnin valokytkin on asennossa "on".**<br>Ensimmäinen rivi: kirkkaus, päällä/pois<br>Värilliset painikkeet: Voit muuttaa värejä tällä<br>Harmaat painikkeet: Vaihda tehosteiden välillä |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Tämä on tietokoneen (iMac) kaukosäädin._Käytä tietokonetta painamalla ensimmäisen kaukosäätimen A-painiketta. Se aktivoi tietokoneen ja Bluetooth-laitteen virtalähteen._                                                                     |
 
-### FAQ - Huoneesi
+### FAQ - Oma huone
 
 1.  Valo ei syty tai vilkkuu villisti. Käytä pieniä kaukosäätimiä värikkäillä painikkeilla.
 
@@ -94,7 +94,7 @@ Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on par
 
 Voit käyttää suihkua seisten. Ei haittaa, jos maa hieman kastuu. Kytke vesi päälle vain 1/3 ja ripusta kylpymatto kuivumaan kiukaan päälle.
 
-Seinällä oleva Alexa on nimeltään "Computer" ja toistaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
+Seinällä oleva Alexa on nimeltään "Computer", ja se soittaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
 
 Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi niistä on sinun.
 
@@ -131,7 +131,7 @@ Joko käytät etuoven avainta tai kurkotat portin läpi ja tunnet oven avaavan p
 
 ### Keltainen? Sininen? Vihreä? Ruskea?
 
-Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan roskakoriin.
+Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan.
 
 ### Pyörät
 
@@ -157,7 +157,7 @@ Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 -   Pesen myös astiat ja
 -   Vien roskat myös pois.
 
-> Lyhyt versio: Jätä avain sinne, sulje ovi, siinä kaikki. 😀
+> Lyhyt versio: Jätä avain sinne, sulje ovi, se on siinä. 😀
 
 # Pidempi oleskelu
 
