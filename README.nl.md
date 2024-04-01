@@ -1,6 +1,6 @@
 # Welkom bij De Doos
 
-Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
+Hallo en welkom bij de “Box”! Als ik reis, verblijf ik ook graag in AirBnB's en soms zou ik willen dat ik een vel papier had met alle nodige informatie over de accommodatie, het in- en uitchecken en dit is mijn poging om het beter te maken.
 
 > [!Een mededeling]Ik zal het document automatisch in uw taal laten vertalen. Ik hoop dat het enigszins begrijpelijk is. Zo niet, schrijf mij dan gerust een bericht. Dan probeer ik het te verbeteren.
 
@@ -61,7 +61,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 ## Jouw kamer
 
 De matrassen worden uitsluitend voor opslagdoeleinden op elkaar geplaatst. U kunt ze verdelen volgens uw behoeften.
-Als je de kussens op de bank vervangt door een matras, functioneert deze prima als bed.
+Als je de kussens van de bank vervangt door een matras, ontstaat er een goed bed.
 
 ### De inloggegevens voor de computer (iMac) zijn
 
@@ -96,7 +96,7 @@ U kunt staand van de douche gebruik maken. Het is geen probleem als de grond een
 
 De Alexa aan de muur heet ‘Computer’ en speelt ook je favoriete muziek of radio af. Bijvoorbeeld "_Computer, speel Deutschlandfunk Nova_"
 
-Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén stukje ervan is van jou.
+Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén ervan is van jou.
 
 ### Gang
 
