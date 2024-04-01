@@ -10,7 +10,7 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Configuration un lit avec canapé                                                       | Zwei-Bett-Konfiguration                                                       | Bureau                                                                                  |
+| Configuration un lit avec canapé                                                       | Configuration à deux lits                                                     | Bureau                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Bureau avec lumière                                                                    | Cuisinière                                                                    | Cuisine - thé                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -98,7 +98,7 @@ L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également vot
 
 Vous pouvez accrocher des serviettes à tous les crochets et ranger vos affaires n'importe où. Il y a une étagère devant la porte de la salle de bain. L'un d'eux est le vôtre.
 
-### Couloir
+### Flur
 
 Vous pouvez laisser vos chaussures ici. J'ai aussi un petit bloc-notes sur l'étagère au cas où tu voudrais me dire quelque chose.
 
@@ -115,7 +115,7 @@ Il n'y a pas d'assistant vocal dans votre chambre. Le panier sur l'étagère con
 
 La température et l'humidité sont automatiquement mesurées via les capteurs. Je les utilise pour éviter la formation de moisissures. Ils sont petits et blancs et reposent généralement sur les encadrements de portes. Vous pouvez lire certaines données de mesure dans le miroir du couloir.
 
-?> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Achte dabei auch darauf, dass die Heizung abgestellt ist. Danke 🙏
+?> Merci de veiller à aérer régulièrement (au moins une fois par jour). Surtout dans la salle de bain. Assurez-vous également que le chauffage est éteint. Merci 🙏
 
 ## La Cour
 
@@ -169,7 +169,7 @@ Vous pouvez utiliser la machine à laver sans avoir à le demander au préalable
 
 ## Brosse à main et pelle à poussière
 
-In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Damit bekommst du den kleinen Dreck weg.
+Dans la cuisine, vous trouverez une brosse à main et une pelle à poussière accrochées au mur. Cela vous aidera à vous débarrasser des petites saletés.
 
 ## Essuyer
 
