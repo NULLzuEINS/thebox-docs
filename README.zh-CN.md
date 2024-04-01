@@ -37,7 +37,7 @@ Passwort: landungsbruecken
 
 ## 厨房
 
-由于我经常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗碗只能在浴室的水槽里进行。但有一个专门的容器可以用来清洗。
+由于我通常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗漱只能在浴室的水槽里进行。但有一个专门的容器可以用来清洗。
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -96,11 +96,11 @@ Passwort: thebox
 
 墙上的 Alexa 名称为“计算机”，还可以播放您最喜欢的音乐或收音机。例如“_电脑上，玩 Deutschlandfunk Nova_"
 
-您可以将毛巾挂在所有挂钩上，并将物品放在任何地方。浴室门前有一个架子。其中一件是你的。
+您可以将毛巾挂在所有挂钩上，并将物品放在任何地方。浴室门前有一个架子。其中之一就是你的。
 
 ### 门厅
 
-欢迎您把鞋子留在这里。我的架子上还有一个小记事本，方便你告诉我一些事情。
+欢迎您把鞋子留在这里。我的架子上还有一个小记事本，以防你想告诉我一些事情。
 
 # 各种各样的
 
@@ -109,7 +109,7 @@ Passwort: thebox
 浴室和厨房都有Alexa语音助手。例如，您可以用“计算机”这个名字来称呼他们，并让他们玩 Deutschlandfunk Nova。他们懂德语，也懂英语。如果你不想使用它们，
 您也可以简单地将其与电源断开。
 
-In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
+您的房间里没有语音助手。架子上的篮子里只有路由器和一台小电脑。
 
 ## 温度和湿度
 
