@@ -61,7 +61,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 ## Jouw kamer
 
 De matrassen worden uitsluitend voor opslagdoeleinden op elkaar geplaatst. U kunt ze verdelen volgens uw behoeften.
-Als je de kussens van de bank vervangt door een matras, ontstaat er een goed bed.
+Als je de kussens op de bank vervangt door een matras, functioneert deze prima als bed.
 
 ### De inloggegevens voor de computer (iMac) zijn
 
@@ -142,7 +142,7 @@ Als je de statistieken mag geloven, worden in Leipzig jaarlijks de meeste fietse
 
 ### Welke alternatieven zijn er?
 
-Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten van elk 15 minuten voor de_Volgendefietsen_. Houd er rekening mee dat het meer kost als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). En natuurlijk zijn er bussen en treinen die je ook via de Leipzig MOVE-app kunt betalen.
+Met de[Leipzig MOVE-app](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die _Volgendefietsen_. Houd er rekening mee dat het meer kost als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). En natuurlijk zijn er bussen en treinen die je ook via de Leipzig MOVE-app kunt betalen.
 
 # Uitchecken
 
@@ -194,7 +194,7 @@ De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden.
 
 Ik heb reisgidsen opgeslagen in de AirBnB-app. Daar vindt u mijn aanbevelingen voor bezienswaardigheden, bars en pubs, winkelmogelijkheden en restaurants.
 
-# Fragen?
+# Vragen?
 
 Als je vragen hebt of ondersteuning nodig hebt, help ik je graag verder.
 Als u haast heeft, kunt u dit het beste telefonisch doen <a href="tel:+491707353067">+49 170 73 53 067</a>.
