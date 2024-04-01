@@ -173,7 +173,7 @@ Passwort: thebox
 
 ## पोंछना
 
-Zum Wischen findest du im Bad grünes Reinigungsmittel in einer Sprühflasche. Zusammen mit dem Küchenpapier lassen sich hiermit Oberflächen gut säubern.
+आप बाथरूम में पोछा लगाने के लिए एक स्प्रे बोतल में ग्रीन क्लीनिंग एजेंट पा सकते हैं। किचन पेपर के साथ इसका उपयोग सतहों को आसानी से साफ करने के लिए किया जा सकता है।
 
 ## वैक्यूम क्लीनर
 
