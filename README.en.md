@@ -12,7 +12,7 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | One bed configuration with couch                                                       | Two bed configuration                                                         | Desk                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
+| Schreibtisch mit Licht                                                                 | Kitchen - stove                                                               | Kitchen - tea                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
 
@@ -49,7 +49,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 4.  Refrigerator
 5.  Pizza oven
 6.  Mineral water
-7.  Handy-Aufladestation im Regal
+7.  Cell phone charging station on the shelf
 8.  washing machine
 
 ### FAQ - Kitchen
@@ -61,7 +61,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 ## Your room
 
 The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs.
-If you replace the cushions on the couch with a mattress, it makes a good bed.
+If you replace the pillows on the couch with a mattress, it works well as a bed.
 
 ### The login details for the computer (iMac) are
 
@@ -135,7 +135,7 @@ Are you wondering why the garbage cans have different colors? If you are unsure,
 
 ### Cycles
 
-### Is my bike safe?
+### Ist mein Fahrrad sicher?
 
 Leipzig is a very bike-friendly city. Through the large city park that divides the city into two halves, you can get to many places and usually drive through the countryside.
 If you believe the statistics, then the most bicycles per capita are stolen in Leipzig every year. (1,539 stolen bicycles per 100,000 inhabitants) In the 15 years since I have lived here on Hardenbergstraße, I have never had a bicycle stolen and I only know of one neighbor whose bicycle was stolen from his backyard. I always connect it directly to the railing.
@@ -167,7 +167,7 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 
 You can use the washing machine without having to ask first. You can also use the drying rack, washing powder and fabric softener. If you would like new bed linen, just talk to me.
 
-## Handfeger und Kehrblech
+## Hand brush and dustpan
 
 In the kitchen you will find a hand brush and a dustpan on the wall. This will help you get rid of the small dirt.
 
