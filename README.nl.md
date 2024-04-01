@@ -194,7 +194,7 @@ De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden.
 
 Ik heb reisgidsen opgeslagen in de AirBnB-app. Daar vindt u mijn aanbevelingen voor bezienswaardigheden, bars en pubs, winkelmogelijkheden en restaurants.
 
-# Vragen?
+# Fragen?
 
 Als je vragen hebt of ondersteuning nodig hebt, help ik je graag verder.
 Als u haast heeft, kunt u dit het beste telefonisch doen <a href="tel:+491707353067">+49 170 73 53 067</a>.
