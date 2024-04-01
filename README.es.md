@@ -41,7 +41,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Las siguientes cosas están disponibles en la cocina.
+### Folgende Dinge stehen in der Küche zur Verfügung
 
 1.  Rebaño
 2.  Pava
@@ -123,7 +123,7 @@ En nuestro patio podréis conectar vuestras bicicletas y retirar la basura.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
-### ¿Cómo se abre la puerta?
+### Wie geht das Tor auf?
 
 O usas la llave de la puerta principal o cruzas la puerta y sientes el botón para abrir la puerta. Mientras mantienes pulsado el botón podrás abrir la puerta.
 
@@ -137,8 +137,8 @@ O usas la llave de la puerta principal o cruzas la puerta y sientes el botón pa
 
 ### ¿Mi bicicleta es segura?
 
-Leipzig es una ciudad muy amigable con las bicicletas. A través del gran parque urbano que divide la ciudad en dos mitades, se puede llegar a muchos lugares y normalmente conducir por el campo.
-Si nos fijamos en las estadísticas, en Leipzig se roban cada año el mayor número de bicicletas per cápita. (1.539 bicicletas robadas por cada 100.000 habitantes) Desde hace 15 años que vivo aquí en Hardenbergstraße, nunca me han robado una bicicleta y sólo conozco a un vecino a quien le robaron la bicicleta en su patio trasero. Siempre lo conecto directamente a la barandilla.
+Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
+Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
 
 ### ¿Qué alternativas hay?
 
@@ -177,12 +177,12 @@ Puedes encontrar un agente de limpieza verde en una botella con atomizador en el
 
 ## aspiradora
 
-Für den Fußboden habe ich einen Staubsauger-Roboter.
-Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
-Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
-Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
-Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
-anschalten noch einmal auf den Knopf auf drt Oberseite.
+Tengo un robot aspirador para el suelo.
+Antes de que puedas comenzar, retira todo lo que esté en el suelo.
+Especialmente cables u otras cosas con las que el robot podría asfixiarse.
+Luego colócalo en tu habitación y presiona el botón en la parte superior una vez.
+Si no sucede nada, utilice el interruptor de encendido/apagado que se encuentra en el lateral y después
+enciéndelo nuevamente usando el botón en la parte superior.
 
 Cuando haya terminado, ¡vuélvalo a colocar en la estación de carga!
 
