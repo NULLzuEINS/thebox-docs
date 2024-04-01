@@ -14,7 +14,7 @@ Pe AirBnB-ul meu primești o imagine de ansamblu detaliată a tuturor camerelor 
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Bucătărie - ceai                                                                        |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Schreibtisch mit Licht                                                                 | Aragaz de bucătărie                                                           | Bucătărie - ceai                                                                        |
+| Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Bucătărie - ceai                                                                        |
 
 ## Cheie
 
@@ -82,7 +82,7 @@ O veche zicală germană se aplică tuturor telecomenzilor: „Este mai bine să
 
 | Ilustrare                                                 | Descriere                                                                                                                                                                                                                                                                        |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Lumini de zâne<br>C: Lampă de birou<br>D:_fişier_<br>Maestrul: Schimbă totul în același timp                                                                                                                                                               |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Lichterkette<br>C: Lampă de birou<br>D:_fişier_<br>Maestrul: Schimbă totul în același timp                                                                                                                                                                 |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Înainte de a-l putea folosi, asigurați-vă că întrerupătorul luminii de la intrare este setat pe „pornit”.**<br>Prima linie: luminozitate, pornit/oprit<br>Butoane colorate: puteți folosi acest lucru pentru a schimba culorile<br>Butoane gri: comutați între diferite efecte |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Aceasta este telecomanda pentru computer (iMac)._Pentru a utiliza computerul, apăsați butonul A de pe prima telecomandă. Activează sursa de alimentare pentru computer și cutia Bluetooth._                                                                                      |
 
@@ -109,7 +109,7 @@ Ești binevenit să-ți lași pantofii aici. Am și un mic blocnotes pe raft în
 Există asistenți vocali Alexa în baie și bucătărie. Le puteți adresa cu numele „Computer” și îi puteți pune să joace Deutschlandfunk Nova, de exemplu. Înțeleg germană și engleză. Dacă nu doriți să le folosiți,
 De asemenea, îl puteți deconecta pur și simplu de la curent.
 
-Nu există asistenți vocali în camera dvs. Coșul de pe raft conține doar routerul și un computer mic.
+In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
 
 ## temperatura si umiditatea
 
