@@ -6,7 +6,7 @@ Tere ja tere tulemast "Boksi"! Reisides meeldib mulle ka AirBnB-s ööbida ja m�
 
 ## Pildid
 
-Minu AirBnB-s saate üksikasjaliku ülevaate kõigist tubadest ja mugavustest. Siin on vaid lühike ülevaade:
+Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -80,11 +80,11 @@ Passwort: thebox
 
 Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". Sa ei saa midagi murda. Vajutage mõnda nuppu ja vaadake, mis juhtub. Kui soovite siiski õppida, siis siin on teile sobiv lugemine:
 
-| Illustratsioon                                            | Kirjeldus                                                                                                                                                                                                                                   |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Haldjatuled<br>C: laualamp<br>D:_faili_<br>Meister: Lülitage kõike korraga                                                                                                                                            |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Enne selle kasutamist veenduge, et sissepääsu valguslüliti oleks asendis "sees".**<br>Esimene rida: heledus, sisse/välja<br>Värvilised nupud: saate seda kasutada värvide muutmiseks<br>Hallid nupud: erinevate efektide vahel vahetamine |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | See on arvuti (iMac) kaugjuhtimispult._Arvuti kasutamiseks vajutage esimesel kaugjuhtimispuldil nuppu A. See aktiveerib arvuti ja Bluetooth-boksi toiteallika._                                                                             |
+| Illustratsioon                                            | Kirjeldus                                                                                                                                                                                                                                |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Haldjatuled<br>C: laualamp<br>D:_faili_<br>Meister: Lülitage kõike korraga                                                                                                                                         |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Enne selle kasutamist veenduge, et sissepääsu valguslüliti oleks asendis "sees".**<br>Erste Zeile: Helligkeit, An/Aus<br>Värvilised nupud: saate seda kasutada värvide muutmiseks<br>Hallid nupud: erinevate efektide vahel vahetamine |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | See on arvuti (iMac) kaugjuhtimispult._Arvuti kasutamiseks vajutage esimesel kaugjuhtimispuldil nuppu A. See aktiveerib arvuti ja Bluetooth-boksi toiteallika._                                                                          |
 
 ### KKK – Sinu tuba
 
