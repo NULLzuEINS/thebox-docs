@@ -149,7 +149,7 @@ Passwort: thebox
 ## 열쇠
 
 -   요일에 따라 직접 작별 인사를 할 수도 있고, 열쇠를 책상 위에 올려놓고 문을 닫을 수도 있습니다.
--   체크아웃 마감 시간은 출발 당일 오후 7시입니다.
+-   Der späteste Zeitpunkt für den Checkout ist am Abreisetag 19 Uhr.
 
 ## 청소
 
