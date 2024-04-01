@@ -90,7 +90,7 @@ Một câu nói cổ của người Đức áp dụng cho tất cả các loại
 
 1.  Đèn không sáng hoặc nhấp nháy dữ dội. Hãy sử dụng điều khiển từ xa nhỏ với các nút nhiều màu sắc.
 
-### Badezimmer
+### phòng tắm
 
 Bạn có thể sử dụng vòi hoa sen trong khi đứng. Sẽ không có vấn đề gì nếu mặt đất bị ướt một chút. Chỉ vặn nước 1/3 và treo thảm tắm lên trên lò sưởi cho khô.
 
