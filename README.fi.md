@@ -1,4 +1,4 @@
-# Tervetuloa
+# Tervetuloa The Boxiin
 
 Hei ja tervetuloa "Boksiin"! Kun matkustan, pidän myös AirBnB:ssä ja joskus toivon, että minulla olisi paperi, jossa on kaikki tarvittavat tiedot majoituksesta, sisään- ja uloskirjautumisesta, ja tämä on minun yritykseni tehdä siitä parempi.
 
@@ -41,7 +41,7 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Folgende Dinge stehen in der Küche zur Verfügung
+### Seuraavat asiat ovat saatavilla keittiössä
 
 1.  Lauma
 2.  Kattila
@@ -58,10 +58,10 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
     > "Tietokone, työpöytä ja"
 2.  Missä voin pestä? Tämä toimii vain kylpyhuoneessa. Astioiden pesua varten on erityinen astia.
 
-## Dein Zimmer
+## Huoneesi
 
 Patjat asetetaan päällekkäin vain säilytystä varten. Voit jakaa niitä tarpeidesi mukaan.
-Jos vaihdat sohvan tyynyt patjaan, se toimii hyvin sänkynä.
+Jos vaihdat sohvan tyynyt patjaan, siitä tulee hyvä sänky.
 
 ### Tietokoneen (iMac) kirjautumistiedot ovat
 
@@ -82,7 +82,7 @@ Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on par
 
 | Kuva                                                      | Kuvaus                                                                                                                                                                                                                                        |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Keijuvalot<br>C: Pöytälamppu<br>D: _tiedosto_<br>Mestari: Vaihda kaikki samaan aikaan                                                                                                                                   |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Keijuvalot<br>C: Pöytälamppu<br>D:_tiedosto_<br>Mestari: Vaihda kaikki samaan aikaan                                                                                                                                    |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Ennen kuin voit käyttää sitä, varmista, että sisäänkäynnin valokytkin on asennossa "on".**<br>Ensimmäinen rivi: kirkkaus, päällä/pois<br>Värilliset painikkeet: Voit muuttaa värejä tällä<br>Harmaat painikkeet: Vaihda tehosteiden välillä |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Tämä on tietokoneen (iMac) kaukosäädin._Käytä tietokonetta painamalla ensimmäisen kaukosäätimen A-painiketta. Se aktivoi tietokoneen ja Bluetooth-laitteen virtalähteen._                                                                     |
 
@@ -94,7 +94,7 @@ Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on par
 
 Voit käyttää suihkua seisten. Ei haittaa, jos maa hieman kastuu. Kytke vesi päälle vain 1/3 ja ripusta kylpymatto kuivumaan kiukaan päälle.
 
-Seinällä oleva Alexa on nimeltään "Computer", ja se soittaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
+Seinällä oleva Alexa on nimeltään "Computer" ja toistaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
 
 Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi niistä on sinun.
 
@@ -161,7 +161,7 @@ Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 
 # Pidempi oleskelu
 
-?> Manche meiner Gäste bleiben einen Monat, oder länger. Bist du auch einer von ihnen, dann ist dieser Abschnitt hier für Dich!
+?> Jotkut vieraistani viipyvät kuukauden tai pidempään. Jos olet yksi heistä, tämä osio on sinua varten!
 
 ## pesukone
 
@@ -173,7 +173,7 @@ Keittiöstä löytyy käsiharja ja seinälle sivellin. Tämä auttaa sinua pää
 
 ## Pyyhi
 
-Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppausta varten. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
+Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppaukseen. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
 
 ## Imuri
 
