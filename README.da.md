@@ -119,7 +119,7 @@ Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til
 
 ## Gården
 
-I vores gårdhave kan du tilslutte dine cykler og tage dit affald væk.
+In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
