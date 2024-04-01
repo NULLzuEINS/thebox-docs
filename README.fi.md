@@ -49,7 +49,7 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
 4.  Jääkaappi
 5.  Pizza uuni
 6.  Mineraalivesi
-7.  Kännykän latausasema hyllyssä
+7.  Handy-Aufladestation im Regal
 8.  pesukone
 
 ### FAQ - Keittiö
@@ -61,7 +61,7 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
 ## Huoneesi
 
 Patjat asetetaan päällekkäin vain säilytystä varten. Voit jakaa niitä tarpeidesi mukaan.
-Jos vaihdat sohvan tyynyt patjaan, siitä tulee hyvä sänky.
+Jos vaihdat sohvan tyynyt patjaan, se toimii hyvin sänkynä.
 
 ### Tietokoneen (iMac) kirjautumistiedot ovat
 
@@ -94,9 +94,9 @@ Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on par
 
 Voit käyttää suihkua seisten. Ei haittaa, jos maa hieman kastuu. Kytke vesi päälle vain 1/3 ja ripusta kylpymatto kuivumaan kiukaan päälle.
 
-Seinällä oleva Alexa on nimeltään "Computer" ja toistaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
+Seinällä oleva Alexa on nimeltään "Computer", ja se soittaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
 
-Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi osa siitä on sinun.
+Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi niistä on sinun.
 
 ### Käytävä
 
@@ -142,7 +142,7 @@ Jos uskot tilastoihin, Leipzigissä varastetaan vuosittain eniten polkupyöriä 
 
 ### Mitä vaihtoehtoja on olemassa?
 
-Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 minuutin kyytiä_Seuraavat pyörät_. Huomaa, että se maksaa enemmän, jos et pysäköi polkupyöriäsi pääkaduille (violetti kartalla). E-skootterit saa pysäköidä vain tietyille pysäköintipaikoille. Siellä on myös vapaasti kelluva autonjakojärjestelmä. Se tarkoittaa meidän kanssamme[cityflitzer](https://cityflitzer.de/). Ja tietysti on busseja ja junia, jotka voit maksaa myös Leipzig MOVE -sovelluksen kautta.
+Mit der [Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 minuutin kyytiä_Seuraavat pyörät_. Huomaa, että se maksaa enemmän, jos et pysäköi polkupyöriäsi pääkaduille (violetti kartalla). E-skootterit saa pysäköidä vain tietyille pysäköintipaikoille. Siellä on myös vapaasti kelluva autonjakojärjestelmä. Se tarkoittaa meidän kanssamme[cityflitzer](https://cityflitzer.de/). Ja tietysti on busseja ja junia, jotka voit maksaa myös Leipzig MOVE -sovelluksen kautta.
 
 # Tarkista
 
@@ -173,7 +173,7 @@ Keittiöstä löytyy käsiharja ja seinälle sivellin. Tämä auttaa sinua pää
 
 ## Pyyhi
 
-Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppaukseen. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
+Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppausta varten. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
 
 ## Imuri
 
