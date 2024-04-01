@@ -1,6 +1,6 @@
 # Добро пожаловать в коробку
 
-Здравствуйте и добро пожаловать в «Коробочку»! Когда я путешествую, мне также нравится останавливаться в AirBnB, и иногда мне хочется иметь лист бумаги со всей необходимой информацией о размещении, заселении и выезде, и это моя попытка сделать его лучше.
+Здравствуйте и добро пожаловать в «Коробку»! Когда я путешествую, мне также нравится останавливаться в AirBnB, и иногда мне хочется иметь лист бумаги со всей необходимой информацией о размещении, заселении и выезде, и это моя попытка сделать его лучше.
 
 > [!Уведомление]Я автоматически переведу документ на ваш язык. Надеюсь, это хоть немного понятно. Если нет, то смело напишите мне сообщение. Затем я пытаюсь улучшить его.
 
@@ -14,7 +14,7 @@
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Стол со светом                                                                         | Кухонная плита                                                                | Кухня - чай                                                                             |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Стол со светом                                                                         | Кухонная плита                                                                | Küche - Tee                                                                             |
+| Стол со светом                                                                         | Кухонная плита                                                                | Кухня - чай                                                                             |
 
 ## Ключ
 
@@ -109,7 +109,7 @@ Alexa на стене называется «Компьютер» и также 
 В ванной и на кухне есть голосовые помощники Alexa. Вы можете обратиться к ним по имени «Компьютер» и попросить их сыграть, например, в Deutschlandfunk Nova. Они понимают немецкий, а также английский. Если вы не хотите их использовать,
 Также можно просто отключить его от питания.
 
-In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
+В вашей комнате нет голосовых помощников. В корзине на полке лежат только роутер и небольшой компьютер.
 
 ## температура и влажность
 
@@ -123,9 +123,9 @@ In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
-### Как ворота открываются?
+### Как открываются ворота?
 
-Либо вы используете ключ от входной двери, либо протягиваете руку через ворота и чувствуете кнопку, открывающую дверь. Удерживая кнопку, вы можете открыть дверь.
+Либо вы используете ключ от входной двери, либо протягиваете руку через ворота и чувствуете кнопку, открывающую дверь. Пока вы удерживаете кнопку, вы можете открыть дверь.
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
@@ -165,7 +165,7 @@ In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal
 
 ## стиральная машина
 
-Du kannst die Waschmaschine mit benutzen ohne vorher fragen zu müssen. Du kannst auch den Wäscheständer, das Waschpulver und den Weichspüler benutzen. Falls Du neue Bettwäsche haben möchtest, sprich mich einfach an.
+Вы можете воспользоваться стиральной машиной, не спрашивая предварительно. Вы также можете использовать сушилку, стиральный порошок и кондиционер для белья. Если вам нужно новое постельное белье, просто поговорите со мной.
 
 ## Ручная щетка и совок
 
