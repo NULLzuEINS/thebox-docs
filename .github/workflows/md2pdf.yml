@@ -19,7 +19,6 @@ jobs:
           baseDir: "."
           convertedFiles: README
           cssFilePattern: "**.css"
-          gitActions: "true"
       - name: Upload PDF
         uses: actions/upload-artifact@v2
         with:
