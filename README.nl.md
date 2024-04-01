@@ -61,7 +61,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 ## Jouw kamer
 
 De matrassen worden uitsluitend voor opslagdoeleinden op elkaar geplaatst. U kunt ze verdelen volgens uw behoeften.
-Als je de kussens van de bank vervangt door een matras, ontstaat er een goed bed.
+Als je de kussens op de bank vervangt door een matras, functioneert deze prima als bed.
 
 ### De inloggegevens voor de computer (iMac) zijn
 
@@ -78,7 +78,7 @@ Passwort: thebox
 
 ### Afstandsbedieningen
 
-Für alle Fernbedienungen gilt ein altes deutsches Sprichwort: "Probieren geht über Studieren". Du kannst nichts kaputt machen. Drücke ein paar Knöpfe und schau was passiert. Falls Du dennoch studieren möchtest, habe hier die passenden Lektüre für Dich:
+Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter dan studeren”. Je kunt niets breken. Druk op een paar knoppen en kijk wat er gebeurt. Als je nog steeds wilt studeren, is hier de juiste lectuur voor jou:
 
 | Illustratie                                               | Beschrijving                                                                                                                                                                                                                                                          |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -106,8 +106,8 @@ U kunt uw schoenen hier achterlaten. Ik heb ook een klein notitieboekje op de pl
 
 ## Slimme woning
 
-Im Bad und in der Küche befinden sich Alexa Sprachassistenten. Du kannst sie mit dem Namen "Computer" ansprechen und Dir zum Beispiel Deutschlandfunk Nova spielen lassen. Sie verstehen Deutsch und auch Englisch. Wenn Du sie nicht nutzen möchtest, 
-kannst Du sie auch einfach vom Strom trennen.
+Er zijn Alexa-stemassistenten in de badkamer en keuken. Je kunt ze aanspreken met de naam “Computer” en ze bijvoorbeeld Deutschlandfunk Nova laten spelen. Ze begrijpen Duits en ook Engels. Als u ze niet wilt gebruiken,
+Je kunt hem ook eenvoudig loskoppelen van de stroom.
 
 Er zijn geen stemassistenten in uw kamer. In de mand op de plank bevinden zich alleen de router en een kleine computer.
 
@@ -167,7 +167,7 @@ Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten va
 
 U kunt de wasmachine gebruiken zonder dat u dit eerst hoeft te vragen. Ook kun je gebruik maken van het droogrek, waspoeder en wasverzachter. Wilt u nieuw beddengoed, neem dan contact met mij op.
 
-## Handborstel en blik
+## Handfeger und Kehrblech
 
 In de keuken vind je een handveger en een blik aan de muur. Dit zal je helpen om het kleine vuil te verwijderen.
 
@@ -206,4 +206,4 @@ André
 
 * * *
 
-_Gemaakt met ❤️ door [documenteren](https://docsify.js.org/)_
+_Made with ❤️ by  [documenteren](https://docsify.js.org/)_
