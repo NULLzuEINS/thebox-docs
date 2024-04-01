@@ -86,13 +86,13 @@ Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on par
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Ennen kuin voit käyttää sitä, varmista, että sisäänkäynnin valokytkin on asennossa "on".**<br>Ensimmäinen rivi: kirkkaus, päällä/pois<br>Värilliset painikkeet: Voit muuttaa värejä tällä<br>Harmaat painikkeet: Vaihda tehosteiden välillä |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Tämä on tietokoneen (iMac) kaukosäädin._Käytä tietokonetta painamalla ensimmäisen kaukosäätimen A-painiketta. Se aktivoi tietokoneen ja Bluetooth-laitteen virtalähteen._                                                                     |
 
-### FAQ - Oma huone
+### FAQ - Huoneesi
 
 1.  Valo ei syty tai vilkkuu villisti. Käytä pieniä kaukosäätimiä värikkäillä painikkeilla.
 
 ### kylpyhuone
 
-Voit käyttää suihkua seisten. Ei haittaa vaikka maa kastuu hieman. Kytke vesi päälle vain 1/3 ja ripusta kylpymatto kuivumaan kiukaan päälle.
+Voit käyttää suihkua seisten. Ei haittaa, jos maa hieman kastuu. Kytke vesi päälle vain 1/3 ja ripusta kylpymatto kuivumaan kiukaan päälle.
 
 Seinällä oleva Alexa on nimeltään "Computer", ja se soittaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
 
@@ -131,7 +131,7 @@ Joko käytät etuoven avainta tai kurkotat portin läpi ja tunnet oven avaavan p
 
 ### Keltainen? Sininen? Vihreä? Ruskea?
 
-Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan.
+Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan roskakoriin.
 
 ### Pyörät
 
@@ -157,7 +157,7 @@ Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 -   Pesen myös astiat ja
 -   Vien roskat myös pois.
 
-> Lyhyt versio: Jätä avain sinne, sulje ovi, se on siinä. 😀
+> Lyhyt versio: Jätä avain sinne, sulje ovi, siinä kaikki. 😀
 
 # Pidempi oleskelu
 
@@ -173,7 +173,7 @@ Keittiöstä löytyy käsiharja ja seinälle sivellin. Tämä auttaa sinua pää
 
 ## Pyyhi
 
-Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppaukseen. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
+Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppausta varten. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
 
 ## Imuri
 
