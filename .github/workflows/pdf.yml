@@ -89,16 +89,7 @@ jobs:
       - name: List files in release
         run: |
           ls -lisah Results
-      - name: Step 4. - Upload PDF as release asset
-        id: upload-release-asset-pdf
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_content_type: application/pdf
-          asset_name: ${{ env.THEBOX_FILENAME }}-de.pdf
-          asset_path: ./Results/${{ env.THEBOX_FILENAME }}.de.pdf
+
 
 
   upload:
@@ -107,11 +98,8 @@ jobs:
     needs:
       - release
     steps:
-        - name: Step 1.1 - Checkout sources
-          uses: actions/checkout@v2
         - name: Step 1.2 - Read dotenv vars
           uses: xom9ikk/dotenv@v2
-
         - name: Step 2.1 - Download pdf artifact
           uses: actions/download-artifact@v2
           with:
@@ -122,10 +110,19 @@ jobs:
           with:
             name: upload-url
             path: Results/upload-url.txt
-        - name: Step 3. - Set upload url
-          run: |
-            echo "UPLOAD_URL=$(cat Results/upload-url.txt)" >> $GITHUB_ENV
         - name: List files in release
           run: |
             ls -lisah Results
- 
+        - name: Step 3. - Set upload url
+          run: |
+            echo "UPLOAD_URL=$(cat Results/upload-url.txt)" >> $GITHUB_ENV
+        - name: Step 4. - Upload PDF as release asset
+          id: upload-release-asset-pdf
+          uses: actions/upload-release-asset@v1
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          with:
+            upload_url: ${{ steps.create_release.outputs.upload_url }}
+            asset_content_type: application/pdf
+            asset_name: ${{ env.THEBOX_FILENAME }}-de.pdf
+            asset_path: ./Results/${{ env.THEBOX_FILENAME }}.de.pdf
