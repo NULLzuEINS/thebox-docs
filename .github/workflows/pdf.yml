@@ -83,6 +83,9 @@ jobs:
 
   upload:
     name: upload to release ${{ github.ref_name }}
+    strategy:
+        matrix:
+          language: [de]  
     runs-on: ubuntu-latest
     needs:
       - release
@@ -91,7 +94,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Step 1.2 - Read dotenv vars
         uses: xom9ikk/dotenv@v2
-      - name: Step 2.1 - Download pdf artifact
+      - name: Step 2.1 - Download pdf artifact for ${{ matrix.language }}
         uses: actions/download-artifact@v2
         with:
           name: thebox-pdf-de
@@ -101,16 +104,13 @@ jobs:
         with:
           name: upload-url
           path: Assets/
-      - name: List files in release
-        run: |
-          ls -lisah Assets
       - name: Step 3. - Set upload url
         run: |
           echo "UPLOAD_URL=$(cat Assets/upload-url.txt)" >> $GITHUB_ENV
           cat Assets/upload-url.txt
           env
           echo ${{ env.UPLOAD_URL }}
-      - name: Step 4. - Upload PDF as release asset
+      - name: Step 4. - Upload PDF for ${{ matrix.language }} as release asset
         id: upload-release-asset-pdf
         uses: actions/upload-release-asset@v1
         env:
@@ -118,5 +118,5 @@ jobs:
         with:
           upload_url: ${{ env.UPLOAD_URL }}
           asset_content_type: application/pdf
-          asset_name: ${{ env.THEBOX_FILENAME }}-de.pdf
-          asset_path: ./Assets/${{ env.THEBOX_FILENAME }}.de.pdf
+          asset_name: ${{ env.THEBOX_FILENAME }}-${{ matrix.language }}.pdf
+          asset_path: ./Assets/${{ env.THEBOX_FILENAME }}.${{ matrix.language }}.pdf
