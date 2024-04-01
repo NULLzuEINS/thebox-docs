@@ -37,7 +37,7 @@ O escaneas este código QR, te conectará automáticamente a la red:
 
 ## Cocina
 
-Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
+Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunadamente, solo se puede lavar en el lavabo del baño. Pero hay un recipiente especial para lavar los platos.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -61,7 +61,7 @@ Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abw
 ## Tu cuarto
 
 Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades.
-Si reemplazas los cojines del sofá por un colchón, será una buena cama.
+Si reemplazas las almohadas del sofá por un colchón, funcionará bien como cama.
 
 ### Los detalles de inicio de sesión para la computadora (iMac) son
 
