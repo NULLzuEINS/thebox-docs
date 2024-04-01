@@ -49,7 +49,7 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
 4.  Jääkaappi
 5.  Pizza uuni
 6.  Mineraalivesi
-7.  Handy-Aufladestation im Regal
+7.  Kännykän latausasema hyllyssä
 8.  pesukone
 
 ### FAQ - Keittiö
@@ -142,7 +142,7 @@ Jos uskot tilastoihin, Leipzigissä varastetaan vuosittain eniten polkupyöriä 
 
 ### Mitä vaihtoehtoja on olemassa?
 
-Mit der [Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 minuutin kyytiä_Seuraavat pyörät_. Huomaa, että se maksaa enemmän, jos et pysäköi polkupyöriäsi pääkaduille (violetti kartalla). E-skootterit saa pysäköidä vain tietyille pysäköintipaikoille. Siellä on myös vapaasti kelluva autonjakojärjestelmä. Se tarkoittaa meidän kanssamme[cityflitzer](https://cityflitzer.de/). Ja tietysti on busseja ja junia, jotka voit maksaa myös Leipzig MOVE -sovelluksen kautta.
+Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 minuutin kyytiä_Seuraavat pyörät_. Huomaa, että se maksaa enemmän, jos et pysäköi polkupyöriäsi pääkaduille (violetti kartalla). E-skootterit saa pysäköidä vain tietyille pysäköintipaikoille. Siellä on myös vapaasti kelluva autonjakojärjestelmä. Se tarkoittaa meidän kanssamme[cityflitzer](https://cityflitzer.de/). Ja tietysti on busseja ja junia, jotka voit maksaa myös Leipzig MOVE -sovelluksen kautta.
 
 # Tarkista
 
