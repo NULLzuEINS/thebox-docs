@@ -78,6 +78,14 @@ jobs:
 
           draft: false
           prerelease: false
+      - name: Save upload URL for later use
+        run: echo "${{ steps.create_release.outputs.upload_url }}" > upload_url.txt
+      - name: Upload upload_url.txt as artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: upload-url
+          path: ./Results/upload-url.txt
+
       - name: List files in release
         run: |
           ls -lisah Results
@@ -89,6 +97,6 @@ jobs:
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_content_type: application/pdf
-          asset_name: ${{ env.THEBOX_FILENAME }}.de.pdf
+          asset_name: ${{ env.THEBOX_FILENAME }}-de.pdf
           asset_path: ./Results/${{ env.THEBOX_FILENAME }}.de.pdf
 
