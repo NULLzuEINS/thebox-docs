@@ -49,7 +49,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 4.  Refrigerador
 5.  Horno para Pizza
 6.  Agua mineral
-7.  Handy-Aufladestation im Regal
+7.  Estación de carga de teléfonos móviles en el estante.
 8.  lavadora
 
 ### Preguntas frecuentes - Cocina
@@ -142,7 +142,7 @@ Si nos fijamos en las estadísticas, en Leipzig se roban cada año el mayor núm
 
 ### ¿Qué alternativas hay?
 
-Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para el_Nextbikes_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[ciudadflitzer](https://cityflitzer.de/). Y, por supuesto, hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
+Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para el_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[ciudadflitzer](https://cityflitzer.de/). Y, por supuesto, hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
 
 # Verificar
 
@@ -201,8 +201,8 @@ Si tienes prisa, lo mejor es hacerlo por teléfono. <a href="tel:+491707353067"
 También puede utilizar la aplicación de mensajería preinstalada con funcionalidad limitada (SMS).
 De lo contrario, tengo una libreta y un bolígrafo en el pasillo.
 
-Ich wünsche einen schönen Aufenthalt in Leipzig!
-André
+¡Les deseo una agradable estancia en Leipzig!
+andré
 
 * * *
 
