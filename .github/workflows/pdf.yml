@@ -79,7 +79,7 @@ jobs:
           draft: false
           prerelease: false
       - name: Save upload URL for later use
-        run: echo "${{ steps.create_release.outputs.upload_url }}" > Results/upload_url.txt
+        run: echo "${{ steps.create_release.outputs.upload_url }}" > Results/upload-url.txt
       - name: Upload upload_url.txt as artifact
         uses: actions/upload-artifact@v2
         with:
