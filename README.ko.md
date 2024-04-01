@@ -1,4 +1,4 @@
-# 더박스에 오신 것을 환영합니다
+# Willkommen in TheBox
 
 안녕하세요, “Box”에 오신 것을 환영합니다! 여행할 때 에어비앤비에 머무르는 것도 좋아하는데 때로는 숙소, 체크인, 체크아웃에 대해 필요한 모든 정보가 적힌 종이가 있었으면 좋겠는데 이것이 더 나은 서비스를 제공하려는 시도입니다.
 
@@ -123,7 +123,7 @@ Passwort: thebox
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
-### 문은 어떻게 열리나요?
+### Wie geht das Tor auf?
 
 현관문 열쇠를 사용하거나, 대문을 통해 손을 뻗어 버튼을 눌러 문을 엽니다. 버튼을 누르고 있는 동안 문을 열 수 있습니다.
 
@@ -133,7 +133,7 @@ Passwort: thebox
 
 쓰레기통의 색깔이 왜 다른지 궁금하시죠? 확실하지 않은 경우에는 항상 녹색통에 쓰레기를 버리십시오. 남은 폐기물은 거기에 있습니다. 전문가들은 종이 쓰레기를 파란색 쓰레기통에, 재활용품을 노란색 쓰레기통에, 유기 폐기물을 갈색 쓰레기통에 넣습니다.
 
-### 사이클
+### Fahrräder
 
 ### 내 자전거는 안전한가요?
 
@@ -161,7 +161,7 @@ Passwort: thebox
 
 # 장기 체류
 
-?> Manche meiner Gäste bleiben einen Monat, oder länger. Bist du auch einer von ihnen, dann ist dieser Abschnitt hier für Dich!
+?> 내 손님 중에는 한 달 이상 머무르는 손님도 있습니다. 당신이 그들 중 하나라면, 이 섹션은 당신을 위한 것입니다!
 
 ## 세탁기
 
