@@ -90,7 +90,7 @@ Un vieux dicton allemand s’applique à toutes les télécommandes : « Mieux v
 
 1.  La lumière ne s'allume pas ou clignote énormément. Utilisez les petites télécommandes aux boutons colorés.
 
-### Badezimmer
+### salle de bain
 
 Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
