@@ -96,7 +96,7 @@ U kunt staand van de douche gebruik maken. Het is geen probleem als de grond een
 
 De Alexa aan de muur heet ‘Computer’ en speelt ook je favoriete muziek of radio af. Bijvoorbeeld "_Computer, speel Deutschlandfunk Nova_"
 
-Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén ervan is van jou.
+Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén stukje ervan is van jou.
 
 ### Gang
 
@@ -117,7 +117,7 @@ Via de sensoren worden de temperatuur en luchtvochtigheid automatisch gemeten. I
 
 ?> Zorg ervoor dat u regelmatig ventileert (minstens één keer per dag). Vooral in de badkamer. Zorg er ook voor dat de verwarming uitgeschakeld is. Bedankt 🙏
 
-## De tuin
+## Der Hof
 
 Op onze binnenplaats kunt u uw fietsen aansluiten en uw afval meenemen.
 
@@ -167,7 +167,7 @@ Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten va
 
 U kunt de wasmachine gebruiken zonder dat u dit eerst hoeft te vragen. Ook kun je gebruik maken van het droogrek, waspoeder en wasverzachter. Wilt u nieuw beddengoed, neem dan contact met mij op.
 
-## Handfeger und Kehrblech
+## Handborstel en blik
 
 In de keuken vind je een handveger en een blik aan de muur. Dit zal je helpen om het kleine vuil te verwijderen.
 
@@ -206,4 +206,4 @@ André
 
 * * *
 
-_Made with ❤️ by  [documenteren](https://docsify.js.org/)_
+_Gemaakt met ❤️ door [documenteren](https://docsify.js.org/)_
