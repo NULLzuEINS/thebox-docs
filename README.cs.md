@@ -189,8 +189,8 @@ Po dokončení jej vraťte zpět do nabíjecí stanice!
 # Tipy
 
 s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_.
-Všimněte si, že to stojí více, pokud nezaparkujete Raf na hlavních ulicích (na mapě fialová).
-Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech.
+Beachte, dass es mehr kostet, wenn man das Raf nicht an den großen Straßen (Auf der Karte Lila) abstellt.
+Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
 V aplikaci AirBnB mám uložené cestovní průvodce. Najdete tam moje doporučení na památky, bary a hospůdky, nákupní příležitosti a restaurace.
 
