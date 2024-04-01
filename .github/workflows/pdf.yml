@@ -70,12 +70,12 @@ jobs:
           draft: false
           prerelease: false
       - name: Save upload URL for later use
-        run: echo "${{ steps.create_release.outputs.upload_url }}" > Results/upload-url.txt
+        run: echo "${{ steps.create_release.outputs.upload_url }}" > upload-url.txt
       - name: Upload upload_url.txt as artifact
         uses: actions/upload-artifact@v2
         with:
           name: upload-url
-          path: ./Results/upload-url.txt
+          path: ./upload-url.txt
 
   upload:
     name: upload – ${{ github.ref_name }}
@@ -96,13 +96,13 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: upload-url
-          path: Results/upload-url.txt
+          path: upload-url.txt
       - name: List files in release
         run: |
-          ls -lisah Results
+          ls -lisah
       - name: Step 3. - Set upload url
         run: |
-          echo "UPLOAD_URL=$(cat Results/upload-url.txt)" >> $GITHUB_ENV
+          echo "UPLOAD_URL=$(cat upload-url.txt)" >> $GITHUB_ENV
       - name: Step 4. - Upload PDF as release asset
         id: upload-release-asset-pdf
         uses: actions/upload-release-asset@v1
