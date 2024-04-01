@@ -20,7 +20,7 @@ Op mijn AirBnB krijg je een gedetailleerd overzicht van alle kamers en de facili
 
 Je krijgt twee paar sleutels, elk met één sleutel voor de onderkant en één voor de bovenkant. Er zit ook een sleutel aan een sleutelhanger waarmee u uw kamer kunt afsluiten.
 
-## internet toegang
+## Internetzugang
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -61,7 +61,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 ## Jouw kamer
 
 De matrassen worden uitsluitend voor opslagdoeleinden op elkaar geplaatst. U kunt ze verdelen volgens uw behoeften.
-Als je de kussens op de bank vervangt door een matras, functioneert deze prima als bed.
+Als je de kussens van de bank vervangt door een matras, ontstaat er een goed bed.
 
 ### De inloggegevens voor de computer (iMac) zijn
 
@@ -96,7 +96,7 @@ U kunt staand van de douche gebruik maken. Het is geen probleem als de grond een
 
 De Alexa aan de muur heet ‘Computer’ en speelt ook je favoriete muziek of radio af. Bijvoorbeeld "_Computer, speel Deutschlandfunk Nova_"
 
-Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén ervan is van jou.
+Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén stukje ervan is van jou.
 
 ### Gang
 
@@ -109,7 +109,7 @@ U kunt uw schoenen hier achterlaten. Ik heb ook een klein notitieboekje op de pl
 Er zijn Alexa-stemassistenten in de badkamer en keuken. Je kunt ze aanspreken met de naam “Computer” en ze bijvoorbeeld Deutschlandfunk Nova laten spelen. Ze begrijpen Duits en ook Engels. Als u ze niet wilt gebruiken,
 Je kunt hem ook eenvoudig loskoppelen van de stroom.
 
-Er zijn geen stemassistenten in uw kamer. In de mand op de plank bevinden zich alleen de router en een kleine computer.
+In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
 
 ## temperatuur en vochtigheid
 
@@ -123,7 +123,7 @@ Op onze binnenplaats kunt u uw fietsen aansluiten en uw afval meenemen.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
-### Hoe gaat de poort open?
+### Wie geht das Tor auf?
 
 Of je gebruikt de sleutel van de voordeur, of je reikt door het hek en voelt aan de knop om de deur te openen. Terwijl u de knop ingedrukt houdt, kunt u de deur openen.
 
