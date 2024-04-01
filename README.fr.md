@@ -49,7 +49,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 4.  Réfrigérateur
 5.  Four à pizza
 6.  Eau minérale
-7.  Station de recharge de téléphone portable sur l'étagère
+7.  Station de recharge pour téléphone portable sur l'étagère
 8.  Machine à laver
 
 ### FAQ - Cuisine
@@ -61,7 +61,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 ## Ta chambre
 
 Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins.
-Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
+Si vous remplacez les oreillers du canapé par un matelas, celui-ci fera également office de lit.
 
 ### Les informations de connexion pour l'ordinateur (iMac) sont
 
@@ -78,7 +78,7 @@ Passwort: thebox
 
 ### Télécommandes
 
-Un vieux dicton allemand s'applique à toutes les télécommandes : « Mieux vaut essayer qu'étudier ». Vous ne pouvez rien casser. Appuyez sur quelques boutons et voyez ce qui se passe. Si vous souhaitez continuer à étudier, voici la lecture qui vous convient :
+Un vieux dicton allemand s’applique à toutes les télécommandes : « Mieux vaut essayer qu’étudier ». Vous ne pouvez rien casser. Appuyez sur quelques boutons et voyez ce qui se passe. Si vous souhaitez continuer à étudier, voici la lecture qui vous convient :
 
 | Illustration                                              | Description                                                                                                                                                                                                                                                                           |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -115,7 +115,7 @@ Il n'y a pas d'assistant vocal dans votre chambre. Le panier sur l'étagère con
 
 La température et l'humidité sont automatiquement mesurées via les capteurs. Je les utilise pour éviter la formation de moisissures. Ils sont petits et blancs et reposent généralement sur les encadrements de portes. Vous pouvez lire certaines données de mesure dans le miroir du couloir.
 
-?> Merci de veiller à aérer régulièrement (au moins une fois par jour). Surtout dans la salle de bain. Assurez-vous également que le chauffage est éteint. Merci 🙏
+?> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Achte dabei auch darauf, dass die Heizung abgestellt ist. Danke 🙏
 
 ## La Cour
 
