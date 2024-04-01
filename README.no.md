@@ -45,7 +45,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 1.  Flokk
 2.  Kjele
-3.  Geschirr, Besteck
+3.  Tallerkener bestikk
 4.  Kjøleskap
 5.  Pizzaovn
 6.  Mineralvann
@@ -60,8 +60,8 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 ## Rommet ditt
 
-Madrassene er plassert oppå hverandre kun for oppbevaringsformål. Du kan distribuere dem i henhold til dine behov.
-Bytter du ut putene på sofaen med en madrass, fungerer den fint som seng.
+Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem i henhold til dine behov.
+Bytter du ut putene på sofaen med en madrass, blir det en god seng.
 
 ### Påloggingsdetaljene for datamaskinen (iMac) er
 
@@ -80,11 +80,11 @@ Passwort: thebox
 
 Et gammelt tysk ordtak gjelder for alle fjernkontroller: «Å prøve er bedre enn å studere». Du kan ikke bryte noe. Trykk på noen få knapper og se hva som skjer. Hvis du fortsatt ønsker å studere, her er den rette lesestoffet for deg:
 
-| Illustrasjon                                              | Beskrivelse                                                                                                                                                                                                                             |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Skrivebordslampe<br>D:_fil_<br>Mester: Bytt alt på samme tid                                                                                                                                   |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Før du kan bruke den, sørg for at lysbryteren ved inngangen er satt til "på".**<br>Første linje: lysstyrke, på/av<br>Fargede knapper: Du kan bruke denne til å endre fargene<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Dette er fjernkontrollen til datamaskinen (iMac)._For å bruke datamaskinen, trykk på A-knappen på den første fjernkontrollen. Den aktiverer strømforsyningen til datamaskinen og Bluetooth-boksen._                                     |
+| Illustrasjon                                              | Beskrivelse                                                                                                                                                                                                               |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Skrivebordslampe<br>D:_fil_<br>Mester: Bytt alt på samme tid                                                                                                                     |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Før du kan bruke den, sørg for at lysbryteren ved inngangen er satt til "på".**<br>Første linje: lysstyrke, på/av<br>Fargede knapper: Du kan bruke denne til å endre fargene<br>Grå knapper: Bytt mellom ulike effekter |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Dette er fjernkontrollen til datamaskinen (iMac)._For å bruke datamaskinen, trykk på A-knappen på den første fjernkontrollen. Den aktiverer strømforsyningen til datamaskinen og Bluetooth-boksen._                       |
 
 ### FAQ - Rommet ditt
 
@@ -107,7 +107,7 @@ Du er velkommen til å legge igjen skoene dine her. Jeg har også en liten notis
 ## Smart hjem
 
 Det er Alexa stemmeassistenter på badet og kjøkkenet. Du kan adressere dem med navnet "Computer" og la dem spille Deutschlandfunk Nova, for eksempel. De forstår tysk og også engelsk. Hvis du ikke vil bruke dem,
-Du kan også enkelt koble den fra strømmen.
+Du kan også ganske enkelt koble den fra strømmen.
 
 Det er ingen stemmeassistenter på rommet ditt. Kurven på hyllen inneholder kun ruteren og en liten datamaskin.
 
@@ -138,7 +138,7 @@ Lurer du på hvorfor søppeldunkene har forskjellige farger? Hvis du er usikker,
 ### Er sykkelen min trygg?
 
 Leipzig er en veldig sykkelvennlig by. Gjennom den store byparken som deler byen i to halvdeler, kan du komme deg til mange steder og kjører vanligvis gjennom landsbygda.
-Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hvert år. (1 539 stjålne sykler per 100 000 innbyggere) I løpet av de 15 årene siden jeg har bodd her på Hardenbergstraße har jeg aldri fått stjålet en sykkel og jeg vet bare om en nabo som har fått sykkelen hans stjålet fra bakgården hans. Jeg kobler den alltid direkte til rekkverket.
+Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hvert år. (1 539 stjålne sykler per 100 000 innbyggere) I løpet av de 15 årene siden jeg har bodd her på Hardenbergstraße har jeg aldri fått stjålet en sykkel og jeg vet bare om en nabo som har fått sykkelen sin fra bakgården hans. Jeg kobler den alltid direkte til rekkverket.
 
 ### Hvilke alternativer finnes?
 
