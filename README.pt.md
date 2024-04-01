@@ -92,13 +92,13 @@ Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é mel
 
 ### banheiro
 
-Você pode usar o chuveiro em pé. Não importa se o chão fica um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
+Você pode usar o chuveiro em pé. Não há problema se o solo ficar um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
 
 A Alexa na parede atende pelo nome de “Computador” e também toca sua música ou rádio favorita. Por exemplo. "_Computador, jogue Deutschlandfunk Nova_"
 
-Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualquer lugar. Há uma prateleira na frente da porta do banheiro. Um pedaço dele é seu.
+Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualquer lugar. Há uma prateleira na frente da porta do banheiro. Um deles é seu.
 
-### Corredor
+### Flur
 
 Você está convidado a deixar seus sapatos aqui. Também tenho um pequeno bloco de notas na prateleira, caso você queira me contar alguma coisa.
 
@@ -161,13 +161,13 @@ Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viag
 
 # Estadia mais longa
 
-?> Alguns dos meus hóspedes ficam por um mês ou mais. Se você é um deles, esta seção é para você!
+?> Manche meiner Gäste bleiben einen Monat, oder länger. Bist du auch einer von ihnen, dann ist dieser Abschnitt hier für Dich!
 
 ## máquina de lavar
 
 Você pode usar a máquina de lavar sem precisar perguntar primeiro. Você também pode usar escorredor, sabão em pó e amaciante. Se quiser roupa de cama nova, é só falar comigo.
 
-## Escova manual e pá de lixo
+## Escova de mão e pá de lixo
 
 Na cozinha você encontrará uma escova manual e uma pá de lixo na parede. Isso ajudará você a se livrar da pequena sujeira.
 
