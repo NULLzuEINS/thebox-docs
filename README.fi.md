@@ -86,7 +86,7 @@ Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on par
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Ennen kuin voit käyttää sitä, varmista, että sisäänkäynnin valokytkin on asennossa "on".**<br>Ensimmäinen rivi: kirkkaus, päällä/pois<br>Värilliset painikkeet: Voit muuttaa värejä tällä<br>Harmaat painikkeet: Vaihda tehosteiden välillä |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Tämä on tietokoneen (iMac) kaukosäädin._Käytä tietokonetta painamalla ensimmäisen kaukosäätimen A-painiketta. Se aktivoi tietokoneen ja Bluetooth-laitteen virtalähteen._                                                                     |
 
-### FAQ - Huoneesi
+### FAQ - Oma huone
 
 1.  Valo ei syty tai vilkkuu villisti. Käytä pieniä kaukosäätimiä värikkäillä painikkeilla.
 
@@ -127,11 +127,11 @@ Pihallamme voit yhdistää pyöräsi ja viedä roskat.
 
 Joko käytät etuoven avainta tai kurkotat portin läpi ja tunnet oven avaavan painikkeen. Kun pidät painiketta painettuna, voit avata oven.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
+![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
 ### Keltainen? Sininen? Vihreä? Ruskea?
 
-Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan roskakoriin.
+Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan.
 
 ### Pyörät
 
@@ -157,7 +157,7 @@ Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 -   Pesen myös astiat ja
 -   Vien roskat myös pois.
 
-> Lyhyt versio: Jätä avain sinne, sulje ovi, siinä kaikki. 😀
+> Lyhyt versio: Jätä avain sinne, sulje ovi, se on siinä. 😀
 
 # Pidempi oleskelu
 
@@ -173,7 +173,7 @@ Keittiöstä löytyy käsiharja ja seinälle sivellin. Tämä auttaa sinua pää
 
 ## Pyyhi
 
-Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppausta varten. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
+Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppaukseen. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
 
 ## Imuri
 
