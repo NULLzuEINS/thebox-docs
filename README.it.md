@@ -76,7 +76,7 @@ Passwort: thebox
 2.  Computer e stampanti
 3.  Telecomandi per luci ed elettricità
 
-### Fernbedienungen
+### Controlli remoti
 
 Per tutti i telecomandi vale un vecchio detto tedesco: “Provare è meglio che studiare”. Non puoi rompere nulla. Premi alcuni pulsanti e guarda cosa succede. Se hai ancora voglia di studiare, ecco la lettura giusta per te:
 
@@ -107,7 +107,7 @@ Puoi lasciare le tue scarpe qui. Ho anche un piccolo blocco note sullo scaffale 
 ## Casa intelligente
 
 Sono presenti gli assistenti vocali Alexa in bagno e in cucina. Puoi chiamarli "Computer" e farli giocare, ad esempio, a Deutschlandfunk Nova. Capiscono il tedesco e anche l'inglese. Se non vuoi usarli,
-Puoi anche semplicemente scollegarlo dalla corrente.
+Puoi anche semplicemente scollegarlo dall'alimentazione.
 
 Non ci sono assistenti vocali nella tua stanza. Il cestino sullo scaffale contiene solo il router e un piccolo computer.
 
