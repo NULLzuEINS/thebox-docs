@@ -1,4 +1,4 @@
-# Bienvenido
+# Bienvenido a La Caja
 
 ¡Hola y bienvenidos a la “Caja”! Cuando viajo, también me gusta quedarme en AirBnB y a veces desearía tener un papel con toda la información necesaria sobre el alojamiento, check-in y check-out y este es mi intento de mejorarlo.
 
@@ -61,7 +61,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 ## Tu cuarto
 
 Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades.
-Si reemplazas las almohadas del sofá por un colchón, funcionará bien como cama.
+Si reemplazas los cojines del sofá por un colchón, será una buena cama.
 
 ### Los detalles de inicio de sesión para la computadora (iMac) son
 
@@ -106,7 +106,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 ## Casa inteligente
 
-Hay asistentes de voz Alexa en el baño y la cocina. Puede dirigirse a ellos con el nombre "Ordenador" y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Entienden alemán y también inglés. Si no quieres usarlos,
+Hay asistentes de voz Alexa en el baño y la cocina. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Entienden alemán y también inglés. Si no quieres usarlos,
 También puedes simplemente desconectarlo de la corriente.
 
 No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene el enrutador y una pequeña computadora.
@@ -142,7 +142,7 @@ Si nos fijamos en las estadísticas, en Leipzig se roban cada año el mayor núm
 
 ### ¿Qué alternativas hay?
 
-Con el[Leipzig MOVE App](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para el_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[ciudadflitzer](https://cityflitzer.de/). Y, por supuesto, hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
+Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para el_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[ciudadflitzer](https://cityflitzer.de/). Y, por supuesto, hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
 
 # Verificar
 
@@ -153,7 +153,7 @@ Con el[Leipzig MOVE App](https://leipzig-move.de/), obtienes 10 viajes gratis de
 
 ## limpieza
 
--   Bettzeug kannst Du drauf lassen.
+-   Puedes dejar ropa de cama encima.
 -   También lavo los platos y
 -   También saco la basura.
 
