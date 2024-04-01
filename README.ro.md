@@ -6,7 +6,7 @@ Bună ziua și bun venit în „Cutie”! Când călătoresc, îmi place și să
 
 ## Poze
 
-Pe AirBnB-ul meu primești o imagine de ansamblu detaliată a tuturor camerelor și facilităților. Iată doar o scurtă prezentare generală:
+Pe AirBnB-ul meu ai o imagine de ansamblu detaliată a tuturor camerelor și facilităților. Iată doar o scurtă prezentare generală:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -52,7 +52,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 7.  Stație de încărcare a telefonului mobil pe raft
 8.  mașină de spălat
 
-### Întrebări frecvente - Bucătărie
+### FAQ - Küche
 
 1.  Aragazul nu funcționează? spuneti va rog
     > „Computer, banc de lucru și”
@@ -61,7 +61,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 ## Camera dvs
 
 Saltelele sunt așezate una peste alta numai în scop de depozitare. Le poți distribui în funcție de nevoile tale.
-Dacă înlocuiți pernele de pe canapea cu o saltea, este un pat bun.
+Dacă înlocuiți pernele de pe canapea cu o saltea, aceasta funcționează bine ca un pat.
 
 ### Detaliile de conectare pentru computer (iMac) sunt
 
@@ -198,8 +198,8 @@ Am stocat ghiduri de călătorie în aplicația AirBnB. Acolo veți găsi recoma
 
 Dacă aveți întrebări sau aveți nevoie de asistență, vă voi ajuta cu plăcere.
 Dacă vă grăbiți, cel mai bine este să faceți acest lucru prin telefon <a href="tel:+491707353067">+49 170 73 53 067</a>.
-De asemenea, puteți utiliza aplicația de mesagerie preinstalată cu funcționalitate limitată (SMS).
-În rest, am un blocnotes și un pix pe hol.
+Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS).
+Ansonsten habe ich im Flur einen Notizblock und einen Stift.
 
 Vă doresc o ședere plăcută în Leipzig!
 Andre
