@@ -10,7 +10,7 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| One bed configuration with couch                                                       | Zwei-Bett-Konfiguration                                                       | Desk                                                                                    |
+| One bed configuration with couch                                                       | Two bed configuration                                                         | Desk                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -61,7 +61,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 ## Your room
 
 The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs.
-If you replace the pillows on the couch with a mattress, it works well as a bed.
+If you replace the cushions on the couch with a mattress, it makes a good bed.
 
 ### The login details for the computer (iMac) are
 
@@ -94,9 +94,9 @@ An old German saying applies to all remote controls: “Trying is better than st
 
 You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
-The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
+The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, spiele Deutschlandfunk Nova_"
 
-You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One of them is yours.
+You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One piece of it is yours.
 
 ### Hallway
 
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Made with ❤️ by  [docsify](https://docsify.js.org/)_
+_Made with ❤️ by [docsify](https://docsify.js.org/)_
