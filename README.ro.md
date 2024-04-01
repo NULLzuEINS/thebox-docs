@@ -80,11 +80,11 @@ Passwort: thebox
 
 O veche zicală germană se aplică tuturor telecomenzilor: „Este mai bine să încerci decât să studiezi”. Nu poți rupe nimic. Apăsați câteva butoane și vedeți ce se întâmplă. Dacă tot vrei să studiezi, iată lectura potrivită pentru tine:
 
-| Ilustrare                                                 | Descriere                                                                                                                                                                                                                                                                         |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Lumini de zâne<br>C: Lampă de birou<br>D:_fişier_<br>Maestrul: Schimbă totul în același timp                                                                                                                                                                |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Înainte de a-l putea folosi, asigurați-vă că întrerupătorul luminii de la intrare este setat pe „pornit”.**<br>Prima linie: luminozitate, pornit/oprit<br>Butoane colorate: Puteți utiliza acest lucru pentru a schimba culorile<br>Butoane gri: comutați între diferite efecte |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Aceasta este telecomanda pentru computer (iMac)._Pentru a utiliza computerul, apăsați butonul A de pe prima telecomandă. Activează sursa de alimentare pentru computer și cutia Bluetooth._                                                                                       |
+| Ilustrare                                                 | Descriere                                                                                                                                                                                                                                                                        |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Lumini de zâne<br>C: Lampă de birou<br>D:_fişier_<br>Maestrul: Schimbă totul în același timp                                                                                                                                                               |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Înainte de a-l putea folosi, asigurați-vă că întrerupătorul luminii de la intrare este setat pe „pornit”.**<br>Prima linie: luminozitate, pornit/oprit<br>Butoane colorate: puteți folosi acest lucru pentru a schimba culorile<br>Butoane gri: comutați între diferite efecte |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Aceasta este telecomanda pentru computer (iMac)._Pentru a utiliza computerul, apăsați butonul A de pe prima telecomandă. Activează sursa de alimentare pentru computer și cutia Bluetooth._                                                                                      |
 
 ### Întrebări frecvente - Camera dvs
 
@@ -92,15 +92,15 @@ O veche zicală germană se aplică tuturor telecomenzilor: „Este mai bine să
 
 ### baie
 
-Puteți folosi dușul în timp ce stați în picioare. Nu contează dacă pământul se udă puțin. Dați apa doar 1/3 și atârnă covorașul de baie peste încălzitor pentru a se usuca.
+Puteți folosi dușul în timp ce stați în picioare. Nu este o problemă dacă pământul se udă puțin. Dați apa doar 1/3 și atârnă covorașul de baie peste încălzitor pentru a se usuca.
 
 Alexa de pe perete poartă numele „Computer” și redă, de asemenea, muzica sau radioul preferat. De exemplu. "_Computer, joacă Deutschlandfunk Nova_"
 
-Puteți agăța prosoape de toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. O bucată din ea este a ta.
+Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. Unul dintre ei este al tău.
 
 ### Holul
 
-Ești binevenit să-ți lași pantofii aici. Am și un mic bloc de note pe raft în caz că vrei să-mi spui ceva.
+Ești binevenit să-ți lași pantofii aici. Am și un mic blocnotes pe raft în caz că vrei să-mi spui ceva.
 
 # Diverse
 
@@ -167,7 +167,7 @@ Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratui
 
 Puteți folosi mașina de spălat fără a fi nevoie să întrebați mai întâi. De asemenea, puteți utiliza suportul de uscare, praful de spălat și balsam de rufe. Dacă vrei lenjerie de pat nouă, vorbește cu mine.
 
-## Perie de mână și recipient pentru praf
+## Perie de mână și paletă de praf
 
 În bucătărie veți găsi o perie de mână și o cutie de praf pe perete. Acest lucru vă va ajuta să scăpați de murdăria mică.
 
@@ -201,7 +201,7 @@ Dacă vă grăbiți, cel mai bine este să faceți acest lucru prin telefon <a 
 De asemenea, puteți utiliza aplicația de mesagerie preinstalată cu funcționalitate limitată (SMS).
 În rest, am un blocnotes și un pix pe hol.
 
-Vă doresc un sejur plăcut în Leipzig!
+Vă doresc o ședere plăcută în Leipzig!
 Andre
 
 * * *
