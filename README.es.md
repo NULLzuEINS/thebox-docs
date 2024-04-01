@@ -61,7 +61,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 ## Tu cuarto
 
 Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades.
-Si reemplazas las almohadas del sofá por un colchón, funcionará bien como cama.
+Si reemplazas los cojines del sofá por un colchón, será una buena cama.
 
 ### Los detalles de inicio de sesión para la computadora (iMac) son
 
@@ -125,7 +125,7 @@ En nuestro patio podréis conectar vuestras bicicletas y retirar la basura.
 
 ### ¿Cómo se abre la puerta?
 
-Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
+O usas la llave de la puerta principal o cruzas la puerta y sientes el botón para abrir la puerta. Mientras mantienes pulsado el botón podrás abrir la puerta.
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
