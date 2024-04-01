@@ -37,7 +37,7 @@ Passwort: landungsbruecken
 
 ## रसोईघर
 
-चूँकि मैं आमतौर पर अपने परिवार के साथ नीचे खाना खाता हूँ, रसोई बहुत संयमित है। दुर्भाग्य से, धुलाई केवल बाथरूम के सिंक में ही की जा सकती है। लेकिन धोने के लिए एक विशेष कंटेनर होता है।
+Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -74,7 +74,7 @@ Passwort: thebox
 
 1.  सभी फर्नीचर और बिस्तर
 2.  कंप्यूटर और प्रिंटर
-3.  रोशनी और बिजली के लिए रिमोट कंट्रोल
+3.  Fernbedienungen für Licht und Strom
 
 ### रिमोट कंट्रोल्स
 
@@ -153,7 +153,7 @@ Passwort: thebox
 
 ## सफाई
 
--   आप इस पर बिस्तर छोड़ सकते हैं।
+-   Bettzeug kannst Du drauf lassen.
 -   मैं बर्तन भी धोता हूं और
 -   मैं कूड़ा भी बाहर निकालता हूं.
 
