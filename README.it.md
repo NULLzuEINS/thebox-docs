@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Oppure scansiona questo codice QR, ti collegherà automaticamente alla rete:
+Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -188,7 +188,7 @@ Una volta terminato, rimettilo nella stazione di ricarica!
 
 # Suggerimenti
 
-Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_.
+Mit der [App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_.
 Tieni presente che costa di più se non parcheggi il Raf nelle strade principali (viola sulla mappa).
 Gli e-scooter possono essere parcheggiati solo in determinati parcheggi.
 
