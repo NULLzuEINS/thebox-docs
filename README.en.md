@@ -56,7 +56,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 1.  Stove not working? please say
     > "Computer, Workbench an"
-2.  Where can I wash up? This only works in the bathroom. There is a special container for washing dishes.
+2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
 
 ## Your room
 
@@ -80,11 +80,11 @@ Passwort: thebox
 
 An old German saying applies to all remote controls: “Trying is better than studying”. You can't break anything. Press a few buttons and see what happens. If you still want to study, here is the right reading for you:
 
-| Illustration                                              | Description                                                                                                                                                                                                                                       |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Desk lamp<br>D:_file_<br>Master: Switch everything at the same time                                                                                                                                      |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Bevor du es benutzen kannst, stell sicher, dass der Lichtschalter an am Eingang auf "an" steht.**<br>First line: brightness, on/off<br>Colored buttons: You can use this to change the colors<br>Gray buttons: Switch between different effects |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | This is the remote control for the computer (iMac)._To use the computer, press the A button on the first remote control. It activates the power supply for the computer and the Bluetooth box._                                                   |
+| Illustration                                              | Description                                                                                                                                                                                                                         |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Desk lamp<br>D:_file_<br>Master: Switch everything at the same time                                                                                                                        |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Before you can use it, make sure the light switch at the entrance is set to "on".**<br>First line: brightness, on/off<br>Colored buttons: You can use this to change the colors<br>Gray buttons: Switch between different effects |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | This is the remote control for the computer (iMac)._To use the computer, press the A button on the first remote control. It activates the power supply for the computer and the Bluetooth box._                                     |
 
 ### FAQ - Your room
 
@@ -92,11 +92,11 @@ An old German saying applies to all remote controls: “Trying is better than st
 
 ### bathroom
 
-You can use the shower while standing. It doesn't matter if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
+You can use the shower while standing. It's not a problem if the ground gets a little wet. Only turn the water on 1/3 and hang the bath mat over the heater to dry.
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
-You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One piece of it is yours.
+You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One of them is yours.
 
 ### Hallway
 
