@@ -6,7 +6,7 @@ Merhaba ve “Kutu”ya hoş geldiniz! Seyahat ederken AirBnB'lerde kalmayı da 
 
 ## Resimler
 
-AirBnB'mde tüm odalara ve olanaklara ilişkin ayrıntılı bir genel bakış bulacaksınız. İşte kısa bir genel bakış:
+Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -94,7 +94,7 @@ Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek �
 
 Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması sorun değil. Suyu yalnızca 1/3 oranında açın ve banyo paspasını kuruması için ısıtıcının üzerine asın.
 
-Duvardaki Alexa "Bilgisayar" adını alır ve aynı zamanda en sevdiğiniz müziği veya radyoyu da çalar. Örneğin. "_Computer, spiele Deutschlandfunk Nova_"
+Duvardaki Alexa "Bilgisayar" adını alır ve aynı zamanda en sevdiğiniz müziği veya radyoyu da çalar. Örneğin. "_Bilgisayar, Deutschlandfunk Nova'yı oyna_"
 
 Tüm kancalara havlu asabilir, eşyalarınızı istediğiniz yere koyabilirsiniz. Banyo kapısının önünde raf bulunmaktadır. Bir parçası senin.
 
@@ -119,7 +119,7 @@ Sıcaklık ve nem sensörler aracılığıyla otomatik olarak ölçülür. Küf 
 
 ## Yarda
 
-Avlumuzda bisikletlerinizi bağlayabilir ve çöplerinizi atabilirsiniz.
+In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
