@@ -6,11 +6,11 @@ Bună ziua și bun venit în „Cutie”! Când călătoresc, îmi place și să
 
 ## Poze
 
-Pe AirBnB-ul meu ai o imagine de ansamblu detaliată a tuturor camerelor și facilităților. Iată doar o scurtă prezentare generală:
+Pe AirBnB-ul meu primești o imagine de ansamblu detaliată a tuturor camerelor și facilităților. Iată doar o scurtă prezentare generală:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Configurație cu un pat cu canapea                                                      | Configurație cu două paturi                                                   | Birou                                                                                   |
+| Configurație cu un pat cu canapea                                                      | Zwei-Bett-Konfiguration                                                       | Birou                                                                                   |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Bucătărie - ceai                                                                        |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -61,7 +61,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 ## Camera dvs
 
 Saltelele sunt așezate una peste alta numai în scop de depozitare. Le poți distribui în funcție de nevoile tale.
-Dacă înlocuiți pernele de pe canapea cu o saltea, aceasta funcționează bine ca un pat.
+Dacă înlocuiți pernele de pe canapea cu o saltea, este un pat bun.
 
 ### Detaliile de conectare pentru computer (iMac) sunt
 
@@ -142,7 +142,7 @@ Dacă credeți statisticile, atunci cele mai multe biciclete pe cap de locuitor 
 
 ### Ce alternative există?
 
-Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratuite a câte 15 minute fiecare pentru_Nextbikes_. Rețineți că costă mai mult dacă nu vă parcați bicicletele pe străzile principale (violet pe hartă). Trotinetele electrice pot fi parcate numai în anumite locuri de parcare. Există, de asemenea, un sistem de partajare a mașinii. Asta înseamnă cu noi[cityflitzer](https://cityflitzer.de/). Și, desigur, există autobuze și trenuri pe care le puteți plăti și prin aplicația Leipzig MOVE.
+Mit der [Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratuite a câte 15 minute fiecare pentru_Nextbikes_. Rețineți că costă mai mult dacă nu vă parcați bicicletele pe străzile principale (violet pe hartă). Trotinetele electrice pot fi parcate numai în anumite locuri de parcare. Există, de asemenea, un sistem de partajare a mașinii. Asta înseamnă cu noi[cityflitzer](https://cityflitzer.de/). Și, desigur, există autobuze și trenuri pe care le puteți plăti și prin aplicația Leipzig MOVE.
 
 # Verifică
 
@@ -167,7 +167,7 @@ Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratui
 
 Puteți folosi mașina de spălat fără a fi nevoie să întrebați mai întâi. De asemenea, puteți utiliza suportul de uscare, praful de spălat și balsam de rufe. Dacă vrei lenjerie de pat nouă, vorbește cu mine.
 
-## Perie de mână și paletă de praf
+## Handfeger und Kehrblech
 
 În bucătărie veți găsi o perie de mână și o cutie de praf pe perete. Acest lucru vă va ajuta să scăpați de murdăria mică.
 
@@ -188,7 +188,7 @@ Când este terminat, vă rugăm să îl puneți înapoi în stația de încărca
 
 # sfaturi
 
-Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die _Nextbikes_.
+Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratuite a câte 15 minute fiecare pentru_Nextbikes_.
 Rețineți că costă mai mult dacă nu parcați Raf-ul pe străzile principale (violet pe hartă).
 Trotinetele electrice pot fi parcate numai în anumite locuri de parcare.
 
@@ -201,8 +201,8 @@ Dacă vă grăbiți, cel mai bine este să faceți acest lucru prin telefon <a 
 De asemenea, puteți utiliza aplicația de mesagerie preinstalată cu funcționalitate limitată (SMS).
 În rest, am un blocnotes și un pix pe hol.
 
-Ich wünsche einen schönen Aufenthalt in Leipzig!
-André
+Vă doresc o ședere plăcută în Leipzig!
+Andre
 
 * * *
 
