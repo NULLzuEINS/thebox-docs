@@ -129,7 +129,7 @@ Of je gebruikt de sleutel van de voordeur, of je reikt door het hek en voelt aan
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
-### Gelb? Blau? Grün? Braun?
+### Geel? Blauw? Groente? Bruin?
 
 Vraag je je af waarom de vuilnisbakken verschillende kleuren hebben? Als u het niet zeker weet, deponeer het afval dan altijd in de groene bak. Daarin komt het restafval terecht. Professionals gooien papierafval in de blauwe bak, recyclebaar afval in de gele bak en organisch afval in de bruine bak.
 
