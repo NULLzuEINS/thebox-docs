@@ -10,7 +10,7 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| One bed configuration with couch                                                       | Two bed configuration                                                         | Desk                                                                                    |
+| One bed configuration with couch                                                       | Zwei-Bett-Konfiguration                                                       | Desk                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -52,7 +52,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 7.  Cell phone charging station on the shelf
 8.  washing machine
 
-### FAQ - Küche
+### FAQ - Kitchen
 
 1.  Stove not working? please say
     > "Computer, Workbench an"
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Made with ❤️ by [docsify](https://docsify.js.org/)_
+_Made with ❤️ by  [docsify](https://docsify.js.org/)_
