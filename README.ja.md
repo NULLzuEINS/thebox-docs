@@ -165,7 +165,7 @@ Passwort: thebox
 
 ## 洗濯機
 
-事前に連絡しなくても洗濯機を使用できます。乾燥ラック、洗剤、柔軟剤も使用できます。新しいベッドリネンが必要な場合は、私に話しかけてください。
+Du kannst die Waschmaschine mit benutzen ohne vorher fragen zu müssen. Du kannst auch den Wäscheständer, das Waschpulver und den Weichspüler benutzen. Falls Du neue Bettwäsche haben möchtest, sprich mich einfach an.
 
 ## ハンドブラシとちりとり
 
