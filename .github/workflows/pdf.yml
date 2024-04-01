@@ -46,12 +46,12 @@ jobs:
       - name: Step 1.2 - Read dotenv vars
         uses: xom9ikk/dotenv@v2
 
-      - name: Step 2.1 Download pdf artifact
+      - name: Step 2. - Download pdf artifact
         uses: actions/download-artifact@v2
         with:
           name: thebox-pdf-de
           path: thebox.de.pdf
-      - name: Step 3. Create Release
+      - name: Step 3. - Create Release
         id: create_release
         uses: actions/create-release@v1
         env:
@@ -74,14 +74,14 @@ jobs:
           draft: false
           prerelease: false
 
-      - name: Step 4 Upload PDF as Release Asset
+      - name: Step 4. - Upload PDF as release asset
         id: upload-release-asset-pdf
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./${{ env.THEBOX_FILENAME }}.de.pdf
-          asset_name: ${{ env.THEBOX_FILENAME }}.de.pdf
           asset_content_type: application/pdf
+          asset_name: ${{ env.THEBOX_FILENAME }}.de.pdf
+          asset_path: ./${{ env.THEBOX_FILENAME }}.de.pdf
 
