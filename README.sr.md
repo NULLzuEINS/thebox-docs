@@ -12,7 +12,7 @@
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Једнокреветна конфигурација са каучем                                                  | Двокреветна конфигурација                                                     | Радни сто                                                                               |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Schreibtisch mit Licht                                                                 | Кухиња - шпорет                                                               | Кухиња - чај                                                                            |
+| Радни сто са светлом                                                                   | Кухиња - шпорет                                                               | Кухиња - чај                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Радни сто са светлом                                                                   | Кухиња - шпорет                                                               | Кухиња - чај                                                                            |
 
@@ -88,13 +88,13 @@ Passwort: thebox
 
 ### ФАК - Ваша соба
 
-1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
+1.  Лампица се не пали или јако трепери. Користите мале даљинске управљаче са шареним дугмадима.
 
 ### купатило
 
 Можете користити туш док стојите. Није проблем ако се земља мало навлажи. Укључите воду само за 1/3 и окачите простирку за купање преко грејача да се осуши.
 
-Die Alexa an der Wand hört auf den Namen "Computer" und spielt dir auch Deine Lieblingsmusik oder Radio. Z. B. "_Компјутер, играј Деутсцхландфунк Нова_"
+Алека на зиду носи назив „Рачунар“ и такође пушта вашу омиљену музику или радио. На пример. "_Компјутер, играј Деутсцхландфунк Нова_"
 
 Можете окачити пешкире на све куке и ставити своје ствари било где. Испред врата купатила је полица. Један од њих је твој.
 
@@ -173,7 +173,7 @@ Die Alexa an der Wand hört auf den Namen "Computer" und spielt dir auch Deine L
 
 ## Обришите
 
-Зелено средство за чишћење можете пронаћи у боци са распршивачем у купатилу за брисање. Заједно са кухињским папиром, ово се може користити за лако чишћење површина.
+Zum Wischen findest du im Bad grünes Reinigungsmittel in einer Sprühflasche. Zusammen mit dem Küchenpapier lassen sich hiermit Oberflächen gut säubern.
 
 ## УСИСИВАЧ
 
