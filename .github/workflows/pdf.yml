@@ -122,6 +122,9 @@ jobs:
           with:
             name: upload-url
             path: Results/upload-url.txt
+        - name: Step 3. - Set upload url
+          run: |
+            echo "UPLOAD_URL=$(cat Results/upload-url.txt)" >> $GITHUB_ENV
         - name: List files in release
           run: |
             ls -lisah Results
