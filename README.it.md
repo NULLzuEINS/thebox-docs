@@ -6,7 +6,7 @@ Ciao e benvenuto nel “Box”! Quando viaggio, mi piace anche soggiornare negli
 
 ## Immagini
 
-Sul mio AirBnB hai una panoramica dettagliata di tutte le camere e dei servizi. Ecco solo una breve panoramica:
+Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -61,7 +61,7 @@ Dato che di solito mangio al piano di sotto con la mia famiglia, la cucina è mo
 ## La vostra stanza
 
 I materassi sono posizionati uno sopra l'altro solo a scopo di stoccaggio. Puoi distribuirli in base alle tue esigenze.
-Se sostituisci i cuscini del divano con un materasso, diventa un buon letto.
+Se sostituisci i cuscini del divano con un materasso, funziona bene come letto.
 
 ### I dettagli di accesso per il computer (iMac) sono
 
@@ -82,7 +82,7 @@ Per tutti i telecomandi vale un vecchio detto tedesco: “Provare è meglio che 
 
 | Illustrazione                                             | Descrizione                                                                                                                                                                                                                                              |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Scatola Bluetooth<br>B: Lucine<br>C: Lampada da scrivania<br>D:_file_<br>Maestro: Cambia tutto allo stesso tempo                                                                                                                                      |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Lucine<br>C: Lampada da scrivania<br>D:_leer_<br>Maestro: Cambia tutto allo stesso tempo                                                                                                                                           |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Prima di poterlo utilizzare, assicurati che l'interruttore della luce all'ingresso sia impostato su "on".**<br>Prima riga: luminosità, on/off<br>Pulsanti colorati: puoi usarli per cambiare i colori<br>Pulsanti grigi: passa da un effetto all'altro |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Questo è il telecomando del computer (iMac)._Per utilizzare il computer, premere il pulsante A sul primo telecomando. Attiva l'alimentazione del computer e del box Bluetooth._                                                                          |
 
@@ -96,7 +96,7 @@ Puoi usare la doccia stando in piedi. Non è un problema se il terreno si bagna 
 
 L'Alexa sul muro si chiama "Computer" e riproduce anche la tua musica o radio preferita. Per esempio. "_Computer, riproduci Deutschlandfunk Nova_"
 
-Puoi appendere gli asciugamani a tutti i ganci e riporre le tue cose ovunque. C'è uno scaffale davanti alla porta del bagno. Un pezzo è tuo.
+Puoi appendere gli asciugamani a tutti i ganci e riporre le tue cose ovunque. C'è uno scaffale davanti alla porta del bagno. Uno di questi è tuo.
 
 ### Corridoio
 
@@ -131,7 +131,7 @@ O usi la chiave della porta d'ingresso, oppure raggiungi il cancello e senti il 
 
 ### Giallo? Blu? Verde? Marrone?
 
-Ti stai chiedendo perché i bidoni della spazzatura hanno colori diversi? Se non sei sicuro, getta sempre la spazzatura nel cestino verde. I rifiuti residui finiscono lì. I professionisti mettono la carta nel contenitore blu, i materiali riciclabili nel contenitore giallo e i rifiuti organici nel contenitore marrone.
+Ti stai chiedendo perché i bidoni della spazzatura hanno colori diversi? Se non sei sicuro, getta sempre la spazzatura nel cestino verde. I rifiuti residui finiscono lì. I professionisti mettono i rifiuti cartacei nel contenitore blu, i materiali riciclabili nel contenitore giallo e i rifiuti organici nel contenitore marrone.
 
 ### Cicli
 
@@ -142,7 +142,7 @@ Secondo le statistiche, ogni anno a Lipsia viene rubata la maggior parte delle b
 
 ### Quali alternative ci sono?
 
-Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_. Tieni presente che costa di più se non parcheggi le bici nelle strade principali (viola sulla mappa). Gli e-scooter possono essere parcheggiati solo in determinati parcheggi. Esiste anche un sistema di car sharing a flusso libero. Ciò significa con noi[cityflitzer](https://cityflitzer.de/). E naturalmente ci sono autobus e treni che potete pagare anche tramite l'app Leipzig MOVE.
+Con il[Leipzig MOVE App](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_. Tieni presente che costa di più se non parcheggi le bici nelle strade principali (viola sulla mappa). Gli e-scooter possono essere parcheggiati solo in determinati parcheggi. Esiste anche un sistema di car sharing a flusso libero. Ciò significa con noi[cityflitzer](https://cityflitzer.de/). E naturalmente ci sono autobus e treni che potete pagare anche tramite l'app Leipzig MOVE.
 
 # Guardare
 
