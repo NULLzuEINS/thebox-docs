@@ -82,7 +82,7 @@ Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre
 
 | Illustration                                              | Beskrivning                                                                                                                                                                                                                                |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Skrivbordslampa<br>D:_fil_<br>Mästare: Byt allt på samma gång                                                                                                                                     |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | S: Bluetoothbox<br>B: Fairy lights<br>C: Skrivbordslampa<br>D:_fil_<br>Mästare: Byt allt på samma gång                                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Innan du kan använda den, se till att ljusströmbrytaren vid entrén är inställd på "på".**<br>Första raden: ljusstyrka, på/av<br>Färgade knappar: Du kan använda detta för att ändra färgerna<br>Grå knappar: Växla mellan olika effekter |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Detta är fjärrkontrollen till datorn (iMac)._För att använda datorn, tryck på A-knappen på den första fjärrkontrollen. Den aktiverar strömförsörjningen till datorn och Bluetooth-boxen._                                                  |
 
@@ -131,7 +131,7 @@ Antingen använder du nyckeln till ytterdörren eller så sträcker du dig genom
 
 ### Gul? Blå? Grön? Brun?
 
-Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i den bruna soptunnan.
+Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i det bruna kärlet.
 
 ### Cyklar
 
