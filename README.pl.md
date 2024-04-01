@@ -1,6 +1,6 @@
 # Witamy w Pudełku
 
-Witamy w „Boxie”! Kiedy podróżuję, lubię też nocować w AirBnB i czasami żałuję, że nie mam kartki papieru ze wszystkimi niezbędnymi informacjami na temat zakwaterowania, zameldowania i wymeldowania, i to jest moja próba ulepszenia tego.
+Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
 
 > [!Uwaga]Dokument zostanie automatycznie przetłumaczony na Twój język. Mam nadzieję, że jest to w miarę zrozumiałe. Jeśli nie, śmiało napisz do mnie wiadomość. Potem próbuję to poprawić.
 
@@ -96,7 +96,7 @@ Z prysznica można korzystać na stojąco. Nie stanowi to problemu, jeśli ziemi
 
 Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Komputerze, włącz Deutschlandfunk Nova_"
 
-Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jeden z nich jest Twój.
+Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jedna jego część jest Twoja.
 
 ### Korytarz
 
