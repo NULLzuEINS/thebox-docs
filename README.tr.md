@@ -1,4 +1,4 @@
-# The Box'a hoş geldiniz
+# Willkommen in TheBox
 
 Merhaba ve “Kutu”ya hoş geldiniz! Seyahat ederken AirBnB'lerde kalmayı da severim ve bazen konaklama, giriş ve çıkış hakkında gerekli tüm bilgileri içeren bir kağıt parçasına sahip olmayı dilerdim ve bu benim bunu daha iyi hale getirme girişimimdir.
 
@@ -63,7 +63,7 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz.
 Kanepedeki yastıkları şilteyle değiştirirseniz yatak olarak işe yarar.
 
-### Bilgisayarın (iMac) oturum açma ayrıntıları şunlardır:
+### Die Zugangsdaten für den Computer (iMac) sind
 
 ```txt
 Nutzer:   thebox
@@ -113,13 +113,13 @@ Odanızda sesli asistan yok. Raftaki sepette yalnızca yönlendirici ve küçük
 
 ## sıcaklık ve nem
 
-Sıcaklık ve nem sensörler aracılığıyla otomatik olarak ölçülür. Küf oluşumunu engellemek için kullanıyorum. Küçük ve beyazdırlar ve genellikle kapı çerçevelerinde bulunurlar. Ölçüm verilerinin bir kısmını koridordaki aynada okuyabilirsiniz.
+Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst Du im Spiegel im Flur ablesen.
 
 ?> Lütfen düzenli olarak (günde en az bir kez) havalandırmaya dikkat edin. Özellikle banyoda. Ayrıca ısıtmanın kapalı olduğundan emin olun. Teşekkür ederim 🙏
 
 ## Yarda
 
-Avlumuzda bisikletlerinizi bağlayabilir ve çöplerinizi atabilirsiniz.
+In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
@@ -142,7 +142,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 ### Hangi alternatifler var?
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden. Es gibt auch ein Free-Float-Car-Shairing-System. Das heißt bei uns [Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
 
 # Çıkış yapmak
 
@@ -169,7 +169,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 ## El fırçası ve faraş
 
-Mutfakta duvarda bir el fırçası ve faraş bulacaksınız. Bu, küçük kirlerden kurtulmanıza yardımcı olacaktır.
+In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Damit bekommst du den kleinen Dreck weg.
 
 ## Silip süpürmek
 
@@ -196,8 +196,8 @@ Seyahat rehberlerini AirBnB uygulamasında sakladım. Orada turistik yerler, bar
 
 # Sorunuz mu var?
 
-Herhangi bir sorunuz varsa veya desteğe ihtiyacınız varsa, size yardımcı olmaktan memnuniyet duyarım.
-Aceleniz varsa bunu telefonla yapmak en iyisidir. <a href="tel:+491707353067">+49 170 73 53 067</a>.
+Wenn Du Fragen hast, oder Unterstützung benötigt, stehe ich dir gern zur Verfügung.
+Wenn es eilig ist, dann besten via Telefon <a href="tel:+491707353067">+49 170 73 53 067</a>.
 Sınırlı işlevselliğe (SMS) sahip, önceden yüklenmiş mesajlaşma uygulamasını da kullanabilirsiniz.
 Aksi takdirde koridorda bir not defterim ve bir kalemim var.
 
