@@ -16,7 +16,7 @@ Minu AirBnB-s saate üksikasjaliku ülevaate kõigist tubadest ja mugavustest. S
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Valgustiga kirjutuslaud                                                                | Köök - pliit                                                                  | Köök - tee                                                                              |
 
-## Võti
+## võti
 
 Saate kaks paari võtmeid, millest igaühel on üks võti alumise ja üks ülemise jaoks. Võtmehoidjal on ka võti, millega saad oma toa lukustada.
 
