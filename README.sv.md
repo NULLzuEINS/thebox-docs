@@ -54,14 +54,14 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 ### FAQ - Kök
 
-1.  Fungerar inte kaminen? snälla säg
+1.  Kaminen fungerar inte? snälla säg
     > "Dator, arbetsbänk och"
 2.  Var kan jag diska? Detta fungerar bara i badrummet. Det finns en speciell behållare för att diska.
 
 ## Ditt rum
 
 Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov.
-Byter du ut kuddarna på soffan mot en madrass blir det en bra säng.
+Byter du ut kuddarna i soffan mot en madrass fungerar den bra som säng.
 
 ### Inloggningsuppgifterna för datorn (iMac) är
 
@@ -83,7 +83,7 @@ Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre
 | Illustration                                              | Beskrivning                                                                                                                                                                                                                                |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | S: Bluetoothbox<br>B: Fairy lights<br>C: Skrivbordslampa<br>D:_fil_<br>Mästare: Byt allt på samma gång                                                                                                                                     |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Innan du kan använda den, se till att ljusströmbrytaren vid entrén är inställd på "på".**<br>Första raden: ljusstyrka, på/av<br>Färgade knappar: Du kan använda detta för att ändra färgerna<br>Grå knappar: Växla mellan olika effekter |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Innan du kan använda den, se till att ljusströmbrytaren vid entrén är inställd på "på".**<br>Erste Zeile: Helligkeit, An/Aus<br>Färgade knappar: Du kan använda detta för att ändra färgerna<br>Grå knappar: Växla mellan olika effekter |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Detta är fjärrkontrollen till datorn (iMac)._För att använda datorn, tryck på A-knappen på den första fjärrkontrollen. Den aktiverar strömförsörjningen till datorn och Bluetooth-boxen._                                                  |
 
 ### FAQ - Ditt rum
@@ -92,7 +92,7 @@ Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre
 
 ### badrum
 
-Du kan använda duschen stående. Det är inga problem om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
+Du kan använda duschen stående. Det spelar ingen roll om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
 
 Alexa på väggen går under namnet "Dator" och spelar även din favoritmusik eller radio. T.ex. "_Dator, spela Deutschlandfunk Nova_"
 
@@ -131,14 +131,14 @@ Antingen använder du nyckeln till ytterdörren eller så sträcker du dig genom
 
 ### Gul? Blå? Grön? Brun?
 
-Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i den bruna soptunnan.
+Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i det bruna kärlet.
 
 ### Cyklar
 
 ### Är min cykel säker?
 
-Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många ställen och brukar köra genom landsbygden.
-Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 åren sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
+Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många platser och brukar köra genom landsbygden.
+Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 år sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
 
 ### Vilka alternativ finns det?
 
