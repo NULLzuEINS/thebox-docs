@@ -49,7 +49,7 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
 4.  Jääkaappi
 5.  Pizza uuni
 6.  Mineraalivesi
-7.  Kännykän latausasema hyllyssä
+7.  Handy-Aufladestation im Regal
 8.  pesukone
 
 ### FAQ - Keittiö
@@ -80,11 +80,11 @@ Passwort: thebox
 
 Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on parempi kuin opiskelu". Et voi rikkoa mitään. Paina muutamaa painiketta ja katso mitä tapahtuu. Jos haluat vielä opiskella, tässä on sinulle sopivaa luettavaa:
 
-| Kuva                                                      | Kuvaus                                                                                                                                                                                                                                        |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Keijuvalot<br>C: Pöytälamppu<br>D:_tiedosto_<br>Mestari: Vaihda kaikki samaan aikaan                                                                                                                                    |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Ennen kuin voit käyttää sitä, varmista, että sisäänkäynnin valokytkin on asennossa "on".**<br>Ensimmäinen rivi: kirkkaus, päällä/pois<br>Värilliset painikkeet: Voit muuttaa värejä tällä<br>Harmaat painikkeet: Vaihda tehosteiden välillä |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Tämä on tietokoneen (iMac) kaukosäädin._Käytä tietokonetta painamalla ensimmäisen kaukosäätimen A-painiketta. Se aktivoi tietokoneen ja Bluetooth-laitteen virtalähteen._                                                                     |
+| Kuva                                                      | Kuvaus                                                                                                                                                                                                                                               |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Keijuvalot<br>C: Pöytälamppu<br>D:_tiedosto_<br>Mestari: Vaihda kaikki samaan aikaan                                                                                                                                           |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Ennen kuin voit käyttää sitä, varmista, että sisäänkäynnin valokytkin on asennossa "on".**<br>Ensimmäinen rivi: kirkkaus, päällä/pois<br>Värilliset painikkeet: Voit muuttaa värejä tällä<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Tämä on tietokoneen (iMac) kaukosäädin._Damit Du den Computer verwenden kannst, drücke die Taste A auf der ersten Fernbedienung. Sie aktiviert die Stromzufuhr für den Computer und die Bluetooth-Box._                                              |
 
 ### FAQ - Oma huone
 
