@@ -1,4 +1,4 @@
-# Bine ati venit
+# Bun venit la The Box
 
 Bună ziua și bun venit în „Cutie”! Când călătoresc, îmi place și să stau în AirBnB și uneori mi-aș dori să am o foaie de hârtie cu toate informațiile necesare despre cazare, check-in și check-out și aceasta este încercarea mea de a o îmbunătăți.
 
@@ -61,7 +61,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 ## Camera dvs
 
 Saltelele sunt așezate una peste alta numai în scop de depozitare. Le poți distribui în funcție de nevoile tale.
-Dacă înlocuiți pernele de pe canapea cu o saltea, aceasta funcționează bine ca un pat.
+Dacă înlocuiți pernele de pe canapea cu o saltea, este un pat bun.
 
 ### Detaliile de conectare pentru computer (iMac) sunt
 
