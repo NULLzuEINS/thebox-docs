@@ -1,4 +1,4 @@
-# Vítejte
+# Vítejte v The Box
 
 Dobrý den a vítejte v „Boxu“! Když cestuji, také rád pobývám v AirBnB a někdy si přeji mít kus papíru se všemi potřebnými informacemi o ubytování, check-in a check-out a toto je můj pokus, jak to zlepšit.
 
@@ -61,7 +61,7 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 ## Tvůj pokoj
 
 Matrace se pokládají na sebe pouze pro účely skladování. Můžete je distribuovat podle svých potřeb.
-Pokud polštáře na gauči nahradíte matrací, funguje dobře jako postel.
+Pokud vyměníte polštáře na gauči za matraci, je z toho dobrá postel.
 
 ### Přihlašovací údaje pro počítač (iMac) jsou
 
@@ -106,7 +106,7 @@ Zde si můžete nechat boty. Na poličce mám také malý poznámkový blok, kdy
 
 ## Chytrý domov
 
-V koupelně a kuchyni jsou hlasoví asistenti Alexa. Můžete je oslovovat „Computer“ a nechat je hrát například Deutschlandfunk Nova. Rozumí německy a také anglicky. Pokud je nechcete používat,
+V koupelně a kuchyni jsou hlasoví asistenti Alexa. Můžete je oslovovat jménem „Computer“ a nechat je hrát například Deutschlandfunk Nova. Rozumí německy a také anglicky. Pokud je nechcete používat,
 Můžete jej také jednoduše odpojit od napájení.
 
 Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje pouze router a malý počítač.
@@ -153,7 +153,7 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných j�
 
 ## čištění
 
--   Můžete na něm nechat ložní prádlo.
+-   Můžete na něm nechat lůžkoviny.
 -   Také myji nádobí a
 -   Také vynáším odpadky.
 
@@ -186,7 +186,7 @@ znovu jej zapněte pomocí tlačítka na horní straně.
 
 Po dokončení jej vraťte zpět do nabíjecí stanice!
 
-# Tipps
+# Tipy
 
 s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_.
 Všimněte si, že to stojí více, pokud nezaparkujete Raf na hlavních ulicích (na mapě fialová).
