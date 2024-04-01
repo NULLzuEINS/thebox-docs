@@ -20,7 +20,7 @@ Minu AirBnB-s saate üksikasjaliku ülevaate kõigist tubadest ja mugavustest. S
 
 Saate kaks paari võtmeid, millest igaühel on üks võti alumise ja üks ülemise jaoks. Võtmehoidjal on ka võti, millega saad oma toa lukustada.
 
-## Internetzugang
+## internetiühendus
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -88,7 +88,7 @@ Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". 
 
 ### KKK – Sinu tuba
 
-1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
+1.  Tuli ei sütti või vilgub metsikult. Kasutage väikeseid värviliste nuppudega kaugjuhtimispulte.
 
 ### vannituba
 
@@ -186,7 +186,7 @@ lülitage see uuesti sisse, kasutades ülemist nuppu.
 
 Kui see on lõppenud, pange see laadimisjaama tagasi!
 
-# Tipps
+# Näpunäiteid
 
 Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, igaüks 15 minutit_Järgmised jalgrattad_.
 Pange tähele, et see maksab rohkem, kui te ei pargi Rafi peatänavatele (kaardil lilla).
