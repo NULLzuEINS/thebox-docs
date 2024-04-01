@@ -37,7 +37,7 @@ Eller du scanner denne QR-kode, den vil automatisk forbinde dig til netværket:
 
 ## Køkken
 
-Da jeg plejer at spise nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
+Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -61,7 +61,7 @@ Da jeg plejer at spise nedenunder med min familie, er køkkenet meget spartansk.
 ## Dit værelse
 
 Madrasserne placeres kun oven på hinanden til opbevaringsformål. Du kan fordele dem efter dine behov.
-Udskifter du puderne på sofaen med en madras, fungerer den godt som seng.
+Udskifter du puderne på sofaen med en madras, er det en god seng.
 
 ### Loginoplysningerne til computeren (iMac) er
 
@@ -113,7 +113,7 @@ Der er ingen stemmeassistenter på dit værelse. Kurven på hylden indeholder ku
 
 ## temperatur og fugtighed
 
-Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre dannelse af skimmelsvamp. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
+Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre mugdannelse. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
 
 ?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Især på badeværelset. Sørg også for, at varmen er slukket. Tak 🙏
 
@@ -177,12 +177,12 @@ Du kan finde grønt rengøringsmiddel i en sprayflaske på badeværelset til mop
 
 ## Støvsuger
 
-Jeg har en robotstøvsuger til gulvet.
-Før du kan starte, skal du rydde alt på gulvet af vejen.
-Især ledninger eller andre ting, som robotten kunne blive kvalt af.
-Sæt den derefter på dit værelse og tryk én gang på knappen øverst.
-Hvis der ikke sker noget, skal du bruge tænd/sluk-knappen på siden og efter
-tænd den igen ved hjælp af knappen øverst.
+Für den Fußboden habe ich einen Staubsauger-Roboter.
+Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
+Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
+Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
+Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
+anschalten noch einmal auf den Knopf auf drt Oberseite.
 
 Når det er færdigt, skal du sætte det tilbage i ladestationen!
 
