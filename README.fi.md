@@ -61,7 +61,7 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
 ## Huoneesi
 
 Patjat asetetaan päällekkäin vain säilytystä varten. Voit jakaa niitä tarpeidesi mukaan.
-Jos vaihdat sohvan tyynyt patjaan, se toimii hyvin sänkynä.
+Jos vaihdat sohvan tyynyt patjaan, siitä tulee hyvä sänky.
 
 ### Tietokoneen (iMac) kirjautumistiedot ovat
 
@@ -92,11 +92,11 @@ Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on par
 
 ### kylpyhuone
 
-Voit käyttää suihkua seisten. Ei haittaa, jos maa hieman kastuu. Kytke vesi päälle vain 1/3 ja ripusta kylpymatto kuivumaan kiukaan päälle.
+Voit käyttää suihkua seisten. Ei haittaa vaikka maa kastuu hieman. Kytke vesi päälle vain 1/3 ja ripusta kylpymatto kuivumaan kiukaan päälle.
 
-Seinällä oleva Alexa on nimeltään "Computer", ja se soittaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
+Seinällä oleva Alexa on nimeltään "Computer" ja toistaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
 
-Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi osa siitä on sinun.
+Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi niistä on sinun.
 
 ### Käytävä
 
@@ -125,7 +125,7 @@ Pihallamme voit yhdistää pyöräsi ja viedä roskat.
 
 ### Miten ovi aukeaa?
 
-Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
+Joko käytät etuoven avainta tai kurkotat portin läpi ja tunnet oven avaavan painikkeen. Kun pidät painiketta painettuna, voit avata oven.
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
@@ -135,7 +135,7 @@ Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat 
 
 ### Pyörät
 
-### Ist mein Fahrrad sicher?
+### Onko pyöräni turvallinen?
 
 Leipzig on erittäin pyöräystävällinen kaupunki. Suuren kaupunkipuiston kautta, joka jakaa kaupungin kahteen osaan, pääsee moniin paikkoihin ja yleensä ajaa maaseudun halki.
 Jos uskot tilastoihin, Leipzigissä varastetaan vuosittain eniten polkupyöriä asukasta kohden. (1 539 varastettua polkupyörää 100 000 asukasta kohti) 15 vuoden aikana siitä, kun olen asunut täällä Hardenbergstraßella, minulla ei ole koskaan varastettu polkupyörää ja tiedän vain yhden naapurin, jonka polkupyörä varastettiin hänen takapihaltaan. Yhdistän sen aina suoraan kaiteeseen.
@@ -173,7 +173,7 @@ Keittiöstä löytyy käsiharja ja seinälle sivellin. Tämä auttaa sinua pää
 
 ## Pyyhi
 
-Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppausta varten. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
+Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppaukseen. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
 
 ## Imuri
 
@@ -188,7 +188,7 @@ Kun se on valmis, laita se takaisin latausasemaan!
 
 # Vinkkejä
 
-Mit der [Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 minuutin kyytiä_Seuraavat pyörät_.
+Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 minuutin kyytiä_Seuraavat pyörät_.
 Huomaa, että se maksaa enemmän, jos et pysäköi Rafia pääkaduille (violetti kartalla).
 E-skootterit saa pysäköidä vain tietyille pysäköintipaikoille.
 
