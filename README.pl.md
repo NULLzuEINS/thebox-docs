@@ -16,7 +16,7 @@ Na moim AirBnB otrzymasz szczegółowy przegląd wszystkich pokoi i udogodnień.
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
 
-## Klucz
+## Schlüssel
 
 Otrzymujesz dwie pary kluczy, każdy z jednym kluczem na dole i jednym na górze. Na breloczku znajduje się również klucz, za pomocą którego można zamknąć pokój.
 
@@ -61,7 +61,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 ## Twój pokój
 
 Materace są ułożone jeden na drugim wyłącznie w celu przechowywania. Możesz je dystrybuować według swoich potrzeb.
-Jeśli zastąpisz poduszki na kanapie materacem, będzie to dobre łóżko.
+Jeśli zastąpisz poduszki na kanapie materacem, sprawdzi się ona również jako łóżko.
 
 ### Dane logowania do komputera (iMac) to
 
