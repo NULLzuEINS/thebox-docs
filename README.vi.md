@@ -55,13 +55,13 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 ### Câu hỏi thường gặp - Nhà bếp
 
 1.  Bếp không hoạt động? làm ơn nói
-    > "Máy tính, bàn làm việc"
+    > "Computer, Werkbank an"
 2.  Tôi có thể rửa ở đâu? Điều này chỉ hoạt động trong phòng tắm. Có một hộp đựng đặc biệt để rửa chén.
 
 ## Phòng của bạn
 
 Các tấm nệm được đặt chồng lên nhau chỉ nhằm mục đích cất giữ. Bạn có thể phân phối chúng theo nhu cầu của bạn.
-Nếu bạn thay thế những chiếc gối trên ghế dài bằng một tấm nệm thì nó sẽ hoạt động tốt như một chiếc giường.
+Nếu bạn thay đệm trên ghế dài bằng nệm thì nó sẽ tạo thành một chiếc giường tốt.
 
 ### Chi tiết đăng nhập cho máy tính (iMac) là
 
@@ -92,9 +92,9 @@ Một câu nói cổ của người Đức áp dụng cho tất cả các loại
 
 ### phòng tắm
 
-Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und hänge den Badewannenvorleger zum trocknen über der Heizung auf.
+Bạn có thể sử dụng vòi hoa sen trong khi đứng. Sẽ không có vấn đề gì nếu mặt đất bị ướt một chút. Chỉ vặn nước 1/3 và treo thảm tắm lên trên lò sưởi cho khô.
 
-Alexa trên tường có tên là “Máy tính” và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
+Alexa trên tường có tên là "Máy tính" và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
 
 Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc của mình ở bất cứ đâu. Có một chiếc kệ ở phía trước cửa phòng tắm. Một trong số đó là của bạn.
 
@@ -102,14 +102,14 @@ Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc c�
 
 Bạn có thể để lại giày của bạn ở đây. Tôi cũng có một cuốn sổ nhỏ trên kệ phòng trường hợp bạn muốn nói với tôi điều gì đó.
 
-# Sonstiges
+# Điều khoản khác
 
 ## Nhà thông minh
 
 Có trợ lý giọng nói Alexa trong phòng tắm và nhà bếp. Bạn có thể gọi họ bằng tên “Máy tính” và cho họ chơi Deutschlandfunk Nova chẳng hạn. Họ hiểu tiếng Đức và cả tiếng Anh. Nếu bạn không muốn sử dụng chúng,
 Bạn cũng có thể chỉ cần ngắt kết nối nó khỏi nguồn điện.
 
-In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
+Không có trợ lý giọng nói trong phòng của bạn. Giỏ trên kệ chỉ chứa bộ định tuyến và một máy tính nhỏ.
 
 ## Nhiệt độ và độ ẩm
 
@@ -189,8 +189,8 @@ Khi dùng xong, vui lòng đặt lại vào trạm sạc!
 # Lời khuyên
 
 Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho_xe đạp tiếp theo_.
-Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe Raf trên các đường phố chính (màu tím trên bản đồ).
-Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định.
+Beachte, dass es mehr kostet, wenn man das Raf nicht an den großen Straßen (Auf der Karte Lila) abstellt.
+Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
 Tôi đã lưu trữ hướng dẫn du lịch trong ứng dụng AirBnB. Ở đó bạn sẽ tìm thấy các đề xuất của tôi về các điểm tham quan, quán bar và quán rượu, cơ hội mua sắm và nhà hàng.
 
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Được làm bằng ❤️ bởi [docsify](https://docsify.js.org/)_
+_Được làm bằng ❤️ bởi [làm tài liệu](https://docsify.js.org/)_
