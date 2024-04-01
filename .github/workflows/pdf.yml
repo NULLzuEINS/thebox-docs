@@ -64,13 +64,13 @@ jobs:
 
             ##### Download files
 
-            [![TheBox DE](https://img.shields.io/badge/DE-TheBox-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/${{ env.THEBOX_FILENAME }}.pdf) 
-            [![TheBox EN](https://img.shields.io/badge/EN-theBox-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/${{ env.THEBOX_FILENAME }}.en.pdf)
-            [![TheBox FR](https://img.shields.io/badge/FR-TheBox-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/${{ env.THEBOX_FILENAME }}.fr.pdf)
-            [![TheBox PL](https://img.shields.io/badge/PL-TheBox-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/${{ env.THEBOX_FILENAME }}.pl.pdf)
-            [![TheBox ES](https://img.shields.io/badge/ES-TheBox-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/${{ env.THEBOX_FILENAME }}.es.pdf)
-            [![TheBox DA](https://img.shields.io/badge/DA-TheBox-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/${{ env.THEBOX_FILENAME }}.da.pdf)
-            https://github.com/NULLzuEINS/thebox-docs/releases/download/1.0.40/thebox-en.pdf
+            [![TheBox DE](https://img.shields.io/badge/DE-TheBox-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/${{ env.THEBOX_FILENAME }}-de.pdf) 
+            [![TheBox EN](https://img.shields.io/badge/EN-theBox-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/${{ env.THEBOX_FILENAME }}-en.pdf)
+            [![TheBox FR](https://img.shields.io/badge/FR-TheBox-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/${{ env.THEBOX_FILENAME }}-fr.pdf)
+            [![TheBox PL](https://img.shields.io/badge/PL-TheBox-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/${{ env.THEBOX_FILENAME }}-pl.pdf)
+            [![TheBox ES](https://img.shields.io/badge/ES-TheBox-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/${{ env.THEBOX_FILENAME }}-es.pdf)
+            [![TheBox DA](https://img.shields.io/badge/DA-TheBox-100000?style=for-the-badge&labelColor=4E4796&color=DBD7FF)](https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/${{ env.THEBOX_FILENAME }}-da.pdf)
+
           draft: false
           prerelease: false
       - name: Save upload URL for later use
