@@ -37,7 +37,7 @@ Eller du scanner denne QR-kode, den vil automatisk forbinde dig til netværket:
 
 ## Køkken
 
-Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
+Da jeg plejer at spise nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -113,7 +113,7 @@ Der er ingen stemmeassistenter på dit værelse. Kurven på hylden indeholder ku
 
 ## temperatur og fugtighed
 
-Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre mugdannelse. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
+Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre dannelse af skimmelsvamp. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
 
 ?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Især på badeværelset. Sørg også for, at varmen er slukket. Tak 🙏
 
@@ -127,7 +127,7 @@ I vores gårdhave kan du tilslutte dine cykler og tage dit affald væk.
 
 Enten bruger du hoveddørens nøgle, eller også rækker du ind gennem porten og mærker knappen for at åbne døren. Mens du holder knappen nede, kan du åbne døren.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
+![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
 ### Gul? Blå? Grøn? Brun?
 
