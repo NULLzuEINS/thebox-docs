@@ -76,7 +76,7 @@ Passwort: thebox
 2.  Datamaskiner og skrivere
 3.  Fjernkontroller for lys og strøm
 
-### Fernbedienungen
+### Fjernkontroller
 
 Et gammelt tysk ordtak gjelder for alle fjernkontroller: «Å prøve er bedre enn å studere». Du kan ikke bryte noe. Trykk på noen få knapper og se hva som skjer. Hvis du fortsatt ønsker å studere, her er den rette lesestoffet for deg:
 
@@ -140,7 +140,7 @@ Lurer du på hvorfor søppeldunkene har forskjellige farger? Hvis du er usikker,
 Leipzig er en veldig sykkelvennlig by. Gjennom den store byparken som deler byen i to halvdeler, kan du komme deg til mange steder og kjører vanligvis gjennom landsbygda.
 Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hvert år. (1 539 stjålne sykler per 100 000 innbyggere) I løpet av de 15 årene siden jeg har bodd her på Hardenbergstraße har jeg aldri fått stjålet en sykkel og jeg vet bare om en nabo som har fått sykkelen sin fra bakgården hans. Jeg kobler den alltid direkte til rekkverket.
 
-### Hvilke alternativer finnes?
+### Welche Alternativen gibt es
 
 Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser. Det er også et gratis-flytende bildelingssystem. Det betyr med oss[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er det busser og tog som du også kan betale for via Leipzig MOVE-appen.
 
