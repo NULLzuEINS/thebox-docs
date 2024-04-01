@@ -61,7 +61,7 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 ## Senin odan
 
 Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz.
-Kanepedeki yastıkları şilteyle değiştirirseniz yatak olarak işe yarar.
+Kanepedeki minderleri şilteyle değiştirirseniz iyi bir yatak olur.
 
 ### Bilgisayarın (iMac) oturum açma ayrıntıları şunlardır:
 
@@ -80,11 +80,11 @@ Passwort: thebox
 
 Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek çalışmaktan iyidir”. Hiçbir şeyi kıramazsın. Birkaç düğmeye basın ve ne olacağını görün. Hala ders çalışmak istiyorsanız işte size uygun okumalar:
 
-| İllüstrasyon                                              | Tanım                                                                                                                                                                                                                                               |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | C: Bluetooth kutusu<br>B: Peri ışıkları<br>C: Masa lambası<br>D:_dosya_<br>Usta: Her şeyi aynı anda değiştirin                                                                                                                                      |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Kullanmadan önce girişteki ışık anahtarının "açık" konumda olduğundan emin olun.**<br>Erste Zeile: Helligkeit, An/Aus<br>Renkli düğmeler: Renkleri değiştirmek için bunu kullanabilirsiniz.<br>Gri düğmeler: Farklı efektler arasında geçiş yapın |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Bu, bilgisayarın (iMac) uzaktan kumandasıdır._Bilgisayarı kullanmak için ilk uzaktan kumandadaki A düğmesine basın. Bilgisayarın ve Bluetooth kutusunun güç kaynağını etkinleştirir._                                                               |
+| İllüstrasyon                                              | Tanım                                                                                                                                                                                                                                                 |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | C: Bluetooth kutusu<br>B: Peri ışıkları<br>C: Masa lambası<br>D:_dosya_<br>Usta: Her şeyi aynı anda değiştirin                                                                                                                                        |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Kullanmadan önce girişteki ışık anahtarının "açık" konumda olduğundan emin olun.**<br>İlk satır: parlaklık, açık/kapalı<br>Renkli düğmeler: Renkleri değiştirmek için bunu kullanabilirsiniz.<br>Gri düğmeler: Farklı efektler arasında geçiş yapın |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Bu, bilgisayarın (iMac) uzaktan kumandasıdır._Bilgisayarı kullanmak için ilk uzaktan kumandadaki A düğmesine basın. Bilgisayarın ve Bluetooth kutusunun güç kaynağını etkinleştirir._                                                                 |
 
 ### SSS - Odanız
 
@@ -96,7 +96,7 @@ Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması sorun değil. Suyu yal
 
 Duvardaki Alexa "Bilgisayar" adını alır ve aynı zamanda en sevdiğiniz müziği veya radyoyu da çalar. Örneğin. "_Bilgisayar, Deutschlandfunk Nova'yı oyna_"
 
-Tüm kancalara havlu asabilir, eşyalarınızı istediğiniz yere koyabilirsiniz. Banyo kapısının önünde raf bulunmaktadır. Bunlardan biri senin.
+Tüm kancalara havlu asabilir, eşyalarınızı istediğiniz yere koyabilirsiniz. Banyo kapısının önünde raf bulunmaktadır. Bir parçası senin.
 
 ### Koridor
 
@@ -142,7 +142,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 ### Hangi alternatifler var?
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüş hakkına sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
 
 # Çıkış yapmak
 
@@ -188,7 +188,7 @@ Bittiğinde lütfen şarj istasyonuna geri koyun!
 
 # İpuçları
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüş hakkına sahip olursunuz._Sonraki bisikletler_.
 Raf'ı ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın.
 E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
 
