@@ -96,7 +96,7 @@ Voit käyttää suihkua seisten. Ei haittaa, jos maa hieman kastuu. Kytke vesi p
 
 Seinällä oleva Alexa on nimeltään "Computer", ja se soittaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
 
-Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi niistä on sinun.
+Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi osa siitä on sinun.
 
 ### Käytävä
 
@@ -154,7 +154,7 @@ Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 ## puhdistus
 
 -   Voit jättää siihen vuodevaatteet.
--   Das Geschirr spüle ich auch ab und
+-   Pesen myös astiat ja
 -   Vien roskat myös pois.
 
 > Lyhyt versio: Jätä avain sinne, sulje ovi, siinä kaikki. 😀
