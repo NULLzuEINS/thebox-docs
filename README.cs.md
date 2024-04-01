@@ -14,7 +14,7 @@ Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zd
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Psací stůl se světlem                                                                  | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Psací stůl se světlem                                                                  | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
+| Schreibtisch mit Licht                                                                 | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
 
 ## Klíč
 
@@ -46,10 +46,10 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 1.  Stádo
 2.  Konvice
 3.  Nádobí příbory
-4.  Lednička
+4.  Kühlschrank
 5.  Pizza pec
 6.  Minerální voda
-7.  Nabíjecí stanice pro mobilní telefony na polici
+7.  Handy-Aufladestation im Regal
 8.  pračka
 
 ### FAQ - Kuchyně
@@ -82,7 +82,7 @@ Pro všechna dálková ovládání platí staré německé přísloví: „Zkou�
 
 | Ilustrace                                                 | Popis                                                                                                                                                                                                                                        |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Pohádková světla<br>C: Stolní lampa<br>D:_soubor_<br>Master: Přepněte vše současně                                                                                                                                     |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Pohádková světla<br>C: Schreibtischlampe<br>D:_soubor_<br>Master: Přepněte vše současně                                                                                                                                |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Než jej budete moci použít, ujistěte se, že je spínač světel u vchodu nastaven na „zapnuto“.**<br>První řádek: jas, zapnuto/vypnuto<br>Barevná tlačítka: Toto můžete použít ke změně barev<br>Šedá tlačítka: Přepínání mezi různými efekty |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Toto je dálkový ovladač pro počítač (iMac)._Chcete-li použít počítač, stiskněte tlačítko A na prvním dálkovém ovladači. Aktivuje napájení počítače a Bluetooth boxu._                                                                        |
 
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Vyrobeno s ❤️ od [docsify](https://docsify.js.org/)_
+_Made with ❤️ by  [docsify](https://docsify.js.org/)_
