@@ -48,7 +48,7 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
 3.  Astiat ruokailuvälineet
 4.  Jääkaappi
 5.  Pizza uuni
-6.  Mineralwasser
+6.  Mineraalivesi
 7.  Kännykän latausasema hyllyssä
 8.  pesukone
 
@@ -82,7 +82,7 @@ Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on par
 
 | Kuva                                                      | Kuvaus                                                                                                                                                                                                                                        |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Keijuvalot<br>C: Pöytälamppu<br>D:_tiedosto_<br>Mestari: Vaihda kaikki samaan aikaan                                                                                                                                    |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Keijuvalot<br>C: Pöytälamppu<br>D:_tiedosto_<br>Master: Alles gleichzeitig schalten                                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Ennen kuin voit käyttää sitä, varmista, että sisäänkäynnin valokytkin on asennossa "on".**<br>Ensimmäinen rivi: kirkkaus, päällä/pois<br>Värilliset painikkeet: Voit muuttaa värejä tällä<br>Harmaat painikkeet: Vaihda tehosteiden välillä |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Tämä on tietokoneen (iMac) kaukosäädin._Käytä tietokonetta painamalla ensimmäisen kaukosäätimen A-painiketta. Se aktivoi tietokoneen ja Bluetooth-laitteen virtalähteen._                                                                     |
 
@@ -123,7 +123,7 @@ Pihallamme voit yhdistää pyöräsi ja viedä roskat.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
-### Miten ovi aukeaa?
+### Wie geht das Tor auf?
 
 Joko käytät etuoven avainta tai kurkotat portin läpi ja tunnet oven avaavan painikkeen. Kun pidät painiketta painettuna, voit avata oven.
 
