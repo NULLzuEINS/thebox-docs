@@ -6,7 +6,7 @@ Bună ziua și bun venit în „Cutie”! Când călătoresc, îmi place și să
 
 ## Poze
 
-Pe AirBnB-ul meu primești o imagine de ansamblu detaliată a tuturor camerelor și facilităților. Iată doar o scurtă prezentare generală:
+Pe AirBnB-ul meu ai o imagine de ansamblu detaliată a tuturor camerelor și facilităților. Iată doar o scurtă prezentare generală:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -188,7 +188,7 @@ Când este terminat, vă rugăm să îl puneți înapoi în stația de încărca
 
 # sfaturi
 
-Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratuite a câte 15 minute fiecare pentru_Nextbikes_.
+Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die _Nextbikes_.
 Rețineți că costă mai mult dacă nu parcați Raf-ul pe străzile principale (violet pe hartă).
 Trotinetele electrice pot fi parcate numai în anumite locuri de parcare.
 
@@ -201,8 +201,8 @@ Dacă vă grăbiți, cel mai bine este să faceți acest lucru prin telefon <a 
 De asemenea, puteți utiliza aplicația de mesagerie preinstalată cu funcționalitate limitată (SMS).
 În rest, am un blocnotes și un pix pe hol.
 
-Vă doresc o ședere plăcută în Leipzig!
-Andre
+Ich wünsche einen schönen Aufenthalt in Leipzig!
+André
 
 * * *
 
