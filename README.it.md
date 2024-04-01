@@ -1,4 +1,4 @@
-# Benvenuto
+# Benvenuti a La Scatola
 
 Ciao e benvenuto nel “Box”! Quando viaggio, mi piace anche soggiornare negli AirBnB e talvolta vorrei avere un pezzo di carta con tutte le informazioni necessarie sull'alloggio, sul check-in e sul check-out e questo è il mio tentativo di migliorarlo.
 
@@ -61,7 +61,7 @@ Dato che di solito mangio al piano di sotto con la mia famiglia, la cucina è mo
 ## La vostra stanza
 
 I materassi sono posizionati uno sopra l'altro solo a scopo di stoccaggio. Puoi distribuirli in base alle tue esigenze.
-Se sostituisci i cuscini del divano con un materasso, funziona bene come letto.
+Se sostituisci i cuscini del divano con un materasso, diventa un buon letto.
 
 ### I dettagli di accesso per il computer (iMac) sono
 
@@ -131,7 +131,7 @@ O usi la chiave della porta d'ingresso, oppure raggiungi il cancello e senti il 
 
 ### Giallo? Blu? Verde? Marrone?
 
-Ti stai chiedendo perché i bidoni della spazzatura hanno colori diversi? Se non sei sicuro, getta sempre la spazzatura nel cestino verde. I rifiuti residui finiscono lì. I professionisti mettono i rifiuti cartacei nel contenitore blu, i materiali riciclabili nel contenitore giallo e i rifiuti organici nel contenitore marrone.
+Ti stai chiedendo perché i bidoni della spazzatura hanno colori diversi? Se non sei sicuro, getta sempre la spazzatura nel cestino verde. I rifiuti residui finiscono lì. I professionisti mettono la carta nel contenitore blu, i materiali riciclabili nel contenitore giallo e i rifiuti organici nel contenitore marrone.
 
 ### Cicli
 
@@ -181,7 +181,7 @@ Ho un robot aspirapolvere per pavimenti.
 Prima di iniziare, togli tutto dal pavimento.
 Soprattutto cavi o altri oggetti con cui il robot potrebbe soffocare.
 Quindi mettilo nella tua stanza e premi una volta il pulsante in alto.
-Se non succede nulla, utilizzare l'interruttore di accensione/spegnimento sul lato e successivamente
+Se non succede nulla, utilizzare l'interruttore on/off sul lato e successivamente
 riaccenderlo utilizzando il pulsante in alto.
 
 Una volta terminato, rimettilo nella stazione di ricarica!
@@ -189,8 +189,8 @@ Una volta terminato, rimettilo nella stazione di ricarica!
 # Suggerimenti
 
 Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_.
-Beachte, dass es mehr kostet, wenn man das Raf nicht an den großen Straßen (Auf der Karte Lila) abstellt.
-Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
+Tieni presente che costa di più se non parcheggi il Raf nelle strade principali (viola sulla mappa).
+Gli e-scooter possono essere parcheggiati solo in determinati parcheggi.
 
 Ho memorizzato le guide di viaggio nell'app AirBnB. Lì troverai i miei consigli su attrazioni, bar e pub, opportunità di shopping e ristoranti.
 
