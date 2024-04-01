@@ -109,13 +109,13 @@ Zde si můžete nechat boty. Na poličce mám také malý poznámkový blok, kdy
 V koupelně a kuchyni jsou hlasoví asistenti Alexa. Můžete je oslovovat „Computer“ a nechat je hrát například Deutschlandfunk Nova. Rozumí německy a také anglicky. Pokud je nechcete používat,
 Můžete jej také jednoduše odpojit od napájení.
 
-Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje pouze router a malý počítač.
+In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
 
 ## teplota a vlhkost
 
 Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, abych zabránil tvorbě plísní. Jsou malé a bílé a obvykle leží na rámech dveří. Některá naměřená data si můžete přečíst v zrcadle na chodbě.
 
-?> Zajistěte prosím pravidelné větrání (alespoň jednou denně). Zejména v koupelně. Ujistěte se také, že je topení vypnuté. Děkujeme 🙏
+?> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Achte dabei auch darauf, dass die Heizung abgestellt ist. Danke 🙏
 
 ## Dvorek
 
