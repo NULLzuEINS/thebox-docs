@@ -12,7 +12,7 @@ AirBnB:ssäni saat yksityiskohtaisen yleiskatsauksen kaikista huoneista ja tiloi
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Yksi sänky ja sohva                                                                    | Kahden sängyn kokoonpano                                                      | Vastaanotto                                                                             |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Schreibtisch mit Licht                                                                 | Keittiö - liesi                                                               | Keittiö - teetä                                                                         |
+| Työpöytä valolla                                                                       | Keittiö - liesi                                                               | Keittiö - teetä                                                                         |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Työpöytä valolla                                                                       | Keittiö - liesi                                                               | Keittiö - teetä                                                                         |
 
@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
+Tai skannaat tämän QR-koodin, se yhdistää sinut automaattisesti verkkoon:
 
 ![WiFi](_media/wlan.png ":size=200")
 
