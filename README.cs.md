@@ -92,7 +92,7 @@ Pro všechna dálková ovládání platí staré německé přísloví: „Zkou�
 
 ### koupelna
 
-Sprchu můžete používat ve stoje. Nevadí, když se půda trochu namočí. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
+Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
 
 Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
 
