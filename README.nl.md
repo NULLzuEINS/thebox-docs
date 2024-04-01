@@ -84,15 +84,15 @@ Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter 
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Kerstverlichting<br>C: Bureaulamp<br>D:_leer_<br>Master: Schakel alles tegelijk                                                                                                                                                                 |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Voordat u er gebruik van kunt maken, zorgt u ervoor dat de lichtschakelaar bij de ingang op "aan" staat.**<br>Eerste regel: helderheid, aan/uit<br>Gekleurde knoppen: Hiermee kunt u de kleuren wijzigen<br>Grijze knoppen: Schakelen tussen verschillende effecten |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Dit is de afstandsbediening voor de computer (iMac)._Om de computer te gebruiken, drukt u op de A-knop op de eerste afstandsbediening. Het activeert de voeding voor de computer en de Bluetooth-box._                                                                |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Das ist die Fernbedienung für den Computer (iMac). _Om de computer te gebruiken, drukt u op de A-knop op de eerste afstandsbediening. Het activeert de voeding voor de computer en de Bluetooth-box._                                                                 |
 
 ### Veelgestelde vragen - Uw kamer
 
 1.  Het licht gaat niet aan of knippert wild.Gebruik de kleine afstandsbedieningen met de kleurrijke knoppen.
 
-### Badezimmer
+### badkamer
 
-U kunt staand van de douche gebruik maken. Het maakt niet uit als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
+U kunt staand van de douche gebruik maken. Het is geen probleem als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
 
 De Alexa aan de muur heet ‘Computer’ en speelt ook je favoriete muziek of radio af. Bijvoorbeeld "_Computer, speel Deutschlandfunk Nova_"
 
@@ -142,7 +142,7 @@ Als je de statistieken mag geloven, worden in Leipzig jaarlijks de meeste fietse
 
 ### Welke alternatieven zijn er?
 
-Met de[Leipzig MOVE-app](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die _Volgendefietsen_. Houd er rekening mee dat het meer kost als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). En natuurlijk zijn er bussen en treinen die je ook via de Leipzig MOVE-app kunt betalen.
+Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten van elk 15 minuten voor de_Volgendefietsen_. Houd er rekening mee dat het meer kost als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). En natuurlijk zijn er bussen en treinen die je ook via de Leipzig MOVE-app kunt betalen.
 
 # Uitchecken
 
