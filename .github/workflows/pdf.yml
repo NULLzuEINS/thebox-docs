@@ -107,9 +107,7 @@ jobs:
       - name: Step 3. - Set upload url
         run: |
           echo "UPLOAD_URL=$(cat Assets/upload-url.txt)" >> $GITHUB_ENV
-          cat Assets/upload-url.txt
-          env
-          echo ${{ env.UPLOAD_URL }}
+          ls -lisah
       - name: Step 4. - Upload PDF for ${{ matrix.language }} as release asset
         id: upload-release-asset-pdf
         uses: actions/upload-release-asset@v1
