@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
+Of u scant deze QR-code, deze verbindt u automatisch met het netwerk:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -45,7 +45,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 
 1.  Kudde
 2.  Ketel
-3.  Geschirr, Besteck
+3.  Servies bestek
 4.  Koelkast
 5.  pizza oven
 6.  Mineraalwater
@@ -61,7 +61,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 ## Jouw kamer
 
 De matrassen worden uitsluitend voor opslagdoeleinden op elkaar geplaatst. U kunt ze verdelen volgens uw behoeften.
-Als je de kussens van de bank vervangt door een matras, ontstaat er een goed bed.
+Als je de kussens op de bank vervangt door een matras, functioneert deze prima als bed.
 
 ### De inloggegevens voor de computer (iMac) zijn
 
@@ -92,11 +92,11 @@ Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter 
 
 ### badkamer
 
-U kunt staand van de douche gebruik maken. Het maakt niet uit als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
+U kunt staand van de douche gebruik maken. Het is geen probleem als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
 
 De Alexa aan de muur heet ‘Computer’ en speelt ook je favoriete muziek of radio af. Bijvoorbeeld "_Computer, speel Deutschlandfunk Nova_"
 
-Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén stukje ervan is van jou.
+Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén ervan is van jou.
 
 ### Gang
 
@@ -149,11 +149,11 @@ Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten va
 ## Sleutel
 
 -   Afhankelijk van welke dag van de week het is, kunnen wij persoonlijk afscheid nemen, of u legt gewoon de sleutels op het bureau en sluit de deur achter u.
--   Der späteste Zeitpunkt für den Checkout ist am Abreisetag 19 Uhr.
+-   Het uiterste tijdstip voor uitchecken is 19.00 uur op de dag van vertrek.
 
 ## schoonmaak
 
--   Je kunt beddengoed erop laten liggen.
+-   Je kunt er beddengoed op laten liggen.
 -   Ik doe ook de afwas en
 -   Ik zet ook het afval buiten.
 
