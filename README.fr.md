@@ -115,7 +115,7 @@ Il n'y a pas d'assistant vocal dans votre chambre. Le panier sur l'étagère con
 
 La température et l'humidité sont automatiquement mesurées via les capteurs. Je les utilise pour éviter la formation de moisissures. Ils sont petits et blancs et reposent généralement sur les encadrements de portes. Vous pouvez lire certaines données de mesure dans le miroir du couloir.
 
-?> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Achte dabei auch darauf, dass die Heizung abgestellt ist. Danke 🙏
+?> Merci de veiller à aérer régulièrement (au moins une fois par jour). Surtout dans la salle de bain. Assurez-vous également que le chauffage est éteint. Merci 🙏
 
 ## La Cour
 
@@ -142,7 +142,7 @@ Si l’on en croit les statistiques, c’est à Leipzig que le plus grand nombre
 
 ### Quelles sont les alternatives ?
 
-Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficiez de 10 trajets gratuits de 15 minutes chacun pour le_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement. Il existe également un système de covoiturage en free float. Cela veut dire avec nous[Cityflitzer](https://cityflitzer.de/). Et bien sûr, il existe des bus et des trains que vous pouvez également payer via l'application Leipzig MOVE.
+Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficiez de 10 trajets gratuits de 15 minutes chacun pour le_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement. Il existe également un système de covoiturage en free float. Cela veut dire avec nous[cityflitzer](https://cityflitzer.de/). Et bien sûr, il existe des bus et des trains que vous pouvez également payer via l'application Leipzig MOVE.
 
 # Vérifier
 
