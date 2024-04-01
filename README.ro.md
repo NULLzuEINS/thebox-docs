@@ -61,7 +61,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 ## Camera dvs
 
 Saltelele sunt așezate una peste alta numai în scop de depozitare. Le poți distribui în funcție de nevoile tale.
-Dacă înlocuiți pernele de pe canapea cu o saltea, este un pat bun.
+Dacă înlocuiți pernele de pe canapea cu o saltea, aceasta funcționează bine ca un pat.
 
 ### Detaliile de conectare pentru computer (iMac) sunt
 
@@ -96,7 +96,7 @@ Puteți folosi dușul în timp ce stați în picioare. Nu este o problemă dacă
 
 Alexa de pe perete poartă numele „Computer” și redă, de asemenea, muzica sau radioul preferat. De exemplu. "_Computer, joacă Deutschlandfunk Nova_"
 
-Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. O bucată din ea este a ta.
+Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. Unul dintre ei este al tău.
 
 ### Holul
 
@@ -142,7 +142,7 @@ Dacă credeți statisticile, atunci cele mai multe biciclete pe cap de locuitor 
 
 ### Ce alternative există?
 
-Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratuite a câte 15 minute fiecare pentru_Nextbikes_. Rețineți că costă mai mult dacă nu vă parcați bicicletele pe străzile principale (violet pe hartă). Trotinetele electrice pot fi parcate numai în anumite locuri de parcare. Există, de asemenea, un sistem de partajare a mașinii. Asta înseamnă cu noi[cityflitzer](https://cityflitzer.de/). Și, desigur, există autobuze și trenuri pe care le puteți plăti și prin aplicația Leipzig MOVE.
+Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratuite a câte 15 minute fiecare pentru_Nextbikes_. Rețineți că costă mai mult dacă nu vă parcați bicicletele pe străzile principale (violet pe hartă). Trotinetele electrice pot fi parcate numai în anumite locuri de parcare. Există, de asemenea, un sistem de partajare a mașinii. Asta înseamnă cu noi[cityflitzer](https://cityflitzer.de/). Und gibt es natürlich noch Bus und Bahn welche Du ebenfalls über die Leipzig MOVE App bezahlen könnte.
 
 # Verifică
 
@@ -153,7 +153,7 @@ Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratui
 
 ## curatenie
 
--   Bettzeug kannst Du drauf lassen.
+-   Puteți lăsa lenjerie de pat pe el.
 -   Spal si vasele si
 -   Scot și gunoiul.
 
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Made with ❤️ by  [docsifica](https://docsify.js.org/)_
+_Realizat cu ❤️ de [docsifica](https://docsify.js.org/)_
