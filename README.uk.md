@@ -169,7 +169,7 @@ Alexa на стіні має назву «Комп’ютер» і також в
 
 ## Щітка для рук і совок
 
-На кухні ви знайдете щітку для рук і совок на стіні. Це допоможе вам позбутися дрібного бруду.
+In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Damit bekommst du den kleinen Dreck weg.
 
 ## Витріть
 
