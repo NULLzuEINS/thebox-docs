@@ -44,7 +44,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 ### W kuchni dostępne są następujące rzeczy
 
 1.  Stado
-2.  Wasserkocher
+2.  Czajnik
 3.  Naczynia sztućce
 4.  Lodówka
 5.  piec do pizzy
@@ -61,7 +61,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 ## Twój pokój
 
 Materace są ułożone jeden na drugim wyłącznie w celu przechowywania. Możesz je dystrybuować według swoich potrzeb.
-Jeśli zastąpisz poduszki na kanapie materacem, sprawdzi się ona również jako łóżko.
+Jeśli zastąpisz poduszki na kanapie materacem, będzie to dobre łóżko.
 
 ### Dane logowania do komputera (iMac) to
 
@@ -94,7 +94,7 @@ Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować n
 
 Z prysznica można korzystać na stojąco. Nie stanowi to problemu, jeśli ziemia lekko zamoknie. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
 
-Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Komputerze, włącz Deutschlandfunk Nova_"
+Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Computer, spiele Deutschlandfunk Nova_"
 
 Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jeden z nich jest Twój.
 
@@ -137,8 +137,8 @@ Zastanawiasz się dlaczego kosze na śmieci mają różne kolory? Jeżeli nie je
 
 ### Czy mój rower jest bezpieczny?
 
-Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
-Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
+Lipsk jest miastem bardzo przyjaznym rowerom. Przez duży park miejski, który dzieli miasto na dwie części, można dotrzeć do wielu miejsc i zazwyczaj jechać przez wieś.
+Jeśli wierzyć statystykom, w Lipsku co roku kradnie się najwięcej rowerów na mieszkańca. (1539 skradzionych rowerów na 100 000 mieszkańców) W ciągu 15 lat, odkąd mieszkam tutaj przy Hardenbergstraße, nigdy nie skradziono mi roweru i znam tylko jednego sąsiada, któremu skradziono rower z podwórka. Zawsze podłączam go bezpośrednio do poręczy.
 
 ### Jakie są alternatywy?
 
