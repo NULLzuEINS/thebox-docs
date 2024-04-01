@@ -6,7 +6,7 @@
 
 ## 图片
 
-在我的爱彼迎上，您可以详细了解所有房间和设施。这里只是一个简短的概述：
+Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -188,7 +188,7 @@ Passwort: thebox
 
 # 尖端
 
-随着[莱比锡 MOVE 应用程序](https://leipzig-move.de/)，您可以免费乘坐 10 次，每次 15 分钟_下一个自行车_。
+Mit der [莱比锡 MOVE 应用程序](https://leipzig-move.de/)，您可以免费乘坐 10 次，每次 15 分钟_下一个自行车_。
 请注意，如果您不在主要街道（地图上的紫色）上停放 Raf，费用会更高。
 电动滑板车只能停放在某些停车位。
 
