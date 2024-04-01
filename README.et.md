@@ -46,7 +46,7 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 1.  Kari
 2.  Veekeetja
 3.  Nõud söögiriistad
-4.  Külmik
+4.  Külmkapp
 5.  Pitsaahi
 6.  Mineraalvesi
 7.  Riiulil mobiiltelefoni laadimisjaam
@@ -106,7 +106,7 @@ Olete oodatud oma kingad siia jätma. Mul on riiulil ka väike märkmik juhuks, 
 
 ## Tark kodu
 
-Vannitoas ja köögis on Alexa hääleabilised. Saate neid adresseerida nimega “Computer” ja lasta neil näiteks Deutschlandfunk Novat mängida. Nad saavad aru saksa ja ka inglise keelest. Kui te ei soovi neid kasutada,
+Vannitoas ja köögis on Alexa hääleabilised. Saate neid adresseerida nimega “Arvuti” ja lasta neil näiteks Deutschlandfunk Novat mängida. Nad saavad aru saksa ja ka inglise keelest. Kui te ei soovi neid kasutada,
 Samuti saate selle lihtsalt vooluvõrgust lahti ühendada.
 
 Teie toas pole hääleabilisi. Riiulil olevas korvis on ainult ruuter ja väike arvuti.
@@ -127,7 +127,7 @@ Meie sisehoovis saate ühendada oma jalgrattad ja viia prügi ära.
 
 Kas kasutate välisukse võtit või sirutate käe läbi värava ja tunnete, kuidas uks avab. Kui hoiate nuppu all, saate ukse avada.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
+![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
 ### Kollane? Sinine? Roheline? Pruun?
 
@@ -142,7 +142,7 @@ Kui uskuda statistikat, siis Leipzigis varastatakse igal aastal kõige rohkem ja
 
 ### Milliseid alternatiive on?
 
-Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, igaüks 15 minutit_Järgmised jalgrattad_. Pange tähele, et see maksab rohkem, kui te ei pargi rattaid peatänavatele (kaardil lilla). E-tõukerattaid tohib parkida ainult teatud parkimiskohtadele. Olemas on ka vabalt ujuv autojagamissüsteem. See tähendab meiega[linnaflitzer](https://cityflitzer.de/). Ja loomulikult on bussid ja rongid, mille eest saate maksta ka Leipzigi MOVE rakenduse kaudu.
+Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, igaüks 15 minutit_Järgmised jalgrattad_. Pange tähele, et see maksab rohkem, kui te ei pargi rattaid peatänavatele (kaardil lilla). E-tõukerattaid tohib parkida ainult teatud parkimiskohtadele. Olemas on ka vabalt ujuv autojagamissüsteem. See tähendab meiega[cityflitzer](https://cityflitzer.de/). Ja loomulikult on bussid ja rongid, mille eest saate maksta ka Leipzigi MOVE rakenduse kaudu.
 
 # Kassasse
 
@@ -155,7 +155,7 @@ Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, 
 
 -   Selle peale võib jätta voodipesu.
 -   Samuti pesen nõusid ja
--   Viin ka prügi välja.
+-   den Müll bring ich auch raus.
 
 > Lühiversioon: jätke võti sinna, sulgege uks, see on kõik. 😀
 
@@ -188,7 +188,7 @@ Kui see on lõppenud, pange see laadimisjaama tagasi!
 
 # Näpunäiteid
 
-Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, igaüks 15 minutit_Järgmised jalgrattad_.
+Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die _Järgmised jalgrattad_.
 Pange tähele, et see maksab rohkem, kui te ei pargi Rafi peatänavatele (kaardil lilla).
 E-tõukerattaid tohib parkida ainult teatud parkimiskohtadele.
 
