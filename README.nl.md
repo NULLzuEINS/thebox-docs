@@ -47,7 +47,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 2.  Ketel
 3.  Servies bestek
 4.  Koelkast
-5.  pizza oven
+5.  Pizzaofen
 6.  Mineraalwater
 7.  Oplaadstation voor mobiele telefoons op de plank
 8.  wasmachine
@@ -60,8 +60,8 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 
 ## Jouw kamer
 
-Die Matratzen liegen nur zu Lagerung übereinander. Du kannst sie nach Deinen Bedürfnissen verteilen. 
-Wenn Du die Kissen auf der Couch durch eine Matratze ersetzt, eignet sie sich gut als Bett.
+De matrassen worden uitsluitend voor opslagdoeleinden op elkaar geplaatst. U kunt ze verdelen volgens uw behoeften.
+Als je de kussens op de bank vervangt door een matras, functioneert deze prima als bed.
 
 ### De inloggegevens voor de computer (iMac) zijn
 
@@ -76,7 +76,7 @@ Passwort: thebox
 2.  Computers en printers
 3.  Afstandsbedieningen voor verlichting en elektriciteit
 
-### Fernbedienungen
+### Afstandsbedieningen
 
 Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter dan studeren”. Je kunt niets breken. Druk op een paar knoppen en kijk wat er gebeurt. Als je nog steeds wilt studeren, is hier de juiste lectuur voor jou:
 
@@ -84,7 +84,7 @@ Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter 
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Kerstverlichting<br>C: Bureaulamp<br>D:_leer_<br>Master: Schakel alles tegelijk                                                                                                                                                                 |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Voordat u er gebruik van kunt maken, zorgt u ervoor dat de lichtschakelaar bij de ingang op "aan" staat.**<br>Eerste regel: helderheid, aan/uit<br>Gekleurde knoppen: Hiermee kunt u de kleuren wijzigen<br>Grijze knoppen: Schakelen tussen verschillende effecten |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Das ist die Fernbedienung für den Computer (iMac). _Om de computer te gebruiken, drukt u op de A-knop op de eerste afstandsbediening. Het activeert de voeding voor de computer en de Bluetooth-box._                                                                 |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Dit is de afstandsbediening voor de computer (iMac)._Om de computer te gebruiken, drukt u op de A-knop op de eerste afstandsbediening. Het activeert de voeding voor de computer en de Bluetooth-box._                                                                |
 
 ### Veelgestelde vragen - Uw kamer
 
@@ -92,7 +92,7 @@ Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter 
 
 ### badkamer
 
-U kunt staand van de douche gebruik maken. Het maakt niet uit als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
+U kunt staand van de douche gebruik maken. Het is geen probleem als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
 
 De Alexa aan de muur heet ‘Computer’ en speelt ook je favoriete muziek of radio af. Bijvoorbeeld "_Computer, speel Deutschlandfunk Nova_"
 
@@ -151,7 +151,7 @@ Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten va
 -   Afhankelijk van welke dag van de week het is, kunnen wij persoonlijk afscheid nemen, of u legt gewoon de sleutels op het bureau en sluit de deur achter u.
 -   Het uiterste tijdstip voor uitchecken is 19.00 uur op de dag van vertrek.
 
-## schoonmaak
+## Reinigung
 
 -   Je kunt er beddengoed op laten liggen.
 -   Ik doe ook de afwas en
@@ -206,4 +206,4 @@ André
 
 * * *
 
-_Gemaakt met ❤️ door [documenteren](https://docsify.js.org/)_
+_Gemaakt met ❤️ door [docsify](https://docsify.js.org/)_
