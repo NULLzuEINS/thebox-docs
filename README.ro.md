@@ -61,7 +61,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 ## Camera dvs
 
 Saltelele sunt așezate una peste alta numai în scop de depozitare. Le poți distribui în funcție de nevoile tale.
-Dacă înlocuiți pernele de pe canapea cu o saltea, aceasta funcționează bine ca un pat.
+Dacă înlocuiți pernele de pe canapea cu o saltea, este un pat bun.
 
 ### Detaliile de conectare pentru computer (iMac) sunt
 
@@ -96,7 +96,7 @@ Puteți folosi dușul în timp ce stați în picioare. Nu este o problemă dacă
 
 Alexa de pe perete poartă numele „Computer” și redă, de asemenea, muzica sau radioul preferat. De exemplu. "_Computer, joacă Deutschlandfunk Nova_"
 
-Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. O bucată din ea este a ta.
+Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. Unul dintre ei este al tău.
 
 ### Holul
 
@@ -137,8 +137,8 @@ Vă întrebați de ce coșurile de gunoi au culori diferite? Dacă nu sunteți s
 
 ### Este bicicleta mea în siguranță?
 
-Leipzig este un oraș foarte prietenos cu bicicletele. Prin parcul mare al orașului, care împarte orașul în două jumătăți, poți ajunge în multe locuri și, de obicei, să conduci prin mediul rural.
-Dacă credeți statisticile, atunci cele mai multe biciclete pe cap de locuitor sunt furate în Leipzig în fiecare an. (1.539 de biciclete furate la 100.000 de locuitori) În cei 15 ani de când locuiesc aici, pe Hardenbergstraße, nu mi s-a furat niciodată o bicicletă și știu doar un vecin căruia i-a fost furată bicicleta din curtea din spate. Îl conectez întotdeauna direct la balustradă.
+Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
+Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
 
 ### Ce alternative există?
 
