@@ -51,10 +51,6 @@ jobs:
         with:
           name: thebox-pdf-de
           path: thebox.de.pdf
-      - name: Step 2.2 List files
-        run: |
-          ls -lisah
-          ls -lisah thebox-pdf-de
       - name: Step 3. Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -85,7 +81,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./${{ env.THEBOX_FILENAME }}-pdf-de/${{ env.THEBOX_FILENAME }}.de.pdf
+          asset_path: ./${{ env.THEBOX_FILENAME }}.de.pdf
           asset_name: ${{ env.THEBOX_FILENAME }}.de.pdf
           asset_content_type: application/pdf
 
