@@ -135,7 +135,7 @@ O usas la llave de la puerta principal o cruzas la puerta y sientes el botón pa
 
 ### Ciclos
 
-### ¿Mi bicicleta es segura?
+### Ist mein Fahrrad sicher?
 
 Leipzig es una ciudad muy amigable con las bicicletas. A través del gran parque urbano que divide la ciudad en dos mitades, se puede llegar a muchos lugares y normalmente conducir por el campo.
 Si nos fijamos en las estadísticas, en Leipzig se roban cada año el mayor número de bicicletas per cápita. (1.539 bicicletas robadas por cada 100.000 habitantes) Desde hace 15 años que vivo aquí en Hardenbergstraße, nunca me han robado una bicicleta y sólo conozco a un vecino a quien le robaron la bicicleta en su patio trasero. Siempre lo conecto directamente a la barandilla.
