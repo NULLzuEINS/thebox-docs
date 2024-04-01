@@ -19,7 +19,7 @@ jobs:
         uses: xom9ikk/dotenv@v2
       - name: Step 3 - Generate the documents using Docker for -${{ matrix.language }}
         run: |
-          ./Scripts/build.sh -l ${{ matrix.language }}
+          ./Scripts/build.sh ${{ matrix.language }}
           ls -lisah Temp/Results
 
       - name: Step 4 - Upload PDF artifact for ${{ matrix.language }}
