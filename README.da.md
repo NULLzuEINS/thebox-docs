@@ -1,4 +1,4 @@
-# Velkommen
+# Velkommen til The Box
 
 Hej og velkommen til "Boksen"! Når jeg rejser, kan jeg også godt lide at bo i AirBnB's, og nogle gange ville jeg ønske, at jeg havde et stykke papir med alle de nødvendige oplysninger om overnatning, ind- og udtjekning, og dette er mit forsøg på at gøre det bedre.
 
@@ -14,7 +14,7 @@ På min AirBnB får du et detaljeret overblik over alle værelserne og facilitet
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Skrivebord med lys                                                                     | Køkken - komfur                                                               | Køkken - te                                                                             |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Schreibtisch mit Licht                                                                 | Køkken - komfur                                                               | Køkken - te                                                                             |
+| Skrivebord med lys                                                                     | Køkken - komfur                                                               | Køkken - te                                                                             |
 
 ## Nøgle
 
@@ -61,7 +61,7 @@ Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. 
 ## Dit værelse
 
 Madrasserne placeres kun oven på hinanden til opbevaringsformål. Du kan fordele dem efter dine behov.
-Udskifter du puderne på sofaen med en madras, fungerer den godt som seng.
+Udskifter du puderne på sofaen med en madras, er det en god seng.
 
 ### Loginoplysningerne til computeren (iMac) er
 
