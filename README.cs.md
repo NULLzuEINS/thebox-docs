@@ -92,7 +92,7 @@ Pro všechna dálková ovládání platí staré německé přísloví: „Zkou�
 
 ### koupelna
 
-Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
+Sprchu můžete používat ve stoje. Nevadí, když se půda trochu namočí. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
 
 Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
 
@@ -133,7 +133,7 @@ Buď použijete klíč od předních dveří, nebo sáhnete skrz bránu a nahmat
 
 Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jistí, vždy dávejte odpadky do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
 
-### jízdní kola
+### Cykly
 
 ### Je moje kolo bezpečné?
 
@@ -167,7 +167,7 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných j�
 
 Pračku můžete používat, aniž byste se museli nejprve ptát. Využít můžete i sušák, prací prášek a aviváž. Pokud byste chtěli nové ložní prádlo, stačí se mi domluvit.
 
-## Handfeger und Kehrblech
+## Ruční kartáč a lopatka
 
 V kuchyni najdete na stěně kartáč na ruce a lopatku. To vám pomůže zbavit se drobných nečistot.
 
@@ -177,12 +177,12 @@ Zelený čisticí prostředek najdete v rozprašovači v koupelně na vytírán�
 
 ## Vysavač
 
-Für den Fußboden habe ich einen Staubsauger-Roboter.
-Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
-Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
-Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
-Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
-anschalten noch einmal auf den Knopf auf drt Oberseite.
+Mám robotický vysavač na podlahu.
+Než začnete, vyčistěte vše na podlaze z cesty.
+Zejména šňůry nebo jiné věci, kterými by se robot mohl udusit.
+Poté jej dejte do svého pokoje a jednou stiskněte tlačítko nahoře.
+Pokud se nic neděje, použijte vypínač na boku a po něm
+znovu jej zapněte pomocí tlačítka na horní straně.
 
 Po dokončení jej vraťte zpět do nabíjecí stanice!
 
