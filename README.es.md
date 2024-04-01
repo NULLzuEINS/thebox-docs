@@ -20,7 +20,7 @@ En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las
 
 Obtienes dos pares de llaves, cada una con una llave para la parte inferior y otra para la parte superior. También hay una llave en un llavero que puedes usar para cerrar tu habitación.
 
-## Internetzugang
+## acceso a Internet
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -37,7 +37,7 @@ O escaneas este código QR, te conectará automáticamente a la red:
 
 ## Cocina
 
-Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunadamente, solo se puede lavar en el lavabo del baño. Pero hay un recipiente especial para lavar los platos.
+Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -61,7 +61,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 ## Tu cuarto
 
 Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades.
-Si reemplazas las almohadas del sofá por un colchón, funcionará bien como cama.
+Si reemplazas los cojines del sofá por un colchón, será una buena cama.
 
 ### Los detalles de inicio de sesión para la computadora (iMac) son
 
@@ -111,7 +111,7 @@ También puedes simplemente desconectarlo de la corriente.
 
 No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene el enrutador y una pequeña computadora.
 
-## Temperatur und Feuchtigkeit
+## temperatura y humedad
 
 La temperatura y la humedad se miden automáticamente a través de los sensores. Los uso para prevenir la formación de moho. Son pequeños y blancos y normalmente se encuentran en los marcos de las puertas. Puedes leer algunos de los datos de medición en el espejo del pasillo.
 
@@ -146,7 +146,7 @@ Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes g
 
 # Verificar
 
-## Schlüssel
+## Llave
 
 -   Dependiendo del día de la semana que sea, podemos despedirnos en persona, o simplemente puedes dejar las llaves en el escritorio y cerrar la puerta detrás de ti.
 -   La última hora de salida es a las 19:00 horas del día de salida.
@@ -201,8 +201,8 @@ Si tienes prisa, lo mejor es hacerlo por teléfono. <a href="tel:+491707353067"
 También puede utilizar la aplicación de mensajería preinstalada con funcionalidad limitada (SMS).
 De lo contrario, tengo una libreta y un bolígrafo en el pasillo.
 
-Ich wünsche einen schönen Aufenthalt in Leipzig!
-André
+¡Les deseo una agradable estancia en Leipzig!
+andré
 
 * * *
 
