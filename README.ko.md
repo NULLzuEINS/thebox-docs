@@ -2,7 +2,7 @@
 
 안녕하세요, “Box”에 오신 것을 환영합니다! 여행할 때 에어비앤비에 머무르는 것도 좋아하는데 때로는 숙소, 체크인, 체크아웃에 대해 필요한 모든 정보가 적힌 종이가 있었으면 좋겠는데 이것이 더 나은 서비스를 제공하려는 시도입니다.
 
-> [!공지사항]해당 문서를 귀하의 언어로 자동 번역해 드리겠습니다. 어느 정도 이해가 되셨으면 좋겠습니다. 그렇지 않은 경우에는 나에게 메시지를 보내 주시기 바랍니다. 그런 다음 개선하려고 노력합니다.
+> [!Hinweis]해당 문서를 귀하의 언어로 자동 번역해 드리겠습니다. 어느 정도 이해가 되셨으면 좋겠습니다. 그렇지 않은 경우에는 나에게 메시지를 보내 주시기 바랍니다. 그런 다음 개선하려고 노력합니다.
 
 ## 영화
 
@@ -35,7 +35,7 @@ Passwort: landungsbruecken
 
 ![Raumplan](_media/thebox-map.png)
 
-## Küche
+## 주방
 
 저는 주로 아래층에서 가족들과 함께 식사를 하기 때문에 주방이 매우 깔끔합니다. 아쉽게도 설거지는 화장실 세면대에서만 가능합니다. 하지만 설거지를 위한 특별한 용기가 있습니다.
 
@@ -125,7 +125,7 @@ Passwort: thebox
 
 ### 문은 어떻게 열리나요?
 
-Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
+현관문 열쇠를 사용하거나, 대문을 통해 손을 뻗어 버튼을 눌러 문을 엽니다. 버튼을 누르고 있는 동안 문을 열 수 있습니다.
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
