@@ -18,7 +18,7 @@ Minu AirBnB-s saate üksikasjaliku ülevaate kõigist tubadest ja mugavustest. S
 
 ## Võti
 
-Saate kaks paari võtmeid, millest igaühel on üks võti alumise ja üks ülemise jaoks. Võtmehoidjal on ka võti, millega saad oma toa lukustada.
+Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du Dein Zimmer abschließen kannst.
 
 ## internetiühendus
 
@@ -61,7 +61,7 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 ## Sinu tuba
 
 Madratsid asetatakse üksteise peale ainult ladustamise eesmärgil. Saate neid vastavalt oma vajadustele levitada.
-Kui asendad diivanil olevad padjad madratsiga, siis sobib see hästi voodina.
+Kui asendad diivanil olevad padjad madratsiga, saab sellest hea voodi.
 
 ### Arvuti (iMac) sisselogimisandmed on
 
@@ -84,7 +84,7 @@ Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". 
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Haldjatuled<br>C: laualamp<br>D:_faili_<br>Meister: Lülitage kõike korraga                                                                                                                                            |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Enne selle kasutamist veenduge, et sissepääsu valguslüliti oleks asendis "sees".**<br>Esimene rida: heledus, sisse/välja<br>Värvilised nupud: saate seda kasutada värvide muutmiseks<br>Hallid nupud: erinevate efektide vahel vahetamine |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | See on arvuti (iMac) kaugjuhtimispult._Arvuti kasutamiseks vajutage esimesel kaugjuhtimispuldil nuppu A. See aktiveerib arvuti ja Bluetooth-boksi toiteallika._                                                                             |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | See on arvuti (iMac) kaugjuhtimispult._Arvuti kasutamiseks vajutage esimesel kaugjuhtimispuldil nuppu A. See aktiveerib arvuti ja Bluetooth-kasti toiteallika._                                                                             |
 
 ### KKK – Sinu tuba
 
@@ -96,7 +96,7 @@ Dušši saate kasutada seistes. Pole probleemi, kui maapind veidi märjaks saab.
 
 Seinal olev Alexa kannab nime "Computer" ja mängib ka teie lemmikmuusikat või raadiot. Nt "_Arvuti, mängi Deutschlandfunk Nova_"
 
-Saate riputada rätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks neist on sinu oma.
+Saate riputada käterätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks neist on sinu oma.
 
 ### Esik
 
@@ -123,7 +123,7 @@ Meie sisehoovis saate ühendada oma jalgrattad ja viia prügi ära.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
-### Kuidas värav avaneb?
+### Wie geht das Tor auf?
 
 Kas kasutate välisukse võtit või sirutate käe läbi värava ja tunnete, kuidas uks avab. Kui hoiate nuppu all, saate ukse avada.
 
@@ -197,7 +197,7 @@ Olen salvestanud reisijuhid AirBnB rakendusse. Sealt leiate minu soovitused vaat
 # Küsimused?
 
 Kui teil on küsimusi või vajate tuge, aitan teid hea meelega.
-Kui teil on kiire, on parem seda teha telefoni teel <a href="tel:+491707353067">+49 170 73 53 067</a>.
+Kui teil on kiire, on parem seda teha telefoni teel  <a href="tel:+491707353067">+49 170 73 53 067</a>.
 Võite kasutada ka eelinstallitud piiratud funktsionaalsusega sõnumirakendust (SMS).
 Muidu on mul koridoris märkmik ja pastakas.
 
