@@ -14,7 +14,7 @@ Minu AirBnB-s saate üksikasjaliku ülevaate kõigist tubadest ja mugavustest. S
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Valgustiga kirjutuslaud                                                                | Köök - pliit                                                                  | Köök - tee                                                                              |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Valgustiga kirjutuslaud                                                                | Köök - pliit                                                                  | Küche - Tee                                                                             |
+| Valgustiga kirjutuslaud                                                                | Köök - pliit                                                                  | Köök - tee                                                                              |
 
 ## Võti
 
@@ -46,22 +46,22 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 1.  Kari
 2.  Veekeetja
 3.  Nõud söögiriistad
-4.  Külmkapp
+4.  Külmik
 5.  Pitsaahi
 6.  Mineraalvesi
 7.  Riiulil mobiiltelefoni laadimisjaam
-8.  Waschmaschine
+8.  pesumasin
 
 ### KKK – Köök
 
 1.  Ahi ei tööta? Palun ütle
-    > "Computer, Werkbank an"
+    > "Arvuti, töölaud ja"
 2.  Kus ma saan pesta? See toimib ainult vannitoas. Nõude pesemiseks on spetsiaalne anum.
 
 ## Sinu tuba
 
 Madratsid asetatakse üksteise peale ainult ladustamise eesmärgil. Saate neid vastavalt oma vajadustele levitada.
-Kui asendad diivanil olevad padjad madratsiga, saab sellest hea voodi.
+Kui asendad diivanil olevad padjad madratsiga, siis sobib see hästi voodina.
 
 ### Arvuti (iMac) sisselogimisandmed on
 
@@ -80,11 +80,11 @@ Passwort: thebox
 
 Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". Sa ei saa midagi murda. Vajutage mõnda nuppu ja vaadake, mis juhtub. Kui soovite siiski õppida, siis siin on teile sobiv lugemine:
 
-| Illustratsioon                                            | Kirjeldus                                                                                                                                                                                                                                |
-| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Haldjatuled<br>C: laualamp<br>D:_faili_<br>Meister: Lülitage kõike korraga                                                                                                                                         |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Enne selle kasutamist veenduge, et sissepääsu valguslüliti oleks asendis "sees".**<br>Esimene rida: heledus, sisse/välja<br>Farbige Tasten: Hiermit kannst Du die Farben wechseln<br>Hallid nupud: erinevate efektide vahel vahetamine |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | See on arvuti (iMac) kaugjuhtimispult._Arvuti kasutamiseks vajutage esimesel kaugjuhtimispuldil nuppu A. See aktiveerib arvuti ja Bluetooth-kasti toiteallika._                                                                          |
+| Illustratsioon                                            | Kirjeldus                                                                                                                                                                                                                                   |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Haldjatuled<br>C: laualamp<br>D:_faili_<br>Meister: Lülitage kõike korraga                                                                                                                                            |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Enne selle kasutamist veenduge, et sissepääsu valguslüliti oleks asendis "sees".**<br>Esimene rida: heledus, sisse/välja<br>Värvilised nupud: saate seda kasutada värvide muutmiseks<br>Hallid nupud: erinevate efektide vahel vahetamine |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | See on arvuti (iMac) kaugjuhtimispult._Arvuti kasutamiseks vajutage esimesel kaugjuhtimispuldil nuppu A. See aktiveerib arvuti ja Bluetooth-boksi toiteallika._                                                                             |
 
 ### KKK – Sinu tuba
 
@@ -96,7 +96,7 @@ Dušši saate kasutada seistes. Pole probleemi, kui maapind veidi märjaks saab.
 
 Seinal olev Alexa kannab nime "Computer" ja mängib ka teie lemmikmuusikat või raadiot. Nt "_Arvuti, mängi Deutschlandfunk Nova_"
 
-Saate riputada käterätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks neist on sinu oma.
+Saate riputada rätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks neist on sinu oma.
 
 ### Esik
 
@@ -106,7 +106,7 @@ Olete oodatud oma kingad siia jätma. Mul on riiulil ka väike märkmik juhuks, 
 
 ## Tark kodu
 
-Vannitoas ja köögis on Alexa hääleabilised. Saate neid adresseerida nimega “Arvuti” ja lasta neil näiteks Deutschlandfunk Novat mängida. Nad saavad aru saksa ja ka inglise keelest. Kui te ei soovi neid kasutada,
+Vannitoas ja köögis on Alexa hääleabilised. Saate neid adresseerida nimega “Computer” ja lasta neil näiteks Deutschlandfunk Novat mängida. Nad saavad aru saksa ja ka inglise keelest. Kui te ei soovi neid kasutada,
 Samuti saate selle lihtsalt vooluvõrgust lahti ühendada.
 
 Teie toas pole hääleabilisi. Riiulil olevas korvis on ainult ruuter ja väike arvuti.
@@ -148,7 +148,7 @@ Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, 
 
 ## Võti
 
--   Je nach dem welcher Wochentag ist, können wir uns persönlich verabschieden, oder du legst einfach die Schlüssel auf den Schreibtisch und ziehst die Tür hinter Dir zu.
+-   Olenevalt nädalapäevast saame isiklikult hüvasti jätta või lihtsalt võtmed lauale panna ja ukse enda järel sulgeda.
 -   Viimane väljaregistreerimise aeg on väljumispäeval kell 19.00.
 
 ## puhastamine
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Made with ❤️ by  [dokumenteerida](https://docsify.js.org/)_
+_Valmistatud ❤️ abil [dokumenteerida](https://docsify.js.org/)_
