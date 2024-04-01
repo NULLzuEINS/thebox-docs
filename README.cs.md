@@ -12,7 +12,7 @@ Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zd
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Konfigurace s jednou postelí s pohovkou                                                | Konfigurace se dvěma lůžky                                                    | Lavice                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Psací stůl se světlem                                                                  | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
+| Stůl se světlem                                                                        | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Psací stůl se světlem                                                                  | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
 
@@ -61,7 +61,7 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 ## Tvůj pokoj
 
 Matrace se pokládají na sebe pouze pro účely skladování. Můžete je distribuovat podle svých potřeb.
-Pokud polštáře na gauči nahradíte matrací, funguje dobře jako postel.
+Pokud vyměníte polštáře na gauči za matraci, je z toho dobrá postel.
 
 ### Přihlašovací údaje pro počítač (iMac) jsou
 
@@ -106,7 +106,7 @@ Zde si můžete nechat boty. Na poličce mám také malý poznámkový blok, kdy
 
 ## Chytrý domov
 
-V koupelně a kuchyni jsou hlasoví asistenti Alexa. Můžete je oslovovat „Computer“ a nechat je hrát například Deutschlandfunk Nova. Rozumí německy a také anglicky. Pokud je nechcete používat,
+V koupelně a kuchyni jsou hlasoví asistenti Alexa. Můžete je oslovovat jménem „Computer“ a nechat je hrát například Deutschlandfunk Nova. Rozumí německy a také anglicky. Pokud je nechcete používat,
 Můžete jej také jednoduše odpojit od napájení.
 
 Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje pouze router a malý počítač.
@@ -153,7 +153,7 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných j�
 
 ## čištění
 
--   Můžete na něm nechat ložní prádlo.
+-   Můžete na něm nechat lůžkoviny.
 -   Také myji nádobí a
 -   Také vynáším odpadky.
 
@@ -163,7 +163,7 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných j�
 
 ?> Někteří z mých hostů zůstávají měsíc nebo déle. Pokud jste jedním z nich, pak je tato sekce určena právě vám!
 
-## pračka
+## Waschmaschine
 
 Pračku můžete používat, aniž byste se museli nejprve ptát. Využít můžete i sušák, prací prášek a aviváž. Pokud byste chtěli nové ložní prádlo, stačí se mi domluvit.
 
