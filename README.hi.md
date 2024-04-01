@@ -60,8 +60,8 @@ Passwort: landungsbruecken
 
 ## आपका कमरा
 
-गद्दे केवल भंडारण के उद्देश्य से एक दूसरे के ऊपर रखे जाते हैं। आप इन्हें अपनी जरूरत के हिसाब से बांट सकते हैं.
-यदि आप सोफे पर कुशन के स्थान पर गद्दा लगा दें तो यह एक अच्छा बिस्तर बन जाता है।
+Die Matratzen liegen nur zu Lagerung übereinander. Du kannst sie nach Deinen Bedürfnissen verteilen. 
+Wenn Du die Kissen auf der Couch durch eine Matratze ersetzt, eignet sie sich gut als Bett.
 
 ### कंप्यूटर (iMac) के लिए लॉगिन विवरण हैं
 
@@ -184,7 +184,7 @@ Passwort: thebox
 यदि कुछ नहीं होता है, तो साइड में और बाद में ऑन/ऑफ स्विच का उपयोग करें
 शीर्ष पर बटन का उपयोग करके इसे फिर से चालू करें।
 
-जब यह ख़त्म हो जाए, तो कृपया इसे वापस चार्जिंग स्टेशन में रख दें!
+Wenn er fertig ist, stelle ihn bitte wieder zurück in die Ladestation!
 
 # सुझावों
 
