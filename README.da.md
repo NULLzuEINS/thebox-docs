@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
+Eller du scanner denne QR-kode, den vil automatisk forbinde dig til netværket:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -184,7 +184,7 @@ Sæt den derefter på dit værelse og tryk én gang på knappen øverst.
 Hvis der ikke sker noget, skal du bruge tænd/sluk-knappen på siden og efter
 tænd den igen ved hjælp af knappen øverst.
 
-Wenn er fertig ist, stelle ihn bitte wieder zurück in die Ladestation!
+Når det er færdigt, skal du sætte det tilbage i ladestationen!
 
 # Tips
 
