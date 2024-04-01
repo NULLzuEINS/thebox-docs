@@ -4,7 +4,7 @@ Hej og velkommen til "Boksen"! Når jeg rejser, kan jeg også godt lide at bo i 
 
 > [!En meddelelse]Jeg vil få dokumentet automatisk oversat til dit sprog. Jeg håber det er lidt forståeligt. Hvis ikke, er du velkommen til at skrive en besked til mig. Så prøver jeg at forbedre det.
 
-## Billeder
+## Bilder
 
 På min AirBnB får du et detaljeret overblik over alle værelserne og faciliteterne. Her er blot en kort oversigt:
 
@@ -37,7 +37,7 @@ Eller du scanner denne QR-kode, den vil automatisk forbinde dig til netværket:
 
 ## Køkken
 
-Da jeg plejer at spise nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
+Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -61,7 +61,7 @@ Da jeg plejer at spise nedenunder med min familie, er køkkenet meget spartansk.
 ## Dit værelse
 
 Madrasserne placeres kun oven på hinanden til opbevaringsformål. Du kan fordele dem efter dine behov.
-Udskifter du puderne på sofaen med en madras, fungerer den godt som seng.
+Udskifter du puderne på sofaen med en madras, er det en god seng.
 
 ### Loginoplysningerne til computeren (iMac) er
 
@@ -70,7 +70,7 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Folgende Dinge stehen im Zimmer zur Verfügung
+### Følgende ting er tilgængelige i rummet
 
 1.  Alle møbler og senge
 2.  Computere og printere
@@ -113,9 +113,9 @@ Der er ingen stemmeassistenter på dit værelse. Kurven på hylden indeholder ku
 
 ## temperatur og fugtighed
 
-Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre dannelse af skimmelsvamp. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
+Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre mugdannelse. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
 
-?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Især på badeværelset. Sørg også for, at varmen er slukket. Tak 🙏
+?> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Achte dabei auch darauf, dass die Heizung abgestellt ist. Danke 🙏
 
 ## Gården
 
@@ -140,7 +140,7 @@ Undrer du dig over, hvorfor skraldespandene har forskellige farver? Hvis du er u
 Leipzig er en meget cykelvenlig by. Gennem den store bypark, der deler byen i to halvdele, kan man komme mange steder hen og normalt køre gennem landskabet.
 Hvis man skal tro statistikken, så stjæles der flest cykler pr. indbygger i Leipzig hvert år. (1.539 stjålne cykler pr. 100.000 indbyggere) I de 15 år, siden jeg har boet her på Hardenbergstraße, har jeg aldrig fået stjålet en cykel, og jeg kender kun én nabo, hvis cykel blev stjålet fra hans baghave. Jeg forbinder den altid direkte til rækværket.
 
-### Hvilke alternativer er der?
+### Welche Alternativen gibt es
 
 Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 15 minutter hver for_Nextbikes_. Bemærk, at det koster mere, hvis du ikke parkerer dine cykler på hovedgaderne (lilla på kortet). El-scooterne må kun parkeres på visse parkeringspladser. Der er også et free-float delebilssystem. Det betyder med os[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er der busser og tog, som du også kunne betale for via Leipzig MOVE-appen.
 
