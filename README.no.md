@@ -20,7 +20,7 @@ På min AirBnB får du en detaljert oversikt over alle rommene og fasilitetene. 
 
 Du får to par nøkler, hver med en nøkkel for bunnen og en for toppen. Det er også en nøkkel på en nøkkelring som du kan bruke til å låse rommet ditt.
 
-## Internetzugang
+## Internettilgang
 
 ```txt
 SSID:     hamburg-bei-nacht
