@@ -46,8 +46,8 @@ Passwort: landungsbruecken
 1.  떼
 2.  주전자
 3.  식기류
-4.  Kühlschrank
-5.  Pizzaofen
+4.  냉장고
+5.  피자 오븐
 6.  광천수
 7.  선반에 휴대폰 충전 스테이션
 8.  세탁기
@@ -88,7 +88,7 @@ Passwort: thebox
 
 ### FAQ - 객실
 
-1.  불이 들어오지 않거나 심하게 깜박입니다. 다채로운 버튼이 있는 작은 리모콘을 사용하세요.
+1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
 
 ### 화장실
 
@@ -96,7 +96,7 @@ Passwort: thebox
 
 벽에 걸린 Alexa는 "컴퓨터"라는 이름으로 불리며 좋아하는 음악이나 라디오도 재생합니다. 예: "_컴퓨터, Deutschlandfunk Nova 플레이_"
 
-모든 후크에 수건을 걸고 물건을 어디에나 놓을 수 있습니다. 욕실 문 앞에 선반이 있습니다. 그 중 하나는 당신 것입니다.
+모든 후크에 수건을 걸고 물건을 어디에나 놓을 수 있습니다. 욕실 문 앞에 선반이 있습니다. 그 중 한 조각은 당신의 것입니다.
 
 ### 현관
 
@@ -140,9 +140,9 @@ Passwort: thebox
 라이프치히는 자전거 친화적인 도시입니다. 도시를 두 부분으로 나누는 대규모 도시 공원을 통해 여러 곳으로 이동할 수 있으며 일반적으로 시골 지역을 운전할 수 있습니다.
 통계에 따르면 매년 라이프치히에서 1인당 가장 많은 자전거가 도난당합니다. (인구 100,000명당 자전거 도난 1,539대) 이곳 Hardenbergstraße에 거주한 지 15년 동안 저는 자전거를 도난당한 적이 없으며 뒷마당에서 자전거를 도난당한 이웃이 한 명밖에 없습니다. 나는 항상 그것을 난간에 직접 연결합니다.
 
-### 어떤 대안이 있나요?
+### Welche Alternativen gibt es
 
-와 더불어[라이프치히 MOVE 앱](https://leipzig-move.de/), 각 15분씩 10회 무료 탑승권을 드립니다._다음자전거_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden. Es gibt auch ein Free-Float-Car-Shairing-System. Das heißt bei uns [시티플리처](https://cityflitzer.de/). 물론 Leipzig MOVE 앱을 통해 비용을 지불할 수 있는 버스와 기차도 있습니다.
+와 더불어[라이프치히 MOVE 앱](https://leipzig-move.de/), 각 15분씩 10회 무료 탑승권을 드립니다._다음자전거_. 주요 도로(지도에서 보라색)에 자전거를 주차하지 않으면 비용이 더 많이 든다는 점에 유의하세요. 전기 스쿠터는 특정 주차 공간에만 주차할 수 있습니다. 무상 차량 공유 시스템도 있습니다. 그 말은 우리와 함께라는 뜻이에요[시티플리처](https://cityflitzer.de/). 물론 Leipzig MOVE 앱을 통해 비용을 지불할 수 있는 버스와 기차도 있습니다.
 
 # 점검
 
