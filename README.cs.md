@@ -127,7 +127,7 @@ Na našem dvoře si můžete připojit kola a odvézt odpadky.
 
 Buď použijete klíč od předních dveří, nebo sáhnete skrz bránu a nahmatáte tlačítko k otevření dveří. Podržením tlačítka můžete otevřít dveře.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
+![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
 ### Žlutá? Modrý? Zelená? Hnědý?
 
