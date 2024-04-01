@@ -2,7 +2,7 @@
 
 Hallo en welkom bij de “Box”! Als ik reis, verblijf ik ook graag in AirBnB's en soms zou ik willen dat ik een vel papier had met alle nodige informatie over de accommodatie, het in- en uitchecken en dit is mijn poging om het beter te maken.
 
-> [!Hinweis]Ik zal het document automatisch in uw taal laten vertalen. Ik hoop dat het enigszins begrijpelijk is. Zo niet, schrijf mij dan gerust een bericht. Dan probeer ik het te verbeteren.
+> [!Een mededeling]Ik zal het document automatisch in uw taal laten vertalen. Ik hoop dat het enigszins begrijpelijk is. Zo niet, schrijf mij dan gerust een bericht. Dan probeer ik het te verbeteren.
 
 ## Afbeeldingen
 
@@ -14,7 +14,7 @@ Op mijn AirBnB krijg je een gedetailleerd overzicht van alle kamers en de facili
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Bureau met licht                                                                       | Fornuis                                                                       | Keuken - thee                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Bureau met licht                                                                       | Küche - Herd                                                                  | Keuken - thee                                                                           |
+| Bureau met licht                                                                       | Fornuis                                                                       | Keuken - thee                                                                           |
 
 ## Sleutel
 
@@ -31,7 +31,7 @@ Of u scant deze QR-code, deze verbindt u automatisch met het netwerk:
 
 ![WiFi](_media/wlan.png ":size=200")
 
-# Die Zimmer
+# De kamers
 
 ![Raumplan](_media/thebox-map.png)
 
@@ -48,7 +48,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 3.  Servies bestek
 4.  Koelkast
 5.  pizza oven
-6.  Mineralwasser
+6.  Mineraalwater
 7.  Oplaadstation voor mobiele telefoons op de plank
 8.  wasmachine
 
@@ -61,7 +61,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 ## Jouw kamer
 
 De matrassen worden uitsluitend voor opslagdoeleinden op elkaar geplaatst. U kunt ze verdelen volgens uw behoeften.
-Als je de kussens op de bank vervangt door een matras, functioneert deze prima als bed.
+Als je de kussens van de bank vervangt door een matras, ontstaat er een goed bed.
 
 ### De inloggegevens voor de computer (iMac) zijn
 
@@ -92,11 +92,11 @@ Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter 
 
 ### badkamer
 
-U kunt staand van de douche gebruik maken. Het is geen probleem als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
+U kunt staand van de douche gebruik maken. Het maakt niet uit als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
 
 De Alexa aan de muur heet ‘Computer’ en speelt ook je favoriete muziek of radio af. Bijvoorbeeld "_Computer, speel Deutschlandfunk Nova_"
 
-Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén stukje ervan is van jou.
+Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén ervan is van jou.
 
 ### Gang
 
@@ -131,7 +131,7 @@ Of je gebruikt de sleutel van de voordeur, of je reikt door het hek en voelt aan
 
 ### Geel? Blauw? Groente? Bruin?
 
-Du fragst Dich warum die Mülltonnen verschiedene Farben haben? Wenn Du dir unsicher bist, mach den Müll immer in die grüne Tonne. Darin landet der Restmüll. Profis machen den Papiermüll in die blaue Tonne, Wertstoffe in die gelbe Tonne und organische Abfälle in die braune Tonne.
+Vraag je je af waarom de vuilnisbakken verschillende kleuren hebben? Als u het niet zeker weet, deponeer het afval dan altijd in de groene bak. Daarin komt het restafval terecht. Professionals gooien papierafval in de blauwe bak, recyclebaar afval in de gele bak en organisch afval in de bruine bak.
 
 ### Cycli
 
@@ -140,20 +140,20 @@ Du fragst Dich warum die Mülltonnen verschiedene Farben haben? Wenn Du dir unsi
 Leipzig is een zeer fietsvriendelijke stad. Via het grote stadspark dat de stad in twee helften verdeelt, kun je op veel plekken komen en meestal door het platteland rijden.
 Als je de statistieken mag geloven, worden in Leipzig jaarlijks de meeste fietsen per hoofd van de bevolking gestolen. (1.539 gestolen fietsen per 100.000 inwoners) In de 15 jaar sinds ik hier aan de Hardenbergstraße woon, is er nog nooit een fiets gestolen en ken ik slechts één buurman wiens fiets uit zijn achtertuin is gestolen. Ik sluit hem altijd rechtstreeks aan op de reling.
 
-### Welche Alternativen gibt es
+### Welke alternatieven zijn er?
 
-Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten van elk 15 minuten voor de_Volgendefietsen_. Houd er rekening mee dat het meer kost als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). Und gibt es natürlich noch Bus und Bahn welche Du ebenfalls über die Leipzig MOVE App bezahlen könnte.
+Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten van elk 15 minuten voor de_Volgendefietsen_. Houd er rekening mee dat het meer kost als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). En natuurlijk zijn er bussen en treinen die je ook via de Leipzig MOVE-app kunt betalen.
 
 # Uitchecken
 
 ## Sleutel
 
 -   Afhankelijk van welke dag van de week het is, kunnen wij persoonlijk afscheid nemen, of u legt gewoon de sleutels op het bureau en sluit de deur achter u.
--   Der späteste Zeitpunkt für den Checkout ist am Abreisetag 19 Uhr.
+-   Het uiterste tijdstip voor uitchecken is 19.00 uur op de dag van vertrek.
 
 ## schoonmaak
 
--   Bettzeug kannst Du drauf lassen.
+-   Je kunt er beddengoed op laten liggen.
 -   Ik doe ook de afwas en
 -   Ik zet ook het afval buiten.
 
@@ -206,4 +206,4 @@ André
 
 * * *
 
-_Made with ❤️ by   [documenteren](https://docsify.js.org/)_
+_Gemaakt met ❤️ door [documenteren](https://docsify.js.org/)_
