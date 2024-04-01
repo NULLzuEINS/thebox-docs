@@ -2,8 +2,7 @@
 
 Здраво и добродошли у „Бокс“! Када путујем, такође волим да боравим у АирБнБ-у и понекад пожелим да имам парче папира са свим потребним информацијама о смештају, пријави и одјави и ово је мој покушај да га побољшам.
 
-> [!Обавештење]
-> Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
+> [!Обавештење]Документ ћу аутоматски превести на ваш језик. Надам се да је донекле разумљиво. Ако не, слободно ми напишите поруку. Онда покушавам да га побољшам.
 
 ## Слике
 
@@ -11,7 +10,7 @@
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Једнокреветна конфигурација са каучем                                                  | Двокреветна конфигурација                                                     | Schreibtisch                                                                            |
+| Једнокреветна конфигурација са каучем                                                  | Двокреветна конфигурација                                                     | Радни сто                                                                               |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Радни сто са светлом                                                                   | Кухиња - шпорет                                                               | Кухиња - чај                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -32,7 +31,7 @@ Passwort: landungsbruecken
 
 ![WiFi](_media/wlan.png ":size=200")
 
-# Die Zimmer
+# Собе
 
 ![Raumplan](_media/thebox-map.png)
 
@@ -62,7 +61,7 @@ Passwort: landungsbruecken
 ## Твоја соба
 
 Душеци се постављају један на други само за потребе складиштења. Можете их дистрибуирати према вашим потребама.
-Ако јастуке на каучу замените душеком, он добро функционише као кревет.
+Ако замените јастуке на каучу душеком, биће добар кревет.
 
 ### Детаљи за пријаву на рачунар (иМац) су
 
@@ -168,7 +167,7 @@ Passwort: thebox
 
 Можете користити машину за прање веша без претходног питања. Можете користити и сталак за сушење, прашак за прање рубља и омекшивач. Ако желите нову постељину, само разговарајте са мном.
 
-## Handfeger und Kehrblech
+## Ручна четка и посуда
 
 У кухињи ћете наћи ручну четку и канту за прашину на зиду. Ово ће вам помоћи да се ослободите мале прљавштине.
 
