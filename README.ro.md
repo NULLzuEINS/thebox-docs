@@ -61,7 +61,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 ## Camera dvs
 
 Saltelele sunt așezate una peste alta numai în scop de depozitare. Le poți distribui în funcție de nevoile tale.
-Dacă înlocuiți pernele de pe canapea cu o saltea, aceasta funcționează bine ca un pat.
+Dacă înlocuiți pernele de pe canapea cu o saltea, este un pat bun.
 
 ### Detaliile de conectare pentru computer (iMac) sunt
 
@@ -96,7 +96,7 @@ Puteți folosi dușul în timp ce stați în picioare. Nu este o problemă dacă
 
 Alexa de pe perete poartă numele „Computer” și redă, de asemenea, muzica sau radioul preferat. De exemplu. "_Computer, joacă Deutschlandfunk Nova_"
 
-Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. Unul dintre ei este al tău.
+Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. O bucată din ea este a ta.
 
 ### Holul
 
@@ -153,13 +153,13 @@ Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratui
 
 ## curatenie
 
--   Puteți lăsa lenjerie de pat pe el.
+-   Bettzeug kannst Du drauf lassen.
 -   Spal si vasele si
 -   Scot și gunoiul.
 
 > Versiune scurtă: Lăsați cheia acolo, închideți ușa, asta este. 😀
 
-# Längerer Aufenthalt
+# Sedere mai lungă
 
 ?> Unii dintre oaspeții mei stau o lună sau mai mult. Dacă ești unul dintre ei, atunci această secțiune este pentru tine!
 
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Realizat cu ❤️ de [docsifica](https://docsify.js.org/)_
+_Made with ❤️ by  [docsifica](https://docsify.js.org/)_
