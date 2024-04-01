@@ -49,7 +49,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 4.  Refrigerador
 5.  Horno para Pizza
 6.  Agua mineral
-7.  Estación de carga de teléfonos móviles en el estante.
+7.  Handy-Aufladestation im Regal
 8.  lavadora
 
 ### Preguntas frecuentes - Cocina
@@ -61,7 +61,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 ## Tu cuarto
 
 Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades.
-Si reemplazas los cojines del sofá por un colchón, será una buena cama.
+Si reemplazas las almohadas del sofá por un colchón, funcionará bien como cama.
 
 ### Los detalles de inicio de sesión para la computadora (iMac) son
 
@@ -72,7 +72,7 @@ Passwort: thebox
 
 ### Las siguientes cosas están disponibles en la habitación.
 
-1.  Alle Möbel und Betten
+1.  Todos los muebles y camas.
 2.  Computadoras e impresoras
 3.  Mandos a distancia para luces y electricidad.
 
@@ -80,7 +80,7 @@ Passwort: thebox
 
 Un viejo dicho alemán se aplica a todos los mandos a distancia: "Intentar es mejor que estudiar". No puedes romper nada. Presione algunos botones y vea qué sucede. Si aún quieres estudiar, aquí tienes la lectura adecuada para ti:
 
-| Abbildung                                                 | Descripción                                                                                                                                                                                                                                                            |
+| Ilustración                                               | Descripción                                                                                                                                                                                                                                                            |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caja Bluetooth<br>B: luces de hadas<br>C: lámpara de escritorio<br>D:_leer_<br>Maestro: cambia todo al mismo tiempo                                                                                                                                                 |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usarlo, asegúrese de que el interruptor de la luz en la entrada esté en "encendido".**<br>Primera línea: brillo, encendido/apagado<br>Botones de colores: puedes usarlos para cambiar los colores.<br>Botones grises: cambia entre diferentes efectos |
@@ -142,7 +142,7 @@ Si nos fijamos en las estadísticas, en Leipzig se roban cada año el mayor núm
 
 ### ¿Qué alternativas hay?
 
-Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para el_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[ciudadflitzer](https://cityflitzer.de/). Y, por supuesto, hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
+Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para el_Nextbikes_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[ciudadflitzer](https://cityflitzer.de/). Y, por supuesto, hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
 
 # Verificar
 
@@ -201,8 +201,8 @@ Si tienes prisa, lo mejor es hacerlo por teléfono. <a href="tel:+491707353067"
 También puede utilizar la aplicación de mensajería preinstalada con funcionalidad limitada (SMS).
 De lo contrario, tengo una libreta y un bolígrafo en el pasillo.
 
-¡Les deseo una agradable estancia en Leipzig!
-andré
+Ich wünsche einen schönen Aufenthalt in Leipzig!
+André
 
 * * *
 
