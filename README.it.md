@@ -92,7 +92,7 @@ Per tutti i telecomandi vale un vecchio detto tedesco: “Provare è meglio che 
 
 ### bagno
 
-Puoi usare la doccia stando in piedi. Non importa se il terreno si bagna un po'. Apri l'acqua solo a 1/3 e appendi il tappetino da bagno sopra il riscaldamento per asciugarlo.
+Puoi usare la doccia stando in piedi. Non è un problema se il terreno si bagna un po'. Apri l'acqua solo a 1/3 e appendi il tappetino da bagno sopra il riscaldamento per asciugarlo.
 
 L'Alexa sul muro si chiama "Computer" e riproduce anche la tua musica o radio preferita. Per esempio. "_Computer, riproduci Deutschlandfunk Nova_"
 
@@ -107,7 +107,7 @@ Puoi lasciare le tue scarpe qui. Ho anche un piccolo blocco note sullo scaffale 
 ## Casa intelligente
 
 Sono presenti gli assistenti vocali Alexa in bagno e in cucina. Puoi chiamarli "Computer" e farli giocare, ad esempio, a Deutschlandfunk Nova. Capiscono il tedesco e anche l'inglese. Se non vuoi usarli,
-Puoi anche semplicemente scollegarlo dall'alimentazione.
+Puoi anche semplicemente scollegarlo dalla corrente.
 
 Non ci sono assistenti vocali nella tua stanza. Il cestino sullo scaffale contiene solo il router e un piccolo computer.
 
@@ -181,7 +181,7 @@ Ho un robot aspirapolvere per pavimenti.
 Prima di iniziare, togli tutto dal pavimento.
 Soprattutto cavi o altri oggetti con cui il robot potrebbe soffocare.
 Quindi mettilo nella tua stanza e premi una volta il pulsante in alto.
-Se non succede nulla, utilizzare l'interruttore on/off sul lato e successivamente
+Se non succede nulla, utilizzare l'interruttore di accensione/spegnimento sul lato e successivamente
 riaccenderlo utilizzando il pulsante in alto.
 
 Una volta terminato, rimettilo nella stazione di ricarica!
@@ -189,8 +189,8 @@ Una volta terminato, rimettilo nella stazione di ricarica!
 # Suggerimenti
 
 Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_.
-Tieni presente che costa di più se non parcheggi il Raf nelle strade principali (viola sulla mappa).
-Gli e-scooter possono essere parcheggiati solo in determinati parcheggi.
+Beachte, dass es mehr kostet, wenn man das Raf nicht an den großen Straßen (Auf der Karte Lila) abstellt.
+Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
 Ho memorizzato le guide di viaggio nell'app AirBnB. Lì troverai i miei consigli su attrazioni, bar e pub, opportunità di shopping e ristoranti.
 
