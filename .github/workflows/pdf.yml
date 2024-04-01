@@ -5,8 +5,10 @@ on:
     tags:
       - '*'
 
-jobs:
+permissions:
+    contents: read
 
+jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
@@ -25,7 +27,6 @@ jobs:
       - name: Step 3.2 - Generate the documents using Docker for ${{ matrix.language }}
         run: |
           ./Scripts/build.sh ${{ matrix.language }}
-          ls -lisah Temp/Results
       - name: Step 4 - Upload PDF artifact for ${{ matrix.language }}
         uses: actions/upload-artifact@v3
         with:
