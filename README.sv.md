@@ -14,7 +14,7 @@ På min AirBnB får du en detaljerad översikt över alla rum och faciliteter. H
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Skrivbord med ljus                                                                     | Kök - spis                                                                    | Kök - te                                                                                |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Schreibtisch mit Licht                                                                 | Kök - spis                                                                    | Kök - te                                                                                |
+| Skrivbord med ljus                                                                     | Kök - spis                                                                    | Kök - te                                                                                |
 
 ## Nyckel
 
@@ -54,14 +54,14 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 ### FAQ - Kök
 
-1.  Kaminen fungerar inte? snälla säg
+1.  Fungerar inte kaminen? snälla säg
     > "Dator, arbetsbänk och"
 2.  Var kan jag diska? Detta fungerar bara i badrummet. Det finns en speciell behållare för att diska.
 
 ## Ditt rum
 
 Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov.
-Byter du ut kuddarna i soffan mot en madrass fungerar den bra som säng.
+Byter du ut kuddarna på soffan mot en madrass blir det en bra säng.
 
 ### Inloggningsuppgifterna för datorn (iMac) är
 
@@ -131,14 +131,14 @@ Antingen använder du nyckeln till ytterdörren eller så sträcker du dig genom
 
 ### Gul? Blå? Grön? Brun?
 
-Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i det bruna kärlet.
+Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i den bruna soptunnan.
 
-### Fahrräder
+### Cyklar
 
 ### Är min cykel säker?
 
-Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många platser och brukar köra genom landsbygden.
-Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 år sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
+Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många ställen och brukar köra genom landsbygden.
+Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 åren sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
 
 ### Vilka alternativ finns det?
 
@@ -198,8 +198,8 @@ Jag har lagrat reseguider i AirBnB-appen. Där hittar du mina rekommendationer f
 
 Om du har några frågor eller behöver stöd så hjälper jag dig gärna.
 Om du har bråttom är det bäst att göra det via telefon <a href="tel:+491707353067">+49 170 73 53 067</a>.
-Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS).
-Ansonsten habe ich im Flur einen Notizblock und einen Stift.
+Du kan också använda den förinstallerade messenger-appen med begränsad funktionalitet (SMS).
+Annars har jag ett anteckningsblock och en penna i korridoren.
 
 Jag önskar dig en trevlig vistelse i Leipzig!
 Andre
