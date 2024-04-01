@@ -54,14 +54,14 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 ### FAQ - Kök
 
-1.  Kaminen fungerar inte? snälla säg
+1.  Fungerar inte kaminen? snälla säg
     > "Dator, arbetsbänk och"
 2.  Var kan jag diska? Detta fungerar bara i badrummet. Det finns en speciell behållare för att diska.
 
 ## Ditt rum
 
 Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov.
-Byter du ut kuddarna i soffan mot en madrass fungerar den bra som säng.
+Byter du ut kuddarna på soffan mot en madrass blir det en bra säng.
 
 ### Inloggningsuppgifterna för datorn (iMac) är
 
@@ -78,7 +78,7 @@ Passwort: thebox
 
 ### Fjärrkontroller
 
-Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre att försöka än att studera". Du kan inte bryta någonting. Tryck på några knappar och se vad som händer. Om du fortfarande vill studera, här är rätt läsning för dig:
+Für alle Fernbedienungen gilt ein altes deutsches Sprichwort: "Probieren geht über Studieren". Du kannst nichts kaputt machen. Drücke ein paar Knöpfe und schau was passiert. Falls Du dennoch studieren möchtest, habe hier die passenden Lektüre für Dich:
 
 | Illustration                                              | Beskrivning                                                                                                                                                                                                                                |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -96,7 +96,7 @@ Du kan använda duschen stående. Det är inga problem om marken blir lite blöt
 
 Alexa på väggen går under namnet "Dator" och spelar även din favoritmusik eller radio. T.ex. "_Dator, spela Deutschlandfunk Nova_"
 
-Du kan hänga handdukar på alla krokar och ställa dina saker var som helst. Det finns en hylla framför badrumsdörren. En av dem är din.
+Du kan hänga handdukar på alla krokar och ställa dina saker var som helst. Det finns en hylla framför badrumsdörren. En del av den är din.
 
 ### Hall
 
@@ -137,8 +137,8 @@ Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid 
 
 ### Är min cykel säker?
 
-Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många platser och brukar köra genom landsbygden.
-Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 år sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
+Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många ställen och brukar köra genom landsbygden.
+Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 åren sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
 
 ### Vilka alternativ finns det?
 
@@ -171,7 +171,7 @@ Du kan använda tvättmaskinen utan att behöva fråga först. Du kan också anv
 
 I köket hittar du en handborste och en soptunna på väggen. Detta hjälper dig att bli av med den lilla smutsen.
 
-## Torka
+## Wischen
 
 Du kan hitta grönt rengöringsmedel i en sprayflaska i badrummet för moppning. Tillsammans med hushållspappret kan detta användas för att enkelt rengöra ytor.
 
