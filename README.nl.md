@@ -1,4 +1,4 @@
-# Welkom
+# Welkom bij De Doos
 
 Hallo en welkom bij de “Box”! Als ik reis, verblijf ik ook graag in AirBnB's en soms zou ik willen dat ik een vel papier had met alle nodige informatie over de accommodatie, het in- en uitchecken en dit is mijn poging om het beter te maken.
 
@@ -16,7 +16,7 @@ Op mijn AirBnB krijg je een gedetailleerd overzicht van alle kamers en de facili
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Bureau met licht                                                                       | Fornuis                                                                       | Keuken - thee                                                                           |
 
-## Sleutel
+## Schlüssel
 
 Je krijgt twee paar sleutels, elk met één sleutel voor de onderkant en één voor de bovenkant. Er zit ook een sleutel aan een sleutelhanger waarmee u uw kamer kunt afsluiten.
 
@@ -61,7 +61,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 ## Jouw kamer
 
 De matrassen worden uitsluitend voor opslagdoeleinden op elkaar geplaatst. U kunt ze verdelen volgens uw behoeften.
-Als je de kussens op de bank vervangt door een matras, functioneert deze prima als bed.
+Als je de kussens van de bank vervangt door een matras, ontstaat er een goed bed.
 
 ### De inloggegevens voor de computer (iMac) zijn
 
@@ -82,9 +82,9 @@ Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter 
 
 | Illustratie                                               | Beschrijving                                                                                                                                                                                                                                                          |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Kerstverlichting<br>C: Bureaulamp<br>D:_leer_<br>Master: Schakel alles tegelijk                                                                                                                                                                 |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Kerstverlichting<br>C: Schreibtischlampe<br>D:_leer_<br>Master: Schakel alles tegelijk                                                                                                                                                          |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Voordat u er gebruik van kunt maken, zorgt u ervoor dat de lichtschakelaar bij de ingang op "aan" staat.**<br>Eerste regel: helderheid, aan/uit<br>Gekleurde knoppen: Hiermee kunt u de kleuren wijzigen<br>Grijze knoppen: Schakelen tussen verschillende effecten |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Das ist die Fernbedienung für den Computer (iMac). _Om de computer te gebruiken, drukt u op de A-knop op de eerste afstandsbediening. Het activeert de voeding voor de computer en de Bluetooth-box._                                                                 |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Dit is de afstandsbediening voor de computer (iMac)._Om de computer te gebruiken, drukt u op de A-knop op de eerste afstandsbediening. Het activeert de voeding voor de computer en de Bluetooth-box._                                                                |
 
 ### Veelgestelde vragen - Uw kamer
 
