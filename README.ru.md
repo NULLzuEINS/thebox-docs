@@ -1,4 +1,4 @@
-# Willkommen in TheBox
+# Добро пожаловать в коробку
 
 Здравствуйте и добро пожаловать в «Коробку»! Когда я путешествую, мне также нравится останавливаться в AirBnB, и иногда мне хочется иметь лист бумаги со всей необходимой информацией о размещении, заселении и выезде, и это моя попытка сделать его лучше.
 
@@ -18,7 +18,7 @@
 
 ## Ключ
 
-Вы получаете две пары ключей, каждая из которых имеет один ключ для нижнего и один для верхнего. На связке ключей также есть ключ, которым вы можете запереть свою комнату.
+Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du Dein Zimmer abschließen kannst.
 
 ## доступ в Интернет
 
@@ -106,8 +106,8 @@ Alexa на стене называется «Компьютер» и также 
 
 ## Умный дом
 
-Im Bad und in der Küche befinden sich Alexa Sprachassistenten. Du kannst sie mit dem Namen "Computer" ansprechen und Dir zum Beispiel Deutschlandfunk Nova spielen lassen. Sie verstehen Deutsch und auch Englisch. Wenn Du sie nicht nutzen möchtest, 
-kannst Du sie auch einfach vom Strom trennen.
+В ванной и на кухне есть голосовые помощники Alexa. Вы можете обратиться к ним по имени «Компьютер» и попросить их сыграть, например, в Deutschlandfunk Nova. Они понимают немецкий, а также английский. Если вы не хотите их использовать,
+Также можно просто отключить его от питания.
 
 В вашей комнате нет голосовых помощников. В корзине на полке лежат только роутер и небольшой компьютер.
 
