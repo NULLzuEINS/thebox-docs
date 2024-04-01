@@ -61,7 +61,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 ## Camera dvs
 
 Saltelele sunt așezate una peste alta numai în scop de depozitare. Le poți distribui în funcție de nevoile tale.
-Dacă înlocuiți pernele de pe canapea cu o saltea, aceasta funcționează bine ca un pat.
+Dacă înlocuiți pernele de pe canapea cu o saltea, este un pat bun.
 
 ### Detaliile de conectare pentru computer (iMac) sunt
 
@@ -80,11 +80,11 @@ Passwort: thebox
 
 O veche zicală germană se aplică tuturor telecomenzilor: „Este mai bine să încerci decât să studiezi”. Nu poți rupe nimic. Apăsați câteva butoane și vedeți ce se întâmplă. Dacă tot vrei să studiezi, iată lectura potrivită pentru tine:
 
-| Ilustrare                                                 | Descriere                                                                                                                                                                                                                                                                        |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Lumini de zâne<br>C: Lampă de birou<br>D:_fişier_<br>Maestrul: Schimbă totul în același timp                                                                                                                                                               |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Înainte de a-l putea folosi, asigurați-vă că întrerupătorul luminii de la intrare este setat pe „pornit”.**<br>Prima linie: luminozitate, pornit/oprit<br>Butoane colorate: puteți folosi acest lucru pentru a schimba culorile<br>Butoane gri: comutați între diferite efecte |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Aceasta este telecomanda pentru computer (iMac)._Pentru a utiliza computerul, apăsați butonul A de pe prima telecomandă. Activează sursa de alimentare pentru computer și cutia Bluetooth._                                                                                      |
+| Ilustrare                                                 | Descriere                                                                                                                                                                                                                                                                |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Lumini de zâne<br>C: Lampă de birou<br>D:_fişier_<br>Maestrul: Schimbă totul în același timp                                                                                                                                                       |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Înainte de a-l putea folosi, asigurați-vă că întrerupătorul luminii de la intrare este setat pe „pornit”.**<br>Erste Zeile: Helligkeit, An/Aus<br>Butoane colorate: puteți folosi acest lucru pentru a schimba culorile<br>Butoane gri: comutați între diferite efecte |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Aceasta este telecomanda pentru computer (iMac)._Pentru a utiliza computerul, apăsați butonul A de pe prima telecomandă. Activează sursa de alimentare pentru computer și cutia Bluetooth._                                                                              |
 
 ### Întrebări frecvente - Camera dvs
 
@@ -96,7 +96,7 @@ Puteți folosi dușul în timp ce stați în picioare. Nu este o problemă dacă
 
 Alexa de pe perete poartă numele „Computer” și redă, de asemenea, muzica sau radioul preferat. De exemplu. "_Computer, joacă Deutschlandfunk Nova_"
 
-Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. Unul dintre ei este al tău.
+Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. O bucată din ea este a ta.
 
 ### Holul
 
@@ -142,7 +142,7 @@ Dacă credeți statisticile, atunci cele mai multe biciclete pe cap de locuitor 
 
 ### Ce alternative există?
 
-Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratuite a câte 15 minute fiecare pentru_Nextbikes_. Rețineți că costă mai mult dacă nu vă parcați bicicletele pe străzile principale (violet pe hartă). Trotinetele electrice pot fi parcate numai în anumite locuri de parcare. Există, de asemenea, un sistem de partajare a mașinii. Asta înseamnă cu noi[cityflitzer](https://cityflitzer.de/). Und gibt es natürlich noch Bus und Bahn welche Du ebenfalls über die Leipzig MOVE App bezahlen könnte.
+Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratuite a câte 15 minute fiecare pentru_Nextbikes_. Rețineți că costă mai mult dacă nu vă parcați bicicletele pe străzile principale (violet pe hartă). Trotinetele electrice pot fi parcate numai în anumite locuri de parcare. Există, de asemenea, un sistem de partajare a mașinii. Asta înseamnă cu noi[cityflitzer](https://cityflitzer.de/). Și, desigur, există autobuze și trenuri pe care le puteți plăti și prin aplicația Leipzig MOVE.
 
 # Verifică
 
