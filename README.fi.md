@@ -1,6 +1,6 @@
 # Tervetuloa The Boxiin
 
-Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
+Hei ja tervetuloa "Boksiin"! Kun matkustan, pidän myös AirBnB:ssä ja joskus toivon, että minulla olisi paperi, jossa on kaikki tarvittavat tiedot majoituksesta, sisään- ja uloskirjautumisesta, ja tämä on minun yritykseni tehdä siitä parempi.
 
 > [!Huomautus]Käännän asiakirjan automaattisesti kielellesi. Toivottavasti se on jotenkin ymmärrettävää. Jos ei, kirjoita minulle viestiä. Yritän sitten parantaa sitä.
 
@@ -10,7 +10,7 @@ AirBnB:ssäni saat yksityiskohtaisen yleiskatsauksen kaikista huoneista ja tiloi
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Ein-Bett-Konfiguration mit Couch                                                       | Kahden sängyn kokoonpano                                                      | Vastaanotto                                                                             |
+| Yksi sänky ja sohva                                                                    | Kahden sängyn kokoonpano                                                      | Vastaanotto                                                                             |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Työpöytä valolla                                                                       | Keittiö - liesi                                                               | Keittiö - teetä                                                                         |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -146,7 +146,7 @@ Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 
 # Tarkista
 
-## Schlüssel
+## Avain
 
 -   Riippuen siitä, mikä viikonpäivä on, voimme sanoa hyvästit henkilökohtaisesti tai voit laittaa avaimet pöydälle ja sulkea oven perässäsi.
 -   Viimeisin maksuaika on lähtöpäivänä klo 19.
@@ -154,7 +154,7 @@ Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 ## puhdistus
 
 -   Voit jättää siihen vuodevaatteet.
--   Pesen myös astiat ja
+-   Das Geschirr spüle ich auch ab und
 -   Vien roskat myös pois.
 
 > Lyhyt versio: Jätä avain sinne, sulje ovi, siinä kaikki. 😀
