@@ -113,7 +113,7 @@ Passwort: thebox
 
 ## 温度和湿度
 
-温度和湿度通过传感器自动测量。我用它们来防止霉菌形成。它们又小又白，通常放在门框上。您可以在走廊的镜子中读取一些测量数据。
+Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst Du im Spiegel im Flur ablesen.
 
 ?> 请确保定期通风（至少每天一次）。尤其是在浴室里。还要确保暖气已关闭。谢谢🙏
 
@@ -142,7 +142,7 @@ Passwort: thebox
 
 ### 还有哪些替代方案？
 
-随着[莱比锡 MOVE 应用程序](https://leipzig-move.de/)，您可以免费乘坐 10 次，每次 15 分钟_下一个自行车_。请注意，如果您不在主要街道上停放自行车（地图上的紫色），费用会更高。电动滑板车只能停放在某些停车位。还有一个自由流动的汽车共享系统。这意味着我们[城市飞行者](https://cityflitzer.de/)。当然，您也可以通过 Leipzig MOVE 应用程序支付巴士和火车的费用。
+随着[莱比锡 MOVE 应用程序](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die _下一个自行车_。请注意，如果您不在主要街道上停放自行车（地图上的紫色），费用会更高。电动滑板车只能停放在某些停车位。还有一个自由流动的汽车共享系统。这意味着我们[城市飞行者](https://cityflitzer.de/)。当然，您也可以通过 Leipzig MOVE 应用程序支付巴士和火车的费用。
 
 # 查看
 
