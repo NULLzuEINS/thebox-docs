@@ -98,7 +98,7 @@ The Alexa on the wall goes by the name “Computer” and also plays your favori
 
 You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One of them is yours.
 
-### Hallway
+### Flur
 
 You are welcome to leave your shoes here. I also have a small notepad on the shelf in case you want to tell me something.
 
@@ -133,7 +133,7 @@ Either you use the front door key, or you reach through the gate and feel the bu
 
 Are you wondering why the garbage cans have different colors? If you are unsure, always put the trash in the green bin. The residual waste ends up in there. Professionals put paper waste in the blue bin, recyclables in the yellow bin and organic waste in the brown bin.
 
-### Bicycles
+### Cycles
 
 ### Is my bike safe?
 
