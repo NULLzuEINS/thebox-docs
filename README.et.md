@@ -46,7 +46,7 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 1.  Kari
 2.  Veekeetja
 3.  Nõud söögiriistad
-4.  Külmkapp
+4.  Külmik
 5.  Pitsaahi
 6.  Mineraalvesi
 7.  Riiulil mobiiltelefoni laadimisjaam
@@ -72,7 +72,7 @@ Passwort: thebox
 
 ### Toas on saadaval järgmised asjad
 
-1.  Kogu mööbel ja voodid
+1.  Alle Möbel und Betten
 2.  Arvutid ja printerid
 3.  Kaugjuhtimispuldid tuledele ja elektrile
 
@@ -90,15 +90,15 @@ Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". 
 
 1.  Tuli ei sütti või vilgub metsikult. Kasutage väikeseid värviliste nuppudega kaugjuhtimispulte.
 
-### Badezimmer
+### vannituba
 
-Dušši saate kasutada seistes. Vahet pole, kui maapind veidi märjaks saab. Lülitage vesi sisse ainult 1/3 ja riputage vannimatt kerise kohale kuivama.
+Dušši saate kasutada seistes. Pole probleemi, kui maapind veidi märjaks saab. Lülitage vesi sisse ainult 1/3 ja riputage vannimatt kerise kohale kuivama.
 
 Seinal olev Alexa kannab nime "Computer" ja mängib ka teie lemmikmuusikat või raadiot. Nt "_Arvuti, mängi Deutschlandfunk Nova_"
 
 Saate riputada rätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks neist on sinu oma.
 
-### Flur
+### Esik
 
 Olete oodatud oma kingad siia jätma. Mul on riiulil ka väike märkmik juhuks, kui tahate mulle midagi öelda.
 
@@ -106,7 +106,7 @@ Olete oodatud oma kingad siia jätma. Mul on riiulil ka väike märkmik juhuks, 
 
 ## Tark kodu
 
-Vannitoas ja köögis on Alexa hääleabilised. Saate neid adresseerida nimega “Arvuti” ja lasta neil näiteks Deutschlandfunk Novat mängida. Nad saavad aru saksa ja ka inglise keelest. Kui te ei soovi neid kasutada,
+Vannitoas ja köögis on Alexa hääleabilised. Saate neid adresseerida nimega “Computer” ja lasta neil näiteks Deutschlandfunk Novat mängida. Nad saavad aru saksa ja ka inglise keelest. Kui te ei soovi neid kasutada,
 Samuti saate selle lihtsalt vooluvõrgust lahti ühendada.
 
 Teie toas pole hääleabilisi. Riiulil olevas korvis on ainult ruuter ja väike arvuti.
@@ -189,8 +189,8 @@ Kui see on lõppenud, pange see laadimisjaama tagasi!
 # Näpunäiteid
 
 Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, igaüks 15 minutit_Järgmised jalgrattad_.
-Pange tähele, et see maksab rohkem, kui te ei pargi Rafi peatänavatele (kaardil lilla).
-E-tõukerattaid tohib parkida ainult teatud parkimiskohtadele.
+Beachte, dass es mehr kostet, wenn man das Raf nicht an den großen Straßen (Auf der Karte Lila) abstellt.
+Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
 Olen salvestanud reisijuhid AirBnB rakendusse. Sealt leiate minu soovitused vaatamisväärsuste, baaride ja pubide, ostuvõimaluste ja restoranide kohta.
 
