@@ -48,7 +48,7 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 3.  Çatal bıçak takımı
 4.  Buzdolabı
 5.  Pizza fırını
-6.  Maden suyu
+6.  Mineralwasser
 7.  Rafta cep telefonu şarj istasyonu
 8.  çamaşır makinesi
 
@@ -61,7 +61,7 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 ## Senin odan
 
 Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz.
-Kanepedeki minderleri şilteyle değiştirirseniz iyi bir yatak olur.
+Kanepedeki yastıkları şilteyle değiştirirseniz yatak olarak işe yarar.
 
 ### Bilgisayarın (iMac) oturum açma ayrıntıları şunlardır:
 
@@ -96,7 +96,7 @@ Duşu ayakta kullanabilirsiniz. Zeminin biraz ıslanması sorun değil. Suyu yal
 
 Duvardaki Alexa "Bilgisayar" adını alır ve aynı zamanda en sevdiğiniz müziği veya radyoyu da çalar. Örneğin. "_Bilgisayar, Deutschlandfunk Nova'yı oyna_"
 
-Tüm kancalara havlu asabilir, eşyalarınızı istediğiniz yere koyabilirsiniz. Banyo kapısının önünde raf bulunmaktadır. Bir parçası senin.
+Tüm kancalara havlu asabilir, eşyalarınızı istediğiniz yere koyabilirsiniz. Banyo kapısının önünde raf bulunmaktadır. Bunlardan biri senin.
 
 ### Koridor
 
@@ -142,7 +142,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 ### Hangi alternatifler var?
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüş hakkına sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
 
 # Çıkış yapmak
 
@@ -188,7 +188,7 @@ Bittiğinde lütfen şarj istasyonuna geri koyun!
 
 # İpuçları
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüş hakkına sahip olursunuz._Sonraki bisikletler_.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_.
 Raf'ı ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın.
 E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
 
