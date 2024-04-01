@@ -10,7 +10,7 @@ På min AirBnB får du en detaljert oversikt over alle rommene og fasilitetene. 
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| En seng konfigurasjon med sofa                                                         | Konfigurasjon med to senger                                                   | Pulten                                                                                  |
+| En seng konfigurasjon med sofa                                                         | Zwei-Bett-Konfiguration                                                       | Pulten                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Skrivebord med lys                                                                     | Kjøkken - komfyr                                                              | Kjøkken - te                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -82,7 +82,7 @@ Et gammelt tysk ordtak gjelder for alle fjernkontroller: «Å prøve er bedre en
 
 | Illustrasjon                                              | Beskrivelse                                                                                                                                                                                                               |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Skrivebordslampe<br>D:_fil_<br>Mester: Bytt alt på samme tid                                                                                                                     |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Skrivebordslampe<br>D:_fil_<br>Master: Alles gleichzeitig schalten                                                                                                               |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Før du kan bruke den, sørg for at lysbryteren ved inngangen er satt til "på".**<br>Første linje: lysstyrke, på/av<br>Fargede knapper: Du kan bruke denne til å endre fargene<br>Grå knapper: Bytt mellom ulike effekter |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Dette er fjernkontrollen til datamaskinen (iMac)._For å bruke datamaskinen, trykk på A-knappen på den første fjernkontrollen. Den aktiverer strømforsyningen til datamaskinen og Bluetooth-boksen._                       |
 
@@ -198,8 +198,8 @@ Jeg har lagret reiseguider i AirBnB-appen. Der finner du mine anbefalinger for s
 
 Hvis du har spørsmål eller trenger støtte, hjelper jeg deg gjerne.
 Hvis du har det travelt, er det best å gjøre det via telefon <a href="tel:+491707353067">+49 170 73 53 067</a>.
-Du kan også bruke den forhåndsinstallerte messenger-appen med begrenset funksjonalitet (SMS).
-Ellers har jeg en notatblokk og en penn i gangen.
+Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS).
+Ansonsten habe ich im Flur einen Notizblock und einen Stift.
 
 Jeg ønsker deg et godt opphold i Leipzig!
 Andre
