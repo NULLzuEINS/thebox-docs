@@ -127,11 +127,11 @@ På vår innergård kan du koppla ihop dina cyklar och ta bort ditt skräp.
 
 Antingen använder du nyckeln till ytterdörren eller så sträcker du dig genom porten och känner på knappen för att öppna dörren. Medan du håller ner knappen kan du öppna dörren.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
+![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
 ### Gul? Blå? Grön? Brun?
 
-Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i den bruna soptunnan.
+Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i det bruna kärlet.
 
 ### Cyklar
 
