@@ -9,10 +9,6 @@ jobs:
 
   build:
     runs-on: ubuntu-latest
-    strategy:
-        matrix:
-            language-code: ['zh-CN', 'cs', 'da', 'nl', 'el', 'es', 'fr', 'de', 'hu', 'it', 'ja', 'ko', 'no', 'pl', 'pt', 'ru','sv', 'tr', 'uk', 'vi', 'zh-TW']
-            language-name: ['Chinese Simplified', 'Czech', 'Danish', 'Dutch', 'Greek', 'Spanish', 'French', 'German', 'Hungarian', 'Italian', 'Japanese', 'Korean', 'Norwegian', 'Polish', 'Portuguese', 'Russian', 'Swedish', 'Turkish', 'Ukrainian', 'Vietnamese', 'Chinese Traditional']
     steps:
       - uses: actions/checkout@v2
       - name: Setup Node.js
