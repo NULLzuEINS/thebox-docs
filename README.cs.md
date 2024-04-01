@@ -72,7 +72,7 @@ Passwort: thebox
 
 ### V místnosti jsou k dispozici následující věci
 
-1.  Alle Möbel und Betten
+1.  Veškerý nábytek a postele
 2.  Počítače a tiskárny
 3.  Dálkové ovládání světel a elektřiny
 
@@ -80,11 +80,11 @@ Passwort: thebox
 
 Pro všechna dálková ovládání platí staré německé přísloví: „Zkoušet je lepší než studovat“. Nemůžeš nic rozbít. Stiskněte několik tlačítek a uvidíte, co se stane. Pokud stále chcete studovat, zde je to správné čtení pro vás:
 
-| Ilustrace                                                 | Popis                                                                                                                                                                                                                                        |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Pohádková světla<br>C: Stolní lampa<br>D:_soubor_<br>Master: Přepněte vše současně                                                                                                                                     |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Než jej budete moci použít, ujistěte se, že je spínač světel u vchodu nastaven na „zapnuto“.**<br>První řádek: jas, zapnuto/vypnuto<br>Barevná tlačítka: Toto můžete použít ke změně barev<br>Šedá tlačítka: Přepínání mezi různými efekty |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Toto je dálkový ovladač pro počítač (iMac)._Chcete-li použít počítač, stiskněte tlačítko A na prvním dálkovém ovladači. Aktivuje napájení počítače a Bluetooth boxu._                                                                        |
+| Ilustrace                                                 | Popis                                                                                                                                                                                                                                           |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Pohádková světla<br>C: Stolní lampa<br>D:_soubor_<br>Master: Přepněte vše současně                                                                                                                                        |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Bevor du es benutzen kannst, stell sicher, dass der Lichtschalter an am Eingang auf "an" steht.**<br>První řádek: jas, zapnuto/vypnuto<br>Barevná tlačítka: Toto můžete použít ke změně barev<br>Šedá tlačítka: Přepínání mezi různými efekty |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Toto je dálkový ovladač pro počítač (iMac)._Chcete-li použít počítač, stiskněte tlačítko A na prvním dálkovém ovladači. Aktivuje napájení počítače a Bluetooth boxu._                                                                           |
 
 ### FAQ - Váš pokoj
 
