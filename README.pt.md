@@ -61,7 +61,7 @@ Como costumo comer lá embaixo com minha família, a cozinha é muito espartana.
 ## Seu quarto
 
 Os colchões são colocados uns sobre os outros apenas para fins de armazenamento. Você pode distribuí-los de acordo com suas necessidades.
-Se você substituir as almofadas do sofá por um colchão, ele funciona bem como cama.
+Se você substituir as almofadas do sofá por um colchão, fica uma boa cama.
 
 ### Os detalhes de login do computador (iMac) são
 
@@ -144,12 +144,12 @@ Se você acredita nas estatísticas, então o maior número de bicicletas per ca
 
 Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
 
-# Confira
+# Checkout
 
 ## Chave
 
 -   Dependendo do dia da semana, podemos nos despedir pessoalmente ou você pode simplesmente colocar as chaves na mesa e fechar a porta atrás de você.
--   O último horário para checkout é às 19h do dia da partida.
+-   O último horário para check-out é às 19h do dia da partida.
 
 ## limpeza
 
