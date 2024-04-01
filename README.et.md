@@ -61,7 +61,7 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 ## Sinu tuba
 
 Madratsid asetatakse üksteise peale ainult ladustamise eesmärgil. Saate neid vastavalt oma vajadustele levitada.
-Kui asendad diivanil olevad padjad madratsiga, siis sobib see hästi voodina.
+Kui asendad diivanil olevad padjad madratsiga, saab sellest hea voodi.
 
 ### Arvuti (iMac) sisselogimisandmed on
 
@@ -84,7 +84,7 @@ Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". 
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Haldjatuled<br>C: laualamp<br>D:_faili_<br>Meister: Lülitage kõike korraga                                                                                                                                            |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Enne selle kasutamist veenduge, et sissepääsu valguslüliti oleks asendis "sees".**<br>Esimene rida: heledus, sisse/välja<br>Värvilised nupud: saate seda kasutada värvide muutmiseks<br>Hallid nupud: erinevate efektide vahel vahetamine |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | See on arvuti (iMac) kaugjuhtimispult._Arvuti kasutamiseks vajutage esimesel kaugjuhtimispuldil nuppu A. See aktiveerib arvuti ja Bluetooth-boksi toiteallika._                                                                             |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | See on arvuti (iMac) kaugjuhtimispult._Arvuti kasutamiseks vajutage esimesel kaugjuhtimispuldil nuppu A. See aktiveerib arvuti ja Bluetooth-kasti toiteallika._                                                                             |
 
 ### KKK – Sinu tuba
 
@@ -96,7 +96,7 @@ Dušši saate kasutada seistes. Pole probleemi, kui maapind veidi märjaks saab.
 
 Seinal olev Alexa kannab nime "Computer" ja mängib ka teie lemmikmuusikat või raadiot. Nt "_Arvuti, mängi Deutschlandfunk Nova_"
 
-Saate riputada rätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks neist on sinu oma.
+Saate riputada käterätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks neist on sinu oma.
 
 ### Esik
 
@@ -142,7 +142,7 @@ Kui uskuda statistikat, siis Leipzigis varastatakse igal aastal kõige rohkem ja
 
 ### Milliseid alternatiive on?
 
-Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, igaüks 15 minutit_Järgmised jalgrattad_. Pange tähele, et see maksab rohkem, kui te ei pargi rattaid peatänavatele (kaardil lilla). E-tõukerattaid tohib parkida ainult teatud parkimiskohtadele. Olemas on ka vabalt ujuv autojagamissüsteem. See tähendab meiega[cityflitzer](https://cityflitzer.de/). Ja loomulikult on bussid ja rongid, mille eest saate maksta ka Leipzigi MOVE rakenduse kaudu.
+Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, igaüks 15 minutit_Järgmised jalgrattad_. Pange tähele, et see maksab rohkem, kui te ei pargi rattaid peatänavatele (kaardil lilla). E-tõukerattaid tohib parkida ainult teatud parkimiskohtadele. Olemas on ka vabalt ujuv autojagamissüsteem. See tähendab meiega[linnaflitzer](https://cityflitzer.de/). Ja loomulikult on bussid ja rongid, mille eest saate maksta ka Leipzigi MOVE rakenduse kaudu.
 
 # Kassasse
 
@@ -155,7 +155,7 @@ Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, 
 
 -   Selle peale võib jätta voodipesu.
 -   Samuti pesen nõusid ja
--   den Müll bring ich auch raus.
+-   Viin ka prügi välja.
 
 > Lühiversioon: jätke võti sinna, sulgege uks, see on kõik. 😀
 
@@ -188,7 +188,7 @@ Kui see on lõppenud, pange see laadimisjaama tagasi!
 
 # Näpunäiteid
 
-Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die _Järgmised jalgrattad_.
+Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, igaüks 15 minutit_Järgmised jalgrattad_.
 Pange tähele, et see maksab rohkem, kui te ei pargi Rafi peatänavatele (kaardil lilla).
 E-tõukerattaid tohib parkida ainult teatud parkimiskohtadele.
 
