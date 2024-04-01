@@ -9,35 +9,27 @@ jobs:
 
   build:
     runs-on: ubuntu-latest
+    strategy:
+        matrix:
+          language: [de, en]
     steps:
       - name: Step 1 - Checkout sources
         uses: actions/checkout@v4
       - name: Step 2 - Read dotenv vars
         uses: xom9ikk/dotenv@v2
-      - name: Step 3 - Create temporary folders
+      - name: Step 3 - Generate the documents using Docker for -${{ matrix.language }}
         run: |
-          mkdir -p Results
-          mkdir -p Temp
-      - name: Step 3 - Generate the documents using Docker
-        run: |
-          ./Scripts/build.sh
-          ls -lisah Results
+          ./Scripts/build.sh -l ${{ matrix.language }}
+          ls -lisah Temp/Results
 
-      - name: Step 4.1 - Upload the single PDF Introduction artifact
+      - name: Step 4 - Upload PDF artifact for ${{ matrix.language }}
         uses: actions/upload-artifact@v3
         with:
-          name: thebox-pdf-introduction
-          path: Results/${{ env.THEBOX_FILENAME }}.pdf
+          name: thebox-pdf-${{ matrix.language }}
+          path: Temp/Results/${{ env.THEBOX_FILENAME }}-${{ matrix.language }}.pdf
           if-no-files-found: error
           retention-days: 12
 
-      - name: Step 5.1 - Upload the PDF artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: thebox-pdf
-          path: Results/thebox-${{ env.THEBOX_FILENAME }}.pdf
-          if-no-files-found: error
-          retention-days: 12
 
   release:
     name: release – ${{ github.ref_name }}
@@ -78,14 +70,14 @@ jobs:
           draft: false
           prerelease: false
 
-      - name: Step 4.1 Upload PDF as Release Asset
-        id: upload-release-asset-pdf-introduction
+      - name: Step 4 Upload PDF as Release Asset
+        id: upload-release-asset-pdf
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./${{ env.THEBOX_FILENAME }}/${{ env.THEBOX_FILENAME }}.pdf
-          asset_name: ${{ env.THEBOX_FILENAME }}.pdf
+          asset_path: ./${{ env.THEBOX_FILENAME }}/${{ env.THEBOX_FILENAME }}-de.pdf
+          asset_name: ${{ env.THEBOX_FILENAME }}-de.pdf
           asset_content_type: application/pdf
 

@@ -10,6 +10,8 @@ variables:
   lang: de
   titlepage: true
   page-background: 'Template/Backgrounds/background7.pdf'
+  logo: 'icon-512x512.png'
+  logo-width: 512px
   fontsize: 10pt
   footnotes-pretty: true
   table-use-row-colors: true

@@ -69,31 +69,42 @@ if ! docker image inspect ghcr.io/vergissberlin/pandoc-eisvogel-de > /dev/null 2
     docker pull ghcr.io/vergissberlin/pandoc-eisvogel-de
 fi
 
-
 ################################################################################
 ## Prepare
 ################################################################################
 
+# Remove old temoporary directory if it exists
+rm -rf Temp
+
 # Create temporary directory
-mkdir -p Temp Content Results
+mkdir -p Temp/Content Temp/Results
 
-# Copy all Markdown files from the content directory to the temporary directory
-cp -R *.md Temp
+# Copy REDME.$1.md from the root directory to the temp/content directory
+# If language argument is set to de or not set, copy README.md
+if [ "$1" = "de" ] || [ -z "$1" ]; then
+  cp README.md Temp/Content/README.md
+else
+  cp README.$1.md Temp/Content
+fi
 
-# Create the output directory if it doesn't exist and delete all files in it
-mkdir -p Results
-rm -rf Results/*
-
+# If language argument is not set, set it ro de
+if [ -z "$1" ]; then
+  language="de"
+  echo "👉\tSet language to de"
+else
+  echo "👉\tSet language to $1"
+  language=$1
+fi
 
 ################################################################################
-## Generate Multiple Documents
+## Generate documents
 ################################################################################
 
-## Generate separate PDF files for each Markdown file in the content directory
-echo "\n✅\tGenerate PDF for each file"
+## Generate PDF files for the current language
+echo "✅\tGenerate PDF"
 
 # Generate PDF files
-for file in Temp/*.md; do
+for file in Temp/Content/*.md; do
   # Check if $file is a file
   if [ -f "$file" ]; then
     # Get the filename without the extension
@@ -105,23 +116,18 @@ for file in Temp/*.md; do
     # Get the headline from the Markdown file
     title=$(grep -m 1 '^# ' $file | sed 's/# //')
 
-    echo "👉\tBuild single PDF for \"${title}\""
+    echo "👉\tBuild PDF for ${language} with the title \"${title}\""
     docker run -v $PWD:/data ghcr.io/vergissberlin/pandoc-eisvogel-de ${file} \
-      -o Results/${THEBOX_FILENAME}-${filename}.pdf \
+      -o Temp/Results/${THEBOX_FILENAME}.${language}.pdf \
       --defaults Template/Config/defaults-pdf-single.yml \
       --metadata-file Template/Config/metadata-pdf.yml \
       -V title="${title}" \
       -V author="${THEBOX_AUTHOR}" \
       -V subject="${THEBOX_SUBJECT}" \
+      -V lang="${language}" \
       -V footer-center="v$document_git_tag" \
       -V date="$document_date";
   fi
 done
 
 
-################################################################################
-## Clean up
-################################################################################
-
-# Remove the temporary directory
-rm -rf Temp

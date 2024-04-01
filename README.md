@@ -128,7 +128,7 @@ In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll w
 
 Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ':size=144')
+![Der Knopf öffnet Dir](_media/surroundings-button.jpg ':size=144')
 
 ### Gelb? Blau? Grün? Braun?
 
