@@ -1,6 +1,6 @@
 # Добро пожаловать в коробку
 
-Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
+Здравствуйте и добро пожаловать в «Коробку»! Когда я путешествую, мне также нравится останавливаться в AirBnB, и иногда мне хочется иметь лист бумаги со всей необходимой информацией о размещении, заселении и выезде, и это моя попытка сделать его лучше.
 
 > [!Уведомление]Я автоматически переведу документ на ваш язык. Надеюсь, это хоть немного понятно. Если нет, то смело напишите мне сообщение. Затем я пытаюсь улучшить его.
 
