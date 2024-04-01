@@ -2,8 +2,7 @@
 
 Olá e bem-vindo à “Caixa”! Quando viajo também gosto de ficar em AirBnB's e às vezes gostaria de ter um papel com todas as informações necessárias sobre hospedagem, check-in e check-out e essa é minha tentativa de melhorar.
 
-> [!Um aviso]
-> Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
+> [!Um aviso]Terei o documento traduzido automaticamente para o seu idioma. Espero que seja um pouco compreensível. Se não, sinta-se à vontade para me escrever uma mensagem. Depois tento melhorar.
 
 ## Fotos
 
