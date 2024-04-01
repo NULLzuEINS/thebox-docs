@@ -10,7 +10,7 @@ AirBnB'mde tüm odalara ve olanaklara ilişkin ayrıntılı bir genel bakış bu
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Kanepeli tek yatak konfigürasyonu                                                      | Zwei-Bett-Konfiguration                                                       | Çalışma masası                                                                          |
+| Kanepeli tek yatak konfigürasyonu                                                      | İki yataklı konfigürasyon                                                     | Çalışma masası                                                                          |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Işıklı çalışma masası                                                                  | Mutfak - ocak                                                                 | Mutfak - çay                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -35,7 +35,7 @@ Veya bu QR kodunu tararsınız, sizi otomatik olarak ağa bağlayacaktır:
 
 ![Raumplan](_media/thebox-map.png)
 
-## Küche
+## Mutfak
 
 Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade. Ne yazık ki bulaşık yıkamak sadece banyodaki lavaboda yapılabilmektedir. Ancak bulaşık yıkamak için özel bir kap var.
 
@@ -61,7 +61,7 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 ## Senin odan
 
 Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz.
-Kanepedeki yastıkları şilteyle değiştirirseniz yatak olarak işe yarar.
+Kanepedeki minderleri şilteyle değiştirirseniz iyi bir yatak olur.
 
 ### Bilgisayarın (iMac) oturum açma ayrıntıları şunlardır:
 
@@ -88,7 +88,7 @@ Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek �
 
 ### SSS - Odanız
 
-1.  Işık yanmıyor veya çılgınca yanıp sönüyor Renkli düğmelere sahip küçük uzaktan kumandayı kullanın.
+1.  Işık yanmıyor veya çılgınca yanıp sönüyor.Renkli düğmelere sahip küçük uzaktan kumandayı kullanın.
 
 ### banyo
 
@@ -142,7 +142,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 ### Hangi alternatifler var?
 
-Mit der [Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüş hakkına sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
 
 # Çıkış yapmak
 
@@ -177,22 +177,22 @@ Paspaslamak için yeşil temizlik maddesini banyoda sprey şişesinde bulabilirs
 
 ## Elektrikli süpürge
 
-Für den Fußboden habe ich einen Staubsauger-Roboter.
-Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
-Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
-Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
-Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
-anschalten noch einmal auf den Knopf auf drt Oberseite.
+Zemin için bir robot elektrikli süpürgem var.
+Başlamadan önce yerdeki her şeyi temizleyin.
+Özellikle robotun boğulabileceği kablolar veya diğer şeyler.
+Daha sonra odanıza koyun ve üstteki düğmeye bir kez basın.
+Hiçbir şey olmazsa yan taraftaki açma/kapama düğmesini kullanın ve ardından
+üstteki düğmeyi kullanarak tekrar açın.
 
 Bittiğinde lütfen şarj istasyonuna geri koyun!
 
 # İpuçları
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüş hakkına sahip olursunuz._Sonraki bisikletler_.
 Raf'ı ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın.
 E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
 
-In der App von AirBnB habe ich Reiseführer hinterlegt. Dort findest Du meine Empfehlungen zu Sehenwürdigkeiten, Bars und Kneipen, Einkaufsmöglichkeiten und Restaurants.
+Seyahat rehberlerini AirBnB uygulamasında sakladım. Orada turistik yerler, barlar ve publar, alışveriş fırsatları ve restoranlarla ilgili önerilerimi bulacaksınız.
 
 # Sorunuz mu var?
 
