@@ -1,4 +1,4 @@
-# Velkommen
+# Velkommen til Boksen
 
 Hei og velkommen til «boksen»! Når jeg reiser liker jeg også å bo i AirBnB's og noen ganger skulle jeg ønske jeg hadde et papir med all nødvendig informasjon om overnatting, innsjekking og utsjekking og dette er mitt forsøk på å gjøre det bedre.
 
@@ -60,8 +60,8 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 ## Rommet ditt
 
-Madrassene er plassert oppå hverandre kun for oppbevaringsformål. Du kan distribuere dem i henhold til dine behov.
-Bytter du ut putene på sofaen med en madrass, fungerer den fint som seng.
+Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem i henhold til dine behov.
+Bytter du ut putene på sofaen med en madrass, blir det en god seng.
 
 ### Påloggingsdetaljene for datamaskinen (iMac) er
 
@@ -72,7 +72,7 @@ Passwort: thebox
 
 ### Følgende ting er tilgjengelig i rommet
 
-1.  Alle Möbel und Betten
+1.  Alle møbler og senger
 2.  Datamaskiner og skrivere
 3.  Fjernkontroller for lys og strøm
 
@@ -107,7 +107,7 @@ Du er velkommen til å legge igjen skoene dine her. Jeg har også en liten notis
 ## Smart hjem
 
 Det er Alexa stemmeassistenter på badet og kjøkkenet. Du kan adressere dem med navnet "Computer" og la dem spille Deutschlandfunk Nova, for eksempel. De forstår tysk og også engelsk. Hvis du ikke vil bruke dem,
-Du kan også enkelt koble den fra strømmen.
+Du kan også ganske enkelt koble den fra strømmen.
 
 Det er ingen stemmeassistenter på rommet ditt. Kurven på hyllen inneholder kun ruteren og en liten datamaskin.
 
@@ -149,7 +149,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 ## Nøkkel
 
 -   Avhengig av hvilken ukedag det er, kan vi si farvel personlig, eller du kan ganske enkelt legge nøklene på skrivebordet og lukke døren bak deg.
--   Siste tidspunkt for utsjekking er kl. 19.00 på avreisedagen.
+-   Siste tidspunkt for utsjekking er 19.00 på avreisedagen.
 
 ## rengjøring
 
