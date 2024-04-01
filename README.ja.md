@@ -37,7 +37,7 @@ Passwort: landungsbruecken
 
 ## 台所
 
-普段家族と一緒に下の階で食事をしているので、キッチンはとてもスパルタンです。残念ながら、洗い物はバスルームのシンクでのみ可能です。ただし、食器を洗うための専用の容器があります。
+Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -56,12 +56,12 @@ Passwort: landungsbruecken
 
 1.  ストーブが作動していませんか?言ってください
     > 「コンピューター、作業台、そして」
-2.  どこで洗えばいいですか？これはバスルームでのみ機能します。食器を洗うための専用の容器があります。
+2.  どこで洗えますか？これはバスルームでのみ機能します。食器を洗うための専用の容器があります。
 
 ## あなたの部屋
 
 マットレスは保管目的でのみ重ねて置かれます。ニーズに応じて配布できます。
-ソファのクッションをマットレスに置き換えれば、立派なベッドになります。
+ソファの枕をマットレスに変えればベッドとしても使えます。
 
 ### コンピューター (iMac) のログイン詳細は次のとおりです。
 
@@ -138,11 +138,11 @@ Passwort: thebox
 ### 私の自転車は安全ですか?
 
 ライプツィヒは自転車にとても優しい街です。街を 2 つに分ける大きな都市公園を通って、さまざまな場所に行くことができ、通常は田園地帯を車で通り抜けます。
-この統計を信じるのであれば、毎年ライプツィヒで一人当たり最も多くの自転車が盗まれていることになります。 (住民 100,000 人あたり 1,539 台の自転車が盗まれています) 私がここハルデンベルク通りに住んでから 15 年間、一度も自転車を盗まれたことがありません。裏庭で自転車が盗まれた隣人を 1 人だけ知っています。いつも手すりに直接接続してます。
+この統計を信じるのであれば、毎年ライプツィヒで一人当たり最も多くの自転車が盗まれていることになります。 (住民 100,000 人あたり 1,539 台の自転車が盗まれています) 私はここハルデンベルク通りに住んでから 15 年間、一度も自転車を盗まれたことがありません。裏庭で自転車が盗まれた隣人を 1 人だけ知っています。いつも手すりに直接接続してます。
 
 ### どのような代替案があるでしょうか?
 
-とともに[ライプツィヒ MOVE アプリ](https://leipzig-move.de/)、各 15 分間の乗車が 10 回無料になります。_ネクストバイク_。自転車を大通り（地図上の紫色）に駐車しない場合は、料金が高くなることに注意してください。電動スクーターは、特定の駐車スペースにのみ駐車できます。フリーフロートカーシェアリングシステムもあります。つまり、私たちと一緒に[シティフリッツァー](https://cityflitzer.de/)。もちろん、Leipzig MOVE アプリ経由で支払い可能なバスや電車もあります。
+とともに[ライプツィヒ MOVE アプリ](https://leipzig-move.de/)、各 15 分間の乗車が 10 回無料になります。_ネクストバイク_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden. Es gibt auch ein Free-Float-Car-Shairing-System. Das heißt bei uns [シティフリッツァー](https://cityflitzer.de/)。もちろん、Leipzig MOVE アプリ経由で支払い可能なバスや電車もあります。
 
 # チェックアウト
 
