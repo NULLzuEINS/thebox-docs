@@ -70,12 +70,14 @@ jobs:
           draft: false
           prerelease: false
       - name: Save upload URL for later use
-        run: echo "${{ steps.create_release.outputs.upload_url }}" > upload-url.txt
+        run: |
+            mkdir -p Assets
+            echo "${{ steps.create_release.outputs.upload_url }}" > ./Assets/upload-url.txt
       - name: Upload upload_url.txt as artifact
         uses: actions/upload-artifact@v2
         with:
           name: upload-url
-          path: ./upload-url.txt
+          path: ./Assets/upload-url.txt
 
   upload:
     name: upload – ${{ github.ref_name }}
@@ -91,18 +93,20 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: thebox-pdf-de
-          path: Results/thebox.de.pdf
+          path: Assets/thebox.de.pdf
       - name: Step 2.2 - Download upload url artifact
         uses: actions/download-artifact@v2
         with:
           name: upload-url
-          path: upload-url.txt
+          path: Assets/upload-url.txt
       - name: List files in release
         run: |
-          ls -lisah
+          ls -lisah Assets
       - name: Step 3. - Set upload url
         run: |
-          echo "UPLOAD_URL=$(cat upload-url.txt)" >> $GITHUB_ENV
+          echo "UPLOAD_URL=$(cat Assets/upload-url.txt)" >> $GITHUB_ENV
+          env
+          echo ${{ env.UPLOAD_URL }}
       - name: Step 4. - Upload PDF as release asset
         id: upload-release-asset-pdf
         uses: actions/upload-release-asset@v1
@@ -112,4 +116,4 @@ jobs:
           upload_url: ${{ env.UPLOAD_URL }}
           asset_content_type: application/pdf
           asset_name: ${{ env.THEBOX_FILENAME }}-de.pdf
-          asset_path: ./Results/${{ env.THEBOX_FILENAME }}.de.pdf
+          asset_path: ./Assets/${{ env.THEBOX_FILENAME }}.de.pdf
