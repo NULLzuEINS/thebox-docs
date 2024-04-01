@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Step 2 - Read dotenv vars
         uses: xom9ikk/dotenv@v2
-      - name: Step 3 - Generate the documents using Docker for -${{ matrix.language }}
+      - name: Step 3 - Generate the documents using Docker for ${{ matrix.language }}
         run: |
           ./Scripts/build.sh ${{ matrix.language }}
           ls -lisah Temp/Results
