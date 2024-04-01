@@ -48,7 +48,7 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
 3.  Astiat ruokailuvälineet
 4.  Jääkaappi
 5.  Pizza uuni
-6.  Mineraalivesi
+6.  Mineralwasser
 7.  Kännykän latausasema hyllyssä
 8.  pesukone
 
