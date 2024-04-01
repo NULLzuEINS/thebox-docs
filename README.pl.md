@@ -4,7 +4,7 @@ Witamy w „Boxie”! Kiedy podróżuję, lubię też nocować w AirBnB i czasam
 
 > [!Uwaga]Dokument zostanie automatycznie przetłumaczony na Twój język. Mam nadzieję, że jest to w miarę zrozumiałe. Jeśli nie, śmiało napisz do mnie wiadomość. Potem próbuję to poprawić.
 
-## Kino
+## Bilder
 
 Na moim AirBnB otrzymasz szczegółowy przegląd wszystkich pokoi i udogodnień. Oto krótki przegląd:
 
@@ -61,7 +61,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 ## Twój pokój
 
 Materace są ułożone jeden na drugim wyłącznie w celu przechowywania. Możesz je dystrybuować według swoich potrzeb.
-Jeśli zastąpisz poduszki na kanapie materacem, będzie to dobre łóżko.
+Jeśli zastąpisz poduszki na kanapie materacem, sprawdzi się ona również jako łóżko.
 
 ### Dane logowania do komputera (iMac) to
 
@@ -82,7 +82,7 @@ Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować n
 
 | Ilustracja                                                | Opis                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Odp.: Bluetoothbox<br>B: Bajkowe światełka<br>C: Schreibtischlampe<br>D:_plik_<br>Mistrz: Przełącz wszystko w tym samym czasie                                                                                                                                                   |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Odp.: Bluetoothbox<br>B: Bajkowe światełka<br>C: Lampka na biurko<br>D:_plik_<br>Mistrz: Przełącz wszystko w tym samym czasie                                                                                                                                                    |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Zanim będziesz mógł z niego skorzystać, upewnij się, że włącznik światła przy wejściu jest ustawiony na „włączony”.**<br>Pierwsza linia: jasność, wł./wył<br>Kolorowe przyciski: Można ich używać do zmiany kolorów<br>Szare przyciski: przełączanie pomiędzy różnymi efektami |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | To jest pilot do komputera (iMac)._Aby skorzystać z komputera, naciśnij przycisk A na pierwszym pilocie. Aktywuje zasilanie komputera i modułu Bluetooth._                                                                                                                       |
 
@@ -92,7 +92,7 @@ Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować n
 
 ### łazienka
 
-Z prysznica można korzystać na stojąco. Nie stanowi to problemu, jeśli ziemia lekko zamoknie. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
+Z prysznica można korzystać na stojąco. Nie ma znaczenia, jeśli ziemia będzie trochę mokra. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
 
 Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Komputerze, włącz Deutschlandfunk Nova_"
 
@@ -135,7 +135,7 @@ Zastanawiasz się dlaczego kosze na śmieci mają różne kolory? Jeżeli nie je
 
 ### Cykle
 
-### Czy mój rower jest bezpieczny?
+### Ist mein Fahrrad sicher?
 
 Lipsk jest miastem bardzo przyjaznym rowerom. Przez duży park miejski, który dzieli miasto na dwie części, można dotrzeć do wielu miejsc i zazwyczaj jechać przez wieś.
 Jeśli wierzyć statystykom, w Lipsku co roku kradnie się najwięcej rowerów na mieszkańca. (1539 skradzionych rowerów na 100 000 mieszkańców) W ciągu 15 lat, odkąd mieszkam tutaj przy Hardenbergstraße, nigdy nie skradziono mi roweru i znam tylko jednego sąsiada, któremu skradziono rower z podwórka. Zawsze podłączam go bezpośrednio do poręczy.
