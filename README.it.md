@@ -76,7 +76,7 @@ Passwort: thebox
 2.  Computer e stampanti
 3.  Telecomandi per luci ed elettricità
 
-### Controlli remoti
+### Fernbedienungen
 
 Per tutti i telecomandi vale un vecchio detto tedesco: “Provare è meglio che studiare”. Non puoi rompere nulla. Premi alcuni pulsanti e guarda cosa succede. Se hai ancora voglia di studiare, ecco la lettura giusta per te:
 
@@ -157,7 +157,7 @@ Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite d
 -   Lavo anche i piatti e
 -   Porto fuori anche la spazzatura.
 
-> Kurzfassung: Schlüssel da lassen, Tür zuziehen, das wars. 😀
+> Versione breve: lascia lì la chiave, chiudi la porta, tutto qui. 😀
 
 # Soggiorno più lungo
 
@@ -188,7 +188,7 @@ Una volta terminato, rimettilo nella stazione di ricarica!
 
 # Suggerimenti
 
-Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_.
+Mit der [App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_.
 Tieni presente che costa di più se non parcheggi il Raf nelle strade principali (viola sulla mappa).
 Gli e-scooter possono essere parcheggiati solo in determinati parcheggi.
 
