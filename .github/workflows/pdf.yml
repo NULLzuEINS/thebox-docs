@@ -80,7 +80,7 @@ jobs:
           prerelease: false
       - name: List files in release
         run: |
-          ls -la Results
+          ls -lisah Results
       - name: Step 4. - Upload PDF as release asset
         id: upload-release-asset-pdf
         uses: actions/upload-release-asset@v1
