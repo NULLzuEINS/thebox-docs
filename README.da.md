@@ -61,7 +61,7 @@ Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. 
 ## Dit værelse
 
 Madrasserne placeres kun oven på hinanden til opbevaringsformål. Du kan fordele dem efter dine behov.
-Udskifter du puderne på sofaen med en madras, fungerer den godt som seng.
+Udskifter du puderne på sofaen med en madras, er det en god seng.
 
 ### Loginoplysningerne til computeren (iMac) er
 
@@ -194,7 +194,7 @@ El-scooterne må kun parkeres på visse parkeringspladser.
 
 Jeg har gemt rejseguider i AirBnB-appen. Der finder du mine anbefalinger til seværdigheder, barer og pubber, indkøbsmuligheder og restauranter.
 
-# Spørgsmål?
+# Fragen?
 
 Hvis du har spørgsmål eller brug for support, hjælper jeg dig gerne.
 Hvis du har travlt, er det bedst at gøre det via telefonen <a href="tel:+491707353067">+49 170 73 53 067</a>.
