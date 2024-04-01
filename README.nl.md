@@ -61,7 +61,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 ## Jouw kamer
 
 De matrassen worden uitsluitend voor opslagdoeleinden op elkaar geplaatst. U kunt ze verdelen volgens uw behoeften.
-Als je de kussens op de bank vervangt door een matras, functioneert deze prima als bed.
+Als je de kussens van de bank vervangt door een matras, ontstaat er een goed bed.
 
 ### De inloggegevens voor de computer (iMac) zijn
 
