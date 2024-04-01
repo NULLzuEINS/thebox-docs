@@ -98,7 +98,7 @@ The Alexa on the wall goes by the name “Computer” and also plays your favori
 
 You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One piece of it is yours.
 
-### Hallway
+### Flur
 
 You are welcome to leave your shoes here. I also have a small notepad on the shelf in case you want to tell me something.
 
