@@ -48,7 +48,7 @@ Passwort: landungsbruecken
 3.  食器カトラリー
 4.  冷蔵庫
 5.  ピザ窯
-6.  Mineralwasser
+6.  ミネラルウォーター
 7.  棚にある携帯電話の充電ステーション
 8.  洗濯機
 
