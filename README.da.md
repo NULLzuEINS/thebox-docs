@@ -61,7 +61,7 @@ Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. 
 ## Dit værelse
 
 Madrasserne placeres kun oven på hinanden til opbevaringsformål. Du kan fordele dem efter dine behov.
-Udskifter du puderne på sofaen med en madras, fungerer den godt som seng.
+Udskifter du puderne på sofaen med en madras, er det en god seng.
 
 ### Loginoplysningerne til computeren (iMac) er
 
@@ -96,7 +96,7 @@ Du kan bruge bruseren, mens du står. Det er ikke noget problem, hvis jorden bli
 
 Alexaen på væggen går under navnet "Computer" og spiller også din yndlingsmusik eller radio. F.eks. "_Computer, spil Deutschlandfunk Nova_"
 
-Du kan hænge håndklæder på alle kroge og sætte dine ting hvor som helst. Der er en hylde foran badeværelsesdøren. Et stykke af det er dit.
+Du kan hænge håndklæder på alle kroge og sætte dine ting hvor som helst. Der er en hylde foran badeværelsesdøren. En af dem er din.
 
 ### Gang
 
@@ -111,15 +111,15 @@ Du kan også blot afbryde den fra strømmen.
 
 Der er ingen stemmeassistenter på dit værelse. Kurven på hylden indeholder kun routeren og en lille computer.
 
-## Temperatur und Feuchtigkeit
+## temperatur og fugtighed
 
-Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst Du im Spiegel im Flur ablesen.
+Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre mugdannelse. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
 
 ?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Især på badeværelset. Sørg også for, at varmen er slukket. Tak 🙏
 
 ## Gården
 
-In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
+I vores gårdhave kan du tilslutte dine cykler og tage dit affald væk.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
