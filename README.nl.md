@@ -12,7 +12,7 @@ Op mijn AirBnB krijg je een gedetailleerd overzicht van alle kamers en de facili
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Eén bedconfiguratie met bank                                                           | Configuratie met twee bedden                                                  | Bureau                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Bureau met licht                                                                       | Fornuis                                                                       | Keuken - thee                                                                           |
+| Schreibtisch mit Licht                                                                 | Fornuis                                                                       | Keuken - thee                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Bureau met licht                                                                       | Fornuis                                                                       | Keuken - thee                                                                           |
 
@@ -47,7 +47,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 2.  Ketel
 3.  Servies bestek
 4.  Koelkast
-5.  Pizzaofen
+5.  pizza oven
 6.  Mineraalwater
 7.  Oplaadstation voor mobiele telefoons op de plank
 8.  wasmachine
@@ -127,7 +127,7 @@ Op onze binnenplaats kunt u uw fietsen aansluiten en uw afval meenemen.
 
 Of je gebruikt de sleutel van de voordeur, of je reikt door het hek en voelt aan de knop om de deur te openen. Terwijl u de knop ingedrukt houdt, kunt u de deur openen.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
+![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
 ### Geel? Blauw? Groente? Bruin?
 
@@ -151,7 +151,7 @@ Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten va
 -   Afhankelijk van welke dag van de week het is, kunnen wij persoonlijk afscheid nemen, of u legt gewoon de sleutels op het bureau en sluit de deur achter u.
 -   Het uiterste tijdstip voor uitchecken is 19.00 uur op de dag van vertrek.
 
-## Reinigung
+## schoonmaak
 
 -   Je kunt er beddengoed op laten liggen.
 -   Ik doe ook de afwas en
@@ -206,4 +206,4 @@ André
 
 * * *
 
-_Gemaakt met ❤️ door [docsify](https://docsify.js.org/)_
+_Gemaakt met ❤️ door [documenteren](https://docsify.js.org/)_
