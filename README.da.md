@@ -92,7 +92,7 @@ Et gammelt tysk ordsprog gælder for alle fjernbetjeninger: "Det er bedre at pr�
 
 ### badeværelse
 
-Du kan bruge bruseren, mens du står. Det er ikke noget problem, hvis jorden bliver lidt våd. Tænd kun for vandet 1/3 og hæng bademåtten over varmeren til tørre.
+Du kan bruge bruseren, mens du står. Det gør ikke noget, hvis jorden bliver lidt våd. Tænd kun for vandet 1/3 og hæng bademåtten over varmeren til tørre.
 
 Alexaen på væggen går under navnet "Computer" og spiller også din yndlingsmusik eller radio. F.eks. "_Computer, spil Deutschlandfunk Nova_"
 
@@ -140,7 +140,7 @@ Undrer du dig over, hvorfor skraldespandene har forskellige farver? Hvis du er u
 Leipzig er en meget cykelvenlig by. Gennem den store bypark, der deler byen i to halvdele, kan man komme mange steder hen og normalt køre gennem landskabet.
 Hvis man skal tro statistikken, så stjæles der flest cykler pr. indbygger i Leipzig hvert år. (1.539 stjålne cykler pr. 100.000 indbyggere) I de 15 år, siden jeg har boet her på Hardenbergstraße, har jeg aldrig fået stjålet en cykel, og jeg kender kun én nabo, hvis cykel blev stjålet fra hans baghave. Jeg forbinder den altid direkte til rækværket.
 
-### Hvilke alternativer er der?
+### Welche Alternativen gibt es
 
 Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 15 minutter hver for_Nextbikes_. Bemærk, at det koster mere, hvis du ikke parkerer dine cykler på hovedgaderne (lilla på kortet). El-scooterne må kun parkeres på visse parkeringspladser. Der er også et free-float delebilssystem. Det betyder med os[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er der busser og tog, som du også kunne betale for via Leipzig MOVE-appen.
 
