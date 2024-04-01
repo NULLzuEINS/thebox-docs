@@ -2,7 +2,7 @@
 
 Hei ja tervetuloa "Boksiin"! Kun matkustan, pidän myös AirBnB:ssä ja joskus toivon, että minulla olisi paperi, jossa on kaikki tarvittavat tiedot majoituksesta, sisään- ja uloskirjautumisesta, ja tämä on minun yritykseni tehdä siitä parempi.
 
-> [!Huomautus]Kääntän asiakirjan automaattisesti kielellesi. Toivottavasti se on jotenkin ymmärrettävää. Jos ei, kirjoita minulle viestiä. Yritän sitten parantaa sitä.
+> [!Huomautus]Käännän asiakirjan automaattisesti kielellesi. Toivottavasti se on jotenkin ymmärrettävää. Jos ei, kirjoita minulle viestiä. Yritän sitten parantaa sitä.
 
 ## Kuvia
 
@@ -92,11 +92,11 @@ Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on par
 
 ### kylpyhuone
 
-Voit käyttää suihkua seisten. Ei haittaa vaikka maa kastuu hieman. Kytke vesi päälle vain 1/3 ja ripusta kylpymatto kuivumaan kiukaan päälle.
+Voit käyttää suihkua seisten. Ei haittaa, jos maa hieman kastuu. Kytke vesi päälle vain 1/3 ja ripusta kylpymatto kuivumaan kiukaan päälle.
 
 Seinällä oleva Alexa on nimeltään "Computer" ja toistaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
 
-Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi osa siitä on sinun.
+Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi niistä on sinun.
 
 ### Käytävä
 
@@ -106,7 +106,7 @@ Olet tervetullut jättämään kengät tänne. Minulla on myös pieni muistileht
 
 ## Älykoti
 
-Kylpyhuoneessa ja keittiössä on Alexa-ääniavustaja. Voit kutsua heidät nimellä ”Computer” ja saada heidät soittamaan esimerkiksi Deutschlandfunk Novaa. He ymmärtävät saksaa ja myös englantia. Jos et halua käyttää niitä,
+Kylpyhuoneessa ja keittiössä on Alexa-ääniavustaja. Voit kutsua heitä nimellä “Computer” ja saada heidät soittamaan esimerkiksi Deutschlandfunk Novaa. He ymmärtävät saksaa ja myös englantia. Jos et halua käyttää niitä,
 Voit myös irrottaa sen virtalähteestä.
 
 Huoneessasi ei ole ääniavustajia. Hyllyssä oleva kori sisältää vain reitittimen ja pienen tietokoneen.
@@ -131,7 +131,7 @@ Joko käytät etuoven avainta tai kurkotat portin läpi ja tunnet oven avaavan p
 
 ### Keltainen? Sininen? Vihreä? Ruskea?
 
-Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan.
+Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan roskakoriin.
 
 ### Pyörät
 
