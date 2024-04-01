@@ -6,7 +6,7 @@ Bună ziua și bun venit în „Cutie”! Când călătoresc, îmi place și să
 
 ## Poze
 
-Pe AirBnB-ul meu ai o imagine de ansamblu detaliată a tuturor camerelor și facilităților. Iată doar o scurtă prezentare generală:
+Pe AirBnB-ul meu primești o imagine de ansamblu detaliată a tuturor camerelor și facilităților. Iată doar o scurtă prezentare generală:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -41,7 +41,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Folgende Dinge stehen in der Küche zur Verfügung
+### Următoarele lucruri sunt disponibile în bucătărie
 
 1.  turma
 2.  Fierbător
@@ -92,7 +92,7 @@ O veche zicală germană se aplică tuturor telecomenzilor: „Este mai bine să
 
 ### baie
 
-Puteți folosi dușul în timp ce stați în picioare. Nu contează dacă pământul se udă puțin. Dați apa doar 1/3 și atârnă covorașul de baie peste încălzitor pentru a se usuca.
+Puteți folosi dușul în timp ce stați în picioare. Nu este o problemă dacă pământul se udă puțin. Dați apa doar 1/3 și atârnă covorașul de baie peste încălzitor pentru a se usuca.
 
 Alexa de pe perete poartă numele „Computer” și redă, de asemenea, muzica sau radioul preferat. De exemplu. "_Computer, joacă Deutschlandfunk Nova_"
 
