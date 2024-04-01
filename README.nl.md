@@ -10,7 +10,7 @@ Op mijn AirBnB krijg je een gedetailleerd overzicht van alle kamers en de facili
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Eén bedconfiguratie met bank                                                           | Configuratie met twee bedden                                                  | Bureau                                                                                  |
+| Ein-Bett-Konfiguration mit Couch                                                       | Configuratie met twee bedden                                                  | Bureau                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Bureau met licht                                                                       | Fornuis                                                                       | Keuken - thee                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -137,16 +137,16 @@ Vraag je je af waarom de vuilnisbakken verschillende kleuren hebben? Als u het n
 
 ### Is mijn fiets veilig?
 
-Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
-Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
+Leipzig is een zeer fietsvriendelijke stad. Via het grote stadspark dat de stad in twee helften verdeelt, kun je op veel plekken komen en meestal door het platteland rijden.
+Als je de statistieken mag geloven, worden in Leipzig jaarlijks de meeste fietsen per hoofd van de bevolking gestolen. (1.539 gestolen fietsen per 100.000 inwoners) In de 15 jaar sinds ik hier aan de Hardenbergstraße woon, is er nog nooit een fiets gestolen en ken ik slechts één buurman wiens fiets uit zijn achtertuin is gestolen. Ik sluit hem altijd rechtstreeks aan op de reling.
 
 ### Welke alternatieven zijn er?
 
-Mit der [Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten van elk 15 minuten voor de_Volgendefietsen_. Houd er rekening mee dat het meer kost als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). En natuurlijk zijn er bussen en treinen die je ook via de Leipzig MOVE-app kunt betalen.
+Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten van elk 15 minuten voor de_Volgendefietsen_. Houd er rekening mee dat het meer kost als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). En natuurlijk zijn er bussen en treinen die je ook via de Leipzig MOVE-app kunt betalen.
 
 # Uitchecken
 
-## Sleutel
+## Schlüssel
 
 -   Afhankelijk van welke dag van de week het is, kunnen wij persoonlijk afscheid nemen, of u legt gewoon de sleutels op het bureau en sluit de deur achter u.
 -   Het uiterste tijdstip voor uitchecken is 19.00 uur op de dag van vertrek.
