@@ -50,7 +50,7 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: thebox-pdf-de
-          path: thebox.de.pdf
+          path: Results/thebox.de.pdf
       - name: Step 3. - Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -83,5 +83,5 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_content_type: application/pdf
           asset_name: ${{ env.THEBOX_FILENAME }}.de.pdf
-          asset_path: ./${{ env.THEBOX_FILENAME }}.de.pdf
+          asset_path: ./Results/${{ env.THEBOX_FILENAME }}.de.pdf
 
