@@ -18,7 +18,7 @@ Op mijn AirBnB krijg je een gedetailleerd overzicht van alle kamers en de facili
 
 ## Sleutel
 
-Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du Dein Zimmer abschließen kannst.
+Je krijgt twee paar sleutels, elk met één sleutel voor de onderkant en één voor de bovenkant. Er zit ook een sleutel aan een sleutelhanger waarmee u uw kamer kunt afsluiten.
 
 ## internet toegang
 
@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
+Of u scant deze QR-code, deze verbindt u automatisch met het netwerk:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -60,8 +60,8 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 
 ## Jouw kamer
 
-De matrassen worden uitsluitend voor opslagdoeleinden op elkaar geplaatst. U kunt ze verdelen volgens uw behoeften.
-Als je de kussens op de bank vervangt door een matras, functioneert deze prima als bed.
+Die Matratzen liegen nur zu Lagerung übereinander. Du kannst sie nach Deinen Bedürfnissen verteilen. 
+Wenn Du die Kissen auf der Couch durch eine Matratze ersetzt, eignet sie sich gut als Bett.
 
 ### De inloggegevens voor de computer (iMac) zijn
 
@@ -80,7 +80,7 @@ Passwort: thebox
 
 Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter dan studeren”. Je kunt niets breken. Druk op een paar knoppen en kijk wat er gebeurt. Als je nog steeds wilt studeren, is hier de juiste lectuur voor jou:
 
-| Illustratie                                               | Beschrijving                                                                                                                                                                                                                                                          |
+| Illustratie                                               | Beschreibung                                                                                                                                                                                                                                                          |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Kerstverlichting<br>C: Bureaulamp<br>D:_leer_<br>Master: Schakel alles tegelijk                                                                                                                                                                 |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Voordat u er gebruik van kunt maken, zorgt u ervoor dat de lichtschakelaar bij de ingang op "aan" staat.**<br>Eerste regel: helderheid, aan/uit<br>Gekleurde knoppen: Hiermee kunt u de kleuren wijzigen<br>Grijze knoppen: Schakelen tussen verschillende effecten |
@@ -104,7 +104,7 @@ U kunt uw schoenen hier achterlaten. Ik heb ook een klein notitieboekje op de pl
 
 # Gemengd
 
-## Slimme woning
+## Smart Home
 
 Er zijn Alexa-stemassistenten in de badkamer en keuken. Je kunt ze aanspreken met de naam “Computer” en ze bijvoorbeeld Deutschlandfunk Nova laten spelen. Ze begrijpen Duits en ook Engels. Als u ze niet wilt gebruiken,
 Je kunt hem ook eenvoudig loskoppelen van de stroom.
