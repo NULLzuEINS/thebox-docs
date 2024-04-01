@@ -96,7 +96,7 @@ Você pode usar o chuveiro em pé. Não há problema se o solo ficar um pouco mo
 
 A Alexa na parede atende pelo nome de “Computador” e também toca sua música ou rádio favorita. Por exemplo. "_Computador, jogue Deutschlandfunk Nova_"
 
-Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualquer lugar. Há uma prateleira na frente da porta do banheiro. Um deles é seu.
+Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualquer lugar. Há uma prateleira na frente da porta do banheiro. Um pedaço dele é seu.
 
 ### Corredor
 
@@ -106,8 +106,8 @@ Você está convidado a deixar seus sapatos aqui. Também tenho um pequeno bloco
 
 ## Lar inteligente
 
-Existem assistentes de voz Alexa no banheiro e na cozinha. Você pode chamá-los pelo nome “Computador” e fazer com que toquem Deutschlandfunk Nova, por exemplo. Eles entendem alemão e também inglês. Se você não quiser usá-los,
-Você também pode simplesmente desconectá-lo da energia.
+Im Bad und in der Küche befinden sich Alexa Sprachassistenten. Du kannst sie mit dem Namen "Computer" ansprechen und Dir zum Beispiel Deutschlandfunk Nova spielen lassen. Sie verstehen Deutsch und auch Englisch. Wenn Du sie nicht nutzen möchtest, 
+kannst Du sie auch einfach vom Strom trennen.
 
 Não há assistentes de voz em sua sala. A cesta na prateleira contém apenas o roteador e um pequeno computador.
 
