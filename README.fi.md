@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Tai skannaat tämän QR-koodin, se yhdistää sinut automaattisesti verkkoon:
+Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -61,9 +61,9 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
 ## Huoneesi
 
 Patjat asetetaan päällekkäin vain säilytystä varten. Voit jakaa niitä tarpeidesi mukaan.
-Jos vaihdat sohvan tyynyt patjaan, siitä tulee hyvä sänky.
+Jos vaihdat sohvan tyynyt patjaan, se toimii hyvin sänkynä.
 
-### Tietokoneen (iMac) kirjautumistiedot ovat
+### Die Zugangsdaten für den Computer (iMac) sind
 
 ```txt
 Nutzer:   thebox
@@ -73,7 +73,7 @@ Passwort: thebox
 ### Seuraavat asiat ovat saatavilla huoneessa
 
 1.  Kaikki kalusteet ja sängyt
-2.  Computer & Drucker
+2.  Tietokoneet ja tulostimet
 3.  Kaukosäätimet valoille ja sähkölle
 
 ### Kaukosäätimet
@@ -94,9 +94,9 @@ Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on par
 
 Voit käyttää suihkua seisten. Ei haittaa, jos maa hieman kastuu. Kytke vesi päälle vain 1/3 ja ripusta kylpymatto kuivumaan kiukaan päälle.
 
-Seinällä oleva Alexa on nimeltään "Computer" ja toistaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
+Seinällä oleva Alexa on nimeltään "Computer", ja se soittaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
 
-Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi niistä on sinun.
+Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi osa siitä on sinun.
 
 ### Käytävä
 
@@ -109,13 +109,13 @@ Olet tervetullut jättämään kengät tänne. Minulla on myös pieni muistileht
 Kylpyhuoneessa ja keittiössä on Alexa-ääniavustaja. Voit kutsua heitä nimellä “Computer” ja saada heidät soittamaan esimerkiksi Deutschlandfunk Novaa. He ymmärtävät saksaa ja myös englantia. Jos et halua käyttää niitä,
 Voit myös irrottaa sen virtalähteestä.
 
-Huoneessasi ei ole ääniavustajia. Hyllyssä oleva kori sisältää vain reitittimen ja pienen tietokoneen.
+In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
 
 ## lämpötila ja kosteus
 
 Lämpötila ja kosteus mitataan automaattisesti antureiden kautta. Käytän niitä homeen muodostumisen estämiseen. Ne ovat pieniä ja valkoisia ja yleensä sijaitsevat ovenkarmeilla. Voit lukea osan mittaustiedoista käytävän peilistä.
 
-?> Varmista, että tuuletat säännöllisesti (vähintään kerran päivässä). Varsinkin kylpyhuoneessa. Varmista myös, että lämmitys on kytketty pois päältä. Kiitos 🙏
+?> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Achte dabei auch darauf, dass die Heizung abgestellt ist. Danke 🙏
 
 ## Piha
 
@@ -155,7 +155,7 @@ Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 
 -   Voit jättää siihen vuodevaatteet.
 -   Pesen myös astiat ja
--   Vien roskat myös pois.
+-   den Müll bring ich auch raus.
 
 > Lyhyt versio: Jätä avain sinne, sulje ovi, siinä kaikki. 😀
 
@@ -173,7 +173,7 @@ Keittiöstä löytyy käsiharja ja seinälle sivellin. Tämä auttaa sinua pää
 
 ## Pyyhi
 
-Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppaukseen. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
+Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppausta varten. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
 
 ## Imuri
 
