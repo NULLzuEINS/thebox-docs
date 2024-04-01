@@ -4,7 +4,7 @@ Hej og velkommen til "Boksen"! Når jeg rejser, kan jeg også godt lide at bo i 
 
 > [!En meddelelse]Jeg vil få dokumentet automatisk oversat til dit sprog. Jeg håber det er lidt forståeligt. Hvis ikke, er du velkommen til at skrive en besked til mig. Så prøver jeg at forbedre det.
 
-## Bilder
+## Billeder
 
 På min AirBnB får du et detaljeret overblik over alle værelserne og faciliteterne. Her er blot en kort oversigt:
 
@@ -61,7 +61,7 @@ Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. 
 ## Dit værelse
 
 Madrasserne placeres kun oven på hinanden til opbevaringsformål. Du kan fordele dem efter dine behov.
-Udskifter du puderne på sofaen med en madras, er det en god seng.
+Udskifter du puderne på sofaen med en madras, fungerer den godt som seng.
 
 ### Loginoplysningerne til computeren (iMac) er
 
@@ -115,7 +115,7 @@ Der er ingen stemmeassistenter på dit værelse. Kurven på hylden indeholder ku
 
 Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre mugdannelse. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
 
-?> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Achte dabei auch darauf, dass die Heizung abgestellt ist. Danke 🙏
+?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Især på badeværelset. Sørg også for, at varmen er slukket. Tak 🙏
 
 ## Gården
 
@@ -140,7 +140,7 @@ Undrer du dig over, hvorfor skraldespandene har forskellige farver? Hvis du er u
 Leipzig er en meget cykelvenlig by. Gennem den store bypark, der deler byen i to halvdele, kan man komme mange steder hen og normalt køre gennem landskabet.
 Hvis man skal tro statistikken, så stjæles der flest cykler pr. indbygger i Leipzig hvert år. (1.539 stjålne cykler pr. 100.000 indbyggere) I de 15 år, siden jeg har boet her på Hardenbergstraße, har jeg aldrig fået stjålet en cykel, og jeg kender kun én nabo, hvis cykel blev stjålet fra hans baghave. Jeg forbinder den altid direkte til rækværket.
 
-### Welche Alternativen gibt es
+### Hvilke alternativer er der?
 
 Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 15 minutter hver for_Nextbikes_. Bemærk, at det koster mere, hvis du ikke parkerer dine cykler på hovedgaderne (lilla på kortet). El-scooterne må kun parkeres på visse parkeringspladser. Der er også et free-float delebilssystem. Det betyder med os[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er der busser og tog, som du også kunne betale for via Leipzig MOVE-appen.
 
