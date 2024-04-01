@@ -44,7 +44,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 ### W kuchni dostępne są następujące rzeczy
 
 1.  Stado
-2.  Czajnik
+2.  Wasserkocher
 3.  Naczynia sztućce
 4.  Lodówka
 5.  piec do pizzy
@@ -137,8 +137,8 @@ Zastanawiasz się dlaczego kosze na śmieci mają różne kolory? Jeżeli nie je
 
 ### Czy mój rower jest bezpieczny?
 
-Lipsk jest miastem bardzo przyjaznym rowerom. Przez duży park miejski, który dzieli miasto na dwie części, można dotrzeć do wielu miejsc i zazwyczaj jechać przez wieś.
-Jeśli wierzyć statystykom, w Lipsku co roku kradnie się najwięcej rowerów na mieszkańca. (1539 skradzionych rowerów na 100 000 mieszkańców) W ciągu 15 lat, odkąd mieszkam tutaj przy Hardenbergstraße, nigdy nie skradziono mi roweru i znam tylko jednego sąsiada, któremu skradziono rower z podwórka. Zawsze podłączam go bezpośrednio do poręczy.
+Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
+Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
 
 ### Jakie są alternatywy?
 
