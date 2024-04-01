@@ -169,7 +169,7 @@ Alexa на стіні має назву «Комп’ютер» і також в
 
 ## Щітка для рук і совок
 
-In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Damit bekommst du den kleinen Dreck weg.
+На кухні ви знайдете щітку для рук і совок на стіні. Це допоможе вам позбутися дрібного бруду.
 
 ## Витріть
 
@@ -192,7 +192,7 @@ In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Dami
 Зауважте, що це коштує дорожче, якщо ви не паркуєте Raf на головних вулицях (фіолетовий на карті).
 Електроскутери можна паркувати лише на певних паркувальних місцях.
 
-In der App von AirBnB habe ich Reiseführer hinterlegt. Dort findest Du meine Empfehlungen zu Sehenwürdigkeiten, Bars und Kneipen, Einkaufsmöglichkeiten und Restaurants.
+Я зберіг путівники в додатку AirBnB. Там ви знайдете мої рекомендації щодо пам’яток, барів і пабів, магазинів і ресторанів.
 
 # Запитання?
 
