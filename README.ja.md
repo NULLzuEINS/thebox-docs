@@ -45,8 +45,8 @@ Passwort: landungsbruecken
 
 1.  群れ
 2.  ケトル
-3.  Geschirr, Besteck
-4.  冷蔵庫
+3.  食器カトラリー
+4.  Kühlschrank
 5.  ピザ窯
 6.  ミネラルウォーター
 7.  棚にある携帯電話の充電ステーション
@@ -56,12 +56,12 @@ Passwort: landungsbruecken
 
 1.  ストーブが作動していませんか?言ってください
     > 「コンピューター、作業台、そして」
-2.  どこで洗えますか？これはバスルームでのみ機能します。食器を洗うための専用の容器があります。
+2.  どこで洗えばいいですか？これはバスルームでのみ機能します。食器を洗うための専用の容器があります。
 
 ## あなたの部屋
 
 マットレスは保管目的でのみ重ねて置かれます。ニーズに応じて配布できます。
-ソファの枕をマットレスに変えればベッドとしても使えます。
+ソファのクッションをマットレスに置き換えれば、立派なベッドになります。
 
 ### コンピューター (iMac) のログイン詳細は次のとおりです。
 
@@ -80,11 +80,11 @@ Passwort: thebox
 
 ドイツの古いことわざは、「勉強するよりも試したほうが良い」という言葉で、すべてのリモコンに当てはまります。何も壊すことはできません。いくつかのボタンを押して、何が起こるかを見てください。それでも勉強したい場合は、次の本を読んでください。
 
-| 図                                                         | 説明                                                                                                                              |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A：Bluetoothボックス<br>B: フェアリーライト<br>C: 電気スタンド<br>D:_ファイル_<br>マスター：すべてを同時に切り替えてください                                                |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **ご使用前に玄関の照明スイッチが「入」になっていることをご確認ください。**<br>Erste Zeile: Helligkeit, An/Aus<br>色付きボタン: これを使用して色を変更できます<br>灰色のボタン: さまざまな効果を切り替えます |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | パソコン（iMac）のリモコンです。_コンピューターを使用するには、最初のリモコンの A ボタンを押します。コンピューターと Bluetooth ボックスの電源を有効にします。_                                       |
+| 図                                                         | 説明                                                                                                            |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A：Bluetoothボックス<br>B: フェアリーライト<br>C: 電気スタンド<br>D:_ファイル_<br>マスター：すべてを同時に切り替えてください                              |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **ご使用前に玄関の照明スイッチが「入」になっていることをご確認ください。**<br>1行目：明るさ、オン/オフ<br>色付きボタン: これを使用して色を変更できます<br>灰色のボタン: さまざまな効果を切り替えます |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | パソコン（iMac）のリモコンです。_コンピューターを使用するには、最初のリモコンの A ボタンを押します。コンピューターと Bluetooth ボックスの電源を有効にします。_                     |
 
 ### FAQ - お部屋について
 
@@ -137,8 +137,8 @@ Passwort: thebox
 
 ### 私の自転車は安全ですか?
 
-Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
-Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
+ライプツィヒは自転車にとても優しい街です。街を 2 つに分ける大きな都市公園を通って、さまざまな場所に行くことができ、通常は田園地帯を車で通り抜けます。
+この統計を信じるのであれば、毎年ライプツィヒで一人当たり最も多くの自転車が盗まれていることになります。 (住民 100,000 人あたり 1,539 台の自転車が盗まれています) 私がここハルデンベルク通りに住んでから 15 年間、一度も自転車を盗まれたことがありません。裏庭で自転車が盗まれた隣人を 1 人だけ知っています。いつも手すりに直接接続してます。
 
 ### どのような代替案があるでしょうか?
 
@@ -206,4 +206,4 @@ Raf を大通り (地図上の紫色) に駐車しない場合は、料金が高
 
 * * *
 
-_Made with ❤️ by  [文書化する](https://docsify.js.org/)_
+_❤️で作りました [文書化する](https://docsify.js.org/)_
