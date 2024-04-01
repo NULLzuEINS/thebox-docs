@@ -46,7 +46,7 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 1.  Kari
 2.  Veekeetja
 3.  Nõud söögiriistad
-4.  Külmik
+4.  Külmkapp
 5.  Pitsaahi
 6.  Mineraalvesi
 7.  Riiulil mobiiltelefoni laadimisjaam
@@ -106,7 +106,7 @@ Olete oodatud oma kingad siia jätma. Mul on riiulil ka väike märkmik juhuks, 
 
 ## Tark kodu
 
-Vannitoas ja köögis on Alexa hääleabilised. Saate neid adresseerida nimega “Computer” ja lasta neil näiteks Deutschlandfunk Novat mängida. Nad saavad aru saksa ja ka inglise keelest. Kui te ei soovi neid kasutada,
+Vannitoas ja köögis on Alexa hääleabilised. Saate neid adresseerida nimega “Arvuti” ja lasta neil näiteks Deutschlandfunk Novat mängida. Nad saavad aru saksa ja ka inglise keelest. Kui te ei soovi neid kasutada,
 Samuti saate selle lihtsalt vooluvõrgust lahti ühendada.
 
 Teie toas pole hääleabilisi. Riiulil olevas korvis on ainult ruuter ja väike arvuti.
