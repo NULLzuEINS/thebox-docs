@@ -72,7 +72,7 @@ Passwort: thebox
 
 ### Toas on saadaval järgmised asjad
 
-1.  Alle Möbel und Betten
+1.  Kogu mööbel ja voodid
 2.  Arvutid ja printerid
 3.  Kaugjuhtimispuldid tuledele ja elektrile
 
@@ -131,7 +131,7 @@ Kas kasutate välisukse võtit või sirutate käe läbi värava ja tunnete, kuid
 
 ### Kollane? Sinine? Roheline? Pruun?
 
-Du fragst Dich warum die Mülltonnen verschiedene Farben haben? Wenn Du dir unsicher bist, mach den Müll immer in die grüne Tonne. Darin landet der Restmüll. Profis machen den Papiermüll in die blaue Tonne, Wertstoffe in die gelbe Tonne und organische Abfälle in die braune Tonne.
+Kas teid huvitab, miks prügikastid on erinevat värvi? Kui te pole milleski kindel, pange prügikast alati rohelisse prügikasti. Jääkjäätmed satuvad sinna. Professionaalid panevad paberijäätmed sinisesse prügikasti, taaskasutatavad jäätmed kollasesse ja orgaanilised jäätmed pruuni prügikasti.
 
 ### Tsüklid
 
