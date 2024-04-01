@@ -49,7 +49,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 4.  Réfrigérateur
 5.  Four à pizza
 6.  Eau minérale
-7.  Station de recharge pour téléphone portable sur l'étagère
+7.  Station de recharge de téléphone portable sur l'étagère
 8.  Machine à laver
 
 ### FAQ - Cuisine
@@ -78,17 +78,17 @@ Passwort: thebox
 
 ### Télécommandes
 
-Un vieux dicton allemand s’applique à toutes les télécommandes : « Mieux vaut essayer qu’étudier ». Vous ne pouvez rien casser. Appuyez sur quelques boutons et voyez ce qui se passe. Si vous souhaitez continuer à étudier, voici la lecture qui vous convient :
+Un vieux dicton allemand s'applique à toutes les télécommandes : « Mieux vaut essayer qu'étudier ». Vous ne pouvez rien casser. Appuyez sur quelques boutons et voyez ce qui se passe. Si vous souhaitez continuer à étudier, voici la lecture qui vous convient :
 
 | Illustration                                              | Description                                                                                                                                                                                                                                                                           |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R : boîtier Bluetooth<br>B : Guirlande lumineuse<br>C : Lampe de bureau<br>D:_déposer_<br>Maître : Changez tout en même temps                                                                                                                                                         |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Avant de pouvoir l'utiliser, assurez-vous que l'interrupteur d'éclairage à l'entrée est réglé sur « on ».**<br>Première ligne : luminosité, marche/arrêt<br>Boutons colorés : vous pouvez les utiliser pour changer les couleurs<br>Boutons gris : basculez entre différents effets |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Avant de pouvoir l'utiliser, assurez-vous que l'interrupteur d'éclairage à l'entrée est réglé sur « on ».**<br>Première ligne : luminosité, marche/arrêt<br>Boutons colorés : vous pouvez les utiliser pour changer les couleurs<br>Boutons gris : basculez entre différents effets |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Il s'agit de la télécommande de l'ordinateur (iMac)._Pour utiliser l'ordinateur, appuyez sur le bouton A de la première télécommande. Il active l'alimentation de l'ordinateur et du boîtier Bluetooth._                                                                              |
 
 ### FAQ - Votre chambre
 
-1.  La lumière ne s'allume pas ou clignote énormément. Utilisez les petites télécommandes aux boutons colorés.
+1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
 
 ### salle de bain
 
@@ -96,7 +96,7 @@ Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est u
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
-Vous pouvez accrocher des serviettes à tous les crochets et ranger vos affaires n'importe où. Il y a une étagère devant la porte de la salle de bain. Un morceau est à vous.
+Vous pouvez accrocher des serviettes à tous les crochets et ranger vos affaires n'importe où. Il y a une étagère devant la porte de la salle de bain. L'un d'eux est le vôtre.
 
 ### Couloir
 
@@ -198,8 +198,8 @@ J'ai stocké des guides de voyage dans l'application AirBnB. Vous y trouverez me
 
 Si vous avez des questions ou avez besoin d'aide, je serai heureux de vous aider.
 Si vous êtes pressé, il est préférable de le faire par téléphone <a href="tel:+491707353067">+49 170 73 53 067</a>.
-Vous pouvez également utiliser l'application de messagerie préinstallée avec des fonctionnalités limitées (SMS).
-Sinon, j'ai un bloc-notes et un stylo dans le couloir.
+Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS).
+Ansonsten habe ich im Flur einen Notizblock und einen Stift.
 
 Je vous souhaite un bon séjour à Leipzig !
 André
