@@ -61,7 +61,7 @@ Como costumo comer lá embaixo com minha família, a cozinha é muito espartana.
 ## Seu quarto
 
 Os colchões são colocados uns sobre os outros apenas para fins de armazenamento. Você pode distribuí-los de acordo com suas necessidades.
-Se você substituir as almofadas do sofá por um colchão, ele funciona bem como cama.
+Se você substituir as almofadas do sofá por um colchão, fica uma boa cama.
 
 ### Os detalhes de login do computador (iMac) são
 
