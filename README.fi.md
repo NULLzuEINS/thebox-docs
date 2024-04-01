@@ -1,6 +1,6 @@
 # Tervetuloa The Boxiin
 
-Hei ja tervetuloa "Boksiin"! Kun matkustan, pidän myös AirBnB:ssä ja joskus toivon, että minulla olisi paperi, jossa on kaikki tarvittavat tiedot majoituksesta, sisään- ja uloskirjautumisesta, ja tämä on minun yritykseni tehdä siitä parempi.
+Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
 
 > [!Huomautus]Käännän asiakirjan automaattisesti kielellesi. Toivottavasti se on jotenkin ymmärrettävää. Jos ei, kirjoita minulle viestiä. Yritän sitten parantaa sitä.
 
@@ -10,7 +10,7 @@ AirBnB:ssäni saat yksityiskohtaisen yleiskatsauksen kaikista huoneista ja tiloi
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Yksi sänky ja sohva                                                                    | Kahden sängyn kokoonpano                                                      | Vastaanotto                                                                             |
+| Ein-Bett-Konfiguration mit Couch                                                       | Kahden sängyn kokoonpano                                                      | Vastaanotto                                                                             |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Työpöytä valolla                                                                       | Keittiö - liesi                                                               | Keittiö - teetä                                                                         |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -86,7 +86,7 @@ Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on par
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Ennen kuin voit käyttää sitä, varmista, että sisäänkäynnin valokytkin on asennossa "on".**<br>Ensimmäinen rivi: kirkkaus, päällä/pois<br>Värilliset painikkeet: Voit muuttaa värejä tällä<br>Harmaat painikkeet: Vaihda tehosteiden välillä |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Tämä on tietokoneen (iMac) kaukosäädin._Käytä tietokonetta painamalla ensimmäisen kaukosäätimen A-painiketta. Se aktivoi tietokoneen ja Bluetooth-laitteen virtalähteen._                                                                     |
 
-### FAQ - Oma huone
+### FAQ - Huoneesi
 
 1.  Valo ei syty tai vilkkuu villisti. Käytä pieniä kaukosäätimiä värikkäillä painikkeilla.
 
@@ -131,7 +131,7 @@ Joko käytät etuoven avainta tai kurkotat portin läpi ja tunnet oven avaavan p
 
 ### Keltainen? Sininen? Vihreä? Ruskea?
 
-Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan.
+Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan roskakoriin.
 
 ### Pyörät
 
@@ -146,7 +146,7 @@ Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 
 # Tarkista
 
-## Avain
+## Schlüssel
 
 -   Riippuen siitä, mikä viikonpäivä on, voimme sanoa hyvästit henkilökohtaisesti tai voit laittaa avaimet pöydälle ja sulkea oven perässäsi.
 -   Viimeisin maksuaika on lähtöpäivänä klo 19.
@@ -157,7 +157,7 @@ Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 -   Pesen myös astiat ja
 -   Vien roskat myös pois.
 
-> Lyhyt versio: Jätä avain sinne, sulje ovi, se on siinä. 😀
+> Lyhyt versio: Jätä avain sinne, sulje ovi, siinä kaikki. 😀
 
 # Pidempi oleskelu
 
@@ -173,7 +173,7 @@ Keittiöstä löytyy käsiharja ja seinälle sivellin. Tämä auttaa sinua pää
 
 ## Pyyhi
 
-Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppaukseen. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
+Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppausta varten. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
 
 ## Imuri
 
