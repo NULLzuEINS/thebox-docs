@@ -63,7 +63,7 @@ Passwort: landungsbruecken
 गद्दे केवल भंडारण के उद्देश्य से एक दूसरे के ऊपर रखे जाते हैं। आप इन्हें अपनी जरूरत के हिसाब से बांट सकते हैं.
 यदि आप सोफे पर तकिए को गद्दे से बदल देते हैं, तो यह बिस्तर के रूप में अच्छा काम करता है।
 
-### कंप्यूटर (iMac) के लिए लॉगिन विवरण हैं
+### Die Zugangsdaten für den Computer (iMac) sind
 
 ```txt
 Nutzer:   thebox
@@ -88,7 +88,7 @@ Passwort: thebox
 
 ### अक्सर पूछे जाने वाले प्रश्न - आपका कमरा
 
-1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
+1.  लाइट नहीं जलती या बेतहाशा चमकती है। रंगीन बटनों वाले छोटे रिमोट कंट्रोल का उपयोग करें।
 
 ### स्नानघर
 
@@ -125,7 +125,7 @@ Passwort: thebox
 
 ### गेट कैसे खुलता है?
 
-या तो आप सामने वाले दरवाज़े की चाबी का उपयोग करें, या आप गेट के माध्यम से पहुँचें और दरवाज़ा खोलने के लिए बटन को महसूस करें। जब आप बटन दबाते हैं तो आप दरवाज़ा खोल सकते हैं।
+Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
@@ -135,10 +135,10 @@ Passwort: thebox
 
 ### साइकिल
 
-### Ist mein Fahrrad sicher?
+### क्या मेरी बाइक सुरक्षित है?
 
-लीपज़िग एक बहुत ही बाइक-अनुकूल शहर है। बड़े सिटी पार्क के माध्यम से जो शहर को दो हिस्सों में विभाजित करता है, आप कई स्थानों पर जा सकते हैं और आमतौर पर ग्रामीण इलाकों से होकर ड्राइव कर सकते हैं।
-आंकड़ों की मानें तो लीपज़िग में हर साल प्रति व्यक्ति सबसे ज्यादा साइकिलें चोरी होती हैं। (प्रति 100,000 निवासियों पर 1,539 साइकिलें चोरी हुईं) पिछले 15 वर्षों में जब से मैं यहां हार्डेनबर्गस्ट्रेश में रह रहा हूं, मेरी कभी साइकिल चोरी नहीं हुई और मैं केवल एक पड़ोसी को जानता हूं जिसकी साइकिल उसके पिछवाड़े से चोरी हो गई थी। मैं इसे हमेशा सीधे रेलिंग से जोड़ता हूं।
+Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
+Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
 
 ### वहां क्या विकल्प हैं?
 
@@ -186,7 +186,7 @@ Passwort: thebox
 
 जब यह ख़त्म हो जाए, तो कृपया इसे वापस चार्जिंग स्टेशन में रख दें!
 
-# सुझावों
+# Tipps
 
 साथ[लीपज़िग मूव ऐप](https://leipzig-move.de/), आपको प्रत्येक 15 मिनट की 10 मुफ्त सवारी मिलती है_नेक्स्टबाइक्स_.
 ध्यान दें कि यदि आप राफ को मुख्य सड़कों (मानचित्र पर बैंगनी) पर पार्क नहीं करते हैं तो इसकी लागत अधिक है।
