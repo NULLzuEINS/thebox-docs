@@ -10,13 +10,13 @@
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 一张床配置，带沙发                                                                              | Zwei-Bett-Konfiguration                                                       | 桌子                                                                                      |
+| 一张床配置，带沙发                                                                              | 两张床配置                                                                         | 桌子                                                                                      |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | 带灯书桌                                                                                   | 厨房-炉灶                                                                         | 厨房-茶                                                                                    |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | 带灯书桌                                                                                   | 厨房-炉灶                                                                         | 厨房-茶                                                                                    |
 
-## 钥匙
+## Schlüssel
 
 您将获得两对钥匙，每对钥匙位于底部，另一对用于顶部。钥匙链上还有一把钥匙，可以用来锁房间。
 
@@ -35,7 +35,7 @@ Passwort: landungsbruecken
 
 ![Raumplan](_media/thebox-map.png)
 
-## Küche
+## 厨房
 
 由于我通常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗碗只能在浴室的水槽里进行。但有一个专门的容器可以用来清洗。
 
@@ -92,7 +92,7 @@ Passwort: thebox
 
 ### 浴室
 
-您可以站着使用淋浴。如果地面有点湿也没有问题。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
+您可以站着使用淋浴。地面稍微湿一点也没关系。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
 
 墙上的 Alexa 名称为“计算机”，还可以播放您最喜欢的音乐或收音机。例如“_电脑上，玩 Deutschlandfunk Nova_"
 
@@ -142,7 +142,7 @@ Passwort: thebox
 
 ### 还有哪些替代方案？
 
-随着[莱比锡 MOVE 应用程序](https://leipzig-move.de/)，您可以免费乘坐 10 次，每次 15 分钟_下一个自行车_。请注意，如果您不在主要街道上停放自行车（地图上的紫色），费用会更高。电动滑板车只能停放在某些停车位。还有一个自由流动的汽车共享系统。这意味着我们[城市飞行者](https://cityflitzer.de/)。当然，您也可以通过 Leipzig MOVE 应用程序支付巴士和火车的费用。
+随着[莱比锡 MOVE 应用程序](https://leipzig-move.de/)，您可以免费乘坐 10 次，每次 15 分钟_下一个自行车_。请注意，如果您不在主要街道上停放自行车（地图上的紫色），费用会更高。电动滑板车只能停放在某些停车位。还有一个自由流动的汽车共享系统。这意味着我们[cityflitzer](https://cityflitzer.de/)。当然，您也可以通过 Leipzig MOVE 应用程序支付巴士和火车的费用。
 
 # 查看
 
@@ -178,7 +178,7 @@ Passwort: thebox
 ## 吸尘器
 
 我有一个扫地机器人。
-在开始之前，请清理地板上的所有物品。
+在开始之前，请清除地板上的所有物品。
 特别是绳子或其他可能会导致机器人窒息的东西。
 然后将其放入您的房间并按一次顶部的按钮。
 如果没有任何反应，请使用侧面和后面的开关
