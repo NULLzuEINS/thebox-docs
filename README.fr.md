@@ -20,7 +20,7 @@ Sur mon AirBnB, vous obtenez un aperçu détaillé de toutes les chambres et des
 
 Vous obtenez deux paires de clés, chacune avec une clé pour le bas et une pour le haut. Il y a aussi une clé sur un porte-clés que vous pouvez utiliser pour verrouiller votre chambre.
 
-## Internetzugang
+## accès Internet
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -80,11 +80,11 @@ Passwort: thebox
 
 Un vieux dicton allemand s’applique à toutes les télécommandes : « Mieux vaut essayer qu’étudier ». Vous ne pouvez rien casser. Appuyez sur quelques boutons et voyez ce qui se passe. Si vous souhaitez continuer à étudier, voici la lecture qui vous convient :
 
-| Illustration                                              | Description                                                                                                                                                                                                                                                            |
-| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R : boîtier Bluetooth<br>B : Guirlande lumineuse<br>C : Lampe de bureau<br>D:_déposer_<br>Maître : Changez tout en même temps                                                                                                                                          |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Avant de pouvoir l'utiliser, assurez-vous que l'interrupteur d'éclairage à l'entrée est réglé sur « on ».**<br>Première ligne : luminosité, marche/arrêt<br>Farbige Tasten: Hiermit kannst Du die Farben wechseln<br>Boutons gris : basculez entre différents effets |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Il s'agit de la télécommande de l'ordinateur (iMac)._Pour utiliser l'ordinateur, appuyez sur le bouton A de la première télécommande. Il active l'alimentation de l'ordinateur et du boîtier Bluetooth._                                                               |
+| Illustration                                              | Description                                                                                                                                                                                                                                                                           |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R : boîtier Bluetooth<br>B : Guirlande lumineuse<br>C : Lampe de bureau<br>D:_déposer_<br>Maître : Changez tout en même temps                                                                                                                                                         |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Avant de pouvoir l'utiliser, assurez-vous que l'interrupteur d'éclairage à l'entrée est réglé sur « on ».**<br>Première ligne : luminosité, marche/arrêt<br>Boutons colorés : vous pouvez les utiliser pour changer les couleurs<br>Boutons gris : basculez entre différents effets |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Il s'agit de la télécommande de l'ordinateur (iMac)._Pour utiliser l'ordinateur, appuyez sur le bouton A de la première télécommande. Il active l'alimentation de l'ordinateur et du boîtier Bluetooth._                                                                              |
 
 ### FAQ - Votre chambre
 
@@ -188,7 +188,7 @@ Une fois terminé, veuillez le remettre dans la station de recharge !
 
 # Conseils
 
-Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficiez de 10 trajets gratuits de 15 minutes chacun pour le_Suivantbikes_.
+Avec le[Leipzig MOVE App](https://leipzig-move.de/), vous bénéficiez de 10 trajets gratuits de 15 minutes chacun pour le_Suivantbikes_.
 A noter que cela coûte plus cher si vous ne garez pas le Raf dans les rues principales (violet sur la carte).
 Les scooters électriques ne peuvent être garés que sur certaines places de stationnement.
 
