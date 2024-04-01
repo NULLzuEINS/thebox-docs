@@ -14,7 +14,7 @@ På min AirBnB får du en detaljerad översikt över alla rum och faciliteter. H
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Skrivbord med ljus                                                                     | Kök - spis                                                                    | Kök - te                                                                                |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Skrivbord med ljus                                                                     | Kök - spis                                                                    | Kök - te                                                                                |
+| Schreibtisch mit Licht                                                                 | Kök - spis                                                                    | Kök - te                                                                                |
 
 ## Nyckel
 
@@ -131,9 +131,9 @@ Antingen använder du nyckeln till ytterdörren eller så sträcker du dig genom
 
 ### Gul? Blå? Grön? Brun?
 
-Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i den bruna soptunnan.
+Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i det bruna kärlet.
 
-### Cyklar
+### Fahrräder
 
 ### Är min cykel säker?
 
@@ -198,8 +198,8 @@ Jag har lagrat reseguider i AirBnB-appen. Där hittar du mina rekommendationer f
 
 Om du har några frågor eller behöver stöd så hjälper jag dig gärna.
 Om du har bråttom är det bäst att göra det via telefon <a href="tel:+491707353067">+49 170 73 53 067</a>.
-Du kan också använda den förinstallerade messenger-appen med begränsad funktionalitet (SMS).
-Annars har jag ett anteckningsblock och en penna i korridoren.
+Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS).
+Ansonsten habe ich im Flur einen Notizblock und einen Stift.
 
 Jag önskar dig en trevlig vistelse i Leipzig!
 Andre
