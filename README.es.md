@@ -96,7 +96,7 @@ Puedes utilizar la ducha estando de pie. No hay problema si el suelo se moja un 
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
-Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstellen. Im vor der Badezimmertür ist ein Regal. Ein fach davon gehört Dir.
+Puedes colgar toallas en todos los ganchos y poner tus cosas en cualquier lugar. Hay un estante frente a la puerta del baño. Uno de ellos es el tuyo.
 
 ### Pasillo
 
@@ -106,7 +106,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 ## Casa inteligente
 
-Hay asistentes de voz Alexa en el baño y la cocina. Puede dirigirse a ellos con el nombre "Ordenador" y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Entienden alemán y también inglés. Si no quieres usarlos,
+Hay asistentes de voz Alexa en el baño y la cocina. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Entienden alemán y también inglés. Si no quieres usarlos,
 También puedes simplemente desconectarlo de la corriente.
 
 No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene el enrutador y una pequeña computadora.
@@ -188,7 +188,7 @@ Cuando haya terminado, ¡vuélvalo a colocar en la estación de carga!
 
 # Consejos
 
-Con el[Leipzig MOVE App](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para el_Siguientebicicletas_.
+Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para el_Siguientebicicletas_.
 Ten en cuenta que cuesta más si no aparcas el Raf en las calles principales (moradas en el mapa).
 Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento.
 
