@@ -12,13 +12,13 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | One bed configuration with couch                                                       | Two bed configuration                                                         | Desk                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Schreibtisch mit Licht                                                                 | Kitchen - stove                                                               | Kitchen - tea                                                                           |
+| Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
 
 ## Key
 
-You get two pairs of keys, each with one key for the bottom and one for the top. There is also a key on a keychain that you can use to lock your room.
+Du bekommst zwei Schlüsselpaare mit jeweils einem Schlüssel für Unten und einen für Oben. An einem Schlüsselbund ist auch ein Schlüssel, mit dem Du Dein Zimmer abschließen kannst.
 
 ## Internet access
 
@@ -135,7 +135,7 @@ Are you wondering why the garbage cans have different colors? If you are unsure,
 
 ### Cycles
 
-### Ist mein Fahrrad sicher?
+### Is my bike safe?
 
 Leipzig is a very bike-friendly city. Through the large city park that divides the city into two halves, you can get to many places and usually drive through the countryside.
 If you believe the statistics, then the most bicycles per capita are stolen in Leipzig every year. (1,539 stolen bicycles per 100,000 inhabitants) In the 15 years since I have lived here on Hardenbergstraße, I have never had a bicycle stolen and I only know of one neighbor whose bicycle was stolen from his backyard. I always connect it directly to the railing.
