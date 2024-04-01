@@ -38,7 +38,7 @@ jobs:
           retention-days: 12
 
   release:
-    name: release – ${{ github.ref_name }}
+    name: release ${{ github.ref_name }}
     runs-on: ubuntu-latest
     needs:
       - build
@@ -80,7 +80,7 @@ jobs:
           path: ./Assets/upload-url.txt
 
   upload:
-    name: upload – ${{ github.ref_name }}
+    name: upload to release ${{ github.ref_name }}
     runs-on: ubuntu-latest
     needs:
       - release
@@ -105,6 +105,7 @@ jobs:
       - name: Step 3. - Set upload url
         run: |
           echo "UPLOAD_URL=$(cat Assets/upload-url.txt)" >> $GITHUB_ENV
+          cat Assets/upload-url.txt
           env
           echo ${{ env.UPLOAD_URL }}
       - name: Step 4. - Upload PDF as release asset
