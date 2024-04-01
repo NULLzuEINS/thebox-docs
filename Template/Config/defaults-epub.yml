@@ -1,0 +1,14 @@
+data-dir: /opt/pandoc
+from: markdown
+listings: true
+dpi: 75
+variables:
+  lang: de
+  fontsize: 10pt
+  toc-own-page: true
+  footnotes-pretty: true
+  table-use-row-colors: true
+  table-row-color: "22FFFF"
+  table-row-height: 142pt
+  table-column-color: "22FF33"
+

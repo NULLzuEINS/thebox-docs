@@ -6,8 +6,12 @@
 !/.obsidian
 !/en
 !/Excalidraw
+!/Scripts
+!/Template
+
 
 !/_coverpage.md
+!/.env
 !/.gitignore
 !/CNAME
 !/*.png

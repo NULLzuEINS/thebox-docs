@@ -1,0 +1,26 @@
+---
+title:
+  - type: main
+    text: Resume
+  - type: subtitle
+    text: André Lademann
+subject: "Consultant, Architect, Developer, Trainer"
+keywords:
+  - Resume
+  - Consultant
+  - Architect
+  - Developer
+lang: "en"
+creator:
+  - role: author
+    text: André Lademann
+identifier:
+  - scheme: DOI
+    text: doi:10.234234.234/33
+author:
+  - André Lademann
+
+belongs-to-collection: resume
+description: Application document for André Lademann
+publisher:  vergissberlin
+rights: © 2022 André Lademann, CC BY-NC
