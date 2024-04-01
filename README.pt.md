@@ -2,7 +2,8 @@
 
 Olá e bem-vindo à “Caixa”! Quando viajo também gosto de ficar em AirBnB's e às vezes gostaria de ter um papel com todas as informações necessárias sobre hospedagem, check-in e check-out e essa é minha tentativa de melhorar.
 
-> [!Um aviso]Terei o documento traduzido automaticamente para o seu idioma. Espero que seja um pouco compreensível. Se não, sinta-se à vontade para me escrever uma mensagem. Depois tento melhorar.
+> [!Um aviso]
+> Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
 
 ## Fotos
 
@@ -142,7 +143,7 @@ Se você acredita nas estatísticas, então o maior número de bicicletas per ca
 
 ### Que alternativas existem?
 
-Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
+Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
 
 # Confira
 
