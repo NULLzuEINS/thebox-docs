@@ -6,7 +6,7 @@ Dobrý den a vítejte v „Boxu“! Když cestuji, také rád pobývám v AirBnB
 
 ## obrázky
 
-Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
+Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zde je jen stručný přehled:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -73,7 +73,7 @@ Passwort: thebox
 ### V místnosti jsou k dispozici následující věci
 
 1.  Veškerý nábytek a postele
-2.  Computer & Drucker
+2.  Počítače a tiskárny
 3.  Dálkové ovládání světel a elektřiny
 
 ### Dálková ovládání
@@ -117,7 +117,7 @@ Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, ab
 
 ?> Zajistěte prosím pravidelné větrání (alespoň jednou denně). Zejména v koupelně. Ujistěte se také, že je topení vypnuté. Děkujeme 🙏
 
-## Der Hof
+## Dvorek
 
 Na našem dvoře si můžete připojit kola a odvézt odpadky.
 
@@ -189,8 +189,8 @@ Po dokončení jej vraťte zpět do nabíjecí stanice!
 # Tipy
 
 s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_.
-Beachte, dass es mehr kostet, wenn man das Raf nicht an den großen Straßen (Auf der Karte Lila) abstellt.
-Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
+Všimněte si, že to stojí více, pokud nezaparkujete Raf na hlavních ulicích (na mapě fialová).
+Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech.
 
 V aplikaci AirBnB mám uložené cestovní průvodce. Najdete tam moje doporučení na památky, bary a hospůdky, nákupní příležitosti a restaurace.
 
