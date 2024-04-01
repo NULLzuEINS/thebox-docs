@@ -4,7 +4,7 @@ Witamy w „Boxie”! Kiedy podróżuję, lubię też nocować w AirBnB i czasam
 
 > [!Uwaga]Dokument zostanie automatycznie przetłumaczony na Twój język. Mam nadzieję, że jest to w miarę zrozumiałe. Jeśli nie, śmiało napisz do mnie wiadomość. Potem próbuję to poprawić.
 
-## Bilder
+## Kino
 
 Na moim AirBnB otrzymasz szczegółowy przegląd wszystkich pokoi i udogodnień. Oto krótki przegląd:
 
@@ -92,7 +92,7 @@ Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować n
 
 ### łazienka
 
-Z prysznica można korzystać na stojąco. Nie ma znaczenia, jeśli ziemia będzie trochę mokra. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
+Z prysznica można korzystać na stojąco. Nie stanowi to problemu, jeśli ziemia lekko zamoknie. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
 
 Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Komputerze, włącz Deutschlandfunk Nova_"
 
@@ -135,7 +135,7 @@ Zastanawiasz się dlaczego kosze na śmieci mają różne kolory? Jeżeli nie je
 
 ### Cykle
 
-### Ist mein Fahrrad sicher?
+### Czy mój rower jest bezpieczny?
 
 Lipsk jest miastem bardzo przyjaznym rowerom. Przez duży park miejski, który dzieli miasto na dwie części, można dotrzeć do wielu miejsc i zazwyczaj jechać przez wieś.
 Jeśli wierzyć statystykom, w Lipsku co roku kradnie się najwięcej rowerów na mieszkańca. (1539 skradzionych rowerów na 100 000 mieszkańców) W ciągu 15 lat, odkąd mieszkam tutaj przy Hardenbergstraße, nigdy nie skradziono mi roweru i znam tylko jednego sąsiada, któremu skradziono rower z podwórka. Zawsze podłączam go bezpośrednio do poręczy.
