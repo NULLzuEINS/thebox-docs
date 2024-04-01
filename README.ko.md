@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
+또는 이 QR 코드를 스캔하면 자동으로 네트워크에 연결됩니다.
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -46,8 +46,8 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 1.  떼
 2.  주전자
 3.  식기류
-4.  냉장고
-5.  피자 오븐
+4.  Kühlschrank
+5.  Pizzaofen
 6.  광천수
 7.  선반에 휴대폰 충전 스테이션
 8.  세탁기
@@ -80,11 +80,11 @@ Passwort: thebox
 
 독일의 속담은 모든 리모콘에 적용됩니다. "노력하는 것이 공부하는 것보다 낫다." 당신은 아무것도 깨뜨릴 수 없습니다. 몇 개의 버튼을 누르고 무슨 일이 일어나는지 확인하십시오. 여전히 공부하고 싶다면 다음과 같은 책을 읽어보세요.
 
-| 삽화                                                        | 설명                                                                                                                                                              |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 답: 블루투스박스<br>B: 요정 조명<br>C: 책상 램프<br>디:_파일_<br>Master: Alles gleichzeitig schalten                                                                              |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **사용 전, 입구의 전등 스위치가 '켜짐'으로 설정되어 있는지 확인하세요.**<br>첫 번째 줄: 밝기, 켜기/끄기<br>컬러 버튼: 이 버튼을 사용하여 색상을 변경할 수 있습니다.<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | 컴퓨터(iMac)용 리모컨입니다._컴퓨터를 사용하려면 첫 번째 리모콘의 A 버튼을 누르세요. 컴퓨터와 Bluetooth 상자의 전원 공급 장치를 활성화합니다._                                                                       |
+| 삽화                                                        | 설명                                                                                                                           |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 답: 블루투스박스<br>B: 요정 조명<br>C: 책상 램프<br>디:_파일_<br>마스터: 모든 것을 동시에 전환하세요                                                          |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **사용 전, 입구의 전등 스위치가 '켜짐'으로 설정되어 있는지 확인하세요.**<br>첫 번째 줄: 밝기, 켜기/끄기<br>컬러 버튼: 이 버튼을 사용하여 색상을 변경할 수 있습니다.<br>회색 버튼: 다양한 효과 간 전환 |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | 컴퓨터(iMac)용 리모컨입니다._컴퓨터를 사용하려면 첫 번째 리모콘의 A 버튼을 누르세요. 컴퓨터와 Bluetooth 상자의 전원 공급 장치를 활성화합니다._                                    |
 
 ### FAQ - 객실
 
@@ -142,7 +142,7 @@ Passwort: thebox
 
 ### 어떤 대안이 있나요?
 
-와 더불어[라이프치히 MOVE 앱](https://leipzig-move.de/), 각 15분씩 10회 무료 탑승권을 드립니다._다음자전거_. 주요 도로(지도에서 보라색)에 자전거를 주차하지 않으면 비용이 더 많이 든다는 점에 유의하세요. 전기 스쿠터는 특정 주차 공간에만 주차할 수 있습니다. 무상 차량 공유 시스템도 있습니다. 그 말은 우리와 함께라는 뜻이에요[시티플리처](https://cityflitzer.de/). 물론 Leipzig MOVE 앱을 통해 비용을 지불할 수 있는 버스와 기차도 있습니다.
+와 더불어[라이프치히 MOVE 앱](https://leipzig-move.de/), 각 15분씩 10회 무료 탑승권을 드립니다._다음자전거_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden. Es gibt auch ein Free-Float-Car-Shairing-System. Das heißt bei uns [시티플리처](https://cityflitzer.de/). 물론 Leipzig MOVE 앱을 통해 비용을 지불할 수 있는 버스와 기차도 있습니다.
 
 # 점검
 
