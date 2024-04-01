@@ -6,11 +6,11 @@ Hallo en welkom bij de “Box”! Als ik reis, verblijf ik ook graag in AirBnB's
 
 ## Afbeeldingen
 
-Op mijn AirBnB krijg je een gedetailleerd overzicht van alle kamers en de faciliteiten. Hier is slechts een kort overzicht:
+Auf meinem AirBnB bekommst Du einen genauen Überblick über alle Zimmer und die Ausstattung. Hier nur ein kurzer Überblick:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Ein-Bett-Konfiguration mit Couch                                                       | Configuratie met twee bedden                                                  | Bureau                                                                                  |
+| Eén bedconfiguratie met bank                                                           | Configuratie met twee bedden                                                  | Bureau                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Bureau met licht                                                                       | Fornuis                                                                       | Keuken - thee                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -94,9 +94,9 @@ Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter 
 
 U kunt staand van de douche gebruik maken. Het is geen probleem als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
 
-De Alexa aan de muur heet ‘Computer’ en speelt ook je favoriete muziek of radio af. Bijvoorbeeld "_Computer, speel Deutschlandfunk Nova_"
+Die Alexa an der Wand hört auf den Namen "Computer" und spielt dir auch Deine Lieblingsmusik oder Radio. Z. B. "_Computer, speel Deutschlandfunk Nova_"
 
-Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén ervan is van jou.
+Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstellen. Im vor der Badezimmertür ist ein Regal. Ein fach davon gehört Dir.
 
 ### Gang
 
