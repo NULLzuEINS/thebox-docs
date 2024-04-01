@@ -37,7 +37,7 @@ Eller du scanner denne QR-kode, den vil automatisk forbinde dig til netværket:
 
 ## Køkken
 
-Da jeg plejer at spise nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
+Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -48,7 +48,7 @@ Da jeg plejer at spise nedenunder med min familie, er køkkenet meget spartansk.
 3.  Fade bestik
 4.  Køleskab
 5.  Pizzaovn
-6.  Mineralwasser
+6.  Mineralvand
 7.  Mobiltelefon ladestation på hylden
 8.  vaskemaskine
 
@@ -84,7 +84,7 @@ Et gammelt tysk ordsprog gælder for alle fjernbetjeninger: "Det er bedre at pr�
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Bordlampe<br>D:_fil_<br>Mester: Skift alt på samme tid                                                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Før du kan bruge den, skal du sørge for, at lyskontakten ved indgangen er sat til "tændt".**<br>Første linje: lysstyrke, tænd/sluk<br>Farvede knapper: Du kan bruge dette til at ændre farverne<br>Grå knapper: Skift mellem forskellige effekter |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Dette er fjernbetjeningen til computeren (iMac)._Damit Du den Computer verwenden kannst, drücke die Taste A auf der ersten Fernbedienung. Sie aktiviert die Stromzufuhr für den Computer und die Bluetooth-Box._                                    |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Dette er fjernbetjeningen til computeren (iMac)._For at bruge computeren skal du trykke på A-knappen på den første fjernbetjening. Den aktiverer strømforsyningen til computeren og Bluetooth-boksen._                                              |
 
 ### FAQ - Dit værelse
 
@@ -96,7 +96,7 @@ Du kan bruge bruseren, mens du står. Det er ikke noget problem, hvis jorden bli
 
 Alexaen på væggen går under navnet "Computer" og spiller også din yndlingsmusik eller radio. F.eks. "_Computer, spil Deutschlandfunk Nova_"
 
-Du kan hænge håndklæder på alle kroge og sætte dine ting hvor som helst. Der er en hylde foran badeværelsesdøren. En af dem er din.
+Du kan hænge håndklæder på alle kroge og sætte dine ting hvor som helst. Der er en hylde foran badeværelsesdøren. Et stykke af det er dit.
 
 ### Gang
 
@@ -113,7 +113,7 @@ Der er ingen stemmeassistenter på dit værelse. Kurven på hylden indeholder ku
 
 ## temperatur og fugtighed
 
-Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre dannelse af skimmelsvamp. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
+Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre mugdannelse. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
 
 ?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Især på badeværelset. Sørg også for, at varmen er slukket. Tak 🙏
 
