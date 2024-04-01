@@ -98,7 +98,7 @@ A Alexa na parede atende pelo nome de “Computador” e também toca sua músic
 
 Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualquer lugar. Há uma prateleira na frente da porta do banheiro. Um deles é seu.
 
-### Flur
+### Corredor
 
 Você está convidado a deixar seus sapatos aqui. Também tenho um pequeno bloco de notas na prateleira, caso você queira me contar alguma coisa.
 
@@ -142,7 +142,7 @@ Se você acredita nas estatísticas, então o maior número de bicicletas per ca
 
 ### Que alternativas existem?
 
-Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
+Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
 
 # Confira
 
