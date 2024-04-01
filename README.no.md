@@ -96,7 +96,7 @@ Du kan bruke dusjen mens du står. Det er ikke noe problem hvis bakken blir litt
 
 Alexaen på veggen går under navnet "Computer" og spiller også favorittmusikken eller radioen din. f.eks."_Datamaskin, spill Deutschlandfunk Nova_"
 
-Du kan henge håndklær på alle kroker og sette tingene dine hvor som helst. Det er en hylle foran baderomsdøren. En av dem er din.
+Du kan henge håndklær på alle kroker og sette tingene dine hvor som helst. Det er en hylle foran baderomsdøren. En del av den er din.
 
 ### Gang
 
@@ -138,7 +138,7 @@ Lurer du på hvorfor søppeldunkene har forskjellige farger? Hvis du er usikker,
 ### Er sykkelen min trygg?
 
 Leipzig er en veldig sykkelvennlig by. Gjennom den store byparken som deler byen i to halvdeler, kan du komme deg til mange steder og kjører vanligvis gjennom landsbygda.
-Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hvert år. (1 539 stjålne sykler per 100 000 innbyggere) I løpet av de 15 årene siden jeg har bodd her på Hardenbergstraße har jeg aldri fått stjålet en sykkel og jeg vet bare om en nabo som har fått sykkelen hans stjålet fra bakgården hans. Jeg kobler den alltid direkte til rekkverket.
+Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hvert år. (1 539 stjålne sykler per 100 000 innbyggere) I løpet av de 15 årene siden jeg har bodd her på Hardenbergstraße har jeg aldri fått stjålet en sykkel og jeg vet bare om en nabo som har fått sykkelen sin fra bakgården hans. Jeg kobler den alltid direkte til rekkverket.
 
 ### Hvilke alternativer finnes?
 
@@ -149,7 +149,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 ## Nøkkel
 
 -   Avhengig av hvilken ukedag det er, kan vi si farvel personlig, eller du kan ganske enkelt legge nøklene på skrivebordet og lukke døren bak deg.
--   Siste tidspunkt for utsjekking er 19.00 på avreisedagen.
+-   Siste tidspunkt for utsjekking er kl. 19.00 på avreisedagen.
 
 ## rengjøring
 
