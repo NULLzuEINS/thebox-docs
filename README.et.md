@@ -125,7 +125,7 @@ Meie sisehoovis saate ühendada oma jalgrattad ja viia prügi ära.
 
 ### Kuidas värav avaneb?
 
-Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
+Kas kasutate välisukse võtit või sirutate käe läbi värava ja tunnete, kuidas uks avab. Kui hoiate nuppu all, saate ukse avada.
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
@@ -198,8 +198,8 @@ Olen salvestanud reisijuhid AirBnB rakendusse. Sealt leiate minu soovitused vaat
 
 Kui teil on küsimusi või vajate tuge, aitan teid hea meelega.
 Kui teil on kiire, on parem seda teha telefoni teel <a href="tel:+491707353067">+49 170 73 53 067</a>.
-Gern auch über die vorinstallierte Messenger App mit geringem Funktionsumfang (SMS).
-Ansonsten habe ich im Flur einen Notizblock und einen Stift.
+Võite kasutada ka eelinstallitud piiratud funktsionaalsusega sõnumirakendust (SMS).
+Muidu on mul koridoris märkmik ja pastakas.
 
 Soovin teile mõnusat viibimist Leipzigis!
 Andre
