@@ -8,109 +8,63 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        language-code:
+          [
+            'zh-CN',
+            'cs',
+            'da',
+            'nl',
+            'el',
+            'es',
+            'fr',
+            'de',
+            'hu',
+            'it',
+            'ja',
+            'ko',
+            'no',
+            'pl',
+            'pt',
+            'ru',
+            'sv',
+            'tr',
+            'uk',
+            'vi',
+            'zh-TW'
+          ]
+        language-name:
+          [
+            'Chinese Simplified',
+            'Czech',
+            'Danish',
+            'Dutch',
+            'Greek',
+            'Spanish',
+            'French',
+            'German',
+            'Hungarian',
+            'Italian',
+            'Japanese',
+            'Korean',
+            'Norwegian',
+            'Polish',
+            'Portuguese',
+            'Russian',
+            'Swedish',
+            'Turkish',
+            'Ukrainian',
+            'Vietnamese',
+            'Chinese Traditional'
+          ]
     steps:
       - uses: actions/checkout@v2
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-      - name: Adding README - Chinese Simplified
+      - name: Adding README - ${{ matrix.language-name }}
         uses: dephraiim/translate-readme@main
         with:
-          LANG: zh-CN
-      - name: Adding README - Czech
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: cs
-      - name: Adding README - Danish
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: da
-      - name: Adding README - Dutch
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: nl
-      - name: Adding README - Greek
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: el
-      - name: Adding README - Spanish
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: es
-      - name: Adding README - Estonian
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: et
-      - name: Adding README - English
-        uses: dephraiim/translate-readme@main
-        with:
-            LANG: en
-      - name: Adding README - Finnish
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: fi
-      - name: Adding README - French
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: fr
-      - name: Adding README - Hindi
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: hi
-      - name: Adding README - Italien
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: it
-      - name: Adding README - Japanese
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: ja
-      - name: Adding README - Korean
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: ko
-      - name: Adding README - Norwegian
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: no
-      - name: Adding README - Polski
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: pl
-      - name: Adding README - Portuguese
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: pt
-      - name: Adding README - Romanian
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: ro
-      - name: Adding README - Russian
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: ru
-      - name: Adding README - Swedish
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: sv
-      - name: Adding README - Serbo-Croatian
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: sr
-      - name: Adding README - Turkish
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: tr
-      - name: Adding README - Ukrainian
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: uk
-      - name: Adding README - Urdu
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: ur
-      - name: Adding README - Vietnamese
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: vi
+          LANG: ${{ matrix.language-code }}
