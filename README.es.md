@@ -61,7 +61,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 ## Tu cuarto
 
 Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades.
-Si reemplazas las almohadas del sofá por un colchón, funcionará bien como cama.
+Si reemplazas los cojines del sofá por un colchón, será una buena cama.
 
 ### Los detalles de inicio de sesión para la computadora (iMac) son
 
@@ -72,7 +72,7 @@ Passwort: thebox
 
 ### Las siguientes cosas están disponibles en la habitación.
 
-1.  Todos los muebles y camas.
+1.  Alle Möbel und Betten
 2.  Computadoras e impresoras
 3.  Mandos a distancia para luces y electricidad.
 
@@ -80,7 +80,7 @@ Passwort: thebox
 
 Un viejo dicho alemán se aplica a todos los mandos a distancia: "Intentar es mejor que estudiar". No puedes romper nada. Presione algunos botones y vea qué sucede. Si aún quieres estudiar, aquí tienes la lectura adecuada para ti:
 
-| Ilustración                                               | Descripción                                                                                                                                                                                                                                                            |
+| Abbildung                                                 | Descripción                                                                                                                                                                                                                                                            |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caja Bluetooth<br>B: luces de hadas<br>C: lámpara de escritorio<br>D:_leer_<br>Maestro: cambia todo al mismo tiempo                                                                                                                                                 |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usarlo, asegúrese de que el interruptor de la luz en la entrada esté en "encendido".**<br>Primera línea: brillo, encendido/apagado<br>Botones de colores: puedes usarlos para cambiar los colores.<br>Botones grises: cambia entre diferentes efectos |
