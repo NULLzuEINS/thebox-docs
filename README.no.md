@@ -88,7 +88,7 @@ Et gammelt tysk ordtak gjelder for alle fjernkontroller: «Å prøve er bedre en
 
 ### FAQ - Rommet ditt
 
-1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
+1.  Lyset tennes ikke eller blinker vilt Bruk de små fjernkontrollene med de fargerike knappene.
 
 ### baderom
 
@@ -144,7 +144,7 @@ Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hver
 
 Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser. Det er også et gratis-flytende bildelingssystem. Det betyr med oss[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er det busser og tog som du også kan betale for via Leipzig MOVE-appen.
 
-# Kasse
+# Sjekk ut
 
 ## Nøkkel
 
