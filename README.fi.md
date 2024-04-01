@@ -49,7 +49,7 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
 4.  Jääkaappi
 5.  Pizza uuni
 6.  Mineraalivesi
-7.  Handy-Aufladestation im Regal
+7.  Kännykän latausasema hyllyssä
 8.  pesukone
 
 ### FAQ - Keittiö
@@ -80,13 +80,13 @@ Passwort: thebox
 
 Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on parempi kuin opiskelu". Et voi rikkoa mitään. Paina muutamaa painiketta ja katso mitä tapahtuu. Jos haluat vielä opiskella, tässä on sinulle sopivaa luettavaa:
 
-| Kuva                                                      | Kuvaus                                                                                                                                                                                                                                               |
-| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Keijuvalot<br>C: Pöytälamppu<br>D:_tiedosto_<br>Mestari: Vaihda kaikki samaan aikaan                                                                                                                                           |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Ennen kuin voit käyttää sitä, varmista, että sisäänkäynnin valokytkin on asennossa "on".**<br>Ensimmäinen rivi: kirkkaus, päällä/pois<br>Värilliset painikkeet: Voit muuttaa värejä tällä<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Tämä on tietokoneen (iMac) kaukosäädin._Damit Du den Computer verwenden kannst, drücke die Taste A auf der ersten Fernbedienung. Sie aktiviert die Stromzufuhr für den Computer und die Bluetooth-Box._                                              |
+| Kuva                                                      | Kuvaus                                                                                                                                                                                                                                        |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Keijuvalot<br>C: Pöytälamppu<br>D:_tiedosto_<br>Mestari: Vaihda kaikki samaan aikaan                                                                                                                                    |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Ennen kuin voit käyttää sitä, varmista, että sisäänkäynnin valokytkin on asennossa "on".**<br>Ensimmäinen rivi: kirkkaus, päällä/pois<br>Värilliset painikkeet: Voit muuttaa värejä tällä<br>Harmaat painikkeet: Vaihda tehosteiden välillä |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Tämä on tietokoneen (iMac) kaukosäädin._Käytä tietokonetta painamalla ensimmäisen kaukosäätimen A-painiketta. Se aktivoi tietokoneen ja Bluetooth-laitteen virtalähteen._                                                                     |
 
-### FAQ - Oma huone
+### FAQ - Huoneesi
 
 1.  Valo ei syty tai vilkkuu villisti. Käytä pieniä kaukosäätimiä värikkäillä painikkeilla.
 
@@ -131,7 +131,7 @@ Joko käytät etuoven avainta tai kurkotat portin läpi ja tunnet oven avaavan p
 
 ### Keltainen? Sininen? Vihreä? Ruskea?
 
-Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan.
+Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan roskakoriin.
 
 ### Pyörät
 
@@ -157,7 +157,7 @@ Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 -   Pesen myös astiat ja
 -   Vien roskat myös pois.
 
-> Lyhyt versio: Jätä avain sinne, sulje ovi, se on siinä. 😀
+> Lyhyt versio: Jätä avain sinne, sulje ovi, siinä kaikki. 😀
 
 # Pidempi oleskelu
 
@@ -173,7 +173,7 @@ Keittiöstä löytyy käsiharja ja seinälle sivellin. Tämä auttaa sinua pää
 
 ## Pyyhi
 
-Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppaukseen. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
+Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppausta varten. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
 
 ## Imuri
 
