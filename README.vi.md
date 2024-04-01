@@ -61,7 +61,7 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 ## Phòng của bạn
 
 Các tấm nệm được đặt chồng lên nhau chỉ nhằm mục đích cất giữ. Bạn có thể phân phối chúng theo nhu cầu của bạn.
-Nếu bạn thay đệm trên ghế dài bằng nệm thì nó sẽ tạo thành một chiếc giường tốt.
+Nếu bạn thay thế những chiếc gối trên ghế dài bằng một tấm nệm thì nó sẽ hoạt động tốt như một chiếc giường.
 
 ### Chi tiết đăng nhập cho máy tính (iMac) là
 
@@ -83,7 +83,7 @@ Một câu nói cổ của người Đức áp dụng cho tất cả các loại
 | Hình minh họa                                             | Sự miêu tả                                                                                                                                                                                                                                                |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>D:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                       |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Trước khi bạn có thể sử dụng nó, hãy đảm bảo công tắc đèn ở lối vào được đặt ở chế độ "bật".**<br>Dòng đầu tiên: độ sáng, bật/tắt<br>Các nút màu: Bạn có thể sử dụng nút này để thay đổi màu sắc<br>Nút màu xám: Chuyển đổi giữa các hiệu ứng khác nhau |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Trước khi bạn có thể sử dụng nó, hãy đảm bảo công tắc đèn ở lối vào được đặt ở chế độ "bật".**<br>Erste Zeile: Helligkeit, An/Aus<br>Các nút màu: Bạn có thể sử dụng nút này để thay đổi màu sắc<br>Nút màu xám: Chuyển đổi giữa các hiệu ứng khác nhau |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Đây là điều khiển từ xa cho máy tính (iMac)._Để sử dụng máy tính, nhấn nút A trên điều khiển từ xa đầu tiên. Nó kích hoạt nguồn điện cho máy tính và hộp Bluetooth._                                                                                      |
 
 ### Câu hỏi thường gặp - Phòng của bạn
@@ -173,7 +173,7 @@ Trong nhà bếp, bạn sẽ tìm thấy một chiếc bàn chải cầm tay và
 
 ## Lau đi
 
-Bạn có thể tìm thấy chất tẩy rửa màu xanh lá cây đựng trong bình xịt trong phòng tắm để lau nhà. Cùng với giấy ăn, sản phẩm này có thể được sử dụng để làm sạch các bề mặt một cách dễ dàng.
+Zum Wischen findest du im Bad grünes Reinigungsmittel in einer Sprühflasche. Zusammen mit dem Küchenpapier lassen sich hiermit Oberflächen gut säubern.
 
 ## Máy hút bụi
 
