@@ -201,8 +201,8 @@ Pokud spěcháte, je nejlepší tak učinit telefonicky <a href="tel:+491707353
 Můžete také použít předinstalovanou aplikaci messenger s omezenou funkčností (SMS).
 Jinak mám na chodbě poznámkový blok a propisku.
 
-Ich wünsche einen schönen Aufenthalt in Leipzig!
-André
+Přeji vám příjemný pobyt v Lipsku!
+Andre
 
 * * *
 
