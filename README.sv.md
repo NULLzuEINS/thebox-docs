@@ -125,13 +125,13 @@ På vår innergård kan du koppla ihop dina cyklar och ta bort ditt skräp.
 
 ### Hur öppnas porten?
 
-Antingen använder du nyckeln till ytterdörren eller så sträcker du dig genom porten och känner på knappen för att öppna dörren. Medan du håller ner knappen kan du öppna dörren.
+Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
 ### Gul? Blå? Grön? Brun?
 
-Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i det bruna kärlet.
+Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i den bruna soptunnan.
 
 ### Cyklar
 
@@ -196,8 +196,8 @@ Jag har lagrat reseguider i AirBnB-appen. Där hittar du mina rekommendationer f
 
 # Frågor?
 
-Wenn Du Fragen hast, oder Unterstützung benötigt, stehe ich dir gern zur Verfügung.
-Wenn es eilig ist, dann besten via Telefon <a href="tel:+491707353067">+49 170 73 53 067</a>.
+Om du har några frågor eller behöver stöd så hjälper jag dig gärna.
+Om du har bråttom är det bäst att göra det via telefon <a href="tel:+491707353067">+49 170 73 53 067</a>.
 Du kan också använda den förinstallerade messenger-appen med begränsad funktionalitet (SMS).
 Annars har jag ett anteckningsblock och en penna i korridoren.
 
