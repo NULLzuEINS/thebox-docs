@@ -14,7 +14,7 @@
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Γραφείο με φως                                                                         | Κουζίνα - σόμπα                                                               | Κουζίνα - τσάι                                                                          |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Γραφείο με φως                                                                         | Κουζίνα - σόμπα                                                               | Κουζίνα - τσάι                                                                          |
+| Schreibtisch mit Licht                                                                 | Κουζίνα - σόμπα                                                               | Κουζίνα - τσάι                                                                          |
 
 ## Κλειδί
 
