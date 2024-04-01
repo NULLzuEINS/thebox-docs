@@ -1,6 +1,6 @@
 # 欢迎来到盒子
 
-Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch gern in AirBnB's und manchmal wünschte ich mir einen Zettel, mit allen nötigen Informationen zur Unterkunft, Checkin und Checkout und dies ist mein Versuch es besser zu machen.
+您好，欢迎来到“盒子”！当我旅行时，我也喜欢住在爱彼迎，有时我希望能有一张纸，上面有关于住宿、入住和退房的所有必要信息，这是我试图让它变得更好的尝试。
 
 > [！一个通知!]我会将文件自动翻译成您的语言。我希望这是可以理解的。如果没有，请随时给我留言。然后我尝试改进它。
 
@@ -20,7 +20,7 @@ Hallo und willkommen in der "Box"! Wenn ich auf Reisen bin, übernachte ich auch
 
 您将获得两对钥匙，每对钥匙位于底部，另一对用于顶部。钥匙链上还有一把钥匙，可以用来锁房间。
 
-## Internetzugang
+## 互联网
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -80,11 +80,11 @@ Passwort: thebox
 
 德国有句老话适用于所有遥控器：“尝试比学习更好”。你不能破坏任何东西。按几个按钮，看看会发生什么。如果你还想学习，这里有适合你的读物：
 
-| 插图                                                        | 描述                                                                                                                       |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 答：蓝牙盒子<br>B：仙女灯<br>C：台灯<br>d：_文件_<br>大师：同时切换所有内容                                                                         |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **在使用之前，请确保入口处的电灯开关设置为“打开”。**<br>第一行：亮度、开/关<br>彩色按钮：您可以使用它来更改颜色<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | 这是电脑 (iMac) 的遥控器。_要使用计算机，请按第一个遥控器上的 A 按钮。它激活计算机和蓝牙盒的电源。_                                                                 |
+| 插图                                                        | 描述                                                                               |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 答：蓝牙盒子<br>B：仙女灯<br>C：台灯<br>d：_文件_<br>大师：同时切换所有内容                                 |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **在使用之前，请确保入口处的电灯开关设置为“打开”。**<br>第一行：亮度、开/关<br>彩色按钮：您可以使用它来更改颜色<br>灰色按钮：不同效果之间切换 |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | 这是电脑 (iMac) 的遥控器。_要使用计算机，请按第一个遥控器上的 A 按钮。它激活计算机和蓝牙盒的电源。_                         |
 
 ### 常见问题 - 您的房间
 
@@ -163,7 +163,7 @@ Passwort: thebox
 
 ?> 我的一些房客入住一个月或更长时间。如果您是其中之一，那么本节适合您！
 
-## Waschmaschine
+## 洗衣机
 
 您无需事先询问即可使用洗衣机。您还可以使用晾衣架、洗衣粉和织物柔顺剂。如果您想要新床单，请与我联系。
 
