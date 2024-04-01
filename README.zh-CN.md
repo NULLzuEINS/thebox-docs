@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
+或者您扫描此二维码，它会自动将您连接到网络：
 
 ![WiFi](_media/wlan.png ":size=200")
 
