@@ -1,4 +1,4 @@
-# Velkommen til The Box
+# Willkommen in TheBox
 
 Hej og velkommen til "Boksen"! Når jeg rejser, kan jeg også godt lide at bo i AirBnB's, og nogle gange ville jeg ønske, at jeg havde et stykke papir med alle de nødvendige oplysninger om overnatning, ind- og udtjekning, og dette er mit forsøg på at gøre det bedre.
 
@@ -76,15 +76,15 @@ Passwort: thebox
 2.  Computere og printere
 3.  Fjernbetjeninger til lys og el
 
-### Fjernbetjeninger
+### Fernbedienungen
 
 Et gammelt tysk ordsprog gælder for alle fjernbetjeninger: "Det er bedre at prøve end at studere". Du kan ikke bryde noget. Tryk på et par knapper og se, hvad der sker. Hvis du stadig vil studere, er her den rigtige læsning for dig:
 
-| Illustration                                              | Beskrivelse                                                                                                                                                                                                                                         |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Bordlampe<br>D:_fil_<br>Mester: Skift alt på samme tid                                                                                                                                                     |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Før du kan bruge den, skal du sørge for, at lyskontakten ved indgangen er sat til "tændt".**<br>Første linje: lysstyrke, tænd/sluk<br>Farvede knapper: Du kan bruge dette til at ændre farverne<br>Grå knapper: Skift mellem forskellige effekter |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Dette er fjernbetjeningen til computeren (iMac)._For at bruge computeren skal du trykke på A-knappen på den første fjernbetjening. Den aktiverer strømforsyningen til computeren og Bluetooth-boksen._                                              |
+| Illustration                                              | Beskrivelse                                                                                                                                                                                                                                          |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Bordlampe<br>D:_fil_<br>Mester: Skift alt på samme tid                                                                                                                                                      |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Bevor du es benutzen kannst, stell sicher, dass der Lichtschalter an am Eingang auf "an" steht.**<br>Første linje: lysstyrke, tænd/sluk<br>Farbige Tasten: Hiermit kannst Du die Farben wechseln<br>Grå knapper: Skift mellem forskellige effekter |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Dette er fjernbetjeningen til computeren (iMac)._For at bruge computeren skal du trykke på A-knappen på den første fjernbetjening. Den aktiverer strømforsyningen til computeren og Bluetooth-boksen._                                               |
 
 ### FAQ - Dit værelse
 
@@ -117,7 +117,7 @@ Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til
 
 ?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Især på badeværelset. Sørg også for, at varmen er slukket. Tak 🙏
 
-## Gården
+## Der Hof
 
 I vores gårdhave kan du tilslutte dine cykler og tage dit affald væk.
 
@@ -140,7 +140,7 @@ Undrer du dig over, hvorfor skraldespandene har forskellige farver? Hvis du er u
 Leipzig er en meget cykelvenlig by. Gennem den store bypark, der deler byen i to halvdele, kan man komme mange steder hen og normalt køre gennem landskabet.
 Hvis man skal tro statistikken, så stjæles der flest cykler pr. indbygger i Leipzig hvert år. (1.539 stjålne cykler pr. 100.000 indbyggere) I de 15 år, siden jeg har boet her på Hardenbergstraße, har jeg aldrig fået stjålet en cykel, og jeg kender kun én nabo, hvis cykel blev stjålet fra hans baghave. Jeg forbinder den altid direkte til rækværket.
 
-### Hvilke alternativer er der?
+### Welche Alternativen gibt es
 
 Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 15 minutter hver for_Nextbikes_. Bemærk, at det koster mere, hvis du ikke parkerer dine cykler på hovedgaderne (lilla på kortet). El-scooterne må kun parkeres på visse parkeringspladser. Der er også et free-float delebilssystem. Det betyder med os[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er der busser og tog, som du også kunne betale for via Leipzig MOVE-appen.
 
@@ -154,7 +154,7 @@ Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 1
 ## rengøring
 
 -   Du kan efterlade sengetøj på den.
--   Jeg vasker også op og
+-   Das Geschirr spüle ich auch ab und
 -   Jeg tager også skraldet ud.
 
 > Kort version: Lad nøglen blive der, luk døren, det er det. 😀
