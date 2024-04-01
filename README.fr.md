@@ -49,7 +49,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 4.  Réfrigérateur
 5.  Four à pizza
 6.  Eau minérale
-7.  Station de recharge pour téléphone portable sur l'étagère
+7.  Station de recharge de téléphone portable sur l'étagère
 8.  Machine à laver
 
 ### FAQ - Cuisine
@@ -78,12 +78,12 @@ Passwort: thebox
 
 ### Télécommandes
 
-Un vieux dicton allemand s’applique à toutes les télécommandes : « Mieux vaut essayer qu’étudier ». Vous ne pouvez rien casser. Appuyez sur quelques boutons et voyez ce qui se passe. Si vous souhaitez continuer à étudier, voici la lecture qui vous convient :
+Un vieux dicton allemand s'applique à toutes les télécommandes : « Mieux vaut essayer qu'étudier ». Vous ne pouvez rien casser. Appuyez sur quelques boutons et voyez ce qui se passe. Si vous souhaitez continuer à étudier, voici la lecture qui vous convient :
 
 | Illustration                                              | Description                                                                                                                                                                                                                                                                           |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R : boîtier Bluetooth<br>B : Guirlande lumineuse<br>C : Lampe de bureau<br>D:_déposer_<br>Maître : Changez tout en même temps                                                                                                                                                         |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Avant de pouvoir l'utiliser, assurez-vous que l'interrupteur d'éclairage à l'entrée est réglé sur « on ».**<br>Première ligne : luminosité, marche/arrêt<br>Boutons colorés : vous pouvez les utiliser pour changer les couleurs<br>Boutons gris : basculez entre différents effets |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Avant de pouvoir l'utiliser, assurez-vous que l'interrupteur d'éclairage à l'entrée est réglé sur « on ».**<br>Première ligne : luminosité, marche/arrêt<br>Boutons colorés : vous pouvez les utiliser pour changer les couleurs<br>Boutons gris : basculez entre différents effets |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Il s'agit de la télécommande de l'ordinateur (iMac)._Pour utiliser l'ordinateur, appuyez sur le bouton A de la première télécommande. Il active l'alimentation de l'ordinateur et du boîtier Bluetooth._                                                                              |
 
 ### FAQ - Votre chambre
@@ -127,7 +127,7 @@ Dans notre cour vous pourrez brancher vos vélos et emporter vos déchets.
 
 Soit vous utilisez la clé de la porte d'entrée, soit vous passez le portail et sentez le bouton pour ouvrir la porte. Pendant que vous maintenez le bouton enfoncé, vous pouvez ouvrir la porte.
 
-![Der Knopf öffnet Dir](_media/surroundings-button.jpeg ":size=144")
+![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
 ### Jaune? Bleu? Vert? Brun?
 
