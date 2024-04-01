@@ -61,7 +61,7 @@ Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. 
 ## Dit værelse
 
 Madrasserne placeres kun oven på hinanden til opbevaringsformål. Du kan fordele dem efter dine behov.
-Udskifter du puderne på sofaen med en madras, fungerer den godt som seng.
+Udskifter du puderne på sofaen med en madras, er det en god seng.
 
 ### Loginoplysningerne til computeren (iMac) er
 
@@ -96,7 +96,7 @@ Du kan bruge bruseren, mens du står. Det er ikke noget problem, hvis jorden bli
 
 Alexaen på væggen går under navnet "Computer" og spiller også din yndlingsmusik eller radio. F.eks. "_Computer, spil Deutschlandfunk Nova_"
 
-Du kan hænge håndklæder på alle kroge og sætte dine ting hvor som helst. Der er en hylde foran badeværelsesdøren. En af dem er din.
+Du kan hænge håndklæder på alle kroge og sætte dine ting hvor som helst. Der er en hylde foran badeværelsesdøren. Et stykke af det er dit.
 
 ### Gang
 
