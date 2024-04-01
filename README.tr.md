@@ -88,7 +88,7 @@ Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek �
 
 ### SSS - Odanız
 
-1.  Işık yanmıyor veya çılgınca yanıp sönüyor Renkli düğmelere sahip küçük uzaktan kumandayı kullanın.
+1.  Işık yanmıyor veya çılgınca yanıp sönüyor.Renkli düğmelere sahip küçük uzaktan kumandayı kullanın.
 
 ### banyo
 
@@ -129,7 +129,7 @@ Ya ön kapının anahtarını kullanırsınız ya da kapıdan içeri girip kapı
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
-### Gelb? Blau? Grün? Braun?
+### Sarı? Mavi? Yeşil? Kahverengi?
 
 Çöp kutularının neden farklı renklerde olduğunu merak ediyor musunuz? Emin değilseniz çöpü her zaman yeşil çöp kutusuna atın. Geriye kalan atıklar orada bitiyor. Profesyoneller kağıt atıklarını mavi çöp kutusuna, geri dönüştürülebilir atıkları sarı çöp kutusuna ve organik atıkları kahverengi çöp kutusuna koyuyor.
 
@@ -142,7 +142,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 ### Hangi alternatifler var?
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
 
 # Çıkış yapmak
 
