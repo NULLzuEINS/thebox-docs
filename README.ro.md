@@ -10,7 +10,7 @@ Pe AirBnB-ul meu primești o imagine de ansamblu detaliată a tuturor camerelor 
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Configurație cu un pat cu canapea                                                      | Configurație cu două paturi                                                   | Schreibtisch                                                                            |
+| Configurație cu un pat cu canapea                                                      | Configurație cu două paturi                                                   | Birou                                                                                   |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Bucătărie - ceai                                                                        |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -96,7 +96,7 @@ Puteți folosi dușul în timp ce stați în picioare. Nu este o problemă dacă
 
 Alexa de pe perete poartă numele „Computer” și redă, de asemenea, muzica sau radioul preferat. De exemplu. "_Computer, joacă Deutschlandfunk Nova_"
 
-Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. Unul dintre ei este al tău.
+Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. O bucată din ea este a ta.
 
 ### Holul
 
