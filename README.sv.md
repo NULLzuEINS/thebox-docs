@@ -109,7 +109,7 @@ Du är välkommen att lämna dina skor här. Jag har även ett litet antecknings
 Det finns Alexa röstassistenter i badrummet och köket. Du kan tilltala dem med namnet "Dator" och låta dem spela Deutschlandfunk Nova, till exempel. De förstår tyska och även engelska. Om du inte vill använda dem,
 Du kan också helt enkelt koppla bort den från strömmen.
 
-Det finns inga röstassistenter i ditt rum. Korgen på hyllan innehåller bara routern och en liten dator.
+In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
 
 ## temperatur och luftfuktighet
 
@@ -129,7 +129,7 @@ Antingen använder du nyckeln till ytterdörren eller så sträcker du dig genom
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
-### Gul? Blå? Grön? Brun?
+### Gelb? Blau? Grün? Braun?
 
 Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i den bruna soptunnan.
 
@@ -137,8 +137,8 @@ Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid 
 
 ### Är min cykel säker?
 
-Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många platser och brukar köra genom landsbygden.
-Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 år sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
+Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
+Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
 
 ### Vilka alternativ finns det?
 
@@ -188,7 +188,7 @@ När den är klar, lägg tillbaka den i laddstationen!
 
 # Tips
 
-Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för_Nextbikes_.
+Mit der [Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för_Nextbikes_.
 Observera att det kostar mer om du inte parkerar Raf på huvudgatorna (lila på kartan).
 El-skotrarna får endast parkeras på vissa parkeringsplatser.
 
