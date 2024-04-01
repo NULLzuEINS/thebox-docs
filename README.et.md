@@ -76,7 +76,7 @@ Passwort: thebox
 2.  Arvutid ja printerid
 3.  Kaugjuhtimispuldid tuledele ja elektrile
 
-### Fernbedienungen
+### Kaugjuhtimispuldid
 
 Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". Sa ei saa midagi murda. Vajutage mõnda nuppu ja vaadake, mis juhtub. Kui soovite siiski õppida, siis siin on teile sobiv lugemine:
 
