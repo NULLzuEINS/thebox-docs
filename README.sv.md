@@ -1,4 +1,4 @@
-# Välkommen
+# Välkommen till The Box
 
 Hej och välkommen till "Boxen"! När jag reser gillar jag också att bo i AirBnB's och ibland önskar jag att jag hade ett papper med all nödvändig information om boendet, in- och utcheckning och detta är mitt försök att göra det bättre.
 
@@ -54,14 +54,14 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 ### FAQ - Kök
 
-1.  Kaminen fungerar inte? snälla säg
+1.  Fungerar inte kaminen? snälla säg
     > "Dator, arbetsbänk och"
 2.  Var kan jag diska? Detta fungerar bara i badrummet. Det finns en speciell behållare för att diska.
 
 ## Ditt rum
 
 Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov.
-Byter du ut kuddarna i soffan mot en madrass fungerar den bra som säng.
+Byter du ut kuddarna på soffan mot en madrass blir det en bra säng.
 
 ### Inloggningsuppgifterna för datorn (iMac) är
 
@@ -137,8 +137,8 @@ Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid 
 
 ### Är min cykel säker?
 
-Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många platser och brukar köra genom landsbygden.
-Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 år sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
+Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många ställen och brukar köra genom landsbygden.
+Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 åren sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
 
 ### Vilka alternativ finns det?
 
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Made with ❤️ by  [dokumentera](https://docsify.js.org/)_
+_Gjord med ❤️ av [dokumentera](https://docsify.js.org/)_
