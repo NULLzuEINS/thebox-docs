@@ -80,13 +80,13 @@ Passwort: thebox
 
 Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é melhor do que estudar”. Você não pode quebrar nada. Pressione alguns botões e veja o que acontece. Se você ainda quer estudar, aqui está a leitura certa para você:
 
-| Ilustração                                                | Descrição                                                                                                                                                                                                                                                                     |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caixa Bluetooth<br>B: Luzes de fada<br>C: Candeeiro de mesa<br>D:_arquivo_<br>Mestre: Troque tudo ao mesmo tempo                                                                                                                                                           |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usá-lo, certifique-se de que o interruptor da luz da entrada esteja na posição "ligado".**<br>Primeira linha: brilho, ligar/desligar<br>Botões coloridos: você pode usar isso para alterar as cores<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Este é o controle remoto do computador (iMac)._Para usar o computador, pressione o botão A no primeiro controle remoto. Ativa a fonte de alimentação do computador e da caixa Bluetooth._                                                                                     |
+| Ilustração                                                | Descrição                                                                                                                                                                                                                                                               |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caixa Bluetooth<br>B: Luzes de fada<br>C: Candeeiro de mesa<br>D:_arquivo_<br>Mestre: Troque tudo ao mesmo tempo                                                                                                                                                     |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usá-lo, certifique-se de que o interruptor da luz da entrada esteja na posição "ligado".**<br>Primeira linha: brilho, ligar/desligar<br>Botões coloridos: você pode usar isso para alterar as cores<br>Botões cinza: Alternar entre diferentes efeitos |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Este é o controle remoto do computador (iMac)._Para usar o computador, pressione o botão A no primeiro controle remoto. Ativa a fonte de alimentação do computador e da caixa Bluetooth._                                                                               |
 
-### FAQ - Dein Zimmer
+### Perguntas frequentes - Seu quarto
 
 1.  A luz não acende ou pisca muito. Use os pequenos controles remotos com botões coloridos.
 
@@ -100,7 +100,7 @@ Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualque
 
 ### Corredor
 
-Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
+Você está convidado a deixar seus sapatos aqui. Também tenho um pequeno bloco de notas na prateleira, caso você queira me contar alguma coisa.
 
 # Diversos
 
