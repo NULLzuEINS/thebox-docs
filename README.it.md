@@ -117,7 +117,7 @@ La temperatura e l'umidità vengono misurate automaticamente tramite i sensori. 
 
 ?> Assicurati di ventilare regolarmente (almeno una volta al giorno). Soprattutto in bagno. Assicurati anche che il riscaldamento sia spento. Grazie 🙏
 
-## Il cortile
+## Der Hof
 
 Nel nostro cortile puoi collegare le tue biciclette e portare via la tua spazzatura.
 
@@ -131,7 +131,7 @@ O usi la chiave della porta d'ingresso, oppure raggiungi il cancello e senti il 
 
 ### Giallo? Blu? Verde? Marrone?
 
-Ti stai chiedendo perché i bidoni della spazzatura hanno colori diversi? Se non sei sicuro, getta sempre la spazzatura nel cestino verde. I rifiuti residui finiscono lì. I professionisti mettono i rifiuti cartacei nel contenitore blu, i materiali riciclabili nel contenitore giallo e i rifiuti organici nel contenitore marrone.
+Du fragst Dich warum die Mülltonnen verschiedene Farben haben? Wenn Du dir unsicher bist, mach den Müll immer in die grüne Tonne. Darin landet der Restmüll. Profis machen den Papiermüll in die blaue Tonne, Wertstoffe in die gelbe Tonne und organische Abfälle in die braune Tonne.
 
 ### Cicli
 
@@ -188,7 +188,7 @@ Una volta terminato, rimettilo nella stazione di ricarica!
 
 # Suggerimenti
 
-Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_.
+Mit der [App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_.
 Tieni presente che costa di più se non parcheggi il Raf nelle strade principali (viola sulla mappa).
 Gli e-scooter possono essere parcheggiati solo in determinati parcheggi.
 
