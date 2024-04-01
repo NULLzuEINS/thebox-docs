@@ -12,7 +12,7 @@ Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zd
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Konfigurace s jednou postelí s pohovkou                                                | Konfigurace se dvěma lůžky                                                    | Lavice                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Psací stůl se světlem                                                                  | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
+| Psací stůl se světlem                                                                  | Küche - Herd                                                                  | Kuchyň - čaj                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Psací stůl se světlem                                                                  | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
 
@@ -109,7 +109,7 @@ Zde si můžete nechat boty. Na poličce mám také malý poznámkový blok, kdy
 V koupelně a kuchyni jsou hlasoví asistenti Alexa. Můžete je oslovovat „Computer“ a nechat je hrát například Deutschlandfunk Nova. Rozumí německy a také anglicky. Pokud je nechcete používat,
 Můžete jej také jednoduše odpojit od napájení.
 
-Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje pouze router a malý počítač.
+In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
 
 ## teplota a vlhkost
 
@@ -137,8 +137,8 @@ Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jistí, vždy d�
 
 ### Je moje kolo bezpečné?
 
-Lipsko je město velmi přátelské k cyklistice. Rozlehlým městským parkem, který rozděluje město na dvě poloviny, se dostanete na mnoho míst a většinou projedete krajinou.
-Pokud věříte statistikám, tak v Lipsku se ročně ukradne nejvíce kol na hlavu. (1 539 odcizených kol na 100 000 obyvatel) Za 15 let, co zde na Hardenbergstraße bydlím, mi nikdy neukradli kolo a vím pouze o jednom sousedovi, kterému bylo kolo ukradeno z jeho dvorku. Napojuji to vždy přímo na zábradlí.
+Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
+Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
 
 ### Jaké alternativy existují?
 
