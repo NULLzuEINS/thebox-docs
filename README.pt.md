@@ -61,7 +61,7 @@ Como costumo comer lá embaixo com minha família, a cozinha é muito espartana.
 ## Seu quarto
 
 Os colchões são colocados uns sobre os outros apenas para fins de armazenamento. Você pode distribuí-los de acordo com suas necessidades.
-Se você substituir as almofadas do sofá por um colchão, fica uma boa cama.
+Se você substituir as almofadas do sofá por um colchão, ele funciona bem como cama.
 
 ### Os detalhes de login do computador (iMac) são
 
@@ -92,13 +92,13 @@ Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é mel
 
 ### banheiro
 
-Você pode usar o chuveiro em pé. Não há problema se o solo ficar um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
+Você pode usar o chuveiro em pé. Não importa se o chão fica um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
 
 A Alexa na parede atende pelo nome de “Computador” e também toca sua música ou rádio favorita. Por exemplo. "_Computador, jogue Deutschlandfunk Nova_"
 
 Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualquer lugar. Há uma prateleira na frente da porta do banheiro. Um deles é seu.
 
-### Flur
+### Corredor
 
 Você está convidado a deixar seus sapatos aqui. Também tenho um pequeno bloco de notas na prateleira, caso você queira me contar alguma coisa.
 
@@ -140,7 +140,7 @@ Você está se perguntando por que as latas de lixo têm cores diferentes? Se n�
 Leipzig é uma cidade muito amiga das bicicletas. Através do grande parque da cidade que divide a cidade em duas metades, você pode chegar a vários lugares e costuma dirigir pelo campo.
 Se você acredita nas estatísticas, então o maior número de bicicletas per capita é roubado em Leipzig todos os anos. (1.539 bicicletas roubadas por 100.000 habitantes) Nos 15 anos desde que moro aqui na Hardenbergstraße, nunca tive uma bicicleta roubada e só conheço um vizinho cuja bicicleta foi roubada do seu quintal. Eu sempre o conecto diretamente ao corrimão.
 
-### Que alternativas existem?
+### Welche Alternativen gibt es
 
 Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
 
@@ -161,7 +161,7 @@ Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viag
 
 # Estadia mais longa
 
-?> Manche meiner Gäste bleiben einen Monat, oder länger. Bist du auch einer von ihnen, dann ist dieser Abschnitt hier für Dich!
+?> Alguns dos meus hóspedes ficam por um mês ou mais. Se você é um deles, esta seção é para você!
 
 ## máquina de lavar
 
