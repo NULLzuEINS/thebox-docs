@@ -96,7 +96,7 @@ Puoi usare la doccia stando in piedi. Non è un problema se il terreno si bagna 
 
 L'Alexa sul muro si chiama "Computer" e riproduce anche la tua musica o radio preferita. Per esempio. "_Computer, riproduci Deutschlandfunk Nova_"
 
-Puoi appendere gli asciugamani a tutti i ganci e riporre le tue cose ovunque. C'è uno scaffale davanti alla porta del bagno. Uno di questi è tuo.
+Puoi appendere gli asciugamani a tutti i ganci e riporre le tue cose ovunque. C'è uno scaffale davanti alla porta del bagno. Un pezzo è tuo.
 
 ### Corridoio
 
