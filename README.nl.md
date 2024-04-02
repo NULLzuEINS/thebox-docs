@@ -2,7 +2,7 @@
 
 Hallo en welkom bij de “Box”! Als ik reis, verblijf ik ook graag in AirBnB's en soms zou ik willen dat ik een vel papier had met alle nodige informatie over de accommodatie, het in- en uitchecken en dit is mijn poging om het beter te maken.
 
-> [!Een mededeling]Ik zal het document automatisch in uw taal laten vertalen. Ik hoop dat het enigszins begrijpelijk is. Zo niet, schrijf mij dan gerust een bericht. Dan probeer ik het te verbeteren.
+> [!Hinweis]Ik zal het document automatisch in uw taal laten vertalen. Ik hoop dat het enigszins begrijpelijk is. Zo niet, schrijf mij dan gerust een bericht. Dan probeer ik het te verbeteren.
 
 ## Afbeeldingen
 
@@ -61,7 +61,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 ## Jouw kamer
 
 De matrassen worden uitsluitend voor opslagdoeleinden op elkaar geplaatst. U kunt ze verdelen volgens uw behoeften.
-Als je de kussens van de bank vervangt door een matras, ontstaat er een goed bed.
+Als je de kussens op de bank vervangt door een matras, functioneert deze prima als bed.
 
 ### De inloggegevens voor de computer (iMac) zijn
 
@@ -92,15 +92,15 @@ Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter 
 
 ### badkamer
 
-U kunt staand van de douche gebruik maken. Het maakt niet uit als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
+U kunt staand van de douche gebruik maken. Het is geen probleem als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
 
 De Alexa aan de muur heet ‘Computer’ en speelt ook je favoriete muziek of radio af. Bijvoorbeeld "_Computer, speel Deutschlandfunk Nova_"
 
-Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén ervan is van jou.
+Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén stukje ervan is van jou.
 
 ### Gang
 
-Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
+U kunt uw schoenen hier achterlaten. Ik heb ook een klein notitieboekje op de plank liggen, voor het geval je me iets wilt vertellen.
 
 # Gemengd
 
@@ -153,7 +153,7 @@ Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten va
 
 ## schoonmaak
 
--   Bettzeug kannst Du drauf lassen.
+-   Je kunt er beddengoed op laten liggen.
 -   Ik doe ook de afwas en
 -   Ik zet ook het afval buiten.
 
