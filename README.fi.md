@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Tai skannaat tämän QR-koodin, se yhdistää sinut automaattisesti verkkoon:
+Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -96,7 +96,7 @@ Voit käyttää suihkua seisten. Ei haittaa, jos maa hieman kastuu. Kytke vesi p
 
 Seinällä oleva Alexa on nimeltään "Computer", ja se soittaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
 
-Handtücher kannst Du an allen Haken aufhängen und deine Sachen überall abstellen. Im vor der Badezimmertür ist ein Regal. Ein fach davon gehört Dir.
+Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi osa siitä on sinun.
 
 ### Käytävä
 
