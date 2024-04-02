@@ -88,7 +88,7 @@ Passwort: thebox
 
 ### अक्सर पूछे जाने वाले प्रश्न - आपका कमरा
 
-1.  लाइट नहीं जलती या बेतहाशा चमकती है। रंगीन बटनों वाले छोटे रिमोट कंट्रोल का उपयोग करें।
+1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
 
 ### स्नानघर
 
