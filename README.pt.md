@@ -131,7 +131,7 @@ Ou você usa a chave da porta da frente ou passa pelo portão e sente o botão p
 
 ### Amarelo? Azul? Verde? Marrom?
 
-Du fragst Dich warum die Mülltonnen verschiedene Farben haben? Wenn Du dir unsicher bist, mach den Müll immer in die grüne Tonne. Darin landet der Restmüll. Profis machen den Papiermüll in die blaue Tonne, Wertstoffe in die gelbe Tonne und organische Abfälle in die braune Tonne.
+Você está se perguntando por que as latas de lixo têm cores diferentes? Se não tiver certeza, coloque sempre o lixo na lixeira verde. Os resíduos residuais vão parar lá. Os profissionais colocam os resíduos de papel na lixeira azul, os recicláveis ​​na lixeira amarela e os resíduos orgânicos na lixeira marrom.
 
 ### Ciclos
 
@@ -171,7 +171,7 @@ Você pode usar a máquina de lavar sem precisar perguntar primeiro. Você tamb�
 
 Na cozinha você encontrará uma escova manual e uma pá de lixo na parede. Isso ajudará você a se livrar da pequena sujeira.
 
-## Limpar
+## Wischen
 
 Você pode encontrar um agente de limpeza verde em um borrifador no banheiro para limpar. Juntamente com o papel de cozinha, pode ser utilizado para limpar facilmente superfícies.
 
