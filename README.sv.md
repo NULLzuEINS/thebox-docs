@@ -49,7 +49,7 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 4.  Kylskåp
 5.  Pizzaugn
 6.  Mineral vatten
-7.  Laddstation för mobiltelefon på hyllan
+7.  Handy-Aufladestation im Regal
 8.  tvättmaskin
 
 ### FAQ - Kök
@@ -149,7 +149,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 ## Nyckel
 
 -   Beroende på vilken veckodag det är kan vi säga hejdå personligen eller så kan du helt enkelt lägga nycklarna på skrivbordet och stänga dörren efter dig.
--   Der späteste Zeitpunkt für den Checkout ist am Abreisetag 19 Uhr.
+-   Senaste tid för utcheckning är 19.00 på avresedagen.
 
 ## rengöring
 
