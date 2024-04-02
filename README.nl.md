@@ -73,7 +73,7 @@ Passwort: thebox
 ### De volgende zaken zijn aanwezig in de kamer
 
 1.  Alle meubels en bedden
-2.  Computers en printers
+2.  Computer & Drucker
 3.  Afstandsbedieningen voor verlichting en elektriciteit
 
 ### Afstandsbedieningen
@@ -83,7 +83,7 @@ Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter 
 | Illustratie                                               | Beschrijving                                                                                                                                                                                                                                                          |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Kerstverlichting<br>C: Bureaulamp<br>D:_leer_<br>Master: Schakel alles tegelijk                                                                                                                                                                 |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Voordat u er gebruik van kunt maken, zorgt u ervoor dat de lichtschakelaar bij de ingang op "aan" staat.**<br>Eerste regel: helderheid, aan/uit<br>Farbige Tasten: Hiermit kannst Du die Farben wechseln<br>Grijze knoppen: Schakelen tussen verschillende effecten |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Voordat u er gebruik van kunt maken, zorgt u ervoor dat de lichtschakelaar bij de ingang op "aan" staat.**<br>Eerste regel: helderheid, aan/uit<br>Gekleurde knoppen: Hiermee kunt u de kleuren wijzigen<br>Grijze knoppen: Schakelen tussen verschillende effecten |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Dit is de afstandsbediening voor de computer (iMac)._Om de computer te gebruiken, drukt u op de A-knop op de eerste afstandsbediening. Het activeert de voeding voor de computer en de Bluetooth-box._                                                                |
 
 ### Veelgestelde vragen - Uw kamer
