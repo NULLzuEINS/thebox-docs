@@ -37,7 +37,7 @@ Oppure scansiona questo codice QR, ti collegherà automaticamente alla rete:
 
 ## Cucina
 
-Dato che di solito mangio al piano di sotto con la mia famiglia, la cucina è molto spartana. Purtroppo è possibile lavare i piatti solo nel lavandino del bagno. Ma c'è un contenitore speciale per i piatti.
+Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -61,7 +61,7 @@ Dato che di solito mangio al piano di sotto con la mia famiglia, la cucina è mo
 ## La vostra stanza
 
 I materassi sono posizionati uno sopra l'altro solo a scopo di stoccaggio. Puoi distribuirli in base alle tue esigenze.
-Se sostituisci i cuscini del divano con un materasso, diventa un buon letto.
+Se sostituisci i cuscini del divano con un materasso, funziona bene come letto.
 
 ### I dettagli di accesso per il computer (iMac) sono
 
@@ -92,11 +92,11 @@ Per tutti i telecomandi vale un vecchio detto tedesco: “Provare è meglio che 
 
 ### bagno
 
-Puoi usare la doccia stando in piedi. Non importa se il terreno si bagna un po'. Apri l'acqua solo a 1/3 e appendi il tappetino da bagno sopra il riscaldamento per asciugarlo.
+Puoi usare la doccia stando in piedi. Non è un problema se il terreno si bagna un po'. Apri l'acqua solo a 1/3 e appendi il tappetino da bagno sopra il riscaldamento per asciugarlo.
 
 L'Alexa sul muro si chiama "Computer" e riproduce anche la tua musica o radio preferita. Per esempio. "_Computer, riproduci Deutschlandfunk Nova_"
 
-Puoi appendere gli asciugamani a tutti i ganci e riporre le tue cose ovunque. C'è uno scaffale davanti alla porta del bagno. Uno di questi è tuo.
+Puoi appendere gli asciugamani a tutti i ganci e riporre le tue cose ovunque. C'è uno scaffale davanti alla porta del bagno. Un pezzo è tuo.
 
 ### Corridoio
 
@@ -131,7 +131,7 @@ O usi la chiave della porta d'ingresso, oppure raggiungi il cancello e senti il 
 
 ### Giallo? Blu? Verde? Marrone?
 
-Ti stai chiedendo perché i bidoni della spazzatura hanno colori diversi? Se non sei sicuro, getta sempre la spazzatura nel cestino verde. I rifiuti residui finiscono lì. I professionisti mettono la carta nel contenitore blu, i materiali riciclabili nel contenitore giallo e i rifiuti organici nel contenitore marrone.
+Ti stai chiedendo perché i bidoni della spazzatura hanno colori diversi? Se non sei sicuro, getta sempre la spazzatura nel cestino verde. I rifiuti residui finiscono lì. I professionisti mettono i rifiuti cartacei nel contenitore blu, i materiali riciclabili nel contenitore giallo e i rifiuti organici nel contenitore marrone.
 
 ### Cicli
 
@@ -186,7 +186,7 @@ riaccenderlo utilizzando il pulsante in alto.
 
 Una volta terminato, rimettilo nella stazione di ricarica!
 
-# Tipps
+# Suggerimenti
 
 Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite da 15 minuti ciascuna per il_Nextbikes_.
 Tieni presente che costa di più se non parcheggi il Raf nelle strade principali (viola sulla mappa).
