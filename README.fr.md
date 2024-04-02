@@ -49,7 +49,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 4.  Réfrigérateur
 5.  Four à pizza
 6.  Eau minérale
-7.  Handy-Aufladestation im Regal
+7.  Station de recharge de téléphone portable sur l'étagère
 8.  Machine à laver
 
 ### FAQ - Cuisine
@@ -61,7 +61,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 ## Ta chambre
 
 Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins.
-Si vous remplacez les oreillers du canapé par un matelas, celui-ci fera également office de lit.
+Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
 
 ### Les informations de connexion pour l'ordinateur (iMac) sont
 
@@ -78,12 +78,12 @@ Passwort: thebox
 
 ### Télécommandes
 
-Un vieux dicton allemand s’applique à toutes les télécommandes : « Mieux vaut essayer qu’étudier ». Vous ne pouvez rien casser. Appuyez sur quelques boutons et voyez ce qui se passe. Si vous souhaitez continuer à étudier, voici la lecture qui vous convient :
+Un vieux dicton allemand s'applique à toutes les télécommandes : « Mieux vaut essayer qu'étudier ». Vous ne pouvez rien casser. Appuyez sur quelques boutons et voyez ce qui se passe. Si vous souhaitez continuer à étudier, voici la lecture qui vous convient :
 
 | Illustration                                              | Description                                                                                                                                                                                                                                                                           |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R : boîtier Bluetooth<br>B : Guirlande lumineuse<br>C : Lampe de bureau<br>D:_déposer_<br>Maître : Changez tout en même temps                                                                                                                                                         |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Avant de pouvoir l'utiliser, assurez-vous que l'interrupteur d'éclairage à l'entrée est réglé sur « on ».**<br>Première ligne : luminosité, marche/arrêt<br>Boutons colorés : vous pouvez les utiliser pour changer les couleurs<br>Boutons gris : basculez entre différents effets |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Avant de pouvoir l'utiliser, assurez-vous que l'interrupteur d'éclairage à l'entrée est réglé sur « on ».**<br>Première ligne : luminosité, marche/arrêt<br>Boutons colorés : vous pouvez les utiliser pour changer les couleurs<br>Boutons gris : basculez entre différents effets |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Il s'agit de la télécommande de l'ordinateur (iMac)._Pour utiliser l'ordinateur, appuyez sur le bouton A de la première télécommande. Il active l'alimentation de l'ordinateur et du boîtier Bluetooth._                                                                              |
 
 ### FAQ - Votre chambre
@@ -92,11 +92,11 @@ Un vieux dicton allemand s’applique à toutes les télécommandes : « Mieux v
 
 ### salle de bain
 
-Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
-Vous pouvez accrocher des serviettes à tous les crochets et ranger vos affaires n'importe où. Il y a une étagère devant la porte de la salle de bain. Un morceau est à vous.
+Vous pouvez accrocher des serviettes à tous les crochets et ranger vos affaires n'importe où. Il y a une étagère devant la porte de la salle de bain. L'un d'eux est le vôtre.
 
 ### Couloir
 
@@ -157,17 +157,17 @@ Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficie
 -   Je fais aussi la vaisselle et
 -   Je sors aussi les poubelles.
 
-> Version courte : Laissez la clé là, fermez la porte, c'est tout. 😀
+> Kurzfassung: Schlüssel da lassen, Tür zuziehen, das wars. 😀
 
 # Séjour plus long
 
-?> Certains de mes invités restent un mois ou plus. Si vous en faites partie, alors cette rubrique est faite pour vous !
+?> Manche meiner Gäste bleiben einen Monat, oder länger. Bist du auch einer von ihnen, dann ist dieser Abschnitt hier für Dich!
 
 ## Machine à laver
 
 Vous pouvez utiliser la machine à laver sans avoir à le demander au préalable. Vous pouvez également utiliser l’étendoir, la lessive et l’assouplissant. Si vous souhaitez du nouveau linge de lit, parlez-en-moi.
 
-## Brosse à main et pelle à poussière
+## Handfeger und Kehrblech
 
 Dans la cuisine, vous trouverez une brosse à main et une pelle à poussière accrochées au mur. Cela vous aidera à vous débarrasser des petites saletés.
 
