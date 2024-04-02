@@ -61,7 +61,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 ## Jouw kamer
 
 De matrassen worden uitsluitend voor opslagdoeleinden op elkaar geplaatst. U kunt ze verdelen volgens uw behoeften.
-Als je de kussens op de bank vervangt door een matras, functioneert deze prima als bed.
+Als je de kussens van de bank vervangt door een matras, ontstaat er een goed bed.
 
 ### De inloggegevens voor de computer (iMac) zijn
 
@@ -73,7 +73,7 @@ Passwort: thebox
 ### De volgende zaken zijn aanwezig in de kamer
 
 1.  Alle meubels en bedden
-2.  Computer & Drucker
+2.  Computers en printers
 3.  Afstandsbedieningen voor verlichting en elektriciteit
 
 ### Afstandsbedieningen
@@ -92,11 +92,11 @@ Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter 
 
 ### badkamer
 
-U kunt staand van de douche gebruik maken. Het is geen probleem als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
+U kunt staand van de douche gebruik maken. Het maakt niet uit als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
 
 De Alexa aan de muur heet ‘Computer’ en speelt ook je favoriete muziek of radio af. Bijvoorbeeld "_Computer, speel Deutschlandfunk Nova_"
 
-Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén stukje ervan is van jou.
+Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén ervan is van jou.
 
 ### Gang
 
