@@ -15,6 +15,9 @@ on:
                 - pl
                 - es
                 - da
+  push:
+    tags:
+      - '*'
 
 permissions:
   contents: write
