@@ -61,7 +61,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 ## Twój pokój
 
 Materace są ułożone jeden na drugim wyłącznie w celu przechowywania. Możesz je dystrybuować według swoich potrzeb.
-Jeśli zastąpisz poduszki na kanapie materacem, będzie to dobre łóżko.
+Jeśli zastąpisz poduszki na kanapie materacem, sprawdzi się ona również jako łóżko.
 
 ### Dane logowania do komputera (iMac) to
 
@@ -92,11 +92,11 @@ Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować n
 
 ### łazienka
 
-Z prysznica można korzystać na stojąco. Nie ma znaczenia, jeśli ziemia będzie trochę mokra. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
+Z prysznica można korzystać na stojąco. Nie stanowi to problemu, jeśli ziemia lekko zamoknie. Odkręć wodę tylko na 1/3 i zawieś matę do kąpieli nad grzejnikiem, aby wyschła.
 
 Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Komputerze, włącz Deutschlandfunk Nova_"
 
-Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jeden z nich jest Twój.
+Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jedna jego część jest Twoja.
 
 ### Korytarz
 
