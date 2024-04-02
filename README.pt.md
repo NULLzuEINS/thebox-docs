@@ -131,7 +131,7 @@ Ou você usa a chave da porta da frente ou passa pelo portão e sente o botão p
 
 ### Amarelo? Azul? Verde? Marrom?
 
-Você está se perguntando por que as latas de lixo têm cores diferentes? Se não tiver certeza, coloque sempre o lixo na lixeira verde. Os resíduos residuais vão parar lá. Os profissionais colocam os resíduos de papel na lixeira azul, os recicláveis ​​na lixeira amarela e os resíduos orgânicos na lixeira marrom.
+Du fragst Dich warum die Mülltonnen verschiedene Farben haben? Wenn Du dir unsicher bist, mach den Müll immer in die grüne Tonne. Darin landet der Restmüll. Profis machen den Papiermüll in die blaue Tonne, Wertstoffe in die gelbe Tonne und organische Abfälle in die braune Tonne.
 
 ### Ciclos
 
