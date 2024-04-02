@@ -80,11 +80,11 @@ Passwort: thebox
 
 Pro všechna dálková ovládání platí staré německé přísloví: „Zkoušet je lepší než studovat“. Nemůžeš nic rozbít. Stiskněte několik tlačítek a uvidíte, co se stane. Pokud stále chcete studovat, zde je to správné čtení pro vás:
 
-| Ilustrace                                                 | Popis                                                                                                                                                                                                                                                 |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Pohádková světla<br>C: Stolní lampa<br>D:_soubor_<br>Master: Přepněte vše současně                                                                                                                                              |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Než jej budete moci použít, ujistěte se, že je spínač světel u vchodu nastaven na „zapnuto“.**<br>První řádek: jas, zapnuto/vypnuto<br>Barevná tlačítka: Toto můžete použít ke změně barev<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Toto je dálkový ovladač pro počítač (iMac)._Chcete-li použít počítač, stiskněte tlačítko A na prvním dálkovém ovladači. Aktivuje napájení počítače a Bluetooth boxu._                                                                                 |
+| Ilustrace                                                 | Popis                                                                                                                                                                                                                                        |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Pohádková světla<br>C: Stolní lampa<br>D:_soubor_<br>Master: Přepněte vše současně                                                                                                                                     |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Než jej budete moci použít, ujistěte se, že je spínač světel u vchodu nastaven na „zapnuto“.**<br>První řádek: jas, zapnuto/vypnuto<br>Barevná tlačítka: Toto můžete použít ke změně barev<br>Šedá tlačítka: Přepínání mezi různými efekty |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Toto je dálkový ovladač pro počítač (iMac)._Chcete-li použít počítač, stiskněte tlačítko A na prvním dálkovém ovladači. Aktivuje napájení počítače a Bluetooth boxu._                                                                        |
 
 ### FAQ - Váš pokoj
 
@@ -144,7 +144,7 @@ Pokud věříte statistikám, tak v Lipsku se ročně ukradne nejvíce kol na hl
 
 s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmě existují autobusy a vlaky, za které můžete platit i přes aplikaci Leipzig MOVE.
 
-# Překontrolovat
+# Checkout
 
 ## Klíč
 
@@ -188,7 +188,7 @@ Po dokončení jej vraťte zpět do nabíjecí stanice!
 
 # Tipy
 
-s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_.
+s[Leipzig MOVE App](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_.
 Všimněte si, že to stojí více, pokud nezaparkujete Raf na hlavních ulicích (na mapě fialová).
 Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech.
 
