@@ -2,8 +2,7 @@
 
 नमस्ते और "बॉक्स" में आपका स्वागत है! जब मैं यात्रा करता हूं, तो मुझे एयरबीएनबी में रहना भी पसंद है और कभी-कभी मेरी इच्छा होती है कि मेरे पास आवास, चेक-इन और चेक-आउट के बारे में सभी आवश्यक जानकारी वाला एक कागज़ का टुकड़ा हो और यह इसे बेहतर बनाने का मेरा प्रयास है।
 
-> [!सूचना]
-> Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
+> [!सूचना]मैं दस्तावेज़ का स्वचालित रूप से आपकी भाषा में अनुवाद कर दूंगा। मुझे आशा है कि यह कुछ हद तक समझ में आएगा। यदि नहीं, तो बेझिझक मुझे एक संदेश लिखें। फिर मैं इसे सुधारने का प्रयास करता हूं।
 
 ## चित्रों
 
@@ -42,7 +41,7 @@ Passwort: landungsbruecken
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Folgende Dinge stehen in der Küche zur Verfügung
+### रसोई में निम्नलिखित चीजें उपलब्ध होती हैं
 
 1.  झुंड
 2.  केतली
