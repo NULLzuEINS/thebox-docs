@@ -61,7 +61,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 ## Ta chambre
 
 Les matelas sont placés les uns sur les autres uniquement à des fins de rangement. Vous pouvez les distribuer selon vos besoins.
-Si vous remplacez les coussins du canapé par un matelas, vous obtenez un bon lit.
+Si vous remplacez les oreillers du canapé par un matelas, celui-ci fera également office de lit.
 
 ### Les informations de connexion pour l'ordinateur (iMac) sont
 
@@ -92,7 +92,7 @@ Un vieux dicton allemand s'applique à toutes les télécommandes : « Mieux vau
 
 ### salle de bain
 
-Vous pouvez utiliser la douche debout. Ce n'est pas grave si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
+Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
 L'Alexa accrochée au mur s'appelle « Ordinateur » et diffuse également votre musique ou votre radio préférée. Par exemple. "_Ordinateur, joue à Deutschlandfunk Nova_"
 
@@ -157,17 +157,17 @@ Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficie
 -   Je fais aussi la vaisselle et
 -   Je sors aussi les poubelles.
 
-> Kurzfassung: Schlüssel da lassen, Tür zuziehen, das wars. 😀
+> Version courte : Laissez la clé là, fermez la porte, c'est tout. 😀
 
 # Séjour plus long
 
-?> Manche meiner Gäste bleiben einen Monat, oder länger. Bist du auch einer von ihnen, dann ist dieser Abschnitt hier für Dich!
+?> Certains de mes invités restent un mois ou plus. Si vous en faites partie, alors cette rubrique est faite pour vous !
 
 ## Machine à laver
 
 Vous pouvez utiliser la machine à laver sans avoir à le demander au préalable. Vous pouvez également utiliser l’étendoir, la lessive et l’assouplissant. Si vous souhaitez du nouveau linge de lit, parlez-en-moi.
 
-## Handfeger und Kehrblech
+## Brosse à main et pelle à poussière
 
 Dans la cuisine, vous trouverez une brosse à main et une pelle à poussière accrochées au mur. Cela vous aidera à vous débarrasser des petites saletés.
 
