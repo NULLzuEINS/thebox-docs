@@ -96,7 +96,7 @@ U kunt staand van de douche gebruik maken. Het is geen probleem als de grond een
 
 De Alexa aan de muur heet ‘Computer’ en speelt ook je favoriete muziek of radio af. Bijvoorbeeld "_Computer, speel Deutschlandfunk Nova_"
 
-Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén stukje ervan is van jou.
+Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén ervan is van jou.
 
 ### Gang
 
@@ -133,7 +133,7 @@ Of je gebruikt de sleutel van de voordeur, of je reikt door het hek en voelt aan
 
 Vraag je je af waarom de vuilnisbakken verschillende kleuren hebben? Als u het niet zeker weet, deponeer het afval dan altijd in de groene bak. Daarin komt het restafval terecht. Professionals gooien papierafval in de blauwe bak, recyclebaar afval in de gele bak en organisch afval in de bruine bak.
 
-### Cycli
+### Fahrräder
 
 ### Is mijn fiets veilig?
 
