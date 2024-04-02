@@ -37,7 +37,7 @@ Passwort: landungsbruecken
 
 ## 厨房
 
-由于我通常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗碗只能在浴室的水槽里进行。但有一个专门的容器可以用来清洗。
+由于我通常和家人一起在楼下吃饭，所以厨房非常简陋。不幸的是，洗漱只能在浴室的水槽里进行。但有一个专门的容器可以用来清洗。
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -61,7 +61,7 @@ Passwort: landungsbruecken
 ## 你的房间
 
 床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。
-如果你把沙发上的垫子换成床垫，它就是一张好床。
+如果你把沙发上的枕头换成床垫，它就可以很好地充当床。
 
 ### 计算机 (iMac) 的登录详细信息是
 
@@ -82,7 +82,7 @@ Passwort: thebox
 
 | 插图                                                        | 描述                                                                               |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 答：蓝牙盒子<br>B：仙女灯<br>C：台灯<br>d:_文件_<br>大师：同时切换所有内容                                 |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 答：蓝牙盒子<br>B：仙女灯<br>C：台灯<br>d：_文件_<br>大师：同时切换所有内容                                 |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **在使用之前，请确保入口处的电灯开关设置为“打开”。**<br>第一行：亮度、开/关<br>彩色按钮：您可以使用它来更改颜色<br>灰色按钮：不同效果之间切换 |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | 这是电脑 (iMac) 的遥控器。_要使用计算机，请按第一个遥控器上的 A 按钮。它激活计算机和蓝牙盒的电源。_                         |
 
@@ -92,7 +92,7 @@ Passwort: thebox
 
 ### 浴室
 
-您可以站着使用淋浴。地面稍微湿一点也没关系。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
+您可以站着使用淋浴。如果地面有点湿也没有问题。仅将水开到 1/3，然后将浴垫挂在加热器上晾干。
 
 墙上的 Alexa 名称为“计算机”，还可以播放您最喜欢的音乐或收音机。例如“_电脑上，玩 Deutschlandfunk Nova_"
 
@@ -113,7 +113,7 @@ Passwort: thebox
 
 ## 温度和湿度
 
-Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst Du im Spiegel im Flur ablesen.
+温度和湿度通过传感器自动测量。我用它们来防止霉菌形成。它们又小又白，通常放在门框上。您可以在走廊的镜子中读取一些测量数据。
 
 ?> 请确保定期通风（至少每天一次）。尤其是在浴室里。还要确保暖气已关闭。谢谢🙏
 
@@ -138,7 +138,7 @@ Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. 
 ### 我的自行车安全吗？
 
 莱比锡是一个非常适合骑自行车的城市。通过将城市分为两半的大型城市公园，您可以到达许多地方，通常开车穿过乡村。
-如果您相信统计数据，那么莱比锡每年的人均自行车被盗数量最多。 （每 100,000 名居民就有 1,539 辆自行车被盗）自从我住在 Hardenbergstraße 以来的 15 年里，我从未遇到过自行车被盗的情况，而且我只知道一位邻居的自行车在自家后院被盗。我总是将它直接连接到栏杆上。
+如果您相信统计数据，那么莱比锡每年的人均自行车被盗数量最多。 （每 100,000 名居民就有 1,539 辆自行车被盗）自从我住在 Hardenbergstraße 以来的 15 年里，我从未遇到过自行车被盗的情况，我只知道一位邻居的自行车在他的后院被盗。我总是将它直接连接到栏杆上。
 
 ### 还有哪些替代方案？
 
@@ -178,8 +178,8 @@ Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. 
 ## 吸尘器
 
 我有一个扫地机器人。
-在开始之前，请清除地板上的所有物品。
-特别是绳子或其他可能会导致机器人窒息的东西。
+在开始之前，请清理地板上的所有物品。
+尤其是绳子或其他可能会导致机器人窒息的东西。
 然后将其放入您的房间并按一次顶部的按钮。
 如果没有任何反应，请使用侧面和后面的开关
 使用顶部的按钮再次打开它。
