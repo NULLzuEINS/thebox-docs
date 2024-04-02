@@ -45,7 +45,7 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 
 1.  Sürü
 2.  Su ısıtıcısı
-3.  Geschirr, Besteck
+3.  Çatal bıçak takımı
 4.  Buzdolabı
 5.  Pizza fırını
 6.  Maden suyu
@@ -82,7 +82,7 @@ Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek �
 
 | İllüstrasyon                                              | Tanım                                                                                                                                                                                                                                                 |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | C: Bluetooth kutusu<br>B: Lichterkette<br>C: Masa lambası<br>D:_dosya_<br>Usta: Her şeyi aynı anda değiştirin                                                                                                                                         |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | C: Bluetooth kutusu<br>B: Peri ışıkları<br>C: Masa lambası<br>D:_dosya_<br>Usta: Her şeyi aynı anda değiştirin                                                                                                                                        |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Kullanmadan önce girişteki ışık anahtarının "açık" konumda olduğundan emin olun.**<br>İlk satır: parlaklık, açık/kapalı<br>Renkli düğmeler: Renkleri değiştirmek için bunu kullanabilirsiniz.<br>Gri düğmeler: Farklı efektler arasında geçiş yapın |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Bu, bilgisayarın (iMac) uzaktan kumandasıdır._Bilgisayarı kullanmak için ilk uzaktan kumandadaki A düğmesine basın. Bilgisayarın ve Bluetooth kutusunun güç kaynağını etkinleştirir._                                                                 |
 
