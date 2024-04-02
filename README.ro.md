@@ -12,7 +12,7 @@ Pe AirBnB-ul meu primești o imagine de ansamblu detaliată a tuturor camerelor 
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Configurație cu un pat cu canapea                                                      | Configurație cu două paturi                                                   | Birou                                                                                   |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Bucătărie - ceai                                                                        |
+| Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Küche - Tee                                                                             |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Bucătărie - ceai                                                                        |
 
@@ -37,7 +37,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 
 ## Bucătărie
 
-Deoarece de obicei mănânc jos cu familia mea, bucătăria este foarte spartană. Din păcate, spălatul se poate face doar în chiuveta din baie. Dar există un recipient special pentru spălat.
+Întrucât de obicei mănânc la parter cu familia mea, bucătăria este foarte spartană. Din păcate, spălatul se poate face doar în chiuveta din baie. Dar există un recipient special pentru spălat.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -61,7 +61,7 @@ Deoarece de obicei mănânc jos cu familia mea, bucătăria este foarte spartan�
 ## Camera dvs
 
 Saltelele sunt așezate una peste alta numai în scop de depozitare. Le poți distribui în funcție de nevoile tale.
-Dacă înlocuiți pernele de pe canapea cu o saltea, este un pat bun.
+Dacă înlocuiți pernele de pe canapea cu o saltea, aceasta funcționează bine ca un pat.
 
 ### Detaliile de conectare pentru computer (iMac) sunt
 
@@ -88,15 +88,15 @@ O veche zicală germană se aplică tuturor telecomenzilor: „Este mai bine să
 
 ### Întrebări frecvente - Camera dvs
 
-1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
+1.  Lumina nu se aprinde sau clipește puternic.Folosește telecomenzile mici cu butoanele colorate.
 
 ### baie
 
-Puteți folosi dușul în timp ce stați în picioare. Nu contează dacă pământul se udă puțin. Dați apa doar 1/3 și atârnă covorașul de baie peste încălzitor pentru a se usuca.
+Puteți folosi dușul în timp ce stați în picioare. Nu este o problemă dacă pământul se udă puțin. Dați apa doar 1/3 și atârnă covorașul de baie peste încălzitor pentru a se usuca.
 
 Alexa de pe perete poartă numele „Computer” și redă, de asemenea, muzica sau radioul preferat. De exemplu. "_Computer, joacă Deutschlandfunk Nova_"
 
-Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. Unul dintre ei este al tău.
+Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. O bucată din ea este a ta.
 
 ### Holul
 
@@ -144,7 +144,7 @@ Dacă credeți statisticile, atunci cele mai multe biciclete pe cap de locuitor 
 
 Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratuite a câte 15 minute fiecare pentru_Nextbikes_. Rețineți că costă mai mult dacă nu vă parcați bicicletele pe străzile principale (violet pe hartă). Trotinetele electrice pot fi parcate numai în anumite locuri de parcare. Există, de asemenea, un sistem de partajare a mașinii. Asta înseamnă cu noi[cityflitzer](https://cityflitzer.de/). Și, desigur, există autobuze și trenuri pe care le puteți plăti și prin aplicația Leipzig MOVE.
 
-# Verifică
+# Checkout
 
 ## Cheie
 
@@ -177,12 +177,12 @@ Puteți găsi agent de curățare verde într-o sticlă cu pulverizare în baie 
 
 ## Aspirator
 
-Am un robot aspirator pentru podea.
-Înainte de a putea începe, curățați totul de pe podea.
-În special cabluri sau alte lucruri cu care robotul s-ar putea sufoca.
-Apoi pune-l în camera ta și apasă butonul din partea de sus o dată.
-Dacă nu se întâmplă nimic, utilizați comutatorul de pornire/oprire din lateral și după
-porniți-l din nou folosind butonul din partea de sus.
+Für den Fußboden habe ich einen Staubsauger-Roboter.
+Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
+Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
+Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
+Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
+anschalten noch einmal auf den Knopf auf drt Oberseite.
 
 Când este terminat, vă rugăm să îl puneți înapoi în stația de încărcare!
 
