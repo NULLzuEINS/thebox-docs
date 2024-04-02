@@ -1,4 +1,4 @@
-# Willkommen in TheBox
+# Velkommen til Boksen
 
 Hei og velkommen til «boksen»! Når jeg reiser liker jeg også å bo i AirBnB's og noen ganger skulle jeg ønske jeg hadde et papir med all nødvendig informasjon om overnatting, innsjekking og utsjekking og dette er mitt forsøk på å gjøre det bedre.
 
@@ -16,7 +16,7 @@ På min AirBnB får du en detaljert oversikt over alle rommene og fasilitetene. 
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Skrivebord med lys                                                                     | Kjøkken - komfyr                                                              | Kjøkken - te                                                                            |
 
-## Schlüssel
+## Nøkkel
 
 Du får to par nøkler, hver med en nøkkel for bunnen og en for toppen. Det er også en nøkkel på en nøkkelring som du kan bruke til å låse rommet ditt.
 
@@ -41,7 +41,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
-### Folgende Dinge stehen in der Küche zur Verfügung
+### Følgende ting er tilgjengelig på kjøkkenet
 
 1.  Flokk
 2.  Kjele
@@ -60,8 +60,8 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 ## Rommet ditt
 
-Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem i henhold til dine behov.
-Bytter du ut putene på sofaen med en madrass, blir det en god seng.
+Madrassene er plassert oppå hverandre kun for oppbevaringsformål. Du kan distribuere dem i henhold til dine behov.
+Bytter du ut putene på sofaen med en madrass, fungerer den fint som seng.
 
 ### Påloggingsdetaljene for datamaskinen (iMac) er
 
@@ -74,7 +74,7 @@ Passwort: thebox
 
 1.  Alle møbler og senger
 2.  Datamaskiner og skrivere
-3.  Fernbedienungen für Licht und Strom
+3.  Fjernkontroller for lys og strøm
 
 ### Fjernkontroller
 
@@ -92,11 +92,11 @@ Et gammelt tysk ordtak gjelder for alle fjernkontroller: «Å prøve er bedre en
 
 ### baderom
 
-Du kan bruke dusjen mens du står. Det spiller ingen rolle om bakken blir litt våt. Slå bare på vannet 1/3 og heng badematten over varmeren for å tørke.
+Du kan bruke dusjen mens du står. Det er ikke noe problem hvis bakken blir litt våt. Slå bare på vannet 1/3 og heng badematten over varmeren for å tørke.
 
 Alexaen på veggen går under navnet "Computer" og spiller også favorittmusikken eller radioen din. f.eks."_Datamaskin, spill Deutschlandfunk Nova_"
 
-Du kan henge håndklær på alle kroker og sette tingene dine hvor som helst. Det er en hylle foran baderomsdøren. En av dem er din.
+Du kan henge håndklær på alle kroker og sette tingene dine hvor som helst. Det er en hylle foran baderomsdøren. En del av den er din.
 
 ### Gang
 
@@ -107,7 +107,7 @@ Du er velkommen til å legge igjen skoene dine her. Jeg har også en liten notis
 ## Smart hjem
 
 Det er Alexa stemmeassistenter på badet og kjøkkenet. Du kan adressere dem med navnet "Computer" og la dem spille Deutschlandfunk Nova, for eksempel. De forstår tysk og også engelsk. Hvis du ikke vil bruke dem,
-Du kan også ganske enkelt koble den fra strømmen.
+Du kan også enkelt koble den fra strømmen.
 
 Det er ingen stemmeassistenter på rommet ditt. Kurven på hyllen inneholder kun ruteren og en liten datamaskin.
 
@@ -149,7 +149,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 ## Nøkkel
 
 -   Avhengig av hvilken ukedag det er, kan vi si farvel personlig, eller du kan ganske enkelt legge nøklene på skrivebordet og lukke døren bak deg.
--   Siste tidspunkt for utsjekking er 19.00 på avreisedagen.
+-   Siste tidspunkt for utsjekking er kl. 19.00 på avreisedagen.
 
 ## rengjøring
 
