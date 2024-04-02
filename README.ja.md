@@ -50,7 +50,7 @@ Passwort: landungsbruecken
 5.  ピザ窯
 6.  ミネラルウォーター
 7.  棚にある携帯電話の充電ステーション
-8.  洗濯機
+8.  Waschmaschine
 
 ### FAQ - キッチン
 
