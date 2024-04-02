@@ -48,7 +48,7 @@ Passwort: landungsbruecken
 3.  餐具餐具
 4.  冰箱
 5.  披萨烤箱
-6.  矿泉水
+6.  Mineralwasser
 7.  架子上的手机充电站
 8.  洗衣机
 
