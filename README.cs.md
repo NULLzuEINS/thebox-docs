@@ -96,7 +96,7 @@ Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne.
 
 Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
 
-Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli. Před dveřmi do koupelny je polička. Jeden kousek je váš.
+Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli. Před dveřmi do koupelny je polička. Jeden z nich je váš.
 
 ### Chodba
 
@@ -144,7 +144,7 @@ Pokud věříte statistikám, tak v Lipsku se ročně ukradne nejvíce kol na hl
 
 s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmě existují autobusy a vlaky, za které můžete platit i přes aplikaci Leipzig MOVE.
 
-# Checkout
+# Překontrolovat
 
 ## Klíč
 
@@ -188,7 +188,7 @@ Po dokončení jej vraťte zpět do nabíjecí stanice!
 
 # Tipy
 
-s[Leipzig MOVE App](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_.
+s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_.
 Všimněte si, že to stojí více, pokud nezaparkujete Raf na hlavních ulicích (na mapě fialová).
 Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech.
 
