@@ -14,7 +14,7 @@ Pe AirBnB-ul meu primești o imagine de ansamblu detaliată a tuturor camerelor 
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Bucătărie - ceai                                                                        |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Küche - Tee                                                                             |
+| Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Bucătărie - ceai                                                                        |
 
 ## Cheie
 
@@ -37,7 +37,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 
 ## Bucătărie
 
-Întrucât de obicei mănânc la parter cu familia mea, bucătăria este foarte spartană. Din păcate, spălatul se poate face doar în chiuveta din baie. Dar există un recipient special pentru spălat.
+Deoarece de obicei mănânc jos cu familia mea, bucătăria este foarte spartană. Din păcate, spălatul se poate face doar în chiuveta din baie. Dar există un recipient special pentru spălat.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -61,7 +61,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 ## Camera dvs
 
 Saltelele sunt așezate una peste alta numai în scop de depozitare. Le poți distribui în funcție de nevoile tale.
-Dacă înlocuiți pernele de pe canapea cu o saltea, aceasta funcționează bine ca un pat.
+Dacă înlocuiți pernele de pe canapea cu o saltea, este un pat bun.
 
 ### Detaliile de conectare pentru computer (iMac) sunt
 
@@ -92,11 +92,11 @@ O veche zicală germană se aplică tuturor telecomenzilor: „Este mai bine să
 
 ### baie
 
-Puteți folosi dușul în timp ce stați în picioare. Nu este o problemă dacă pământul se udă puțin. Dați apa doar 1/3 și atârnă covorașul de baie peste încălzitor pentru a se usuca.
+Puteți folosi dușul în timp ce stați în picioare. Nu contează dacă pământul se udă puțin. Dați apa doar 1/3 și atârnă covorașul de baie peste încălzitor pentru a se usuca.
 
 Alexa de pe perete poartă numele „Computer” și redă, de asemenea, muzica sau radioul preferat. De exemplu. "_Computer, joacă Deutschlandfunk Nova_"
 
-Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. O bucată din ea este a ta.
+Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. Unul dintre ei este al tău.
 
 ### Holul
 
