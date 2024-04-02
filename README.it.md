@@ -73,7 +73,7 @@ Passwort: thebox
 ### Nella stanza sono disponibili le seguenti cose
 
 1.  Tutti i mobili e i letti
-2.  Computer & Drucker
+2.  Computer e stampanti
 3.  Telecomandi per luci ed elettricità
 
 ### Controlli remoti
@@ -135,7 +135,7 @@ Ti stai chiedendo perché i bidoni della spazzatura hanno colori diversi? Se non
 
 ### Cicli
 
-### Ist mein Fahrrad sicher?
+### La mia bici è sicura?
 
 Lipsia è una città molto bike-friendly. Attraverso il grande parco cittadino che divide la città in due metà, si possono raggiungere molti luoghi e solitamente si attraversa la campagna.
 Secondo le statistiche, ogni anno a Lipsia viene rubata la maggior parte delle biciclette pro capite. (1.539 biciclette rubate ogni 100.000 abitanti) Da quando abito qui in Hardenbergstraße, da 15 anni, non mi è mai stata rubata una bicicletta e conosco solo un vicino la cui bicicletta è stata rubata dal suo cortile. Lo collego sempre direttamente alla ringhiera.
@@ -165,7 +165,7 @@ Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite d
 
 ## lavatrice
 
-Du kannst die Waschmaschine mit benutzen ohne vorher fragen zu müssen. Du kannst auch den Wäscheständer, das Waschpulver und den Weichspüler benutzen. Falls Du neue Bettwäsche haben möchtest, sprich mich einfach an.
+È possibile utilizzare la lavatrice senza dover chiedere prima. È possibile utilizzare anche lo stendino, il detersivo e l'ammorbidente. Se desideri una nuova biancheria da letto, parlami.
 
 ## Spazzola a mano e paletta
 
