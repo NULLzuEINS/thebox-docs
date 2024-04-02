@@ -45,12 +45,12 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 
 1.  Kari
 2.  Veekeetja
-3.  Nõud söögiriistad
+3.  Geschirr, Besteck
 4.  Külmik
 5.  Pitsaahi
 6.  Mineraalvesi
 7.  Riiulil mobiiltelefoni laadimisjaam
-8.  Waschmaschine
+8.  pesumasin
 
 ### KKK – Köök
 
@@ -58,7 +58,7 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
     > "Arvuti, töölaud ja"
 2.  Kus ma saan pesta? See toimib ainult vannitoas. Nõude pesemiseks on spetsiaalne anum.
 
-## Sinu tuba
+## Dein Zimmer
 
 Madratsid asetatakse üksteise peale ainult ladustamise eesmärgil. Saate neid vastavalt oma vajadustele levitada.
 Kui asendad diivanil olevad padjad madratsiga, siis sobib see hästi voodina.
@@ -78,7 +78,7 @@ Passwort: thebox
 
 ### Kaugjuhtimispuldid
 
-Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". Sa ei saa midagi murda. Vajutage mõnda nuppu ja vaadake, mis juhtub. Kui soovite siiski õppida, siis siin on teile sobiv lugemine:
+Für alle Fernbedienungen gilt ein altes deutsches Sprichwort: "Probieren geht über Studieren". Du kannst nichts kaputt machen. Drücke ein paar Knöpfe und schau was passiert. Falls Du dennoch studieren möchtest, habe hier die passenden Lektüre für Dich:
 
 | Illustratsioon                                            | Kirjeldus                                                                                                                                                                                                                                   |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -135,7 +135,7 @@ Kas teid huvitab, miks prügikastid on erinevat värvi? Kui te pole milleski kin
 
 ### Tsüklid
 
-### Ist mein Fahrrad sicher?
+### Kas mu jalgratas on ohutu?
 
 Leipzig on väga rattasõbralik linn. Läbi suure linnapargi, mis jagab linna kaheks pooleks, pääseb paljudesse kohtadesse ja sõidab tavaliselt läbi maakohtade.
 Kui uskuda statistikat, siis Leipzigis varastatakse igal aastal kõige rohkem jalgrattaid elaniku kohta. (1539 varastatud jalgratast 100 000 elaniku kohta) 15 aasta jooksul, mil olen siin Hardenbergstraßel elanud, pole mul kordagi jalgratast varastatud ja tean vaid üht naabrimeest, kelle jalgratas varastati tema tagahoovist. Ühendan selle alati otse reelinguga.
