@@ -61,7 +61,7 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 ## Phòng của bạn
 
 Các tấm nệm được đặt chồng lên nhau chỉ nhằm mục đích cất giữ. Bạn có thể phân phối chúng theo nhu cầu của bạn.
-Nếu bạn thay đệm trên ghế dài bằng nệm thì nó sẽ tạo thành một chiếc giường tốt.
+Nếu bạn thay thế những chiếc gối trên ghế dài bằng một tấm nệm thì nó sẽ hoạt động tốt như một chiếc giường.
 
 ### Chi tiết đăng nhập cho máy tính (iMac) là
 
@@ -94,9 +94,9 @@ Một câu nói cổ của người Đức áp dụng cho tất cả các loại
 
 Bạn có thể sử dụng vòi hoa sen trong khi đứng. Sẽ không có vấn đề gì nếu mặt đất bị ướt một chút. Chỉ vặn nước 1/3 và treo thảm tắm lên trên lò sưởi cho khô.
 
-Alexa trên tường có tên là "Máy tính" và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
+Alexa trên tường có tên là “Máy tính” và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
 
-Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc của mình ở bất cứ đâu. Có một chiếc kệ ở phía trước cửa phòng tắm. Một trong số đó là của bạn.
+Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc của mình ở bất cứ đâu. Có một chiếc kệ ở phía trước cửa phòng tắm. Một phần của nó là của bạn.
 
 ### hành lang
 
