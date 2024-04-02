@@ -169,7 +169,7 @@ Alexa на стене называется «Компьютер» и также 
 
 ## Ручная щетка и совок
 
-In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Damit bekommst du den kleinen Dreck weg.
+На кухне вы найдете ручную щетку и совок на стене. Это поможет вам избавиться от мелких загрязнений.
 
 ## Вытирать
 
