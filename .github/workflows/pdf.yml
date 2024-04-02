@@ -1,4 +1,4 @@
-name: Build pdf and publish it on GitHub releases
+name: Build and releases
 
 on:
   workflow_dispatch:
