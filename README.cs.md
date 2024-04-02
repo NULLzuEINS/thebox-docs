@@ -12,9 +12,9 @@ Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zd
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Konfigurace s jednou postelí s pohovkou                                                | Konfigurace se dvěma lůžky                                                    | Lavice                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Psací stůl se světlem                                                                  | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
+| Stůl se světlem                                                                        | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Psací stůl se světlem                                                                  | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
+| Stůl se světlem                                                                        | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
 
 ## Klíč
 
@@ -61,7 +61,7 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 ## Tvůj pokoj
 
 Matrace se pokládají na sebe pouze pro účely skladování. Můžete je distribuovat podle svých potřeb.
-Pokud polštáře na gauči nahradíte matrací, funguje dobře jako postel.
+Pokud vyměníte polštáře na gauči za matraci, je z toho dobrá postel.
 
 ### Přihlašovací údaje pro počítač (iMac) jsou
 
@@ -92,11 +92,11 @@ Pro všechna dálková ovládání platí staré německé přísloví: „Zkou�
 
 ### koupelna
 
-Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
+Sprchu můžete používat ve stoje. Nevadí, když se půda trochu namočí. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
 
 Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
 
-Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli. Před dveřmi do koupelny je polička. Jeden kousek je váš.
+Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli. Před dveřmi do koupelny je polička. Jeden z nich je váš.
 
 ### Chodba
 
@@ -153,7 +153,7 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných j�
 
 ## čištění
 
--   Můžete na něm nechat ložní prádlo.
+-   Můžete na něm nechat lůžkoviny.
 -   Také myji nádobí a
 -   Také vynáším odpadky.
 
