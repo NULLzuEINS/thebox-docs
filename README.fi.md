@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
+Tai skannaat tämän QR-koodin, se yhdistää sinut automaattisesti verkkoon:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -44,7 +44,7 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
 ### Seuraavat asiat ovat saatavilla keittiössä
 
 1.  Lauma
-2.  Kattila
+2.  Wasserkocher
 3.  Astiat ruokailuvälineet
 4.  Jääkaappi
 5.  Pizza uuni
@@ -109,7 +109,7 @@ Olet tervetullut jättämään kengät tänne. Minulla on myös pieni muistileht
 Kylpyhuoneessa ja keittiössä on Alexa-ääniavustaja. Voit kutsua heitä nimellä “Computer” ja saada heidät soittamaan esimerkiksi Deutschlandfunk Novaa. He ymmärtävät saksaa ja myös englantia. Jos et halua käyttää niitä,
 Voit myös irrottaa sen virtalähteestä.
 
-Huoneessasi ei ole ääniavustajia. Hyllyssä oleva kori sisältää vain reitittimen ja pienen tietokoneen.
+In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
 
 ## lämpötila ja kosteus
 
@@ -177,12 +177,12 @@ Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppausta varte
 
 ## Imuri
 
-Minulla on robottipölynimuri lattialle.
-Ennen kuin aloitat, poista kaikki lattialla oleva tieltä.
-Erityisesti johdot tai muut asiat, joihin robotti voi tukehtua.
-Aseta se sitten huoneeseesi ja paina kerran yläosassa olevaa painiketta.
-Jos mitään ei tapahdu, käytä päällä/pois-kytkintä sivulla ja sen jälkeen
-käynnistä se uudelleen yläosassa olevalla painikkeella.
+Für den Fußboden habe ich einen Staubsauger-Roboter.
+Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
+Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
+Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
+Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
+anschalten noch einmal auf den Knopf auf drt Oberseite.
 
 Kun se on valmis, laita se takaisin latausasemaan!
 
