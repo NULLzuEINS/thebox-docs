@@ -49,7 +49,7 @@ Comme je mange habituellement en bas avec ma famille, la cuisine est très spart
 4.  Réfrigérateur
 5.  Four à pizza
 6.  Eau minérale
-7.  Station de recharge pour téléphone portable sur l'étagère
+7.  Handy-Aufladestation im Regal
 8.  Machine à laver
 
 ### FAQ - Cuisine
