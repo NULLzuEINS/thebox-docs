@@ -12,7 +12,7 @@ Pe AirBnB-ul meu primești o imagine de ansamblu detaliată a tuturor camerelor 
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Configurație cu un pat cu canapea                                                      | Configurație cu două paturi                                                   | Birou                                                                                   |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Küche - Tee                                                                             |
+| Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Bucătărie - ceai                                                                        |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Bucătărie - ceai                                                                        |
 
@@ -80,11 +80,11 @@ Passwort: thebox
 
 O veche zicală germană se aplică tuturor telecomenzilor: „Este mai bine să încerci decât să studiezi”. Nu poți rupe nimic. Apăsați câteva butoane și vedeți ce se întâmplă. Dacă tot vrei să studiezi, iată lectura potrivită pentru tine:
 
-| Ilustrare                                                 | Descriere                                                                                                                                                                                                                                                                        |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Lumini de zâne<br>C: Lampă de birou<br>D:_fişier_<br>Maestrul: Schimbă totul în același timp                                                                                                                                                               |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Înainte de a-l putea folosi, asigurați-vă că întrerupătorul luminii de la intrare este setat pe „pornit”.**<br>Prima linie: luminozitate, pornit/oprit<br>Butoane colorate: puteți folosi acest lucru pentru a schimba culorile<br>Butoane gri: comutați între diferite efecte |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Aceasta este telecomanda pentru computer (iMac)._Pentru a utiliza computerul, apăsați butonul A de pe prima telecomandă. Activează sursa de alimentare pentru computer și cutia Bluetooth._                                                                                      |
+| Ilustrare                                                 | Descriere                                                                                                                                                                                                                                                                                  |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Lumini de zâne<br>C: Lampă de birou<br>D:_fişier_<br>Maestrul: Schimbă totul în același timp                                                                                                                                                                         |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Înainte de a-l putea folosi, asigurați-vă că întrerupătorul luminii de la intrare este setat pe „pornit”.**<br>Prima linie: luminozitate, pornit/oprit<br>Butoane colorate: puteți folosi acest lucru pentru a schimba culorile<br>Graue Tasten: Wechsle zwischen verschiedenen Effekten |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Aceasta este telecomanda pentru computer (iMac)._Pentru a utiliza computerul, apăsați butonul A de pe prima telecomandă. Activează sursa de alimentare pentru computer și cutia Bluetooth._                                                                                                |
 
 ### Întrebări frecvente - Camera dvs
 
@@ -144,7 +144,7 @@ Dacă credeți statisticile, atunci cele mai multe biciclete pe cap de locuitor 
 
 Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratuite a câte 15 minute fiecare pentru_Nextbikes_. Rețineți că costă mai mult dacă nu vă parcați bicicletele pe străzile principale (violet pe hartă). Trotinetele electrice pot fi parcate numai în anumite locuri de parcare. Există, de asemenea, un sistem de partajare a mașinii. Asta înseamnă cu noi[cityflitzer](https://cityflitzer.de/). Și, desigur, există autobuze și trenuri pe care le puteți plăti și prin aplicația Leipzig MOVE.
 
-# Checkout
+# Verifică
 
 ## Cheie
 
@@ -177,12 +177,12 @@ Puteți găsi agent de curățare verde într-o sticlă cu pulverizare în baie 
 
 ## Aspirator
 
-Für den Fußboden habe ich einen Staubsauger-Roboter.
-Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
-Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
-Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
-Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
-anschalten noch einmal auf den Knopf auf drt Oberseite.
+Am un robot aspirator pentru podea.
+Înainte de a putea începe, curățați totul de pe podea.
+În special cabluri sau alte lucruri cu care robotul s-ar putea sufoca.
+Apoi pune-l în camera ta și apasă butonul din partea de sus o dată.
+Dacă nu se întâmplă nimic, utilizați comutatorul de pornire/oprire din lateral și după
+porniți-l din nou folosind butonul din partea de sus.
 
 Când este terminat, vă rugăm să îl puneți înapoi în stația de încărcare!
 
