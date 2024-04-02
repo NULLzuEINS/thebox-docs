@@ -14,7 +14,7 @@ On my AirBnB you get a detailed overview of all the rooms and the facilities. He
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Desk with light                                                                        | Kitchen - stove                                                               | Küche - Tee                                                                             |
+| Desk with light                                                                        | Kitchen - stove                                                               | Kitchen - tea                                                                           |
 
 ## Key
 
@@ -44,7 +44,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 ### The following things are available in the kitchen
 
 1.  Herd
-2.  Kettle
+2.  Wasserkocher
 3.  Dishes cutlery
 4.  Refrigerator
 5.  Pizza oven
@@ -82,7 +82,7 @@ An old German saying applies to all remote controls: “Trying is better than st
 
 | Illustration                                              | Description                                                                                                                                                                                                                         |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Desk lamp<br>D:_leer_<br>Master: Switch everything at the same time                                                                                                                        |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Desk lamp<br>D:_file_<br>Master: Switch everything at the same time                                                                                                                        |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Before you can use it, make sure the light switch at the entrance is set to "on".**<br>First line: brightness, on/off<br>Colored buttons: You can use this to change the colors<br>Gray buttons: Switch between different effects |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | This is the remote control for the computer (iMac)._To use the computer, press the A button on the first remote control. It activates the power supply for the computer and the Bluetooth box._                                     |
 
@@ -142,7 +142,7 @@ If you believe the statistics, then the most bicycles per capita are stolen in L
 
 ### What alternatives are there?
 
-With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for the_Nextbikes_. Beachtet, dass es mehr kostet, wenn man die Räder nicht an den großen Straßen (Auf der Karte Lila) abstellt. Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden. Es gibt auch ein Free-Float-Car-Shairing-System. Das heißt bei uns [cityflitzer](https://cityflitzer.de/). And of course there are buses and trains that you could also pay for via the Leipzig MOVE app.
+With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 15 minutes each for the_Nextbikes_. Note that it costs more if you don't park your bikes on the main streets (purple on the map). The e-scooters may only be parked in certain parking spaces. There is also a free-float car-sharing system. That means with us[cityflitzer](https://cityflitzer.de/). And of course there are buses and trains that you could also pay for via the Leipzig MOVE app.
 
 # Checkout
 
@@ -161,7 +161,7 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 
 # Longer stay
 
-?> Manche meiner Gäste bleiben einen Monat, oder länger. Bist du auch einer von ihnen, dann ist dieser Abschnitt hier für Dich!
+?> Some of my guests stay for a month or longer. If you are one of them, then this section is for you!
 
 ## washing machine
 
@@ -194,7 +194,7 @@ The e-scooters may only be parked in certain parking spaces.
 
 I have stored travel guides in the AirBnB app. There you will find my recommendations for sights, bars and pubs, shopping opportunities and restaurants.
 
-# Fragen?
+# Questions?
 
 If you have any questions or need support, I will be happy to help you.
 If you're in a hurry, it's best to do so via telephone <a href="tel:+491707353067">+49 170 73 53 067</a>.
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Made with ❤️ by   [docsify](https://docsify.js.org/)_
+_Made with ❤️ by [docsify](https://docsify.js.org/)_
