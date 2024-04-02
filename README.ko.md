@@ -61,7 +61,7 @@ Passwort: landungsbruecken
 ## 너의 방
 
 매트리스는 보관 목적으로만 서로 겹쳐서 배치됩니다. 필요에 따라 배포할 수 있습니다.
-소파의 베개를 매트리스로 교체하면 침대로도 좋습니다.
+소파 쿠션을 매트리스로 교체하면 좋은 침대가 됩니다.
 
 ### 컴퓨터(iMac)의 로그인 세부정보는 다음과 같습니다.
 
@@ -78,7 +78,7 @@ Passwort: thebox
 
 ### 리모콘
 
-독일의 속담은 모든 리모콘에 적용됩니다. "노력하는 것이 공부하는 것보다 낫다." 당신은 아무것도 깨뜨릴 수 없습니다. 몇 개의 버튼을 누르고 무슨 일이 일어나는지 확인하십시오. 여전히 공부하고 싶다면 다음과 같은 책을 읽어보세요.
+독일의 속담은 모든 리모콘에 적용됩니다. "노력하는 것이 공부하는 것보다 낫다." 당신은 아무것도 깨뜨릴 수 없습니다. 몇 개의 버튼을 누르고 무슨 일이 일어나는지 확인하십시오. 아직도 공부하고 싶다면 다음과 같은 책을 읽어보세요.
 
 | 삽화                                                        | 설명                                                                                                                           |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -92,11 +92,11 @@ Passwort: thebox
 
 ### 화장실
 
-서서 샤워를 할 수 있습니다. 땅이 조금 젖어도 문제가 되지 않습니다. 물의 양을 1/3만 맞추고 욕실매트를 히터 위에 걸어 건조시켜주세요.
+서서 샤워를 할 수 있습니다. 땅이 조금 젖어도 상관 없습니다. 물의 양을 1/3만 맞추고 욕실매트를 히터 위에 걸어 건조시켜주세요.
 
 벽에 걸린 Alexa는 "컴퓨터"라는 이름으로 불리며 좋아하는 음악이나 라디오도 재생합니다. 예: "_컴퓨터, Deutschlandfunk Nova 플레이_"
 
-모든 후크에 수건을 걸고 물건을 어디에나 놓을 수 있습니다. 욕실 문 앞에 선반이 있습니다. 그 중 한 조각은 당신의 것입니다.
+모든 후크에 수건을 걸고 물건을 어디에나 놓을 수 있습니다. 욕실 문 앞에 선반이 있습니다. 그 중 하나는 당신 것입니다.
 
 ### 현관
 
@@ -111,7 +111,7 @@ Passwort: thebox
 
 객실에는 음성 도우미가 없습니다. 선반 위의 바구니에는 라우터와 소형 컴퓨터만 들어 있습니다.
 
-## 온도와 습도
+## Temperatur und Feuchtigkeit
 
 온도와 습도는 센서를 통해 자동으로 측정됩니다. 곰팡이 발생을 방지하기 위해 사용합니다. 그들은 작고 흰색이며 일반적으로 문틀 위에 놓여 있습니다. 복도에 있는 거울을 통해 일부 측정 데이터를 읽을 수 있습니다.
 
@@ -137,8 +137,8 @@ Passwort: thebox
 
 ### 내 자전거는 안전한가요?
 
-라이프치히는 자전거 친화적인 도시입니다. 도시를 두 부분으로 나누는 대규모 도시 공원을 통해 여러 곳으로 이동할 수 있으며 일반적으로 시골 지역을 운전할 수 있습니다.
-통계에 따르면 매년 라이프치히에서 1인당 가장 많은 자전거가 도난당합니다. (인구 100,000명당 자전거 도난 1,539대) 이곳 Hardenbergstraße에 거주한 지 15년 동안 저는 자전거를 도난당한 적이 없으며 뒷마당에서 자전거를 도난당한 이웃이 한 명밖에 없습니다. 나는 항상 그것을 난간에 직접 연결합니다.
+Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
+Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
 
 ### 어떤 대안이 있나요?
 
