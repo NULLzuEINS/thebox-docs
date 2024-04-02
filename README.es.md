@@ -61,9 +61,9 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 ## Tu cuarto
 
 Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades.
-Si reemplazas los cojines del sofá por un colchón, será una buena cama.
+Si reemplazas las almohadas del sofá por un colchón, funcionará bien como cama.
 
-### Los detalles de inicio de sesión para la computadora (iMac) son
+### Die Zugangsdaten für den Computer (iMac) sind
 
 ```txt
 Nutzer:   thebox
@@ -92,7 +92,7 @@ Un viejo dicho alemán se aplica a todos los mandos a distancia: "Intentar es me
 
 ### baño
 
-Puedes utilizar la ducha estando de pie. No importa si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
+Puedes utilizar la ducha estando de pie. No hay problema si el suelo se moja un poco. Abra solo 1/3 del agua y cuelgue la alfombra de baño sobre el calentador para que se seque.
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
@@ -148,7 +148,7 @@ Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes g
 
 ## Llave
 
--   Je nach dem welcher Wochentag ist, können wir uns persönlich verabschieden, oder du legst einfach die Schlüssel auf den Schreibtisch und ziehst die Tür hinter Dir zu.
+-   Dependiendo del día de la semana que sea, podemos despedirnos en persona, o simplemente puedes dejar las llaves en el escritorio y cerrar la puerta detrás de ti.
 -   La última hora de salida es a las 19:00 horas del día de salida.
 
 ## limpieza
@@ -159,7 +159,7 @@ Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes g
 
 > Versión corta: Deja la llave ahí, cierra la puerta y listo. 😀
 
-# Estancia más larga
+# estancia más larga
 
 ?> Algunos de mis invitados se quedan por un mes o más. Si eres uno de ellos, ¡esta sección es para ti!
 
