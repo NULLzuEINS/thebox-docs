@@ -12,7 +12,7 @@
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Једнокреветна конфигурација са каучем                                                  | Двокреветна конфигурација                                                     | Радни сто                                                                               |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Schreibtisch mit Licht                                                                 | Кухиња - шпорет                                                               | Кухиња - чај                                                                            |
+| Радни сто са светлом                                                                   | Кухиња - шпорет                                                               | Кухиња - чај                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Радни сто са светлом                                                                   | Кухиња - шпорет                                                               | Кухиња - чај                                                                            |
 
@@ -177,12 +177,12 @@ Passwort: thebox
 
 ## УСИСИВАЧ
 
-Für den Fußboden habe ich einen Staubsauger-Roboter.
-Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
-Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
-Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
-Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
-anschalten noch einmal auf den Knopf auf drt Oberseite.
+Имам робот усисивач за под.
+Пре него што почнете, очистите све што је на поду.
+Нарочито каблови или друге ствари којима би се робот могао угушити.
+Затим га ставите у своју собу и једном притисните дугме на врху.
+Ако се ништа не догоди, користите прекидач за укључивање/искључивање са стране и после
+поново га укључите помоћу дугмета на врху.
 
 Када се заврши, вратите га у станицу за пуњење!
 
