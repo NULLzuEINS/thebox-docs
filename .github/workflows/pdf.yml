@@ -1,9 +1,7 @@
 name: Build pdf and publish it on GitHub releases
 
 on:
-  push:
-    tags:
-      - '*'
+  workflow_dispatch:
 
 permissions:
   contents: write
