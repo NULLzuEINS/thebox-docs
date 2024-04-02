@@ -49,7 +49,7 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 4.  Kylskåp
 5.  Pizzaugn
 6.  Mineral vatten
-7.  Handy-Aufladestation im Regal
+7.  Laddstation för mobiltelefon på hyllan
 8.  tvättmaskin
 
 ### FAQ - Kök
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Gjord med ❤️ av [dokumentera](https://docsify.js.org/)_
+_Made with ❤️ by  [dokumentera](https://docsify.js.org/)_
