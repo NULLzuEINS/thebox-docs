@@ -128,3 +128,11 @@ jobs:
           -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
           "https://api.github.com/repos/${{ github.repository }}/actions/workflows/notification.yml/dispatches" \
           -d '{"ref":"main"}'
+      - name: Trigger deploy workflow
+        run: |
+          curl \
+          -X POST \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          "https://api.github.com/repos/${{ github.repository }}/actions/workflows/deploy.yml/dispatches" \
+          -d '{"ref":"main"}'
