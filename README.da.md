@@ -189,8 +189,8 @@ Når det er færdigt, skal du sætte det tilbage i ladestationen!
 # Tips
 
 Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 15 minutter hver for_Nextbikes_.
-Bemærk, at det koster mere, hvis du ikke parkerer Raf på hovedgaderne (lilla på kortet).
-El-scooterne må kun parkeres på visse parkeringspladser.
+Beachte, dass es mehr kostet, wenn man das Raf nicht an den großen Straßen (Auf der Karte Lila) abstellt.
+Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
 Jeg har gemt rejseguider i AirBnB-appen. Der finder du mine anbefalinger til seværdigheder, barer og pubber, indkøbsmuligheder og restauranter.
 
