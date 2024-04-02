@@ -56,7 +56,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 1.  Fungerer ikke komfyren? Vennligst si
     > "Datamaskin, arbeidsbenk og"
-2.  Hvor kan jeg vaske opp? Dette fungerer kun på badet. Det er en spesiell beholder for oppvask.
+2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
 
 ## Rommet ditt
 
