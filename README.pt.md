@@ -2,7 +2,8 @@
 
 Olá e bem-vindo à “Caixa”! Quando viajo também gosto de ficar em AirBnB's e às vezes gostaria de ter um papel com todas as informações necessárias sobre hospedagem, check-in e check-out e essa é minha tentativa de melhorar.
 
-> [!Um aviso]Terei o documento traduzido automaticamente para o seu idioma. Espero que seja um pouco compreensível. Se não, sinta-se à vontade para me escrever uma mensagem. Depois tento melhorar.
+> [!Um aviso]
+> Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
 
 ## Fotos
 
@@ -61,7 +62,7 @@ Como costumo comer lá embaixo com minha família, a cozinha é muito espartana.
 ## Seu quarto
 
 Os colchões são colocados uns sobre os outros apenas para fins de armazenamento. Você pode distribuí-los de acordo com suas necessidades.
-Se você substituir as almofadas do sofá por um colchão, fica uma boa cama.
+Se você substituir as almofadas do sofá por um colchão, ele funciona bem como cama.
 
 ### Os detalhes de login do computador (iMac) são
 
@@ -92,7 +93,7 @@ Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é mel
 
 ### banheiro
 
-Você pode usar o chuveiro em pé. Não importa se o chão fica um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
+Você pode usar o chuveiro em pé. Não há problema se o solo ficar um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
 
 A Alexa na parede atende pelo nome de “Computador” e também toca sua música ou rádio favorita. Por exemplo. "_Computador, jogue Deutschlandfunk Nova_"
 
@@ -149,7 +150,7 @@ Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viag
 ## Chave
 
 -   Dependendo do dia da semana, podemos nos despedir pessoalmente ou você pode simplesmente colocar as chaves na mesa e fechar a porta atrás de você.
--   O último horário para check-out é às 19h do dia da partida.
+-   O último horário para checkout é às 19h do dia da partida.
 
 ## limpeza
 
