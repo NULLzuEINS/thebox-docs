@@ -37,7 +37,7 @@ Eller du scanner denne QR-kode, den vil automatisk forbinde dig til netværket:
 
 ## Køkken
 
-Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
+Da jeg plejer at spise nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -54,7 +54,7 @@ Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. 
 
 ### FAQ - Køkken
 
-1.  Virker komfuret ikke? Vær 'sød at sige
+1.  Herd funktioniert nicht? Bitte sage
     > "Computer, arbejdsbord og"
 2.  Hvor kan jeg vaske op? Dette virker kun på badeværelset. Der er en speciel beholder til opvask.
 
@@ -96,7 +96,7 @@ Du kan bruge bruseren, mens du står. Det er ikke noget problem, hvis jorden bli
 
 Alexaen på væggen går under navnet "Computer" og spiller også din yndlingsmusik eller radio. F.eks. "_Computer, spil Deutschlandfunk Nova_"
 
-Du kan hænge håndklæder på alle kroge og sætte dine ting hvor som helst. Der er en hylde foran badeværelsesdøren. Et stykke af det er dit.
+Du kan hænge håndklæder på alle kroge og sætte dine ting hvor som helst. Der er en hylde foran badeværelsesdøren. En af dem er din.
 
 ### Gang
 
@@ -113,7 +113,7 @@ Der er ingen stemmeassistenter på dit værelse. Kurven på hylden indeholder ku
 
 ## temperatur og fugtighed
 
-Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre mugdannelse. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
+Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre dannelse af skimmelsvamp. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
 
 ?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Især på badeværelset. Sørg også for, at varmen er slukket. Tak 🙏
 
@@ -157,7 +157,7 @@ Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 1
 -   Jeg vasker også op og
 -   Jeg tager også skraldet ud.
 
-> Kort version: Lad nøglen blive der, luk døren, det er det. 😀
+> Kurzfassung: Schlüssel da lassen, Tür zuziehen, das wars. 😀
 
 # Længere ophold
 
