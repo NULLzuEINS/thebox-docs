@@ -2,6 +2,19 @@ name: Build pdf and publish it on GitHub releases
 
 on:
   workflow_dispatch:
+    inputs:
+        language:
+            description: 'Language of the documents'
+            required: true
+            default: 'en'
+            type: choice
+            options:
+                - de
+                - en
+                - fr
+                - pl
+                - es
+                - da
 
 permissions:
   contents: write
