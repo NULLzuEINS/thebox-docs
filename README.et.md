@@ -46,11 +46,11 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 1.  Kari
 2.  Veekeetja
 3.  Nõud söögiriistad
-4.  Külmkapp
+4.  Külmik
 5.  Pitsaahi
 6.  Mineraalvesi
 7.  Riiulil mobiiltelefoni laadimisjaam
-8.  pesumasin
+8.  Waschmaschine
 
 ### KKK – Köök
 
@@ -96,7 +96,7 @@ Dušši saate kasutada seistes. Pole probleemi, kui maapind veidi märjaks saab.
 
 Seinal olev Alexa kannab nime "Computer" ja mängib ka teie lemmikmuusikat või raadiot. Nt "_Arvuti, mängi Deutschlandfunk Nova_"
 
-Saate riputada rätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks neist on sinu oma.
+Saate riputada rätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks tükk sellest on sinu.
 
 ### Esik
 
@@ -106,7 +106,7 @@ Olete oodatud oma kingad siia jätma. Mul on riiulil ka väike märkmik juhuks, 
 
 ## Tark kodu
 
-Vannitoas ja köögis on Alexa hääleabilised. Saate neid adresseerida nimega “Arvuti” ja lasta neil näiteks Deutschlandfunk Novat mängida. Nad saavad aru saksa ja ka inglise keelest. Kui te ei soovi neid kasutada,
+Vannitoas ja köögis on Alexa hääleabilised. Saate neid adresseerida nimega “Computer” ja lasta neil näiteks Deutschlandfunk Novat mängida. Nad saavad aru saksa ja ka inglise keelest. Kui te ei soovi neid kasutada,
 Samuti saate selle lihtsalt vooluvõrgust lahti ühendada.
 
 Teie toas pole hääleabilisi. Riiulil olevas korvis on ainult ruuter ja väike arvuti.
@@ -135,7 +135,7 @@ Kas teid huvitab, miks prügikastid on erinevat värvi? Kui te pole milleski kin
 
 ### Tsüklid
 
-### Kas mu jalgratas on ohutu?
+### Ist mein Fahrrad sicher?
 
 Leipzig on väga rattasõbralik linn. Läbi suure linnapargi, mis jagab linna kaheks pooleks, pääseb paljudesse kohtadesse ja sõidab tavaliselt läbi maakohtade.
 Kui uskuda statistikat, siis Leipzigis varastatakse igal aastal kõige rohkem jalgrattaid elaniku kohta. (1539 varastatud jalgratast 100 000 elaniku kohta) 15 aasta jooksul, mil olen siin Hardenbergstraßel elanud, pole mul kordagi jalgratast varastatud ja tean vaid üht naabrimeest, kelle jalgratas varastati tema tagahoovist. Ühendan selle alati otse reelinguga.
