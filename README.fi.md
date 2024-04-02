@@ -44,7 +44,7 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
 ### Seuraavat asiat ovat saatavilla keittiössä
 
 1.  Lauma
-2.  Wasserkocher
+2.  Kattila
 3.  Astiat ruokailuvälineet
 4.  Jääkaappi
 5.  Pizza uuni
@@ -74,7 +74,7 @@ Passwort: thebox
 
 1.  Kaikki kalusteet ja sängyt
 2.  Tietokoneet ja tulostimet
-3.  Kaukosäätimet valoille ja sähkölle
+3.  Fernbedienungen für Licht und Strom
 
 ### Kaukosäätimet
 
@@ -109,7 +109,7 @@ Olet tervetullut jättämään kengät tänne. Minulla on myös pieni muistileht
 Kylpyhuoneessa ja keittiössä on Alexa-ääniavustaja. Voit kutsua heitä nimellä “Computer” ja saada heidät soittamaan esimerkiksi Deutschlandfunk Novaa. He ymmärtävät saksaa ja myös englantia. Jos et halua käyttää niitä,
 Voit myös irrottaa sen virtalähteestä.
 
-In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal befindet sich lediglich der Router und ein kleiner Computer.
+Huoneessasi ei ole ääniavustajia. Hyllyssä oleva kori sisältää vain reitittimen ja pienen tietokoneen.
 
 ## lämpötila ja kosteus
 
@@ -123,7 +123,7 @@ Pihallamme voit yhdistää pyöräsi ja viedä roskat.
 
 ![Innenhof](_media/thebox-map-surroundings.png)
 
-### Miten ovi aukeaa?
+### Wie geht das Tor auf?
 
 Joko käytät etuoven avainta tai kurkotat portin läpi ja tunnet oven avaavan painikkeen. Kun pidät painiketta painettuna, voit avata oven.
 
@@ -177,16 +177,16 @@ Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppausta varte
 
 ## Imuri
 
-Für den Fußboden habe ich einen Staubsauger-Roboter.
-Bevor es losgehen kann, räume alles was auf dem Boden liegt aus dem Weg.
-Vor allem Schnüre, oder andere Dinge an denen der Roboter sich verschlücken könnte.
-Stell ihn dann in dein Zimmer und drücke den Knopf auf er Oberseite ein mal.
-Falls nichts passiert, benutze den Ein-/Ausschalter an der Seite und nach dem
-anschalten noch einmal auf den Knopf auf drt Oberseite.
+Minulla on robottipölynimuri lattialle.
+Ennen kuin aloitat, poista kaikki lattialla oleva tieltä.
+Erityisesti johdot tai muut asiat, joihin robotti voi tukehtua.
+Aseta se sitten huoneeseesi ja paina kerran yläosassa olevaa painiketta.
+Jos mitään ei tapahdu, käytä päällä/pois-kytkintä sivulla ja sen jälkeen
+käynnistä se uudelleen yläosassa olevalla painikkeella.
 
 Kun se on valmis, laita se takaisin latausasemaan!
 
-# Vinkkejä
+# Tipps
 
 Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 minuutin kyytiä_Seuraavat pyörät_.
 Huomaa, että se maksaa enemmän, jos et pysäköi Rafia pääkaduille (violetti kartalla).
