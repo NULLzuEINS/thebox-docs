@@ -60,10 +60,10 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 ## Tu cuarto
 
-Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades.
+Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. 
 Si reemplazas las almohadas del sofá por un colchón, funcionará bien como cama.
 
-### Die Zugangsdaten für den Computer (iMac) sind
+### Los detalles de inicio de sesión para la computadora (iMac) son
 
 ```txt
 Nutzer:   thebox
@@ -88,7 +88,7 @@ Un viejo dicho alemán se aplica a todos los mandos a distancia: "Intentar es me
 
 ### Preguntas frecuentes - Tu habitación
 
-1.  La luz no se enciende o parpadea violentamente. Utilice los pequeños mandos a distancia con botones de colores.
+1.  La luz no se enciende o parpadea violentamente. Utilice los pequeños controles remotos con botones de colores.
 
 ### baño
 
@@ -106,7 +106,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 ## Casa inteligente
 
-Hay asistentes de voz Alexa en el baño y la cocina. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Entienden alemán y también inglés. Si no quieres usarlos,
+Hay asistentes de voz Alexa en el baño y la cocina. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Entienden alemán y también inglés. Si no quieres usarlos, 
 También puedes simplemente desconectarlo de la corriente.
 
 No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene el enrutador y una pequeña computadora.
@@ -117,7 +117,7 @@ La temperatura y la humedad se miden automáticamente a través de los sensores.
 
 ?> Asegúrese de ventilar regularmente (al menos una vez al día). Especialmente en el baño. Asegúrate también de que la calefacción esté apagada. Gracias 🙏
 
-## El patio
+## Der Hof
 
 En nuestro patio podréis conectar vuestras bicicletas y retirar la basura.
 
@@ -148,7 +148,7 @@ Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes g
 
 ## Llave
 
--   Dependiendo del día de la semana que sea, podemos despedirnos en persona, o simplemente puedes dejar las llaves en el escritorio y cerrar la puerta detrás de ti.
+-   Dependiendo del día de la semana, podemos despedirnos en persona, o simplemente puedes dejar las llaves en el escritorio y cerrar la puerta detrás de ti.
 -   La última hora de salida es a las 19:00 horas del día de salida.
 
 ## limpieza
