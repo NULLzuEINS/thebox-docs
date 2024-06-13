@@ -49,7 +49,7 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 4.  Lednička
 5.  Pizza pec
 6.  Minerální voda
-7.  Handy-Aufladestation im Regal
+7.  Nabíjecí stanice pro mobilní telefony na polici
 8.  pračka
 
 ### FAQ - Kuchyně
@@ -60,7 +60,7 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 
 ## Tvůj pokoj
 
-Matrace se pokládají na sebe pouze pro účely skladování. Můžete je distribuovat podle svých potřeb.
+Matrace se pokládají na sebe pouze pro účely skladování. Můžete je distribuovat podle svých potřeb. 
 Pokud polštáře na gauči nahradíte matrací, funguje dobře jako postel.
 
 ### Přihlašovací údaje pro počítač (iMac) jsou
@@ -94,7 +94,7 @@ Pro všechna dálková ovládání platí staré německé přísloví: „Zkou�
 
 Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
 
-Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např."_Počítači, hraj Deutschlandfunk Nova_"
+Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. např._Počítači, hraj Deutschlandfunk Nova_"
 
 Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli. Před dveřmi do koupelny je polička. Jeden z nich je váš.
 
@@ -106,7 +106,7 @@ Zde si můžete nechat boty. Na poličce mám také malý poznámkový blok, kdy
 
 ## Chytrý domov
 
-V koupelně a kuchyni jsou hlasoví asistenti Alexa. Můžete je oslovovat „Computer“ a nechat je hrát například Deutschlandfunk Nova. Rozumí německy a také anglicky. Pokud je nechcete používat,
+V koupelně a kuchyni jsou hlasoví asistenti Alexa. Můžete je oslovovat „Computer“ a nechat je hrát například Deutschlandfunk Nova. Rozumí německy a také anglicky. Pokud je nechcete používat, 
 Můžete jej také jednoduše odpojit od napájení.
 
 Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje pouze router a malý počítač.
@@ -142,7 +142,7 @@ Pokud věříte statistikám, tak v Lipsku se ročně ukradne nejvíce kol na hl
 
 ### Jaké alternativy existují?
 
-s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmě existují autobusy a vlaky, za které můžete platit i přes aplikaci Leipzig MOVE.
+s[Leipzig MOVE App](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmě existují autobusy a vlaky, za které můžete platit i přes aplikaci Leipzig MOVE.
 
 # Překontrolovat
 
@@ -161,7 +161,7 @@ s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných j�
 
 # Delší pobyt
 
-?> Manche meiner Gäste bleiben einen Monat, oder länger. Bist du auch einer von ihnen, dann ist dieser Abschnitt hier für Dich!
+?> Někteří z mých hostů zůstávají měsíc nebo déle. Pokud jste jedním z nich, pak je tato sekce určena právě vám!
 
 ## pračka
 
