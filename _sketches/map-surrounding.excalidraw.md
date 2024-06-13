@@ -1205,9 +1205,9 @@ to open ^X0v3euCp
 		},
 		{
 			"type": "rectangle",
-			"version": 277,
-			"versionNonce": 1838058198,
-			"isDeleted": false,
+			"version": 278,
+			"versionNonce": 1366438282,
+			"isDeleted": true,
 			"id": "vhIIoY0tRec7CWn0pFjKH",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1226,7 +1226,7 @@ to open ^X0v3euCp
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703165504797,
+			"updated": 1717659648162,
 			"link": null,
 			"locked": false
 		}
@@ -1246,10 +1246,10 @@ to open ^X0v3euCp
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 942.8571428571427,
-		"scrollY": 1285.80911799644,
+		"scrollX": 1390.498046875,
+		"scrollY": 1148.47513362144,
 		"zoom": {
-			"value": 0.35000000000000003
+			"value": 0.4
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,

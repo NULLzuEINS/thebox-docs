@@ -30,6 +30,7 @@
 [🇸🇪](README.sv.md "Swedish") ‧
 [🇷🇸](README.sr.md "Serbian") ‧
 [🇹🇷](README.tr.md "Turkish") ‧
+[🇹🇼](README.zh-CN.md "Taiwan") ‧
 [🇺🇦](README.uk.md "Ukrainian") ‧
 [🇵🇰](README.ur.md "Urdu") ‧
 [🇻🇳](README.vi.md "Vietnamese")

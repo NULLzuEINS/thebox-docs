@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1e7e6d58ca32f3a5",
+        "id": "1d630cf6cece67f9",
         "type": "tabs",
         "children": [
           {
-            "id": "50d3c3a911912d7d",
+            "id": "2c4a3e7b3e56aad6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "_sketches/map-surrounding-key.excalidraw.md"
+                "file": "_coverpage.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sketches/map-surrounding-key.excalidraw.md",
+                "file": "_coverpage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sketches/map-surrounding-key.excalidraw.md",
+                "file": "_coverpage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sketches/map-surrounding-key.excalidraw.md"
+                "file": "_coverpage.md"
               }
             }
           }
@@ -145,14 +147,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "50d3c3a911912d7d",
+  "active": "2c4a3e7b3e56aad6",
   "lastOpenFiles": [
-    "_sketches/map-surrounding-key.excalidraw.md",
-    "_sketches/map-surrounding-key.excalidraw.png",
-    "README.zh-CN.md",
-    "_sketches/map-surrounding.excalidraw.md",
-    "_sketches/map-rooms.excalidraw.md",
     "README.md",
+    "_sketches/map-surrounding-key.excalidraw.png",
+    "_sketches/map-rooms-simple.excalidraw.png",
+    "_sketches/map-rooms-details.excalidraw.png",
+    "_sketches/map-rooms-details.excalidraw.md",
+    "_sketches/map-rooms-simple.excalidraw.md",
+    "_sketches/map-rooms.excalidraw.md",
+    "_sketches/map-rooms.excalidraw.png",
+    "_sketches/map-surrounding.excalidraw.md",
+    "_sketches/map-surrounding.excalidraw.png",
+    "_sketches/map-surrounding-key.excalidraw.md",
+    "README.zh-CN.md",
     "README.en.md",
     "README.vi.md",
     "_media/remotes/remote-imac.png",
@@ -163,16 +171,12 @@
     "_media/Pasted image 20231221153512.png",
     "Pasted image 20231221153512.png",
     "README.cs.md",
-    "_media/thebox-map-surroundings 1.png",
-    "_media/thebox-map-single.png",
     "README.tr.md",
     "README.sv.md",
     "README.sr.md",
     "README.pt.md",
     "README.no.md",
     "README.ko.md",
-    "_media/remotes/remote-lights.png",
-    "_media/remotes/remote-ceiling.png",
     "Excalidraw",
     "_media/remotes",
     "README.pl.md",
