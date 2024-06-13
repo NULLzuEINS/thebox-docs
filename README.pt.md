@@ -2,8 +2,7 @@
 
 Olá e bem-vindo à “Caixa”! Quando viajo também gosto de ficar em AirBnB's e às vezes gostaria de ter um papel com todas as informações necessárias sobre hospedagem, check-in e check-out e essa é minha tentativa de melhorar.
 
-> [!Um aviso]
-> Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
+> [!Um aviso]Terei o documento traduzido automaticamente para o seu idioma. Espero que seja um pouco compreensível. Se não, sinta-se à vontade para me escrever uma mensagem. Depois tento melhorar.
 
 ## Fotos
 
@@ -61,7 +60,7 @@ Como costumo comer lá embaixo com minha família, a cozinha é muito espartana.
 
 ## Seu quarto
 
-Os colchões são colocados uns sobre os outros apenas para fins de armazenamento. Você pode distribuí-los de acordo com suas necessidades.
+Os colchões são colocados uns sobre os outros apenas para fins de armazenamento. Você pode distribuí-los de acordo com suas necessidades. 
 Se você substituir as almofadas do sofá por um colchão, ele funciona bem como cama.
 
 ### Os detalhes de login do computador (iMac) são
@@ -107,7 +106,7 @@ Você está convidado a deixar seus sapatos aqui. Também tenho um pequeno bloco
 
 ## Lar inteligente
 
-Existem assistentes de voz Alexa no banheiro e na cozinha. Você pode chamá-los pelo nome “Computador” e fazer com que toquem Deutschlandfunk Nova, por exemplo. Eles entendem alemão e também inglês. Se você não quiser usá-los,
+Existem assistentes de voz Alexa no banheiro e na cozinha. Você pode chamá-los pelo nome “Computador” e fazer com que toquem Deutschlandfunk Nova, por exemplo. Eles entendem alemão e também inglês. Se você não quiser usá-los, 
 Você também pode simplesmente desconectá-lo da energia.
 
 Não há assistentes de voz em sua sala. A cesta na prateleira contém apenas o roteador e um pequeno computador.
@@ -143,14 +142,14 @@ Se você acredita nas estatísticas, então o maior número de bicicletas per ca
 
 ### Que alternativas existem?
 
-Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
+Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viagens gratuitas de 15 minutos cada para o_Próximas bicicletas_. Observe que custa mais caro se você não estacionar suas bicicletas nas ruas principais (roxo no mapa). As e-scooters só podem ser estacionadas em determinadas vagas de estacionamento. Há também um sistema de compartilhamento de carros free-float. Isso significa que conosco[cityflitzer](https://cityflitzer.de/). E claro, há ônibus e trens que você também pode pagar através do aplicativo Leipzig MOVE.
 
 # Confira
 
 ## Chave
 
 -   Dependendo do dia da semana, podemos nos despedir pessoalmente ou você pode simplesmente colocar as chaves na mesa e fechar a porta atrás de você.
--   O último horário para checkout é às 19h do dia da partida.
+-   O último horário para check-out é às 19h do dia da partida.
 
 ## limpeza
 
