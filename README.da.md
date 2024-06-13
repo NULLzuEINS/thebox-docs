@@ -2,7 +2,7 @@
 
 Hej og velkommen til "Boksen"! Når jeg rejser, kan jeg også godt lide at bo i AirBnB's, og nogle gange ville jeg ønske, at jeg havde et stykke papir med alle de nødvendige oplysninger om overnatning, ind- og udtjekning, og dette er mit forsøg på at gøre det bedre.
 
-> [!En meddelelse]Jeg vil få dokumentet automatisk oversat til dit sprog. Jeg håber det er lidt forståeligt. Hvis ikke, er du velkommen til at skrive en besked til mig. Så prøver jeg at forbedre det.
+> [!En meddelelse]Jeg får dokumentet automatisk oversat til dit sprog. Jeg håber det er lidt forståeligt. Hvis ikke, er du velkommen til at skrive en besked til mig. Så prøver jeg at forbedre det.
 
 ## Billeder
 
@@ -37,7 +37,7 @@ Eller du scanner denne QR-kode, den vil automatisk forbinde dig til netværket:
 
 ## Køkken
 
-Da jeg plejer at spise nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
+Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -55,12 +55,12 @@ Da jeg plejer at spise nedenunder med min familie, er køkkenet meget spartansk.
 ### FAQ - Køkken
 
 1.  Virker komfuret ikke? Vær 'sød at sige
-    > "Computer, arbejdsbord og"
+    > "Computer, Workbench og"
 2.  Hvor kan jeg vaske op? Dette virker kun på badeværelset. Der er en speciel beholder til opvask.
 
 ## Dit værelse
 
-Madrasserne placeres kun oven på hinanden til opbevaringsformål. Du kan fordele dem efter dine behov.
+Madrasserne placeres kun oven på hinanden til opbevaringsformål. Du kan fordele dem efter dine behov. 
 Udskifter du puderne på sofaen med en madras, fungerer den godt som seng.
 
 ### Loginoplysningerne til computeren (iMac) er
@@ -106,7 +106,7 @@ Du er velkommen til at efterlade dine sko her. Jeg har også en lille notesblok 
 
 ## Smart hjem
 
-Der er Alexa stemmeassistenter på badeværelset og i køkkenet. Du kan adressere dem med navnet "Computer" og få dem til at spille Deutschlandfunk Nova, for eksempel. De forstår tysk og også engelsk. Hvis du ikke vil bruge dem,
+Der er Alexa stemmeassistenter på badeværelset og i køkkenet. Du kan adressere dem med navnet "Computer" og få dem til at spille Deutschlandfunk Nova, for eksempel. De forstår tysk og også engelsk. Hvis du ikke vil bruge dem, 
 Du kan også blot afbryde den fra strømmen.
 
 Der er ingen stemmeassistenter på dit værelse. Kurven på hylden indeholder kun routeren og en lille computer.
@@ -142,14 +142,14 @@ Hvis man skal tro statistikken, så stjæles der flest cykler pr. indbygger i Le
 
 ### Hvilke alternativer er der?
 
-Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 15 minutter hver for_Nextbikes_. Bemærk, at det koster mere, hvis du ikke parkerer dine cykler på hovedgaderne (lilla på kortet). El-scooterne må kun parkeres på visse parkeringspladser. Der er også et free-float delebilssystem. Det betyder med os[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er der busser og tog, som du også kunne betale for via Leipzig MOVE-appen.
+Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 15 minutter hver for_Nextbikes_. Bemærk, at det koster mere, hvis du ikke parkerer dine cykler på hovedgaderne (lilla på kortet). El-scooterne må kun parkeres på visse parkeringspladser. Der er også et free-float delebilssystem. Det betyder med os[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er der busser og tog, som du også kan betale for via Leipzig MOVE-appen.
 
 # Checkout
 
 ## Nøgle
 
 -   Alt efter hvilken ugedag det er, kan vi sige farvel personligt, eller du kan blot lægge nøglerne på skrivebordet og lukke døren efter dig.
--   Seneste tidspunkt for udtjekning er kl. 19.00 på afrejsedagen.
+-   Seneste tidspunkt for udtjekning er kl. 19 på afrejsedagen.
 
 ## rengøring
 
@@ -181,7 +181,7 @@ Jeg har en robotstøvsuger til gulvet.
 Før du kan starte, skal du rydde alt på gulvet af vejen.
 Især ledninger eller andre ting, som robotten kunne blive kvalt af.
 Sæt den derefter på dit værelse og tryk én gang på knappen øverst.
-Hvis der ikke sker noget, skal du bruge tænd/sluk-knappen på siden og efter
+Hvis der ikke sker noget, skal du bruge tænd/sluk-knappen på siden og bagefter
 tænd den igen ved hjælp af knappen øverst.
 
 Når det er færdigt, skal du sætte det tilbage i ladestationen!
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Lavet med ❤️ af [dokumentere](https://docsify.js.org/)_
+_Lavet med ❤️ af [docsificere](https://docsify.js.org/)_
