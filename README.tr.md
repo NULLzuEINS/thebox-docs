@@ -1,6 +1,6 @@
 # The Box'a hoş geldiniz
 
-Merhaba ve “Kutu”ya hoş geldiniz! Seyahat ederken AirBnB'lerde kalmayı da severim ve bazen konaklama, giriş ve çıkış hakkında gerekli tüm bilgileri içeren bir kağıt parçasına sahip olmayı dilerdim ve bu benim bunu daha iyi hale getirme girişimimdir.
+Merhaba ve “Kutu”ya hoş geldiniz! Seyahat ederken AirBnB'lerde kalmayı da seviyorum ve bazen konaklama, giriş ve çıkış hakkında gerekli tüm bilgileri içeren bir kağıt parçasına sahip olmayı diliyorum ve bu benim bunu daha iyi hale getirme girişimim.
 
 > [!Bir uyarı]Belgenin otomatik olarak dilinize çevrilmesini sağlayacağım. Umarım biraz anlaşılır olmuştur. Değilse, bana bir mesaj yazmaktan çekinmeyin. Daha sonra onu geliştirmeye çalışıyorum.
 
@@ -60,7 +60,7 @@ Genellikle ailemle birlikte alt katta yemek yediğim için mutfak oldukça sade.
 
 ## Senin odan
 
-Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz.
+Yataklar yalnızca depolama amacıyla üst üste yerleştirilir. İhtiyaçlarınıza göre dağıtabilirsiniz. 
 Kanepedeki yastıkları şilteyle değiştirirseniz yatak olarak işe yarar.
 
 ### Bilgisayarın (iMac) oturum açma ayrıntıları şunlardır:
@@ -88,7 +88,7 @@ Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek �
 
 ### SSS - Odanız
 
-1.  Işık yanmıyor veya çılgınca yanıp sönüyor Renkli düğmelere sahip küçük uzaktan kumandayı kullanın.
+1.  Işık yanmıyor veya hızlı bir şekilde yanıp sönüyor Renkli düğmelere sahip küçük uzaktan kumandaları kullanın.
 
 ### banyo
 
@@ -106,7 +106,7 @@ Ayakkabılarınızı burada bırakabilirsiniz. Bana bir şey söylemek istersen 
 
 ## Akıllı ev
 
-Banyo ve mutfakta Alexa sesli asistanları bulunmaktadır. Onlara “Bilgisayar” adıyla hitap edebilir ve örneğin Deutschlandfunk Nova oynamalarını sağlayabilirsiniz. Almancayı ve İngilizceyi de anlıyorlar. Bunları kullanmak istemiyorsanız,
+Banyo ve mutfakta Alexa sesli asistanları bulunmaktadır. Onlara “Bilgisayar” adıyla hitap edebilir ve örneğin Deutschlandfunk Nova oynamalarını sağlayabilirsiniz. Almancayı ve İngilizceyi de anlıyorlar. Bunları kullanmak istemiyorsanız, 
 Ayrıca basitçe güç kaynağından bağlantısını kesebilirsiniz.
 
 Odanızda sesli asistan yok. Raftaki sepette yalnızca yönlendirici ve küçük bir bilgisayar bulunmaktadır.
@@ -138,18 +138,18 @@ Ya ön kapının anahtarını kullanırsınız ya da kapıdan içeri girip kapı
 ### Bisikletim güvende mi?
 
 Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı sayesinde birçok yere ulaşabilir ve genellikle kırsal kesimden geçebilirsiniz.
-İstatistiklere inanıyorsanız, her yıl kişi başına en fazla bisikletin çalındığı yer Leipzig'dir. (100.000 kişi başına 1.539 çalıntı bisiklet) Hardenbergstraße'de yaşadığım 15 yıldan bu yana hiç bisikletim çalınmadı ve sadece arka bahçesinden bisikleti çalınan bir komşu tanıyorum. Her zaman doğrudan korkuluğa bağlarım.
+İstatistiklere inanıyorsanız, her yıl kişi başına en fazla bisikletin çalındığı yer Leipzig'dir. (100.000 kişi başına 1.539 çalıntı bisiklet) Hardenbergstraße'de yaşadığım 15 yıldan bu yana hiç bisikletim çalınmadı ve arka bahçesinden bisikleti çalınan sadece bir komşu tanıyorum. Her zaman doğrudan korkuluğa bağlarım.
 
 ### Hangi alternatifler var?
 
-İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
+İle[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz maliyetin daha yüksek olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
 
 # Çıkış yapmak
 
 ## Anahtar
 
 -   Haftanın hangi günü olduğuna bağlı olarak bizzat veda edebiliriz ya da anahtarları masanın üzerine koyup kapıyı arkanızdan kapatabilirsiniz.
--   Çıkış günü son çıkış saati saat 19.00'dır.
+-   Çıkış günü son çıkış saati 19.00'dır.
 
 ## temizlik
 
