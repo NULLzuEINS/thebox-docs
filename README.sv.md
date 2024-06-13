@@ -35,9 +35,9 @@ Eller så skannar du den här QR-koden, den ansluter dig automatiskt till nätve
 
 ![Raumplan](_media/thebox-map.png)
 
-## Kök
+## Küche
 
-Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt spartanskt. Tyvärr går det bara att diska i handfatet i badrummet. Men det finns en speciell behållare för disk.
+Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt spartanskt. Tyvärr går det bara att diska i handfatet i badrummet. Men det finns en speciell behållare för diskning.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -60,10 +60,10 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 ## Ditt rum
 
-Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov.
+Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov. 
 Byter du ut kuddarna i soffan mot en madrass fungerar den bra som säng.
 
-### Inloggningsuppgifterna för datorn (iMac) är
+### Die Zugangsdaten für den Computer (iMac) sind
 
 ```txt
 Nutzer:   thebox
@@ -106,7 +106,7 @@ Du är välkommen att lämna dina skor här. Jag har även ett litet antecknings
 
 ## Smart hem
 
-Det finns Alexa röstassistenter i badrummet och köket. Du kan tilltala dem med namnet "Dator" och låta dem spela Deutschlandfunk Nova, till exempel. De förstår tyska och även engelska. Om du inte vill använda dem,
+Det finns Alexa röstassistenter i badrummet och köket. Du kan tilltala dem med namnet "Dator" och låta dem spela Deutschlandfunk Nova, till exempel. De förstår tyska och även engelska. Om du inte vill använda dem, 
 Du kan också helt enkelt koppla bort den från strömmen.
 
 Det finns inga röstassistenter i ditt rum. Korgen på hyllan innehåller bara routern och en liten dator.
@@ -131,14 +131,14 @@ Antingen använder du nyckeln till ytterdörren eller så sträcker du dig genom
 
 ### Gul? Blå? Grön? Brun?
 
-Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i det bruna kärlet.
+Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid soporna i den gröna soptunnan. Där hamnar restavfallet. Proffs lägger pappersavfall i det blå kärlet, återvinningsbart i den gula kärlet och organiskt avfall i den bruna soptunnan.
 
 ### Cyklar
 
 ### Är min cykel säker?
 
 Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många platser och brukar köra genom landsbygden.
-Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 år sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
+Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 år som gått sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
 
 ### Vilka alternativ finns det?
 
@@ -148,7 +148,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 ## Nyckel
 
--   Beroende på vilken veckodag det är kan vi säga hejdå personligen eller så kan du helt enkelt lägga nycklarna på skrivbordet och stänga dörren efter dig.
+-   Beroende på vilken veckodag det är kan vi säga hejdå personligen, eller så kan du helt enkelt lägga nycklarna på skrivbordet och stänga dörren efter dig.
 -   Senaste tid för utcheckning är 19.00 på avresedagen.
 
 ## rengöring
