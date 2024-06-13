@@ -2,8 +2,7 @@
 
 Xin chào và chào mừng đến với “Hộp”! Khi đi du lịch, tôi cũng thích ở AirBnB's và đôi khi tôi ước mình có một mảnh giấy ghi đầy đủ thông tin cần thiết về chỗ ở, nhận phòng và trả phòng và đây là nỗ lực của tôi để làm cho nó tốt hơn.
 
-> [!Một ghi chú]
-> Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
+> [!Một ghi chú]Tôi sẽ dịch tài liệu này tự động sang ngôn ngữ của bạn. Tôi hy vọng nó có thể hiểu được phần nào. Nếu không, vui lòng viết tin nhắn cho tôi. Sau đó tôi cố gắng cải thiện nó.
 
 ## Những bức ảnh
 
@@ -47,7 +46,7 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 1.  Bầy đàn
 2.  Ấm đun nước
 3.  Dao kéo bát đĩa
-4.  Kühlschrank
+4.  Tủ lạnh
 5.  lò nướng bánh pizza
 6.  Nước khoáng
 7.  Trạm sạc điện thoại di động trên kệ
@@ -61,7 +60,7 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 
 ## Phòng của bạn
 
-Các tấm nệm được đặt chồng lên nhau chỉ nhằm mục đích cất giữ. Bạn có thể phân phối chúng theo nhu cầu của bạn.
+Các tấm nệm được đặt chồng lên nhau chỉ nhằm mục đích cất giữ. Bạn có thể phân phối chúng theo nhu cầu của bạn. 
 Nếu bạn thay thế những chiếc gối trên ghế dài bằng một tấm nệm thì nó sẽ hoạt động tốt như một chiếc giường.
 
 ### Chi tiết đăng nhập cho máy tính (iMac) là
@@ -83,13 +82,13 @@ Một câu nói cổ của người Đức áp dụng cho tất cả các loại
 
 | Hình minh họa                                             | Sự miêu tả                                                                                                                                                                                                                                                |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>D:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                       |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>Đ:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                       |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Trước khi bạn có thể sử dụng nó, hãy đảm bảo công tắc đèn ở lối vào được đặt ở chế độ "bật".**<br>Dòng đầu tiên: độ sáng, bật/tắt<br>Các nút màu: Bạn có thể sử dụng nút này để thay đổi màu sắc<br>Nút màu xám: Chuyển đổi giữa các hiệu ứng khác nhau |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Đây là điều khiển từ xa cho máy tính (iMac)._Để sử dụng máy tính, nhấn nút A trên điều khiển từ xa đầu tiên. Nó kích hoạt nguồn điện cho máy tính và hộp Bluetooth._                                                                                      |
 
 ### Câu hỏi thường gặp - Phòng của bạn
 
-1.  Đèn không sáng hoặc nhấp nháy dữ dội. Hãy sử dụng điều khiển từ xa nhỏ với các nút nhiều màu sắc.
+1.  Đèn không sáng hoặc nhấp nháy dữ dội. Sử dụng điều khiển từ xa nhỏ với các nút nhiều màu sắc.
 
 ### phòng tắm
 
@@ -107,7 +106,7 @@ Bạn có thể để lại giày của bạn ở đây. Tôi cũng có một cu
 
 ## Nhà thông minh
 
-Có trợ lý giọng nói Alexa trong phòng tắm và nhà bếp. Bạn có thể gọi họ bằng tên “Máy tính” và cho họ chơi Deutschlandfunk Nova chẳng hạn. Họ hiểu tiếng Đức và cả tiếng Anh. Nếu bạn không muốn sử dụng chúng,
+Có trợ lý giọng nói Alexa trong phòng tắm và nhà bếp. Bạn có thể gọi họ bằng tên “Máy tính” và cho họ chơi Deutschlandfunk Nova chẳng hạn. Họ hiểu tiếng Đức và cả tiếng Anh. Nếu bạn không muốn sử dụng chúng, 
 Bạn cũng có thể chỉ cần ngắt kết nối nó khỏi nguồn điện.
 
 Không có trợ lý giọng nói trong phòng của bạn. Giỏ trên kệ chỉ chứa bộ định tuyến và một máy tính nhỏ.
@@ -143,7 +142,7 @@ Nếu bạn tin vào số liệu thống kê thì số lượng xe đạp tính 
 
 ### Có những lựa chọn thay thế nào?
 
-Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định. Ngoài ra còn có hệ thống chia sẻ xe miễn phí. Điều đó có nghĩa là với chúng tôi[cityflitzer](https://cityflitzer.de/). Và tất nhiên, có những chuyến xe buýt và tàu hỏa mà bạn cũng có thể thanh toán thông qua ứng dụng Leipzig MOVE.
+Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho_Xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định. Ngoài ra còn có hệ thống chia sẻ xe miễn phí. Điều đó có nghĩa là với chúng tôi[cityflitzer](https://cityflitzer.de/). Và tất nhiên, có những chuyến xe buýt và tàu hỏa mà bạn cũng có thể thanh toán thông qua ứng dụng Leipzig MOVE.
 
 # Thủ tục thanh toán
 
@@ -158,7 +157,7 @@ Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận đượ
 -   Tôi cũng rửa bát đĩa và
 -   Tôi cũng đi đổ rác.
 
-> Phiên bản ngắn: Để chìa khóa ở đó, đóng cửa lại, thế là xong. 😀
+> Phiên bản ngắn: Để chìa khóa ở đó, đóng cửa lại, thế thôi. 😀
 
 # Ở lại lâu hơn
 
@@ -189,7 +188,7 @@ Khi dùng xong, vui lòng đặt lại vào trạm sạc!
 
 # Lời khuyên
 
-Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho_xe đạp tiếp theo_.
+Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho_Xe đạp tiếp theo_.
 Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe Raf trên các đường phố chính (màu tím trên bản đồ).
 Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định.
 
