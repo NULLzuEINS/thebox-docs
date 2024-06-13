@@ -60,7 +60,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 ## Your room
 
-The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs.
+The mattresses are placed on top of each other for storage purposes only. You can distribute them according to your needs. 
 If you replace the pillows on the couch with a mattress, it works well as a bed.
 
 ### The login details for the computer (iMac) are
@@ -106,7 +106,7 @@ You are welcome to leave your shoes here. I also have a small notepad on the she
 
 ## Smart Home
 
-There are Alexa voice assistants in the bathroom and kitchen. You can address them by the name “Computer” and have them play Deutschlandfunk Nova, for example. They understand German and also English. If you don't want to use them,
+There are Alexa voice assistants in the bathroom and kitchen. You can address them by the name “Computer” and have them play Deutschlandfunk Nova, for example. They understand German and also English. If you don't want to use them, 
 You can also simply disconnect it from the power.
 
 There are no voice assistants in your room. The basket on the shelf only contains the router and a small computer.
