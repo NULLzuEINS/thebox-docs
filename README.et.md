@@ -37,7 +37,7 @@ Või skannite selle QR-koodi, ühendab see teid automaatselt võrku:
 
 ## Köök
 
-Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pesemist saab kahjuks teha vaid vannitoas olevas kraanikausis. Aga pesemiseks on olemas spetsiaalne anum.
+Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pesemist saab kahjuks teha vaid vannitoas olevas kraanikausis. Pesemiseks on aga spetsiaalne anum.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -60,7 +60,7 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 
 ## Sinu tuba
 
-Madratsid asetatakse üksteise peale ainult ladustamise eesmärgil. Saate neid vastavalt oma vajadustele levitada.
+Madratsid asetatakse üksteise peale ainult ladustamise eesmärgil. Saate neid vastavalt oma vajadustele levitada. 
 Kui asendad diivanil olevad padjad madratsiga, siis sobib see hästi voodina.
 
 ### Arvuti (iMac) sisselogimisandmed on
@@ -88,7 +88,7 @@ Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". 
 
 ### KKK – Sinu tuba
 
-1.  Tuli ei sütti või vilgub metsikult. Kasutage väikeseid värviliste nuppudega kaugjuhtimispulte.
+1.  Tuli ei sütti või vilgub metsikult Kasutage väikeseid värviliste nuppudega kaugjuhtimispulte.
 
 ### vannituba
 
@@ -106,7 +106,7 @@ Olete oodatud oma kingad siia jätma. Mul on riiulil ka väike märkmik juhuks, 
 
 ## Tark kodu
 
-Vannitoas ja köögis on Alexa hääleabilised. Saate neid adresseerida nimega “Arvuti” ja lasta neil näiteks Deutschlandfunk Novat mängida. Nad saavad aru saksa ja ka inglise keelest. Kui te ei soovi neid kasutada,
+Vannitoas ja köögis on Alexa hääleabilised. Saate neid adresseerida nimega “Arvuti” ja lasta neil näiteks Deutschlandfunk Novat mängida. Nad saavad aru saksa ja ka inglise keelest. Kui te ei soovi neid kasutada, 
 Samuti saate selle lihtsalt vooluvõrgust lahti ühendada.
 
 Teie toas pole hääleabilisi. Riiulil olevas korvis on ainult ruuter ja väike arvuti.
@@ -149,7 +149,7 @@ Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, 
 ## Võti
 
 -   Olenevalt nädalapäevast saame isiklikult hüvasti jätta või lihtsalt võtmed lauale panna ja ukse enda järel sulgeda.
--   Viimane väljaregistreerimise aeg on väljumispäeval kell 19.00.
+-   Väljasõidupäeval on viimane väljaregistreerimise aeg kell 19.
 
 ## puhastamine
 
