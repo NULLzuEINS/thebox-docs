@@ -6,7 +6,7 @@ Bună ziua și bun venit în „Cutie”! Când călătoresc, îmi place și să
 
 ## Poze
 
-Pe AirBnB-ul meu ai o imagine de ansamblu detaliată a tuturor camerelor și facilităților. Iată doar o scurtă prezentare generală:
+Pe AirBnB-ul meu primești o imagine de ansamblu detaliată a tuturor camerelor și facilităților. Iată doar o scurtă prezentare generală:
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -56,11 +56,11 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 
 1.  Aragazul nu funcționează? spuneti va rog
     > „Computer, banc de lucru și”
-2.  Unde pot să mă spăl? Acest lucru funcționează doar în baie. Există un recipient special pentru spălarea vaselor.
+2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
 
 ## Camera dvs
 
-Saltelele sunt așezate una peste alta numai în scop de depozitare. Le poți distribui în funcție de nevoile tale.
+Saltelele sunt așezate una peste alta numai în scop de depozitare. Le poți distribui în funcție de nevoile tale. 
 Dacă înlocuiți pernele de pe canapea cu o saltea, aceasta funcționează bine ca un pat.
 
 ### Detaliile de conectare pentru computer (iMac) sunt
@@ -88,7 +88,7 @@ O veche zicală germană se aplică tuturor telecomenzilor: „Este mai bine să
 
 ### Întrebări frecvente - Camera dvs
 
-1.  Lumina nu se aprinde sau clipește puternic.Folosește telecomenzile mici cu butoanele colorate.
+1.  Lumina nu se aprinde sau clipește sălbatic Utilizați telecomenzile mici cu butoanele colorate.
 
 ### baie
 
@@ -106,7 +106,7 @@ Ești binevenit să-ți lași pantofii aici. Am și un mic blocnotes pe raft în
 
 ## Casă inteligentă
 
-Există asistenți vocali Alexa în baie și bucătărie. Le puteți adresa cu numele „Computer” și îi puteți pune să joace Deutschlandfunk Nova, de exemplu. Înțeleg germană și engleză. Dacă nu doriți să le folosiți,
+Există asistenți vocali Alexa în baie și bucătărie. Le puteți adresa cu numele „Computer” și îi puteți pune să joace Deutschlandfunk Nova, de exemplu. Înțeleg germană și engleză. Dacă nu doriți să le folosiți, 
 De asemenea, îl puteți deconecta pur și simplu de la curent.
 
 Nu există asistenți vocali în camera dvs. Coșul de pe raft conține doar routerul și un computer mic.
