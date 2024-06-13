@@ -55,12 +55,12 @@ Dato che di solito mangio al piano di sotto con la mia famiglia, la cucina è mo
 ### Domande frequenti - Cucina
 
 1.  La stufa non funziona? per favore dì
-    > "Computer, banco di lavoro e"
+    > "Computer, Werkbank an"
 2.  Dove posso lavarmi? Funziona solo in bagno. C'è un contenitore speciale per lavare i piatti.
 
 ## La vostra stanza
 
-I materassi sono posizionati uno sopra l'altro solo a scopo di stoccaggio. Puoi distribuirli in base alle tue esigenze.
+I materassi sono posizionati uno sopra l'altro solo a scopo di stoccaggio. Puoi distribuirli in base alle tue esigenze. 
 Se sostituisci i cuscini del divano con un materasso, funziona bene come letto.
 
 ### I dettagli di accesso per il computer (iMac) sono
@@ -88,7 +88,7 @@ Per tutti i telecomandi vale un vecchio detto tedesco: “Provare è meglio che 
 
 ### FAQ - La tua camera
 
-1.  La luce non si accende o lampeggia all'impazzata, usa i piccoli telecomandi con i tasti colorati.
+1.  La luce non si accende o lampeggia all'impazzata. Usa i piccoli telecomandi con i pulsanti colorati.
 
 ### bagno
 
@@ -106,8 +106,8 @@ Puoi lasciare le tue scarpe qui. Ho anche un piccolo blocco note sullo scaffale 
 
 ## Casa intelligente
 
-Sono presenti gli assistenti vocali Alexa in bagno e in cucina. Puoi chiamarli "Computer" e farli giocare, ad esempio, a Deutschlandfunk Nova. Capiscono il tedesco e anche l'inglese. Se non vuoi usarli,
-Puoi anche semplicemente scollegarlo dall'alimentazione.
+Sono presenti gli assistenti vocali Alexa in bagno e in cucina. Puoi chiamarli "Computer" e farli giocare, ad esempio, a Deutschlandfunk Nova. Capiscono il tedesco e anche l'inglese. Se non vuoi usarli, 
+Puoi anche semplicemente scollegarlo dalla corrente.
 
 Non ci sono assistenti vocali nella tua stanza. Il cestino sullo scaffale contiene solo il router e un piccolo computer.
 
@@ -131,7 +131,7 @@ O usi la chiave della porta d'ingresso, oppure raggiungi il cancello e senti il 
 
 ### Giallo? Blu? Verde? Marrone?
 
-Ti stai chiedendo perché i bidoni della spazzatura hanno colori diversi? Se non sei sicuro, getta sempre la spazzatura nel cestino verde. I rifiuti residui finiscono lì. I professionisti mettono i rifiuti cartacei nel contenitore blu, i materiali riciclabili nel contenitore giallo e i rifiuti organici nel contenitore marrone.
+Ti stai chiedendo perché i bidoni della spazzatura hanno colori diversi? Se non sei sicuro, getta sempre la spazzatura nel cestino verde. I rifiuti residui finiscono lì. I professionisti mettono la carta nel contenitore blu, i materiali riciclabili nel contenitore giallo e i rifiuti organici nel contenitore marrone.
 
 ### Cicli
 
