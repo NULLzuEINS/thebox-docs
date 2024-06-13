@@ -1,6 +1,6 @@
 # Tervetuloa The Boxiin
 
-Hei ja tervetuloa "Boksiin"! Kun matkustan, pidän myös AirBnB:ssä ja joskus toivon, että minulla olisi paperi, jossa on kaikki tarvittavat tiedot majoituksesta, sisään- ja uloskirjautumisesta, ja tämä on minun yritykseni tehdä siitä parempi.
+Hei ja tervetuloa "Boksiin"! Matkustellessani pidän myös AirBnB:ssä ja joskus toivon, että minulla olisi paperi, jossa on kaikki tarvittavat tiedot majoituksesta, sisään- ja uloskirjautumisesta, ja tämä on yritykseni parantaa sitä.
 
 > [!Huomautus]Käännän asiakirjan automaattisesti kielellesi. Toivottavasti se on jotenkin ymmärrettävää. Jos ei, kirjoita minulle viestiä. Yritän sitten parantaa sitä.
 
@@ -60,7 +60,7 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
 
 ## Huoneesi
 
-Patjat asetetaan päällekkäin vain säilytystä varten. Voit jakaa niitä tarpeidesi mukaan.
+Patjat asetetaan päällekkäin vain säilytystä varten. Voit jakaa niitä tarpeidesi mukaan. 
 Jos vaihdat sohvan tyynyt patjaan, se toimii hyvin sänkynä.
 
 ### Tietokoneen (iMac) kirjautumistiedot ovat
@@ -86,9 +86,9 @@ Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on par
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Ennen kuin voit käyttää sitä, varmista, että sisäänkäynnin valokytkin on asennossa "on".**<br>Ensimmäinen rivi: kirkkaus, päällä/pois<br>Värilliset painikkeet: Voit muuttaa värejä tällä<br>Harmaat painikkeet: Vaihda tehosteiden välillä |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Tämä on tietokoneen (iMac) kaukosäädin._Käytä tietokonetta painamalla ensimmäisen kaukosäätimen A-painiketta. Se aktivoi tietokoneen ja Bluetooth-laitteen virtalähteen._                                                                     |
 
-### FAQ - Oma huone
+### FAQ - Huoneesi
 
-1.  Valo ei syty tai vilkkuu villisti. Käytä pieniä kaukosäätimiä värikkäillä painikkeilla.
+1.  Valo ei syty tai vilkkuu villisti Käytä pieniä kaukosäätimiä värikkäillä painikkeilla.
 
 ### kylpyhuone
 
@@ -106,7 +106,7 @@ Olet tervetullut jättämään kengät tänne. Minulla on myös pieni muistileht
 
 ## Älykoti
 
-Kylpyhuoneessa ja keittiössä on Alexa-ääniavustaja. Voit kutsua heitä nimellä “Computer” ja saada heidät soittamaan esimerkiksi Deutschlandfunk Novaa. He ymmärtävät saksaa ja myös englantia. Jos et halua käyttää niitä,
+Kylpyhuoneessa ja keittiössä on Alexa-ääniavustaja. Voit kutsua heitä nimellä “Computer” ja saada heidät soittamaan esimerkiksi Deutschlandfunk Novaa. He ymmärtävät saksaa ja myös englantia. Jos et halua käyttää niitä, 
 Voit myös irrottaa sen virtalähteestä.
 
 Huoneessasi ei ole ääniavustajia. Hyllyssä oleva kori sisältää vain reitittimen ja pienen tietokoneen.
@@ -131,14 +131,14 @@ Joko käytät etuoven avainta tai kurkotat portin läpi ja tunnet oven avaavan p
 
 ### Keltainen? Sininen? Vihreä? Ruskea?
 
-Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan.
+Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan roskakoriin.
 
 ### Pyörät
 
 ### Onko pyöräni turvallinen?
 
 Leipzig on erittäin pyöräystävällinen kaupunki. Suuren kaupunkipuiston kautta, joka jakaa kaupungin kahteen osaan, pääsee moniin paikkoihin ja yleensä ajaa maaseudun halki.
-Jos uskot tilastoihin, Leipzigissä varastetaan vuosittain eniten polkupyöriä asukasta kohden. (1 539 varastettua polkupyörää 100 000 asukasta kohti) 15 vuoden aikana siitä, kun olen asunut täällä Hardenbergstraßella, minulla ei ole koskaan varastettu polkupyörää ja tiedän vain yhden naapurin, jonka polkupyörä varastettiin hänen takapihaltaan. Yhdistän sen aina suoraan kaiteeseen.
+Jos uskot tilastoihin, Leipzigissä varastetaan vuosittain eniten polkupyöriä asukasta kohden. (1 539 varastettua polkupyörää 100 000 asukasta kohti) 15 vuoden aikana, kun olen asunut täällä Hardenbergstraßella, minulla ei ole koskaan varastettu polkupyörää ja tiedän vain yhden naapurin, jonka polkupyörä varastettiin hänen takapihaltaan. Yhdistän sen aina suoraan kaiteeseen.
 
 ### Mitä vaihtoehtoja on olemassa?
 
@@ -157,7 +157,7 @@ Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 -   Pesen myös astiat ja
 -   Vien roskat myös pois.
 
-> Lyhyt versio: Jätä avain sinne, sulje ovi, se on siinä. 😀
+> Lyhyt versio: Jätä avain sinne, sulje ovi, siinä kaikki. 😀
 
 # Pidempi oleskelu
 
