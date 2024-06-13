@@ -48,7 +48,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 3.  Servies bestek
 4.  Koelkast
 5.  pizza oven
-6.  Mineralwasser
+6.  Mineraalwater
 7.  Oplaadstation voor mobiele telefoons op de plank
 8.  wasmachine
 
@@ -60,7 +60,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 
 ## Jouw kamer
 
-De matrassen worden uitsluitend voor opslagdoeleinden op elkaar geplaatst. U kunt ze verdelen volgens uw behoeften.
+De matrassen worden uitsluitend voor opslagdoeleinden op elkaar geplaatst. U kunt ze verdelen volgens uw behoeften. 
 Als je de kussens op de bank vervangt door een matras, functioneert deze prima als bed.
 
 ### De inloggegevens voor de computer (iMac) zijn
@@ -88,11 +88,11 @@ Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter 
 
 ### Veelgestelde vragen - Uw kamer
 
-1.  Het licht gaat niet aan of knippert wild.Gebruik de kleine afstandsbedieningen met de kleurrijke knoppen.
+1.  Het lampje gaat niet aan of knippert wild. Gebruik de kleine afstandsbedieningen met de kleurrijke knoppen.
 
 ### badkamer
 
-U kunt staand van de douche gebruik maken. Het is geen probleem als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
+Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und hänge den Badewannenvorleger zum trocknen über der Heizung auf.
 
 De Alexa aan de muur heet ‘Computer’ en speelt ook je favoriete muziek of radio af. Bijvoorbeeld "_Computer, speel Deutschlandfunk Nova_"
 
@@ -106,7 +106,7 @@ U kunt uw schoenen hier achterlaten. Ik heb ook een klein notitieboekje op de pl
 
 ## Slimme woning
 
-Er zijn Alexa-stemassistenten in de badkamer en keuken. Je kunt ze aanspreken met de naam “Computer” en ze bijvoorbeeld Deutschlandfunk Nova laten spelen. Ze begrijpen Duits en ook Engels. Als u ze niet wilt gebruiken,
+Er zijn Alexa-stemassistenten in de badkamer en keuken. Je kunt ze aanspreken met de naam “Computer” en ze bijvoorbeeld Deutschlandfunk Nova laten spelen. Ze begrijpen Duits en ook Engels. Als u ze niet wilt gebruiken, 
 Je kunt hem ook eenvoudig loskoppelen van de stroom.
 
 Er zijn geen stemassistenten in uw kamer. In de mand op de plank bevinden zich alleen de router en een kleine computer.
@@ -149,7 +149,7 @@ Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten va
 ## Sleutel
 
 -   Afhankelijk van welke dag van de week het is, kunnen wij persoonlijk afscheid nemen, of u legt gewoon de sleutels op het bureau en sluit de deur achter u.
--   Het uiterste tijdstip voor uitchecken is 19.00 uur op de dag van vertrek.
+-   Het uiterste tijdstip voor uitchecken is 19.00 uur.
 
 ## schoonmaak
 
@@ -188,7 +188,7 @@ Als hij klaar is, plaats hem dan terug in het laadstation!
 
 # Tips
 
-Met de[Leipzig MOVE-app](https://leipzig-move.de/), bekommst Du 10 Freifahrten à 15 Minuten für die _Volgendefietsen_.
+Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten van elk 15 minuten voor de_Volgendefietsen_.
 Houd er rekening mee dat het meer kost als u de Raf niet in de hoofdstraten parkeert (paars op de kaart).
 De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden.
 
@@ -196,8 +196,8 @@ Ik heb reisgidsen opgeslagen in de AirBnB-app. Daar vindt u mijn aanbevelingen v
 
 # Vragen?
 
-Wenn Du Fragen hast, oder Unterstützung benötigt, stehe ich dir gern zur Verfügung.
-Wenn es eilig ist, dann besten via Telefon <a href="tel:+491707353067">+49 170 73 53 067</a>.
+Als je vragen hebt of ondersteuning nodig hebt, help ik je graag verder.
+Als u haast heeft, kunt u dit het beste telefonisch doen <a href="tel:+491707353067">+49 170 73 53 067</a>.
 U kunt ook de vooraf geïnstalleerde messenger-app met beperkte functionaliteit (SMS) gebruiken.
 Anders heb ik een notitieblok en een pen in de gang.
 
