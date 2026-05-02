@@ -10,7 +10,7 @@ Minu AirBnB-s saate üksikasjaliku ülevaate kõigist tubadest ja mugavustest. S
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Üks voodi koos diivaniga                                                               | Kahe voodi konfiguratsioon                                                    | Laud                                                                                    |
+| Üks voodi koos diivaniga                                                               | Kahe voodi konfiguratsioon                                                    | Töölaud                                                                                 |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Valgustiga kirjutuslaud                                                                | Köök - pliit                                                                  | Köök - tee                                                                              |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -20,7 +20,7 @@ Minu AirBnB-s saate üksikasjaliku ülevaate kõigist tubadest ja mugavustest. S
 
 Saate kaks paari võtmeid, millest igaühel on üks võti alumise ja üks ülemise jaoks. Võtmehoidjal on ka võti, millega saad oma toa lukustada.
 
-## internetiühendus
+## Interneti-juurdepääs
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -45,10 +45,10 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 
 1.  Kari
 2.  Veekeetja
-3.  Nõud söögiriistad
-4.  Külmkapp
+3.  Nõud, söögiriistad
+4.  Külmik
 5.  Pitsaahi
-6.  Mineraalvesi
+6.  mineraalvesi
 7.  Riiulil mobiiltelefoni laadimisjaam
 8.  pesumasin
 
@@ -80,7 +80,7 @@ Passwort: thebox
 
 Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". Sa ei saa midagi murda. Vajutage mõnda nuppu ja vaadake, mis juhtub. Kui soovite siiski õppida, siis siin on teile sobiv lugemine:
 
-| Illustratsioon                                            | Kirjeldus                                                                                                                                                                                                                                   |
+| illustratsioon                                            | Kirjeldus                                                                                                                                                                                                                                   |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Haldjatuled<br>C: laualamp<br>D:_faili_<br>Meister: Lülitage kõike korraga                                                                                                                                            |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Enne selle kasutamist veenduge, et sissepääsu valguslüliti oleks asendis "sees".**<br>Esimene rida: heledus, sisse/välja<br>Värvilised nupud: saate seda kasutada värvide muutmiseks<br>Hallid nupud: erinevate efektide vahel vahetamine |
@@ -88,25 +88,25 @@ Vana saksa ütlus kehtib kõigi pultide kohta: "Proovida on parem kui õppida". 
 
 ### KKK – Sinu tuba
 
-1.  Tuli ei sütti või vilgub metsikult Kasutage väikeseid värviliste nuppudega kaugjuhtimispulte.
+1.  Tuli ei sütti või vilgub metsikult. Kasutage väikeseid värviliste nuppudega kaugjuhtimispulte.
 
 ### vannituba
 
 Dušši saate kasutada seistes. Pole probleemi, kui maapind veidi märjaks saab. Lülitage vesi sisse ainult 1/3 ja riputage vannimatt kerise kohale kuivama.
 
-Seinal olev Alexa kannab nime "Computer" ja mängib ka teie lemmikmuusikat või raadiot. Nt "_Arvuti, mängi Deutschlandfunk Nova_"
+Seinal olev Alexa kannab nime "Computer" ja mängib ka teie lemmikmuusikat või raadiot. Nt. "_Arvuti, mängi Deutschlandfunk Nova_"
 
-Saate riputada rätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks neist on sinu oma.
+Saate riputada käterätikud kõikidele konksudele ja panna oma asjad kõikjale. Vannitoa ukse ees on riiul. Üks tükk sellest on sinu.
 
 ### Esik
 
-Olete oodatud oma kingad siia jätma. Mul on riiulil ka väike märkmik juhuks, kui tahate mulle midagi öelda.
+Olete teretulnud oma kingad siia jätma. Mul on riiulil ka väike märkmik juhuks, kui tahate mulle midagi öelda.
 
 # Mitmesugust
 
 ## Tark kodu
 
-Vannitoas ja köögis on Alexa hääleabilised. Saate neid adresseerida nimega “Arvuti” ja lasta neil näiteks Deutschlandfunk Novat mängida. Nad saavad aru saksa ja ka inglise keelest. Kui te ei soovi neid kasutada, 
+Vannitoas ja köögis on Alexa hääleabilised. Saate neid adresseerida nimega “Computer” ja lasta neil näiteks Deutschlandfunk Novat mängida. Nad saavad aru saksa ja ka inglise keelest. Kui te ei soovi neid kasutada, 
 Samuti saate selle lihtsalt vooluvõrgust lahti ühendada.
 
 Teie toas pole hääleabilisi. Riiulil olevas korvis on ainult ruuter ja väike arvuti.
@@ -117,7 +117,7 @@ Temperatuuri ja niiskust mõõdetakse automaatselt andurite kaudu. Kasutan neid 
 
 ?> Palun ventileerige regulaarselt (vähemalt kord päevas). Eriti vannitoas. Veenduge ka, et küte on välja lülitatud. Aitäh 🙏
 
-## Õu
+## Õue
 
 Meie sisehoovis saate ühendada oma jalgrattad ja viia prügi ära.
 
@@ -133,7 +133,7 @@ Kas kasutate välisukse võtit või sirutate käe läbi värava ja tunnete, kuid
 
 Kas teid huvitab, miks prügikastid on erinevat värvi? Kui te pole milleski kindel, pange prügikast alati rohelisse prügikasti. Jääkjäätmed satuvad sinna. Professionaalid panevad paberijäätmed sinisesse prügikasti, taaskasutatavad jäätmed kollasesse ja orgaanilised jäätmed pruuni prügikasti.
 
-### Tsüklid
+### Jalgrattad
 
 ### Kas mu jalgratas on ohutu?
 
@@ -148,8 +148,8 @@ Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, 
 
 ## Võti
 
--   Olenevalt nädalapäevast saame isiklikult hüvasti jätta või lihtsalt võtmed lauale panna ja ukse enda järel sulgeda.
--   Väljasõidupäeval on viimane väljaregistreerimise aeg kell 19.
+-   Olenevalt sellest, mis nädalapäev parajasti on, saame isiklikult hüvasti jätta või lihtsalt võtmed lauale panna ja ukse enda järel sulgeda.
+-   Viimane väljamakse aeg on kell 19. lahkumise päeval.
 
 ## puhastamine
 
@@ -167,7 +167,7 @@ Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, 
 
 Saate pesumasinat kasutada, ilma et peaksite seda eelnevalt küsima. Võite kasutada ka kuivatusresti, pesupulbrit ja pesupehmendajat. Kui soovid uut voodipesu, siis räägi minuga.
 
-## Käsihari ja tolmulapp
+## Käsihari ja tolmupann
 
 Köögist leiad käsiharja ja seinalt tolmulapi. See aitab teil vabaneda väikesest mustusest.
 
