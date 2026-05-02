@@ -2,7 +2,7 @@
 
 ¡Hola y bienvenidos a la “Caja”! Cuando viajo, también me gusta quedarme en AirBnB y a veces desearía tener un papel con toda la información necesaria sobre el alojamiento, check-in y check-out y este es mi intento de mejorarlo.
 
-> [!Una noticia]Haré que el documento se traduzca automáticamente a su idioma. Espero que sea algo comprensible. Si no, no dudes en escribirme un mensaje. Luego trato de mejorarlo.
+> [!Un aviso]Haré que el documento se traduzca automáticamente a su idioma. Espero que sea algo comprensible. Si no, no dudes en escribirme un mensaje. Luego trato de mejorarlo.
 
 ## Fotos
 
@@ -12,9 +12,9 @@ En mi AirBnB obtienes una descripción detallada de todas las habitaciones y las
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Configuración de una cama con sofá.                                                    | Configuración de dos camas                                                    | Escritorio                                                                              |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| escritorio con luz                                                                     | Estufa de cocina                                                              | Cocina - té                                                                             |
+| escritorio con luz                                                                     | Cocina - estufa                                                               | Cocina - té                                                                             |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| escritorio con luz                                                                     | Estufa de cocina                                                              | Cocina - té                                                                             |
+| escritorio con luz                                                                     | Cocina - estufa                                                               | Cocina - té                                                                             |
 
 ## Llave
 
@@ -31,7 +31,7 @@ O escaneas este código QR, te conectará automáticamente a la red:
 
 ![WiFi](_media/wlan.png ":size=200")
 
-# Las habitaciones
+# las habitaciones
 
 ![Raumplan](_media/thebox-map.png)
 
@@ -45,10 +45,10 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 
 1.  Rebaño
 2.  Pava
-3.  platos cubiertos
+3.  platos, cubiertos
 4.  Refrigerador
-5.  Horno para Pizza
-6.  Agua mineral
+5.  horno para pizzas
+6.  agua mineral
 7.  Estación de carga de teléfonos móviles en el estante.
 8.  lavadora
 
@@ -58,7 +58,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
     > "Computadora, banco de trabajo y"
 2.  ¿Dónde puedo lavarme? Esto sólo funciona en el baño. Hay un recipiente especial para lavar los platos.
 
-## Tu cuarto
+## tu habitación
 
 Los colchones se colocan uno encima del otro únicamente con fines de almacenamiento. Puedes distribuirlos según tus necesidades. 
 Si reemplazas las almohadas del sofá por un colchón, funcionará bien como cama.
@@ -80,7 +80,7 @@ Passwort: thebox
 
 Un viejo dicho alemán se aplica a todos los mandos a distancia: "Intentar es mejor que estudiar". No puedes romper nada. Presione algunos botones y vea qué sucede. Si aún quieres estudiar, aquí tienes la lectura adecuada para ti:
 
-| Ilustración                                               | Descripción                                                                                                                                                                                                                                                            |
+| ilustración                                               | Descripción                                                                                                                                                                                                                                                            |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caja Bluetooth<br>B: luces de hadas<br>C: lámpara de escritorio<br>D:_leer_<br>Maestro: cambia todo al mismo tiempo                                                                                                                                                 |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usarlo, asegúrese de que el interruptor de la luz en la entrada esté en "encendido".**<br>Primera línea: brillo, encendido/apagado<br>Botones de colores: puedes usarlos para cambiar los colores.<br>Botones grises: cambia entre diferentes efectos |
@@ -96,7 +96,7 @@ Puedes utilizar la ducha estando de pie. No hay problema si el suelo se moja un 
 
 La Alexa en la pared se llama "Computadora" y también reproduce tu música o radio favorita. P.ej. "_Computadora, reproduce Deutschlandfunk Nova_"
 
-Puedes colgar toallas en todos los ganchos y poner tus cosas en cualquier lugar. Hay un estante frente a la puerta del baño. Uno de ellos es el tuyo.
+Puedes colgar toallas en todos los ganchos y poner tus cosas en cualquier lugar. Hay un estante frente a la puerta del baño. Una parte es tuya.
 
 ### Pasillo
 
@@ -104,7 +104,7 @@ Puedes dejar tus zapatos aquí. También tengo un pequeño bloc de notas en el e
 
 # Misceláneas
 
-## Casa inteligente
+## Hogar inteligente
 
 Hay asistentes de voz Alexa en el baño y la cocina. Puede dirigirse a ellos con el nombre “Ordenador” y hacer que reproduzcan, por ejemplo, Deutschlandfunk Nova. Entienden alemán y también inglés. Si no quieres usarlos, 
 También puedes simplemente desconectarlo de la corriente.
@@ -117,7 +117,7 @@ La temperatura y la humedad se miden automáticamente a través de los sensores.
 
 ?> Asegúrese de ventilar regularmente (al menos una vez al día). Especialmente en el baño. Asegúrate también de que la calefacción esté apagada. Gracias 🙏
 
-## Der Hof
+## el patio
 
 En nuestro patio podréis conectar vuestras bicicletas y retirar la basura.
 
@@ -133,7 +133,7 @@ O usas la llave de la puerta principal o cruzas la puerta y sientes el botón pa
 
 ¿Te preguntas por qué los botes de basura tienen diferentes colores? Si no está seguro, coloque siempre la basura en el contenedor verde. Los residuos residuales acaban allí. Los profesionales depositan los residuos de papel en el contenedor azul, los materiales reciclables en el contenedor amarillo y los residuos orgánicos en el contenedor marrón.
 
-### Ciclos
+### bicicletas
 
 ### ¿Mi bicicleta es segura?
 
@@ -148,8 +148,8 @@ Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes g
 
 ## Llave
 
--   Dependiendo del día de la semana, podemos despedirnos en persona, o simplemente puedes dejar las llaves en el escritorio y cerrar la puerta detrás de ti.
--   La última hora de salida es a las 19:00 horas del día de salida.
+-   Dependiendo del día de la semana que sea, podemos despedirnos en persona, o simplemente puedes dejar las llaves en el escritorio y cerrar la puerta detrás de ti.
+-   La última hora para realizar el pago es a las 7 p. m. el día de salida.
 
 ## limpieza
 
@@ -175,7 +175,7 @@ En la cocina encontrarás un cepillo de mano y un recogedor en la pared. Esto te
 
 Puedes encontrar un agente de limpieza verde en una botella con atomizador en el baño para trapear. Junto con el papel de cocina, se puede utilizar para limpiar superficies fácilmente.
 
-## aspiradora
+## Aspiradora
 
 Tengo un robot aspirador para el suelo.
 Antes de que puedas comenzar, retira todo lo que esté en el suelo.
