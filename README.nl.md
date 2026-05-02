@@ -12,15 +12,15 @@ Op mijn AirBnB krijg je een gedetailleerd overzicht van alle kamers en de facili
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Eén bedconfiguratie met bank                                                           | Configuratie met twee bedden                                                  | Bureau                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Bureau met licht                                                                       | Fornuis                                                                       | Keuken - thee                                                                           |
+| Bureau met licht                                                                       | Keuken - fornuis                                                              | Keuken - thee                                                                           |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Bureau met licht                                                                       | Fornuis                                                                       | Keuken - thee                                                                           |
+| Bureau met licht                                                                       | Keuken - fornuis                                                              | Keuken - thee                                                                           |
 
 ## Sleutel
 
 Je krijgt twee paar sleutels, elk met één sleutel voor de onderkant en één voor de bovenkant. Er zit ook een sleutel aan een sleutelhanger waarmee u uw kamer kunt afsluiten.
 
-## internet toegang
+## Internettoegang
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -45,16 +45,16 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 
 1.  Kudde
 2.  Ketel
-3.  Servies bestek
+3.  Borden, bestek
 4.  Koelkast
-5.  pizza oven
-6.  Mineraalwater
+5.  Pizza-oven
+6.  mineraalwater
 7.  Oplaadstation voor mobiele telefoons op de plank
 8.  wasmachine
 
 ### Veelgestelde vragen - Keuken
 
-1.  Kachel werkt niet? zeg alstublieft
+1.  Kachel werkt niet? Zeg alsjeblieft
     > "Computer, Werkbank an"
 2.  Waar kan ik afwassen? Dit werkt alleen in de badkamer. Er is een speciale container voor het afwassen.
 
@@ -80,7 +80,7 @@ Passwort: thebox
 
 Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter dan studeren”. Je kunt niets breken. Druk op een paar knoppen en kijk wat er gebeurt. Als je nog steeds wilt studeren, is hier de juiste lectuur voor jou:
 
-| Illustratie                                               | Beschrijving                                                                                                                                                                                                                                                          |
+| illustratie                                               | Beschrijving                                                                                                                                                                                                                                                          |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Kerstverlichting<br>C: Bureaulamp<br>D:_leer_<br>Master: Schakel alles tegelijk                                                                                                                                                                 |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Voordat u er gebruik van kunt maken, zorgt u ervoor dat de lichtschakelaar bij de ingang op "aan" staat.**<br>Eerste regel: helderheid, aan/uit<br>Gekleurde knoppen: Hiermee kunt u de kleuren wijzigen<br>Grijze knoppen: Schakelen tussen verschillende effecten |
@@ -88,15 +88,15 @@ Voor alle afstandsbedieningen geldt een oud Duits gezegde: “Proberen is beter 
 
 ### Veelgestelde vragen - Uw kamer
 
-1.  Het lampje gaat niet aan of knippert wild. Gebruik de kleine afstandsbedieningen met de kleurrijke knoppen.
+1.  Het licht gaat niet aan of knippert wild. Gebruik de kleine afstandsbedieningen met de kleurrijke knoppen.
 
 ### badkamer
 
-Die Dusche kannst du ruhig im Stehen benutzen. Es ist nicht schlimm, wenn der Boden etwas nass wird. Dreh das Wasser nur 1/3  auf und hänge den Badewannenvorleger zum trocknen über der Heizung auf.
+U kunt staand van de douche gebruik maken. Het is geen probleem als de grond een beetje nat wordt. Zet het water slechts 1/3 open en hang de badmat over de verwarming om te drogen.
 
 De Alexa aan de muur heet ‘Computer’ en speelt ook je favoriete muziek of radio af. Bijvoorbeeld "_Computer, speel Deutschlandfunk Nova_"
 
-Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén ervan is van jou.
+Je kunt handdoeken aan alle haken ophangen en je spullen overal neerzetten. Voor de badkamerdeur bevindt zich een plank. Eén stukje ervan is van jou.
 
 ### Gang
 
@@ -104,7 +104,7 @@ U kunt uw schoenen hier achterlaten. Ik heb ook een klein notitieboekje op de pl
 
 # Gemengd
 
-## Slimme woning
+## Slim huis
 
 Er zijn Alexa-stemassistenten in de badkamer en keuken. Je kunt ze aanspreken met de naam “Computer” en ze bijvoorbeeld Deutschlandfunk Nova laten spelen. Ze begrijpen Duits en ook Engels. Als u ze niet wilt gebruiken, 
 Je kunt hem ook eenvoudig loskoppelen van de stroom.
@@ -133,7 +133,7 @@ Of je gebruikt de sleutel van de voordeur, of je reikt door het hek en voelt aan
 
 Vraag je je af waarom de vuilnisbakken verschillende kleuren hebben? Als u het niet zeker weet, deponeer het afval dan altijd in de groene bak. Daarin komt het restafval terecht. Professionals gooien papierafval in de blauwe bak, recyclebaar afval in de gele bak en organisch afval in de bruine bak.
 
-### Cycli
+### Fietsen
 
 ### Is mijn fiets veilig?
 
@@ -142,18 +142,18 @@ Als je de statistieken mag geloven, worden in Leipzig jaarlijks de meeste fietse
 
 ### Welke alternatieven zijn er?
 
-Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten van elk 15 minuten voor de_Volgendefietsen_. Houd er rekening mee dat het meer kost als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). En natuurlijk zijn er bussen en treinen die je ook via de Leipzig MOVE-app kunt betalen.
+Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten van elk 15 minuten voor de_Volgendefietsen_. Houd er rekening mee dat het duurder is als u uw fietsen niet in de hoofdstraten parkeert (paars op de kaart). De e-scooters mogen alleen op bepaalde parkeerplaatsen geparkeerd worden. Er is ook een free-float autodeelsysteem. Dat betekent bij ons[stadsflitzer](https://cityflitzer.de/). En natuurlijk zijn er bussen en treinen die je ook via de Leipzig MOVE-app kunt betalen.
 
-# Uitchecken
+# Afrekenen
 
 ## Sleutel
 
 -   Afhankelijk van welke dag van de week het is, kunnen wij persoonlijk afscheid nemen, of u legt gewoon de sleutels op het bureau en sluit de deur achter u.
--   Het uiterste tijdstip voor uitchecken is 19.00 uur.
+-   Het uiterste tijdstip voor afrekenen is 19.00 uur. op de dag van vertrek.
 
 ## schoonmaak
 
--   Je kunt er beddengoed op laten liggen.
+-   Je kunt beddengoed erop laten liggen.
 -   Ik doe ook de afwas en
 -   Ik zet ook het afval buiten.
 
@@ -167,7 +167,7 @@ Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten va
 
 U kunt de wasmachine gebruiken zonder dat u dit eerst hoeft te vragen. Ook kun je gebruik maken van het droogrek, waspoeder en wasverzachter. Wilt u nieuw beddengoed, neem dan contact met mij op.
 
-## Handborstel en blik
+## Handborstel en stofblik
 
 In de keuken vind je een handveger en een blik aan de muur. Dit zal je helpen om het kleine vuil te verwijderen.
 
