@@ -1,8 +1,8 @@
-# Tervetuloa The Boxiin
+# Tervetuloa The Boxille
 
 Hei ja tervetuloa "Boksiin"! Matkustellessani pidän myös AirBnB:ssä ja joskus toivon, että minulla olisi paperi, jossa on kaikki tarvittavat tiedot majoituksesta, sisään- ja uloskirjautumisesta, ja tämä on yritykseni parantaa sitä.
 
-> [!Huomautus]Käännän asiakirjan automaattisesti kielellesi. Toivottavasti se on jotenkin ymmärrettävää. Jos ei, kirjoita minulle viestiä. Yritän sitten parantaa sitä.
+> [!Huomautus]Kääntän asiakirjan automaattisesti kielellesi. Toivottavasti se on jotenkin ymmärrettävää. Jos ei, kirjoita minulle viestiä. Yritän sitten parantaa sitä.
 
 ## Kuvia
 
@@ -44,21 +44,21 @@ Koska syön yleensä alakerrassa perheeni kanssa, keittiö on hyvin spartalainen
 ### Seuraavat asiat ovat saatavilla keittiössä
 
 1.  Lauma
-2.  Kattila
-3.  Astiat ruokailuvälineet
+2.  Vedenkeitin
+3.  Astiat, ruokailuvälineet
 4.  Jääkaappi
 5.  Pizza uuni
-6.  Mineraalivesi
+6.  kivennäisvettä
 7.  Kännykän latausasema hyllyssä
 8.  pesukone
 
 ### FAQ - Keittiö
 
-1.  Liesi ei toimi? sano
+1.  Liesi ei toimi? Ole hyvä ja sano
     > "Tietokone, työpöytä ja"
 2.  Missä voin pestä? Tämä toimii vain kylpyhuoneessa. Astioiden pesua varten on erityinen astia.
 
-## Huoneesi
+## Sinun huoneesi
 
 Patjat asetetaan päällekkäin vain säilytystä varten. Voit jakaa niitä tarpeidesi mukaan. 
 Jos vaihdat sohvan tyynyt patjaan, se toimii hyvin sänkynä.
@@ -80,7 +80,7 @@ Passwort: thebox
 
 Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on parempi kuin opiskelu". Et voi rikkoa mitään. Paina muutamaa painiketta ja katso mitä tapahtuu. Jos haluat vielä opiskella, tässä on sinulle sopivaa luettavaa:
 
-| Kuva                                                      | Kuvaus                                                                                                                                                                                                                                        |
+| kuva                                                      | Kuvaus                                                                                                                                                                                                                                        |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | V: Bluetoothbox<br>B: Keijuvalot<br>C: Pöytälamppu<br>D:_tiedosto_<br>Mestari: Vaihda kaikki samaan aikaan                                                                                                                                    |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Ennen kuin voit käyttää sitä, varmista, että sisäänkäynnin valokytkin on asennossa "on".**<br>Ensimmäinen rivi: kirkkaus, päällä/pois<br>Värilliset painikkeet: Voit muuttaa värejä tällä<br>Harmaat painikkeet: Vaihda tehosteiden välillä |
@@ -88,7 +88,7 @@ Vanha saksalainen sanonta pätee kaikkiin kaukosäätimiin: "Yrittäminen on par
 
 ### FAQ - Huoneesi
 
-1.  Valo ei syty tai vilkkuu villisti Käytä pieniä kaukosäätimiä värikkäillä painikkeilla.
+1.  Valo ei syty tai vilkkuu villisti. Käytä pieniä kaukosäätimiä värikkäillä painikkeilla.
 
 ### kylpyhuone
 
@@ -96,7 +96,7 @@ Voit käyttää suihkua seisten. Ei haittaa, jos maa hieman kastuu. Kytke vesi p
 
 Seinällä oleva Alexa on nimeltään "Computer", ja se soittaa myös suosikkimusiikkiasi tai radiota. Esim. "_Tietokone, pelaa Deutschlandfunk Novaa_"
 
-Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi niistä on sinun.
+Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Kylpyhuoneen oven edessä on hylly. Yksi osa siitä on sinun.
 
 ### Käytävä
 
@@ -104,9 +104,9 @@ Olet tervetullut jättämään kengät tänne. Minulla on myös pieni muistileht
 
 # Sekalaista
 
-## Älykoti
+## Älykäs koti
 
-Kylpyhuoneessa ja keittiössä on Alexa-ääniavustaja. Voit kutsua heitä nimellä “Computer” ja saada heidät soittamaan esimerkiksi Deutschlandfunk Novaa. He ymmärtävät saksaa ja myös englantia. Jos et halua käyttää niitä, 
+Kylpyhuoneessa ja keittiössä on Alexa-ääniavustaja. Voit kutsua heidät nimellä ”Computer” ja saada heidät soittamaan esimerkiksi Deutschlandfunk Novaa. He ymmärtävät saksaa ja myös englantia. Jos et halua käyttää niitä, 
 Voit myös irrottaa sen virtalähteestä.
 
 Huoneessasi ei ole ääniavustajia. Hyllyssä oleva kori sisältää vain reitittimen ja pienen tietokoneen.
@@ -131,9 +131,9 @@ Joko käytät etuoven avainta tai kurkotat portin läpi ja tunnet oven avaavan p
 
 ### Keltainen? Sininen? Vihreä? Ruskea?
 
-Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan roskakoriin.
+Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat aina vihreään roskakoriin. Jäljelle jäänyt jäte päätyy sinne. Ammattilaiset laittavat paperijätteen siniseen roskakoriin, kierrätysmateriaalit keltaiseen ja orgaaniset jätteet ruskeaan.
 
-### Pyörät
+### Polkupyörät
 
 ### Onko pyöräni turvallinen?
 
@@ -142,14 +142,14 @@ Jos uskot tilastoihin, Leipzigissä varastetaan vuosittain eniten polkupyöriä 
 
 ### Mitä vaihtoehtoja on olemassa?
 
-Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 minuutin kyytiä_Seuraavat pyörät_. Huomaa, että se maksaa enemmän, jos et pysäköi polkupyöriäsi pääkaduille (violetti kartalla). E-skootterit saa pysäköidä vain tietyille pysäköintipaikoille. Siellä on myös vapaasti kelluva autonjakojärjestelmä. Se tarkoittaa meidän kanssamme[cityflitzer](https://cityflitzer.de/). Ja tietysti on busseja ja junia, jotka voit maksaa myös Leipzig MOVE -sovelluksen kautta.
+kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 minuutin kyytiä_Seuraavat pyörät_. Huomaa, että se maksaa enemmän, jos et pysäköi polkupyöriäsi pääkaduille (violetti kartalla). E-skootterit saa pysäköidä vain tietyille pysäköintipaikoille. Siellä on myös vapaasti kelluva autonjakojärjestelmä. Se tarkoittaa meidän kanssamme[cityflitzer](https://cityflitzer.de/). Ja tietysti on busseja ja junia, jotka voit maksaa myös Leipzig MOVE -sovelluksen kautta.
 
-# Tarkista
+# Checkout
 
 ## Avain
 
 -   Riippuen siitä, mikä viikonpäivä on, voimme sanoa hyvästit henkilökohtaisesti tai voit laittaa avaimet pöydälle ja sulkea oven perässäsi.
--   Viimeisin maksuaika on lähtöpäivänä klo 19.
+-   Der späteste Zeitpunkt für den Checkout ist am Abreisetag 19 Uhr.
 
 ## puhdistus
 
@@ -157,7 +157,7 @@ Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 -   Pesen myös astiat ja
 -   Vien roskat myös pois.
 
-> Lyhyt versio: Jätä avain sinne, sulje ovi, siinä kaikki. 😀
+> Lyhyt versio: Jätä avain sinne, sulje ovi, se on siinä. 😀
 
 # Pidempi oleskelu
 
@@ -167,15 +167,15 @@ Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 
 Voit käyttää pesukonetta kysymättä ensin. Voit käyttää myös kuivaustelinettä, pesujauhetta ja huuhteluainetta. Jos haluat uudet vuodevaatteet, puhu minulle.
 
-## Käsiharja ja roskalappu
+## Käsiharja ja pölypannu
 
-Keittiöstä löytyy käsiharja ja seinälle sivellin. Tämä auttaa sinua pääsemään eroon pienestä lialta.
+In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Damit bekommst du den kleinen Dreck weg.
 
 ## Pyyhi
 
-Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppaukseen. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
+Vihreää puhdistusainetta löytyy kylpyhuoneesta suihkupullosta moppausta varten. Yhdessä talouspaperin kanssa tätä voidaan käyttää pintojen puhdistamiseen helposti.
 
-## Imuri
+## Pölynimuri
 
 Minulla on robottipölynimuri lattialle.
 Ennen kuin aloitat, poista kaikki lattialla oleva tieltä.
@@ -188,7 +188,7 @@ Kun se on valmis, laita se takaisin latausasemaan!
 
 # Vinkkejä
 
-Kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 minuutin kyytiä_Seuraavat pyörät_.
+kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 minuutin kyytiä_Seuraavat pyörät_.
 Huomaa, että se maksaa enemmän, jos et pysäköi Rafia pääkaduille (violetti kartalla).
 E-skootterit saa pysäköidä vain tietyille pysäköintipaikoille.
 
