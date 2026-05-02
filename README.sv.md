@@ -20,7 +20,7 @@ På min AirBnB får du en detaljerad översikt över alla rum och faciliteter. H
 
 Du får två par nycklar, vardera med en nyckel för botten och en för toppen. Det finns också en nyckel på en nyckelring som du kan använda för att låsa ditt rum.
 
-## internetåtkomst
+## tillgång till internet
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -35,9 +35,9 @@ Eller så skannar du den här QR-koden, den ansluter dig automatiskt till nätve
 
 ![Raumplan](_media/thebox-map.png)
 
-## Küche
+## Kök
 
-Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt spartanskt. Tyvärr går det bara att diska i handfatet i badrummet. Men det finns en speciell behållare för diskning.
+Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt spartanskt. Tyvärr går det bara att diska i handfatet i badrummet. Men det finns en speciell behållare för disk.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -45,16 +45,16 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 
 1.  Besättning
 2.  Vattenkokare
-3.  Diskbestick
+3.  Fat, bestick
 4.  Kylskåp
 5.  Pizzaugn
-6.  Mineral vatten
+6.  mineralvatten
 7.  Laddstation för mobiltelefon på hyllan
 8.  tvättmaskin
 
 ### FAQ - Kök
 
-1.  Kaminen fungerar inte? snälla säg
+1.  Fungerar inte kaminen? Snälla säg
     > "Dator, arbetsbänk och"
 2.  Var kan jag diska? Detta fungerar bara i badrummet. Det finns en speciell behållare för att diska.
 
@@ -63,7 +63,7 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 Madrasserna placeras ovanpå varandra endast för förvaring. Du kan distribuera dem efter dina behov. 
 Byter du ut kuddarna i soffan mot en madrass fungerar den bra som säng.
 
-### Die Zugangsdaten für den Computer (iMac) sind
+### Inloggningsuppgifterna för datorn (iMac) är
 
 ```txt
 Nutzer:   thebox
@@ -80,7 +80,7 @@ Passwort: thebox
 
 Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre att försöka än att studera". Du kan inte bryta någonting. Tryck på några knappar och se vad som händer. Om du fortfarande vill studera, här är rätt läsning för dig:
 
-| Illustration                                              | Beskrivning                                                                                                                                                                                                                                |
+| illustration                                              | Beskrivning                                                                                                                                                                                                                                |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | S: Bluetoothbox<br>B: Fairy lights<br>C: Skrivbordslampa<br>D:_fil_<br>Mästare: Byt allt på samma gång                                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Innan du kan använda den, se till att ljusströmbrytaren vid entrén är inställd på "på".**<br>Första raden: ljusstyrka, på/av<br>Färgade knappar: Du kan använda detta för att ändra färgerna<br>Grå knappar: Växla mellan olika effekter |
@@ -88,15 +88,15 @@ Ett gammalt tyskt talesätt gäller för alla fjärrkontroller: "Det är bättre
 
 ### FAQ - Ditt rum
 
-1.  Ljuset tänds inte eller blinkar vilt Använd de små fjärrkontrollerna med de färgglada knapparna.
+1.  Ljuset tänds inte eller blinkar vilt. Använd de små fjärrkontrollerna med de färgglada knapparna.
 
 ### badrum
 
 Du kan använda duschen stående. Det är inga problem om marken blir lite blöt. Slå bara på vattnet 1/3 och häng badmattan över värmaren för att torka.
 
-Alexa på väggen går under namnet "Dator" och spelar även din favoritmusik eller radio. T.ex. "_Dator, spela Deutschlandfunk Nova_"
+Alexa på väggen går under namnet "Dator" och spelar även din favoritmusik eller radio. Till exempel. "_Dator, spela Deutschlandfunk Nova_"
 
-Du kan hänga handdukar på alla krokar och ställa dina saker var som helst. Det finns en hylla framför badrumsdörren. En av dem är din.
+Du kan hänga handdukar på alla krokar och ställa dina saker var som helst. Det finns en hylla framför badrumsdörren. En del av den är din.
 
 ### Hall
 
@@ -137,19 +137,19 @@ Undrar du varför sopkärlen har olika färger? Om du är osäker, lägg alltid 
 
 ### Är min cykel säker?
 
-Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många platser och brukar köra genom landsbygden.
-Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 år som gått sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
+Leipzig är en mycket cykelvänlig stad. Genom den stora stadsparken som delar staden i två halvor kan man ta sig till många ställen och brukar köra genom landsbygden.
+Om man tror på statistiken så stjäls flest cyklar per capita i Leipzig varje år. (1 539 stulna cyklar per 100 000 invånare) Under de 15 åren sedan jag har bott här på Hardenbergstraße har jag aldrig fått en cykel stulen och jag känner bara till en granne vars cykel stals från hans bakgård. Jag kopplar den alltid direkt till räcket.
 
 ### Vilka alternativ finns det?
 
 Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minuter vardera för_Nextbikes_. Observera att det kostar mer om du inte parkerar dina cyklar på huvudgatorna (lila på kartan). El-skotrarna får endast parkeras på vissa parkeringsplatser. Det finns också ett friflytande bildelningssystem. Det betyder med oss[cityflitzer](https://cityflitzer.de/). Och självklart finns det bussar och tåg som du också kan betala för via Leipzig MOVE-appen.
 
-# Kolla upp
+# Kassa
 
 ## Nyckel
 
 -   Beroende på vilken veckodag det är kan vi säga hejdå personligen, eller så kan du helt enkelt lägga nycklarna på skrivbordet och stänga dörren efter dig.
--   Senaste tid för utcheckning är 19.00 på avresedagen.
+-   Senaste tid för kassan är 19.00. på avresedagen.
 
 ## rengöring
 
@@ -167,7 +167,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 Du kan använda tvättmaskinen utan att behöva fråga först. Du kan också använda torkställning, tvättpulver och sköljmedel. Om du vill ha nya sängkläder är det bara att prata med mig.
 
-## Handborste och sopskanna
+## Handborste och dammpanna
 
 I köket hittar du en handborste och en soptunna på väggen. Detta hjälper dig att bli av med den lilla smutsen.
 
