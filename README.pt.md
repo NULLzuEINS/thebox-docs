@@ -20,7 +20,7 @@ No meu AirBnB você tem uma visão detalhada de todos os quartos e instalações
 
 Você recebe dois pares de chaves, cada um com uma chave para a parte inferior e outra para a parte superior. Há também uma chave em um chaveiro que você pode usar para trancar seu quarto.
 
-## Acesso à internet
+## acesso à Internet
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -45,16 +45,16 @@ Como costumo comer lá embaixo com minha família, a cozinha é muito espartana.
 
 1.  Rebanho
 2.  Chaleira
-3.  Talheres de pratos
+3.  Pratos, talheres
 4.  Frigorífico
 5.  Forno de pizza
-6.  Água mineral
+6.  água mineral
 7.  Estação de carregamento de celular na prateleira
 8.  máquina de lavar
 
 ### Perguntas frequentes - Cozinha
 
-1.  Fogão não funciona? por favor diga
+1.  Fogão não funciona? Por favor diga
     > "Computador, Bancada de trabalho e"
 2.  Onde posso me lavar? Isso só funciona no banheiro. Existe um recipiente especial para lavar louça.
 
@@ -80,7 +80,7 @@ Passwort: thebox
 
 Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é melhor do que estudar”. Você não pode quebrar nada. Pressione alguns botões e veja o que acontece. Se você ainda quer estudar, aqui está a leitura certa para você:
 
-| Ilustração                                                | Descrição                                                                                                                                                                                                                                                               |
+| ilustração                                                | Descrição                                                                                                                                                                                                                                                               |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Caixa Bluetooth<br>B: Luzes de fada<br>C: Candeeiro de mesa<br>D:_arquivo_<br>Mestre: Troque tudo ao mesmo tempo                                                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Antes de poder usá-lo, certifique-se de que o interruptor da luz da entrada esteja na posição "ligado".**<br>Primeira linha: brilho, ligar/desligar<br>Botões coloridos: você pode usar isso para alterar as cores<br>Botões cinza: Alternar entre diferentes efeitos |
@@ -88,23 +88,23 @@ Um velho ditado alemão se aplica a todos os controles remotos: “Tentar é mel
 
 ### Perguntas frequentes - Seu quarto
 
-1.  A luz não acende ou pisca muito. Use os pequenos controles remotos com botões coloridos.
+1.  A luz não acende ou pisca descontroladamente. Use os pequenos controles remotos com botões coloridos.
 
 ### banheiro
 
 Você pode usar o chuveiro em pé. Não há problema se o solo ficar um pouco molhado. Ligue a água apenas 1/3 e pendure o tapete de banho sobre o aquecedor para secar.
 
-A Alexa na parede atende pelo nome de “Computador” e também toca sua música ou rádio favorita. Por exemplo. "_Computador, jogue Deutschlandfunk Nova_"
+A Alexa na parede atende pelo nome de “Computador” e também toca sua música ou rádio favorita. Por exemplo "_Computador, jogue Deutschlandfunk Nova_"
 
-Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualquer lugar. Há uma prateleira na frente da porta do banheiro. Um deles é seu.
+Você pode pendurar toalhas em todos os ganchos e colocar suas coisas em qualquer lugar. Há uma prateleira na frente da porta do banheiro. Um pedaço dele é seu.
 
 ### Corredor
 
 Você está convidado a deixar seus sapatos aqui. Também tenho um pequeno bloco de notas na prateleira, caso você queira me contar alguma coisa.
 
-# Diversos
+# Variado
 
-## Lar inteligente
+## Casa inteligente
 
 Existem assistentes de voz Alexa no banheiro e na cozinha. Você pode chamá-los pelo nome “Computador” e fazer com que toquem Deutschlandfunk Nova, por exemplo. Eles entendem alemão e também inglês. Se você não quiser usá-los, 
 Você também pode simplesmente desconectá-lo da energia.
@@ -117,7 +117,7 @@ A temperatura e a umidade são medidas automaticamente através dos sensores. Eu
 
 ?> Certifique-se de ventilar regularmente (pelo menos uma vez por dia). Principalmente no banheiro. Certifique-se também de que o aquecimento está desligado. Obrigado 🙏
 
-## O Jardim
+## O quintal
 
 No nosso pátio você pode conectar suas bicicletas e levar seu lixo.
 
@@ -133,7 +133,7 @@ Ou você usa a chave da porta da frente ou passa pelo portão e sente o botão p
 
 Você está se perguntando por que as latas de lixo têm cores diferentes? Se não tiver certeza, coloque sempre o lixo na lixeira verde. Os resíduos residuais vão parar lá. Os profissionais colocam os resíduos de papel na lixeira azul, os recicláveis ​​na lixeira amarela e os resíduos orgânicos na lixeira marrom.
 
-### Ciclos
+### Bicicletas
 
 ### Minha bicicleta está segura?
 
@@ -149,7 +149,7 @@ Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viag
 ## Chave
 
 -   Dependendo do dia da semana, podemos nos despedir pessoalmente ou você pode simplesmente colocar as chaves na mesa e fechar a porta atrás de você.
--   O último horário para check-out é às 19h do dia da partida.
+-   O último horário para checkout é às 19h. no dia da partida.
 
 ## limpeza
 
@@ -167,7 +167,7 @@ Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viag
 
 Você pode usar a máquina de lavar sem precisar perguntar primeiro. Você também pode usar escorredor, sabão em pó e amaciante. Se quiser roupa de cama nova, é só falar comigo.
 
-## Escova de mão e pá de lixo
+## Escova manual e pá de lixo
 
 Na cozinha você encontrará uma escova manual e uma pá de lixo na parede. Isso ajudará você a se livrar da pequena sujeira.
 
