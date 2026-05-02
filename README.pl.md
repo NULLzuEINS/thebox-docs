@@ -12,11 +12,11 @@ Na moim AirBnB otrzymasz szczegółowy przegląd wszystkich pokoi i udogodnień.
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Konfiguracja z jednym łóżkiem i kanapą                                                 | Konfiguracja z dwoma łóżkami                                                  | Biurko                                                                                  |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
+| Biurko ze światłem                                                                     | Kuchnia - kuchenka                                                            | Kuchnia - herbata                                                                       |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Biurko ze światłem                                                                     | Kuchenka                                                                      | Kuchnia - herbata                                                                       |
+| Biurko ze światłem                                                                     | Kuchnia - kuchenka                                                            | Kuchnia - herbata                                                                       |
 
-## Klucz
+## Klawisz
 
 Otrzymujesz dwie pary kluczy, każdy z jednym kluczem na dole i jednym na górze. Na breloczku znajduje się również klucz, za pomocą którego można zamknąć pokój.
 
@@ -27,7 +27,7 @@ SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
+Lub zeskanuj ten kod QR, automatycznie połączy Cię z siecią:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -37,7 +37,7 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 ## Kuchnia
 
-Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. Niestety zmywanie można robić tylko w zlewie w łazience. Ale jest specjalny pojemnik do mycia naczyń.
+Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. Niestety mycie naczyń można wykonywać wyłącznie w zlewie w łazience. Ale jest specjalny pojemnik do mycia naczyń.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -45,16 +45,16 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 
 1.  Stado
 2.  Czajnik
-3.  Naczynia sztućce
+3.  Naczynia, sztućce
 4.  Lodówka
-5.  piec do pizzy
-6.  Woda mineralna
+5.  Piec do pizzy
+6.  woda mineralna
 7.  Stacja ładowania telefonów komórkowych na półce
 8.  pralka
 
 ### Często zadawane pytania - Kuchnia
 
-1.  Piec nie działa? proszę powiedz
+1.  Piec nie działa? Proszę, powiedz
     > „Komputer, stół warsztatowy”
 2.  Gdzie mogę się umyć? To działa tylko w łazience. Jest specjalny pojemnik do mycia naczyń.
 
@@ -76,11 +76,11 @@ Passwort: thebox
 2.  Komputery i drukarki
 3.  Piloty do sterowania oświetleniem i prądem
 
-### Zdalne sterowanie
+### Piloty zdalnego sterowania
 
 Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować niż się uczyć”. Nie możesz niczego złamać. Naciśnij kilka przycisków i zobacz, co się stanie. Jeśli nadal chcesz się uczyć, oto odpowiednia lektura dla Ciebie:
 
-| Ilustracja                                                | Opis                                                                                                                                                                                                                                                                             |
+| ilustracja                                                | Opis                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Odp.: Bluetoothbox<br>B: Bajkowe światełka<br>C: Lampka na biurko<br>D:_plik_<br>Mistrz: Przełącz wszystko w tym samym czasie                                                                                                                                                    |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Zanim będziesz mógł z niego skorzystać, upewnij się, że włącznik światła przy wejściu jest ustawiony na „włączony”.**<br>Pierwsza linia: jasność, wł./wył<br>Kolorowe przyciski: Można ich używać do zmiany kolorów<br>Szare przyciski: przełączanie pomiędzy różnymi efektami |
@@ -88,7 +88,7 @@ Stare niemieckie powiedzenie dotyczy wszystkich pilotów: „Lepiej próbować n
 
 ### Często zadawane pytania - Twój pokój
 
-1.  Światło nie włącza się lub miga gwałtownie. Użyj małych pilotów z kolorowymi przyciskami.
+1.  Lampka nie zapala się lub miga gwałtownie. Korzystaj z małych pilotów z kolorowymi przyciskami.
 
 ### łazienka
 
@@ -96,11 +96,11 @@ Z prysznica można korzystać na stojąco. Nie stanowi to problemu, jeśli ziemi
 
 Alexa na ścianie nosi nazwę „Komputer” i odtwarza także Twoją ulubioną muzykę lub radio. Np. "_Komputerze, włącz Deutschlandfunk Nova_"
 
-Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jeden z nich jest Twój.
+Możesz powiesić ręczniki na wszystkich haczykach i położyć swoje rzeczy w dowolnym miejscu. Przed drzwiami do łazienki znajduje się półka. Jedna jego część jest Twoja.
 
 ### Korytarz
 
-Zapraszamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
+Zachęcamy do pozostawienia tutaj swoich butów. Mam też na półce mały notatnik, na wypadek gdybyś chciała mi coś powiedzieć.
 
 # Różnorodny
 
@@ -115,7 +115,7 @@ W Twoim pokoju nie ma asystentów głosowych. W koszyku na półce mieści się 
 
 Temperatura i wilgotność są mierzone automatycznie za pomocą czujników. Używam ich, aby zapobiec tworzeniu się pleśni. Są małe i białe i zwykle leżą na ościeżnicach drzwi. Część danych pomiarowych możesz odczytać w lustrze w przedpokoju.
 
-?> Pamiętaj o regularnej wentylacji (przynajmniej raz dziennie). Szczególnie w łazience. Upewnij się także, że ogrzewanie jest wyłączone. Dziękuję 🙏
+?> Pamiętaj o regularnej wentylacji (przynajmniej raz dziennie). Zwłaszcza w łazience. Upewnij się także, że ogrzewanie jest wyłączone. Dziękuję 🙏
 
 ## Podwórko
 
@@ -133,7 +133,7 @@ Albo użyjesz klucza do drzwi wejściowych, albo sięgniesz przez bramę i poczu
 
 Zastanawiasz się dlaczego kosze na śmieci mają różne kolory? Jeżeli nie jesteś pewien, zawsze wrzucaj śmieci do zielonego kosza. Tam trafiają resztki odpadów. Profesjonaliści wrzucają odpady papierowe do niebieskiego pojemnika, surowce wtórne do żółtego, a odpady organiczne do brązowego.
 
-### Cykle
+### Rowery
 
 ### Czy mój rower jest bezpieczny?
 
@@ -146,10 +146,10 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych prz
 
 # Wymeldować się
 
-## Klucz
+## Klawisz
 
 -   W zależności od tego, jaki jest dzień tygodnia, możemy pożegnać się osobiście lub po prostu odłożyć klucze na biurko i zamknąć za sobą drzwi.
--   Najpóźniejszy termin wymeldowania to godzina 19:00 w dniu wyjazdu.
+-   Najpóźniejszy czas na wymeldowanie to 19:00. w dniu wyjazdu.
 
 ## czyszczenie
 
@@ -167,7 +167,7 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych prz
 
 Możesz korzystać z pralki bez konieczności wcześniejszego pytania. Możesz także użyć suszarki, proszku do prania i płynu zmiękczającego do tkanin. Jeśli chcesz nową pościel, po prostu porozmawiaj ze mną.
 
-## Ręczna szczotka i szufelka
+## Szczotka ręczna i pojemnik na kurz
 
 W kuchni znajdziesz ręczną szczotkę i szufelkę na ścianie. Dzięki temu pozbędziesz się drobnych zabrudzeń.
 
