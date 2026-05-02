@@ -45,16 +45,16 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 
 1.  Herd
 2.  Kettle
-3.  Dishes cutlery
+3.  Dishes, cutlery
 4.  Refrigerator
 5.  Pizza oven
-6.  Mineral water
+6.  mineral water
 7.  Cell phone charging station on the shelf
 8.  washing machine
 
 ### FAQ - Kitchen
 
-1.  Stove not working? please say
+1.  Stove not working? Please say
     > "Computer, Workbench an"
 2.  Where can I wash up? This only works in the bathroom. There is a special container for washing dishes.
 
@@ -80,7 +80,7 @@ Passwort: thebox
 
 An old German saying applies to all remote controls: “Trying is better than studying”. You can't break anything. Press a few buttons and see what happens. If you still want to study, here is the right reading for you:
 
-| Illustration                                              | Description                                                                                                                                                                                                                         |
+| illustration                                              | Description                                                                                                                                                                                                                         |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Desk lamp<br>D:_file_<br>Master: Switch everything at the same time                                                                                                                        |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Before you can use it, make sure the light switch at the entrance is set to "on".**<br>First line: brightness, on/off<br>Colored buttons: You can use this to change the colors<br>Gray buttons: Switch between different effects |
@@ -96,7 +96,7 @@ You can use the shower while standing. It's not a problem if the ground gets a l
 
 The Alexa on the wall goes by the name “Computer” and also plays your favorite music or radio. E.g. "_Computer, play Deutschlandfunk Nova_"
 
-You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One of them is yours.
+You can hang towels on all hooks and put your things anywhere. There is a shelf in front of the bathroom door. One piece of it is yours.
 
 ### Hallway
 
@@ -133,7 +133,7 @@ Either you use the front door key, or you reach through the gate and feel the bu
 
 Are you wondering why the garbage cans have different colors? If you are unsure, always put the trash in the green bin. The residual waste ends up in there. Professionals put paper waste in the blue bin, recyclables in the yellow bin and organic waste in the brown bin.
 
-### Cycles
+### Bicycles
 
 ### Is my bike safe?
 
@@ -167,7 +167,7 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 
 You can use the washing machine without having to ask first. You can also use the drying rack, washing powder and fabric softener. If you would like new bed linen, just talk to me.
 
-## Hand brush and dustpan
+## Hand brush and dust pan
 
 In the kitchen you will find a hand brush and a dustpan on the wall. This will help you get rid of the small dirt.
 
