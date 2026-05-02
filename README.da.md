@@ -2,7 +2,7 @@
 
 Hej og velkommen til "Boksen"! Når jeg rejser, kan jeg også godt lide at bo i AirBnB's, og nogle gange ville jeg ønske, at jeg havde et stykke papir med alle de nødvendige oplysninger om overnatning, ind- og udtjekning, og dette er mit forsøg på at gøre det bedre.
 
-> [!En meddelelse]Jeg får dokumentet automatisk oversat til dit sprog. Jeg håber det er lidt forståeligt. Hvis ikke, er du velkommen til at skrive en besked til mig. Så prøver jeg at forbedre det.
+> [!En meddelelse]Jeg vil få dokumentet automatisk oversat til dit sprog. Jeg håber det er lidt forståeligt. Hvis ikke, er du velkommen til at skrive en besked til mig. Så prøver jeg at forbedre det.
 
 ## Billeder
 
@@ -37,7 +37,7 @@ Eller du scanner denne QR-kode, den vil automatisk forbinde dig til netværket:
 
 ## Køkken
 
-Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
+Da jeg plejer at spise nedenunder med min familie, er køkkenet meget spartansk. Desværre kan opvask kun ske i håndvasken på badeværelset. Men der er en speciel beholder til opvask.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -45,16 +45,16 @@ Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. 
 
 1.  Flok
 2.  Kedel
-3.  Fade bestik
+3.  Fade, bestik
 4.  Køleskab
 5.  Pizzaovn
-6.  Mineralvand
+6.  mineralvand
 7.  Mobiltelefon ladestation på hylden
 8.  vaskemaskine
 
 ### FAQ - Køkken
 
-1.  Virker komfuret ikke? Vær 'sød at sige
+1.  Virker komfuret ikke? Sig venligst
     > "Computer, Workbench og"
 2.  Hvor kan jeg vaske op? Dette virker kun på badeværelset. Der er en speciel beholder til opvask.
 
@@ -80,7 +80,7 @@ Passwort: thebox
 
 Et gammelt tysk ordsprog gælder for alle fjernbetjeninger: "Det er bedre at prøve end at studere". Du kan ikke bryde noget. Tryk på et par knapper og se, hvad der sker. Hvis du stadig vil studere, er her den rigtige læsning for dig:
 
-| Illustration                                              | Beskrivelse                                                                                                                                                                                                                                         |
+| illustration                                              | Beskrivelse                                                                                                                                                                                                                                         |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Bordlampe<br>D:_fil_<br>Mester: Skift alt på samme tid                                                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Før du kan bruge den, skal du sørge for, at lyskontakten ved indgangen er sat til "tændt".**<br>Første linje: lysstyrke, tænd/sluk<br>Farvede knapper: Du kan bruge dette til at ændre farverne<br>Grå knapper: Skift mellem forskellige effekter |
@@ -88,7 +88,7 @@ Et gammelt tysk ordsprog gælder for alle fjernbetjeninger: "Det er bedre at pr�
 
 ### FAQ - Dit værelse
 
-1.  Lyset tænder ikke eller blinker vildt Brug de små fjernbetjeninger med de farverige knapper.
+1.  Lyset tænder ikke eller blinker vildt. Brug de små fjernbetjeninger med de farverige knapper.
 
 ### badeværelse
 
@@ -96,7 +96,7 @@ Du kan bruge bruseren, mens du står. Det er ikke noget problem, hvis jorden bli
 
 Alexaen på væggen går under navnet "Computer" og spiller også din yndlingsmusik eller radio. F.eks. "_Computer, spil Deutschlandfunk Nova_"
 
-Du kan hænge håndklæder på alle kroge og sætte dine ting hvor som helst. Der er en hylde foran badeværelsesdøren. En af dem er din.
+Du kan hænge håndklæder på alle kroge og sætte dine ting hvor som helst. Der er en hylde foran badeværelsesdøren. Et stykke af det er dit.
 
 ### Gang
 
@@ -106,7 +106,7 @@ Du er velkommen til at efterlade dine sko her. Jeg har også en lille notesblok 
 
 ## Smart hjem
 
-Der er Alexa stemmeassistenter på badeværelset og i køkkenet. Du kan adressere dem med navnet "Computer" og få dem til at spille Deutschlandfunk Nova, for eksempel. De forstår tysk og også engelsk. Hvis du ikke vil bruge dem, 
+Der er Alexa stemmeassistenter på badeværelset og køkkenet. Du kan adressere dem med navnet "Computer" og få dem til at spille Deutschlandfunk Nova, for eksempel. De forstår tysk og også engelsk. Hvis du ikke vil bruge dem, 
 Du kan også blot afbryde den fra strømmen.
 
 Der er ingen stemmeassistenter på dit værelse. Kurven på hylden indeholder kun routeren og en lille computer.
@@ -117,7 +117,7 @@ Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til
 
 ?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Især på badeværelset. Sørg også for, at varmen er slukket. Tak 🙏
 
-## Gården
+## Der Hof
 
 I vores gårdhave kan du tilslutte dine cykler og tage dit affald væk.
 
@@ -138,7 +138,7 @@ Undrer du dig over, hvorfor skraldespandene har forskellige farver? Hvis du er u
 ### Er min cykel sikker?
 
 Leipzig er en meget cykelvenlig by. Gennem den store bypark, der deler byen i to halvdele, kan man komme mange steder hen og normalt køre gennem landskabet.
-Hvis man skal tro statistikken, så stjæles der flest cykler pr. indbygger i Leipzig hvert år. (1.539 stjålne cykler pr. 100.000 indbyggere) I de 15 år, siden jeg har boet her på Hardenbergstraße, har jeg aldrig fået stjålet en cykel, og jeg kender kun én nabo, hvis cykel blev stjålet fra hans baghave. Jeg forbinder den altid direkte til rækværket.
+Hvis man skal tro statistikken, så stjæles der hvert år flest cykler pr. indbygger i Leipzig. (1.539 stjålne cykler pr. 100.000 indbyggere) I de 15 år, siden jeg har boet her på Hardenbergstraße, har jeg aldrig fået stjålet en cykel, og jeg kender kun én nabo, hvis cykel blev stjålet fra hans baghave. Jeg forbinder den altid direkte til rækværket.
 
 ### Hvilke alternativer er der?
 
@@ -149,9 +149,9 @@ Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 1
 ## Nøgle
 
 -   Alt efter hvilken ugedag det er, kan vi sige farvel personligt, eller du kan blot lægge nøglerne på skrivebordet og lukke døren efter dig.
--   Seneste tidspunkt for udtjekning er kl. 19 på afrejsedagen.
+-   Seneste tidspunkt for udtjekning er kl. på afrejsedagen.
 
-## rengøring
+## rensning
 
 -   Du kan efterlade sengetøj på den.
 -   Jeg vasker også op og
@@ -167,7 +167,7 @@ Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 1
 
 Du kan bruge vaskemaskinen uden at skulle spørge først. Du kan også bruge tørrestativ, vaskepulver og skyllemiddel. Hvis du gerne vil have nyt sengetøj, så tal bare med mig.
 
-## Håndbørste og fejebakke
+## Håndbørste og støvbeholder
 
 I køkkenet finder du en håndbørste og en fejebakke på væggen. Dette vil hjælpe dig med at slippe af med det lille snavs.
 
@@ -181,7 +181,7 @@ Jeg har en robotstøvsuger til gulvet.
 Før du kan starte, skal du rydde alt på gulvet af vejen.
 Især ledninger eller andre ting, som robotten kunne blive kvalt af.
 Sæt den derefter på dit værelse og tryk én gang på knappen øverst.
-Hvis der ikke sker noget, skal du bruge tænd/sluk-knappen på siden og bagefter
+Hvis der ikke sker noget, skal du bruge tænd/sluk-knappen på siden og efter
 tænd den igen ved hjælp af knappen øverst.
 
 Når det er færdigt, skal du sætte det tilbage i ladestationen!
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Lavet med ❤️ af [docsificere](https://docsify.js.org/)_
+_Lavet med ❤️ af [dokumentere](https://docsify.js.org/)_
