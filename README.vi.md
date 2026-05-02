@@ -2,9 +2,9 @@
 
 Xin chào và chào mừng đến với “Hộp”! Khi đi du lịch, tôi cũng thích ở AirBnB's và đôi khi tôi ước mình có một mảnh giấy ghi đầy đủ thông tin cần thiết về chỗ ở, nhận phòng và trả phòng và đây là nỗ lực của tôi để làm cho nó tốt hơn.
 
-> [!Một ghi chú]Tôi sẽ dịch tài liệu này tự động sang ngôn ngữ của bạn. Tôi hy vọng nó có thể hiểu được phần nào. Nếu không, vui lòng viết tin nhắn cho tôi. Sau đó tôi cố gắng cải thiện nó.
+> [!Một thông báo]Tôi sẽ dịch tài liệu tự động sang ngôn ngữ của bạn. Tôi hy vọng nó có thể hiểu được phần nào. Nếu không, vui lòng viết tin nhắn cho tôi. Sau đó tôi cố gắng cải thiện nó.
 
-## Những bức ảnh
+## Hình Ảnh
 
 Trên AirBnB của tôi, bạn sẽ có được cái nhìn tổng quan chi tiết về tất cả các phòng và tiện nghi. Đây chỉ là một tổng quan ngắn gọn:
 
@@ -43,18 +43,18 @@ Vì tôi thường ăn ở tầng dưới với gia đình nên căn bếp rất
 
 ### Những thứ sau đây có sẵn trong nhà bếp
 
-1.  Bầy đàn
+1.  Đàn
 2.  Ấm đun nước
-3.  Dao kéo bát đĩa
+3.  Bát đĩa, dao kéo
 4.  Tủ lạnh
-5.  lò nướng bánh pizza
-6.  Nước khoáng
+5.  Lò nướng pizza
+6.  nước khoáng
 7.  Trạm sạc điện thoại di động trên kệ
-8.  Máy giặt
+8.  máy giặt
 
 ### Câu hỏi thường gặp - Nhà bếp
 
-1.  Bếp không hoạt động? làm ơn nói
+1.  Bếp không hoạt động? Hãy nói
     > "Máy tính, bàn làm việc"
 2.  Tôi có thể rửa ở đâu? Điều này chỉ hoạt động trong phòng tắm. Có một hộp đựng đặc biệt để rửa chén.
 
@@ -80,15 +80,15 @@ Passwort: thebox
 
 Một câu nói cổ của người Đức áp dụng cho tất cả các loại điều khiển từ xa: “Cố gắng còn hơn học”. Bạn không thể phá vỡ bất cứ điều gì. Nhấn một vài nút và xem điều gì sẽ xảy ra. Nếu bạn vẫn muốn học thì đây là cách đọc phù hợp với bạn:
 
-| Hình minh họa                                             | Sự miêu tả                                                                                                                                                                                                                                                |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Đèn thần tiên<br>C: Đèn bàn<br>Đ:_tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                       |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Trước khi bạn có thể sử dụng nó, hãy đảm bảo công tắc đèn ở lối vào được đặt ở chế độ "bật".**<br>Dòng đầu tiên: độ sáng, bật/tắt<br>Các nút màu: Bạn có thể sử dụng nút này để thay đổi màu sắc<br>Nút màu xám: Chuyển đổi giữa các hiệu ứng khác nhau |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Đây là điều khiển từ xa cho máy tính (iMac)._Để sử dụng máy tính, nhấn nút A trên điều khiển từ xa đầu tiên. Nó kích hoạt nguồn điện cho máy tính và hộp Bluetooth._                                                                                      |
+| hình minh họa                                             | Sự miêu tả                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | Trả lời: Hộp Bluetooth<br>B: Lichterkette<br>C: Đèn bàn<br>D: _tài liệu_<br>Master: Chuyển đổi mọi thứ cùng một lúc                                                                                                                                            |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Trước khi bạn có thể sử dụng nó, hãy đảm bảo rằng công tắc đèn ở lối vào được đặt ở chế độ "bật".**<br>Dòng đầu tiên: độ sáng, bật/tắt<br>Các nút màu: Bạn có thể sử dụng nút này để thay đổi màu sắc<br>Nút màu xám: Chuyển đổi giữa các hiệu ứng khác nhau |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Đây là điều khiển từ xa cho máy tính (iMac)._Để sử dụng máy tính, nhấn nút A trên điều khiển từ xa đầu tiên. Nó kích hoạt nguồn điện cho máy tính và hộp Bluetooth._                                                                                           |
 
 ### Câu hỏi thường gặp - Phòng của bạn
 
-1.  Đèn không sáng hoặc nhấp nháy dữ dội. Sử dụng điều khiển từ xa nhỏ với các nút nhiều màu sắc.
+1.  Đèn không sáng hoặc nhấp nháy dữ dội. Sử dụng điều khiển từ xa nhỏ với các nút đầy màu sắc.
 
 ### phòng tắm
 
@@ -96,13 +96,13 @@ Bạn có thể sử dụng vòi hoa sen trong khi đứng. Sẽ không có vấ
 
 Alexa trên tường có tên là "Máy tính" và cũng phát nhạc hoặc đài yêu thích của bạn. Ví dụ. "_Máy tính, chơi Deutschlandfunk Nova_"
 
-Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc của mình ở bất cứ đâu. Có một chiếc kệ ở phía trước cửa phòng tắm. Một trong số đó là của bạn.
+Bạn có thể treo khăn lên tất cả các móc và đặt đồ đạc của mình ở bất cứ đâu. Có một chiếc kệ ở phía trước cửa phòng tắm. Một phần của nó là của bạn.
 
 ### hành lang
 
 Bạn có thể để lại giày của bạn ở đây. Tôi cũng có một cuốn sổ nhỏ trên kệ phòng trường hợp bạn muốn nói với tôi điều gì đó.
 
-# Điều khoản khác
+# Linh tinh
 
 ## Nhà thông minh
 
@@ -111,13 +111,13 @@ Bạn cũng có thể chỉ cần ngắt kết nối nó khỏi nguồn điện.
 
 Không có trợ lý giọng nói trong phòng của bạn. Giỏ trên kệ chỉ chứa bộ định tuyến và một máy tính nhỏ.
 
-## Nhiệt độ và độ ẩm
+## nhiệt độ và độ ẩm
 
 Nhiệt độ và độ ẩm được đo tự động thông qua các cảm biến. Tôi sử dụng chúng để ngăn chặn sự hình thành nấm mốc. Chúng nhỏ, màu trắng và thường nằm trên khung cửa. Bạn có thể đọc một số dữ liệu đo trong gương ở hành lang.
 
 ?> Hãy đảm bảo thông gió thường xuyên (ít nhất một lần một ngày). Đặc biệt là trong phòng tắm. Ngoài ra hãy chắc chắn rằng hệ thống sưởi đã được tắt. Cảm ơn bạn 🙏
 
-## Cái sân
+## Sân
 
 Trong sân của chúng tôi, bạn có thể để xe đạp và vứt rác.
 
@@ -133,41 +133,41 @@ Hoặc bạn sử dụng chìa khóa cửa trước, hoặc bạn đưa tay qua 
 
 Bạn có thắc mắc tại sao thùng rác lại có nhiều màu sắc khác nhau? Nếu bạn không chắc chắn, hãy luôn bỏ rác vào thùng màu xanh lá cây. Chất thải còn sót lại sẽ ở trong đó. Các chuyên gia bỏ rác giấy vào thùng màu xanh, rác tái chế vào thùng màu vàng và rác hữu cơ vào thùng màu nâu.
 
-### Chu kỳ
+### Xe đạp
 
-### Xe đạp của tôi có an toàn không?
+### Ist mein Fahrrad sicher?
 
 Leipzig là một thành phố rất thân thiện với xe đạp. Thông qua công viên thành phố rộng lớn chia thành phố thành hai nửa, bạn có thể đến nhiều nơi và thường lái xe qua vùng nông thôn.
 Nếu bạn tin vào số liệu thống kê thì số lượng xe đạp tính theo đầu người bị đánh cắp nhiều nhất ở Leipzig mỗi năm. (1.539 chiếc xe đạp bị đánh cắp trên 100.000 dân) Trong 15 năm kể từ khi tôi sống ở Hardenbergstraße, tôi chưa bao giờ bị đánh cắp một chiếc xe đạp và tôi chỉ biết một người hàng xóm bị mất xe đạp ở sân sau của anh ta. Tôi luôn kết nối nó trực tiếp với lan can.
 
 ### Có những lựa chọn thay thế nào?
 
-Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho_Xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định. Ngoài ra còn có hệ thống chia sẻ xe miễn phí. Điều đó có nghĩa là với chúng tôi[cityflitzer](https://cityflitzer.de/). Và tất nhiên, có những chuyến xe buýt và tàu hỏa mà bạn cũng có thể thanh toán thông qua ứng dụng Leipzig MOVE.
+Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho_xe đạp tiếp theo_. Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe đạp trên các đường phố chính (màu tím trên bản đồ). Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định. Ngoài ra còn có hệ thống chia sẻ xe miễn phí. Điều đó có nghĩa là với chúng tôi[cityflitzer](https://cityflitzer.de/). Và tất nhiên, có những chuyến xe buýt và tàu hỏa mà bạn cũng có thể thanh toán thông qua ứng dụng Leipzig MOVE.
 
-# Thủ tục thanh toán
+# Thanh toán
 
 ## Chìa khóa
 
 -   Tùy thuộc vào ngày nào trong tuần, chúng ta có thể trực tiếp nói lời tạm biệt, hoặc đơn giản là đặt chìa khóa lên bàn và đóng cửa lại sau lưng.
--   Thời gian thanh toán muộn nhất là 7 giờ tối vào ngày khởi hành.
+-   Thời gian thanh toán muộn nhất là 7 giờ tối. vào ngày khởi hành.
 
-## làm sạch
+## dọn dẹp
 
 -   Bạn có thể để lại giường trên đó.
 -   Tôi cũng rửa bát đĩa và
 -   Tôi cũng đi đổ rác.
 
-> Phiên bản ngắn: Để chìa khóa ở đó, đóng cửa lại, thế thôi. 😀
+> Phiên bản ngắn: Để chìa khóa ở đó, đóng cửa lại, thế là xong. 😀
 
 # Ở lại lâu hơn
 
-?> Một số khách của tôi ở lại một tháng hoặc lâu hơn. Nếu bạn là một trong số họ, thì phần này là dành cho bạn!
+?> Một số khách của tôi ở lại một tháng hoặc lâu hơn. Nếu bạn là một trong số họ thì phần này là dành cho bạn!
 
-## Máy giặt
+## máy giặt
 
 Bạn có thể sử dụng máy giặt mà không cần phải hỏi trước. Bạn cũng có thể sử dụng giá phơi, bột giặt và nước xả vải. Nếu bạn muốn khăn trải giường mới, hãy nói chuyện với tôi.
 
-## Bàn chải cầm tay và đồ hốt rác
+## Bàn chải cầm tay và chổi quét bụi
 
 Trong nhà bếp, bạn sẽ tìm thấy một chiếc bàn chải cầm tay và một cái hốt rác trên tường. Điều này sẽ giúp bạn loại bỏ những vết bẩn nhỏ.
 
@@ -177,7 +177,7 @@ Bạn có thể tìm thấy chất tẩy rửa màu xanh lá cây đựng trong 
 
 ## Máy hút bụi
 
-Tôi có một robot hút bụi cho sàn nhà.
+Tôi có một robot hút bụi sàn nhà.
 Trước khi bạn có thể bắt đầu, hãy dọn sạch mọi thứ trên sàn.
 Đặc biệt là dây hoặc những thứ khác mà robot có thể bị nghẹn.
 Sau đó đặt nó vào phòng của bạn và nhấn nút trên cùng một lần.
@@ -186,9 +186,9 @@ bật lại bằng nút ở trên cùng.
 
 Khi dùng xong, vui lòng đặt lại vào trạm sạc!
 
-# Lời khuyên
+# Mẹo
 
-Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho_Xe đạp tiếp theo_.
+Với[Ứng dụng Leipzig MOVE](https://leipzig-move.de/), bạn nhận được 10 chuyến đi miễn phí, mỗi chuyến 15 phút cho_xe đạp tiếp theo_.
 Lưu ý rằng chi phí sẽ cao hơn nếu bạn không đỗ xe Raf trên các đường phố chính (màu tím trên bản đồ).
 Xe tay ga điện tử chỉ có thể được đỗ ở một số chỗ đậu xe nhất định.
 
@@ -206,4 +206,4 @@ Andre
 
 * * *
 
-_Được làm bằng ❤️ bởi [làm tài liệu](https://docsify.js.org/)_
+_Made with ❤️ by  [làm tài liệu](https://docsify.js.org/)_
