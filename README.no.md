@@ -2,7 +2,7 @@
 
 Hei og velkommen til «boksen»! Når jeg reiser liker jeg også å bo i AirBnB's og noen ganger skulle jeg ønske jeg hadde et stykke papir med all nødvendig informasjon om overnatting, innsjekking og utsjekking og dette er mitt forsøk på å gjøre det bedre.
 
-> [!En merknad]Jeg vil få dokumentet automatisk oversatt til ditt språk. Jeg håper det er litt forståelig. Hvis ikke, skriv gjerne en melding til meg. Da prøver jeg å forbedre det.
+> [!Et varsel]Jeg vil få dokumentet automatisk oversatt til ditt språk. Jeg håper det er litt forståelig. Hvis ikke, skriv gjerne en melding til meg. Da prøver jeg å forbedre det.
 
 ## Bilder
 
@@ -10,7 +10,7 @@ På min AirBnB får du en detaljert oversikt over alle rommene og fasilitetene. 
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| En seng konfigurasjon med sofa                                                         | Konfigurasjon med to senger                                                   | Pulten                                                                                  |
+| En seng konfigurasjon med sofa                                                         | Zwei-Bett-Konfiguration                                                       | Skrivebord                                                                              |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Skrivebord med lys                                                                     | Kjøkken - komfyr                                                              | Kjøkken - te                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -20,7 +20,7 @@ På min AirBnB får du en detaljert oversikt over alle rommene og fasilitetene. 
 
 Du får to par nøkler, hver med en nøkkel for bunnen og en for toppen. Det er også en nøkkel på en nøkkelring som du kan bruke til å låse rommet ditt.
 
-## Internettilgang
+## Internett-tilgang
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -44,11 +44,11 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 ### Følgende ting er tilgjengelig på kjøkkenet
 
 1.  Flokk
-2.  Kjele
-3.  Geschirr, Besteck
+2.  Vannkoker
+3.  Tallerkener, bestikk
 4.  Kjøleskap
 5.  Pizzaovn
-6.  Mineralvann
+6.  mineralvann
 7.  Mobilladestasjon i hylla
 8.  vaskemaskin
 
@@ -60,7 +60,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 ## Rommet ditt
 
-Madrassene er plassert oppå hverandre kun for oppbevaringsformål. Du kan distribuere dem i henhold til dine behov. 
+Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem i henhold til dine behov. 
 Bytter du ut putene på sofaen med en madrass, fungerer den fint som seng.
 
 ### Påloggingsdetaljene for datamaskinen (iMac) er
@@ -80,7 +80,7 @@ Passwort: thebox
 
 Et gammelt tysk ordtak gjelder for alle fjernkontroller: «Å prøve er bedre enn å studere». Du kan ikke bryte noe. Trykk på noen få knapper og se hva som skjer. Hvis du fortsatt ønsker å studere, her er den rette lesestoffet for deg:
 
-| Illustrasjon                                              | Beskrivelse                                                                                                                                                                                                               |
+| Abbildung                                                 | Beskrivelse                                                                                                                                                                                                               |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Skrivebordslampe<br>D:_fil_<br>Mester: Bytt alt på samme tid                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Før du kan bruke den, sørg for at lysbryteren ved inngangen er satt til "på".**<br>Første linje: lysstyrke, på/av<br>Fargede knapper: Du kan bruke denne til å endre fargene<br>Grå knapper: Bytt mellom ulike effekter |
@@ -88,15 +88,15 @@ Et gammelt tysk ordtak gjelder for alle fjernkontroller: «Å prøve er bedre en
 
 ### FAQ - Rommet ditt
 
-1.  Lyset tennes ikke eller blinker vilt Bruk de små fjernkontrollene med de fargerike knappene.
+1.  Lyset tennes ikke eller blinker vilt. Bruk de små fjernkontrollene med de fargerike knappene.
 
 ### baderom
 
 Du kan bruke dusjen mens du står. Det er ikke noe problem hvis bakken blir litt våt. Slå bare på vannet 1/3 og heng badematten over varmeren for å tørke.
 
-Alexaen på veggen går under navnet "Computer" og spiller også favorittmusikken eller radioen din. f.eks._Datamaskin, spill Deutschlandfunk Nova_"
+Alexaen på veggen går under navnet "Computer" og spiller også favorittmusikken din eller radioen din. f.eks. "_Datamaskin, spill Deutschlandfunk Nova_"
 
-Du kan henge håndklær på alle kroker og sette tingene dine hvor som helst. Det er en hylle foran baderomsdøren. En av dem er din.
+Du kan henge håndklær på alle kroker og sette tingene dine hvor som helst. Det er en hylle foran baderomsdøren. En del av den er din.
 
 ### Gang
 
@@ -117,7 +117,7 @@ Temperatur og fuktighet måles automatisk via sensorene. Jeg bruker dem for å h
 
 ?> Sørg for å ventilere regelmessig (minst en gang om dagen). Spesielt på badet. Pass også på at varmen er slått av. Takk 🙏
 
-## Hagen
+## Verftet
 
 På gårdsplassen vår kan du koble sammen syklene og ta bort søppelet ditt.
 
@@ -131,9 +131,9 @@ Enten bruker du hoveddørnøkkelen, eller så strekker du deg gjennom porten og 
 
 ### Gul? Blå? Grønn? Brun?
 
-Lurer du på hvorfor søppeldunkene har forskjellige farger? Hvis du er usikker, legg alltid søppelet i den grønne søppelbøtta. Der havner restavfallet. Fagfolk legger papiravfall i den blå søppelkassen, resirkulerbart i den gule søppelkassen og organisk avfall i den brune søppelbøtta.
+Lurer du på hvorfor søppeldunkene har forskjellige farger? Hvis du er usikker, legg alltid søppelet i den grønne søppelbøtta. Der havner restavfallet. Fagfolk legger papiravfall i den blå dunken, resirkulerbart i den gule dunken og organisk avfall i den brune dunken.
 
-### Sykluser
+### Sykler
 
 ### Er sykkelen min trygg?
 
@@ -144,12 +144,12 @@ Skal man tro statistikken, så stjeles flest sykler per innbygger i Leipzig hver
 
 Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 minutter hver for_Nextbikes_. Merk at det koster mer hvis du ikke parkerer syklene i hovedgatene (lilla på kartet). El-scooterne kan kun parkeres på enkelte parkeringsplasser. Det er også et gratis-flytende bildelingssystem. Det betyr med oss[cityflitzer](https://cityflitzer.de/). Og selvfølgelig er det busser og tog som du også kan betale for via Leipzig MOVE-appen.
 
-# Sjekk ut
+# Kasse
 
 ## Nøkkel
 
 -   Avhengig av hvilken ukedag det er, kan vi si farvel personlig, eller du kan ganske enkelt legge nøklene på skrivebordet og lukke døren bak deg.
--   Siste tidspunkt for utsjekk er kl 19 på avreisedagen.
+-   Siste tidspunkt for utsjekking er 19.00. på avreisedagen.
 
 ## rengjøring
 
@@ -167,7 +167,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 Du kan bruke vaskemaskinen uten å måtte spørre først. Du kan også bruke tørkestativet, vaskepulver og tøymykner. Hvis du vil ha nytt sengetøy, bare snakk med meg.
 
-## Håndbørste og støvbrett
+## Håndbørste og støvpanne
 
 På kjøkkenet finner du en håndbørste og en feiebrett på veggen. Dette vil hjelpe deg å bli kvitt den lille skitten.
 
