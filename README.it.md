@@ -20,7 +20,7 @@ Sul mio AirBnB hai una panoramica dettagliata di tutte le camere e dei servizi. 
 
 Ottieni due paia di chiavi, ciascuna con una chiave per la parte inferiore e una per la parte superiore. C'è anche una chiave su un portachiavi che puoi usare per chiudere a chiave la tua stanza.
 
-## accesso ad Internet
+## Accesso a Internet
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -45,20 +45,20 @@ Dato che di solito mangio al piano di sotto con la mia famiglia, la cucina è mo
 
 1.  Gregge
 2.  Bollitore
-3.  Piatti posate
+3.  Piatti, posate
 4.  Frigorifero
 5.  Forno per pizze
-6.  Acqua minerale
+6.  acqua minerale
 7.  Stazione di ricarica per cellulare sullo scaffale
 8.  lavatrice
 
 ### Domande frequenti - Cucina
 
-1.  La stufa non funziona? per favore dì
-    > "Computer, Werkbank an"
+1.  La stufa non funziona? Per favore, dillo
+    > "Computer, banco di lavoro e"
 2.  Dove posso lavarmi? Funziona solo in bagno. C'è un contenitore speciale per lavare i piatti.
 
-## La vostra stanza
+## La tua stanza
 
 I materassi sono posizionati uno sopra l'altro solo a scopo di stoccaggio. Puoi distribuirli in base alle tue esigenze. 
 Se sostituisci i cuscini del divano con un materasso, funziona bene come letto.
@@ -76,11 +76,11 @@ Passwort: thebox
 2.  Computer e stampanti
 3.  Telecomandi per luci ed elettricità
 
-### Controlli remoti
+### Telecomandi
 
 Per tutti i telecomandi vale un vecchio detto tedesco: “Provare è meglio che studiare”. Non puoi rompere nulla. Premi alcuni pulsanti e guarda cosa succede. Se hai ancora voglia di studiare, ecco la lettura giusta per te:
 
-| Illustrazione                                             | Descrizione                                                                                                                                                                                                                                              |
+| illustrazione                                             | Descrizione                                                                                                                                                                                                                                              |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Scatola Bluetooth<br>B: Lucine<br>C: Lampada da scrivania<br>D:_file_<br>Maestro: Cambia tutto allo stesso tempo                                                                                                                                      |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Prima di poterlo utilizzare, assicurati che l'interruttore della luce all'ingresso sia impostato su "on".**<br>Prima riga: luminosità, on/off<br>Pulsanti colorati: puoi usarli per cambiare i colori<br>Pulsanti grigi: passa da un effetto all'altro |
@@ -88,7 +88,7 @@ Per tutti i telecomandi vale un vecchio detto tedesco: “Provare è meglio che 
 
 ### FAQ - La tua camera
 
-1.  La luce non si accende o lampeggia all'impazzata. Usa i piccoli telecomandi con i pulsanti colorati.
+1.  La luce non si accende o lampeggia all'impazzata. Utilizza i piccoli telecomandi con i pulsanti colorati.
 
 ### bagno
 
@@ -96,7 +96,7 @@ Puoi usare la doccia stando in piedi. Non è un problema se il terreno si bagna 
 
 L'Alexa sul muro si chiama "Computer" e riproduce anche la tua musica o radio preferita. Per esempio. "_Computer, riproduci Deutschlandfunk Nova_"
 
-Puoi appendere gli asciugamani a tutti i ganci e riporre le tue cose ovunque. C'è uno scaffale davanti alla porta del bagno. Uno di questi è tuo.
+Puoi appendere gli asciugamani a tutti i ganci e riporre le tue cose ovunque. C'è uno scaffale davanti alla porta del bagno. Un pezzo è tuo.
 
 ### Corridoio
 
@@ -133,12 +133,12 @@ O usi la chiave della porta d'ingresso, oppure raggiungi il cancello e senti il 
 
 Ti stai chiedendo perché i bidoni della spazzatura hanno colori diversi? Se non sei sicuro, getta sempre la spazzatura nel cestino verde. I rifiuti residui finiscono lì. I professionisti mettono la carta nel contenitore blu, i materiali riciclabili nel contenitore giallo e i rifiuti organici nel contenitore marrone.
 
-### Cicli
+### Biciclette
 
 ### La mia bici è sicura?
 
 Lipsia è una città molto bike-friendly. Attraverso il grande parco cittadino che divide la città in due metà, si possono raggiungere molti luoghi e solitamente si attraversa la campagna.
-Secondo le statistiche, ogni anno a Lipsia viene rubata la maggior parte delle biciclette pro capite. (1.539 biciclette rubate ogni 100.000 abitanti) Da quando abito qui in Hardenbergstraße, da 15 anni, non mi è mai stata rubata una bicicletta e conosco solo un vicino la cui bicicletta è stata rubata dal suo cortile. Lo collego sempre direttamente alla ringhiera.
+Secondo le statistiche, ogni anno a Lipsia viene rubata la maggior parte delle biciclette pro capite. (1.539 biciclette rubate ogni 100.000 abitanti) Da quando abito qui in Hardenbergstraße, da 15 anni, non mi è mai stata rubata una bicicletta e conosco solo un vicino a cui è stata rubata la bicicletta dal cortile di casa. Lo collego sempre direttamente alla ringhiera.
 
 ### Quali alternative ci sono?
 
@@ -149,7 +149,7 @@ Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite d
 ## Chiave
 
 -   A seconda del giorno della settimana possiamo salutarvi di persona oppure potete semplicemente lasciare le chiavi sulla scrivania e chiudervi la porta alle spalle.
--   L'ultimo orario per il check-out è alle 19:00 del giorno di partenza.
+-   L'ultimo orario per il check-out è alle 19:00. il giorno della partenza.
 
 ## pulizia
 
@@ -167,7 +167,7 @@ Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite d
 
 È possibile utilizzare la lavatrice senza dover chiedere prima. È possibile utilizzare anche lo stendino, il detersivo e l'ammorbidente. Se desideri una nuova biancheria da letto, parlami.
 
-## Spazzola a mano e paletta
+## Spazzola a mano e paletta per la polvere
 
 In cucina troverete una spazzola a mano e una paletta appesa al muro. Questo ti aiuterà a sbarazzarti del piccolo sporco.
 
@@ -181,7 +181,7 @@ Ho un robot aspirapolvere per pavimenti.
 Prima di iniziare, togli tutto dal pavimento.
 Soprattutto cavi o altri oggetti con cui il robot potrebbe soffocare.
 Quindi mettilo nella tua stanza e premi una volta il pulsante in alto.
-Se non succede nulla, utilizzare l'interruttore on/off sul lato e successivamente
+Se non succede nulla, utilizzare l'interruttore di accensione/spegnimento sul lato e successivamente
 riaccenderlo utilizzando il pulsante in alto.
 
 Una volta terminato, rimettilo nella stazione di ricarica!
