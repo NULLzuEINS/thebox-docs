@@ -11,12 +11,12 @@
             "id": "2c4a3e7b3e56aad6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_coverpage.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "icon-512x512.png"
+              },
+              "icon": "lucide-image",
+              "title": "icon-512x512"
             }
           }
         ]
@@ -38,8 +38,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -54,7 +57,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
             }
           },
           {
@@ -62,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
             }
           }
         ]
@@ -85,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_coverpage.md",
+                "file": "icon-512x512.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise auf icon-512x512"
             }
           },
           {
@@ -102,10 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_coverpage.md",
+                "file": "icon-512x512.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von icon-512x512 öffnen"
             }
           },
           {
@@ -115,8 +126,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_coverpage.md"
-              }
+                "file": "icon-512x512.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von icon-512x512"
             }
           }
         ]
@@ -138,28 +158,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2c4a3e7b3e56aad6",
   "lastOpenFiles": [
-    "README.md",
-    "_sketches/map-surrounding-key.excalidraw.png",
+    "_sketches/map-rooms-finazamt.md",
+    "_sketches/map-rooms-finazamt.png",
+    "_sketches/map-rooms.excalidraw.md",
+    "_sketches/map-rooms-simple.md",
+    "_sketches/map-rooms-simple.png",
+    "_sketches/map-rooms-simple.excalidraw.md",
     "_sketches/map-rooms-simple.excalidraw.png",
     "_sketches/map-rooms-details.excalidraw.png",
     "_sketches/map-rooms-details.excalidraw.md",
-    "_sketches/map-rooms-simple.excalidraw.md",
-    "_sketches/map-rooms.excalidraw.md",
-    "_sketches/map-rooms.excalidraw.png",
-    "_sketches/map-surrounding.excalidraw.md",
     "_sketches/map-surrounding.excalidraw.png",
+    "_sketches/map-surrounding.excalidraw.md",
+    "_sketches/map-surrounding-key.excalidraw.png",
     "_sketches/map-surrounding-key.excalidraw.md",
+    "_sketches/map-rooms.excalidraw.png",
+    "en/_coverpage.md",
+    "_coverpage.md",
+    "README.md",
     "README.zh-CN.md",
     "README.en.md",
     "README.vi.md",
@@ -168,8 +195,6 @@
     "_media/surroundings-button.jpeg",
     "_media/thebox-map-surroundings.png",
     "_media/thebox-map-surroundings.png.md",
-    "_media/Pasted image 20231221153512.png",
-    "Pasted image 20231221153512.png",
     "README.cs.md",
     "README.tr.md",
     "README.sv.md",
