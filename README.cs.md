@@ -10,7 +10,7 @@ Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zd
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Konfigurace s jednou postelí s pohovkou                                                | Konfigurace se dvěma lůžky                                                    | Lavice                                                                                  |
+| Konfigurace s jednou postelí s pohovkou                                                | Konfigurace se dvěma lůžky                                                    | Stůl                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Psací stůl se světlem                                                                  | Kuchyň - sporák                                                               | Kuchyň - čaj                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -20,7 +20,7 @@ Na mém AirBnB získáte podrobný přehled o všech pokojích a zařízení. Zd
 
 Získáte dva páry klíčů, každý s jedním klíčem pro spodní a jedním pro horní. Na klíčence je také klíč, kterým můžete zamknout svůj pokoj.
 
-## Přístup na internet
+## Přístup k internetu
 
 ```txt
 SSID:     hamburg-bei-nacht
@@ -44,19 +44,19 @@ Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spar
 ### V kuchyni jsou k dispozici následující věci
 
 1.  Stádo
-2.  Konvice
-3.  Nádobí příbory
+2.  Rychlovarná konvice
+3.  Nádobí, příbory
 4.  Lednička
 5.  Pizza pec
-6.  Minerální voda
+6.  minerální voda
 7.  Nabíjecí stanice pro mobilní telefony na polici
 8.  pračka
 
 ### FAQ - Kuchyně
 
-1.  Nefunguje sporák? prosím řekni
+1.  Nefunguje sporák? Prosím, řekněte
     > "Počítač, pracovní stůl a"
-2.  Kde se můžu umýt? Toto funguje pouze v koupelně. Na mytí nádobí je speciální nádoba.
+2.  Kde se mohu umýt? Toto funguje pouze v koupelně. K dispozici je speciální nádoba na mytí nádobí.
 
 ## Tvůj pokoj
 
@@ -76,27 +76,27 @@ Passwort: thebox
 2.  Počítače a tiskárny
 3.  Dálkové ovládání světel a elektřiny
 
-### Dálková ovládání
+### Dálkové ovládání
 
 Pro všechna dálková ovládání platí staré německé přísloví: „Zkoušet je lepší než studovat“. Nemůžeš nic rozbít. Stiskněte několik tlačítek a uvidíte, co se stane. Pokud stále chcete studovat, zde je to správné čtení pro vás:
 
-| Ilustrace                                                 | Popis                                                                                                                                                                                                                                        |
+| ilustrace                                                 | Popis                                                                                                                                                                                                                                        |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Pohádková světla<br>C: Stolní lampa<br>D:_soubor_<br>Master: Přepněte vše současně                                                                                                                                     |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Než jej budete moci použít, ujistěte se, že je spínač světel u vchodu nastaven na „zapnuto“.**<br>První řádek: jas, zapnuto/vypnuto<br>Barevná tlačítka: Toto můžete použít ke změně barev<br>Šedá tlačítka: Přepínání mezi různými efekty |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Pohádková světla<br>C: Stolní lampa<br>D:_soubor_<br>Master: Přepnout vše najednou                                                                                                                                     |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Než jej budete moci použít, ujistěte se, že je spínač světel u vchodu nastaven na „zapnuto“.**<br>První řádek: jas, zapnutí/vypnutí<br>Barevná tlačítka: Toto můžete použít ke změně barev<br>Šedá tlačítka: Přepínání mezi různými efekty |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Toto je dálkový ovladač pro počítač (iMac)._Chcete-li použít počítač, stiskněte tlačítko A na prvním dálkovém ovladači. Aktivuje napájení počítače a Bluetooth boxu._                                                                        |
 
 ### FAQ - Váš pokoj
 
-1.  Světlo se nerozsvítí nebo divoce bliká Použijte malá dálková ovládání s barevnými tlačítky.
+1.  Světlo se nerozsvítí nebo divoce bliká. Používejte malé dálkové ovladače s barevnými tlačítky.
 
 ### koupelna
 
 Sprchu můžete používat ve stoje. Není problém, když půda trochu navlhne. Zapněte vodu pouze z 1/3 a pověste koupelnovou předložku na topení, aby uschla.
 
-Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. např._Počítači, hraj Deutschlandfunk Nova_"
+Alexa na zdi se jmenuje „Computer“ a také přehrává vaši oblíbenou hudbu nebo rádio. Např. "_Počítači, hraj Deutschlandfunk Nova_"
 
-Na všechny háčky můžete pověsit ručníky a své věci si tak odložit kamkoli. Před dveřmi do koupelny je polička. Jeden z nich je váš.
+Ručníky můžete zavěsit na všechny háčky a své věci si dát kamkoli. Před dveřmi do koupelny je polička. Jeden kousek je váš.
 
 ### Chodba
 
@@ -104,9 +104,9 @@ Zde si můžete nechat boty. Na poličce mám také malý poznámkový blok, kdy
 
 # Smíšený
 
-## Chytrý domov
+## Smart Home
 
-V koupelně a kuchyni jsou hlasoví asistenti Alexa. Můžete je oslovovat „Computer“ a nechat je hrát například Deutschlandfunk Nova. Rozumí německy a také anglicky. Pokud je nechcete používat, 
+V koupelně a kuchyni jsou hlasoví asistenti Alexa. Můžete je oslovovat jménem „Computer“ a nechat je hrát například Deutschlandfunk Nova. Rozumí německy a také anglicky. Pokud je nechcete používat, 
 Můžete jej také jednoduše odpojit od napájení.
 
 Ve vašem pokoji nejsou žádní hlasoví asistenti. Košík na polici obsahuje pouze router a malý počítač.
@@ -117,7 +117,7 @@ Teplota a vlhkost jsou automaticky měřeny pomocí senzorů. Používám je, ab
 
 ?> Zajistěte prosím pravidelné větrání (alespoň jednou denně). Zejména v koupelně. Ujistěte se také, že je topení vypnuté. Děkujeme 🙏
 
-## Dvorek
+## Na dvoře
 
 Na našem dvoře si můžete připojit kola a odvézt odpadky.
 
@@ -129,27 +129,27 @@ Buď použijete klíč od předních dveří, nebo sáhnete skrz bránu a nahmat
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
-### Žlutá? Modrý? Zelená? Hnědý?
+### Žluť? Modrý? Zelený? Hnědý?
 
-Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jistí, vždy dávejte odpadky do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
+Ptáte se, proč mají popelnice různé barvy? Pokud si nejste jisti, odpadky vždy odkládejte do zelené popelnice. Končí tam zbytkový odpad. Profesionálové dávají papírový odpad do modré popelnice, recyklovatelné do žluté popelnice a organický odpad do hnědé popelnice.
 
-### Cykly
+### jízdní kola
 
 ### Je moje kolo bezpečné?
 
 Lipsko je město velmi přátelské k cyklistice. Rozlehlým městským parkem, který rozděluje město na dvě poloviny, se dostanete na mnoho míst a většinou projedete krajinou.
-Pokud věříte statistikám, tak v Lipsku se ročně ukradne nejvíce kol na hlavu. (1 539 odcizených kol na 100 000 obyvatel) Za 15 let, co zde na Hardenbergstraße bydlím, mi nikdy neukradli kolo a vím pouze o jednom sousedovi, kterému bylo kolo ukradeno z jeho dvorku. Napojuji to vždy přímo na zábradlí.
+Pokud věříte statistikám, tak v Lipsku se ročně ukradne nejvíce kol na hlavu. (1 539 odcizených kol na 100 000 obyvatel) Za 15 let, co zde na Hardenbergstraße bydlím, mi nikdy neukradli kolo a vím pouze o jednom sousedovi, kterému kolo ukradli z jeho dvorku. Napojuji to vždy přímo na zábradlí.
 
 ### Jaké alternativy existují?
 
-s[Leipzig MOVE App](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmě existují autobusy a vlaky, za které můžete platit i přes aplikaci Leipzig MOVE.
+s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 jízd zdarma po 15 minutách za_Nextbikes_. Všimněte si, že to stojí více, pokud neparkujete kola na hlavních ulicích (na mapě fialová). Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech. K dispozici je také bezplatný systém sdílení aut. To znamená s námi[cityflitzer](https://cityflitzer.de/). A samozřejmě existují autobusy a vlaky, za které můžete platit i přes aplikaci Leipzig MOVE.
 
-# Překontrolovat
+# Pokladna
 
 ## Klíč
 
 -   Podle toho, jaký je den v týdnu, se můžeme rozloučit osobně, nebo můžete jednoduše položit klíče na stůl a zavřít za sebou dveře.
--   Nejpozdější čas pro odbavení je v 19 hodin v den odjezdu.
+-   Nejpozději v 19 hodin. v den odjezdu.
 
 ## čištění
 
@@ -167,9 +167,9 @@ s[Leipzig MOVE App](https://leipzig-move.de/), získáte 10 bezplatných jízd p
 
 Pračku můžete používat, aniž byste se museli nejprve ptát. Využít můžete i sušák, prací prášek a aviváž. Pokud byste chtěli nové ložní prádlo, stačí se mi domluvit.
 
-## Ruční kartáč a lopatka
+## Ruční kartáč a nádoba na prach
 
-V kuchyni najdete na stěně kartáč na ruce a lopatku. To vám pomůže zbavit se drobných nečistot.
+V kuchyni najdete na zdi kartáč na ruce a lopatku. To vám pomůže zbavit se drobných nečistot.
 
 ## Otřete
 
@@ -188,7 +188,7 @@ Po dokončení jej vraťte zpět do nabíjecí stanice!
 
 # Tipy
 
-s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 bezplatných jízd po 15 minutách za_Nextbikes_.
+s[Aplikace Leipzig MOVE](https://leipzig-move.de/), získáte 10 jízd zdarma po 15 minutách za_Nextbikes_.
 Všimněte si, že to stojí více, pokud nezaparkujete Raf na hlavních ulicích (na mapě fialová).
 Elektrokoloběžky mohou být zaparkovány pouze na určitých parkovacích místech.
 
