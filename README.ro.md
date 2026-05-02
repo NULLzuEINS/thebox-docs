@@ -1,8 +1,8 @@
 # Bun venit la The Box
 
-Bună ziua și bun venit în „Cutie”! Când călătoresc, îmi place și să stau în AirBnB și uneori mi-aș dori să am o foaie de hârtie cu toate informațiile necesare despre cazare, check-in și check-out și aceasta este încercarea mea de a o îmbunătăți.
+Salutare și bun venit în „Cutie”! Când călătoresc, îmi place și să stau în AirBnB și uneori mi-aș dori să am o foaie de hârtie cu toate informațiile necesare despre cazare, check-in și check-out și aceasta este încercarea mea de a o îmbunătăți.
 
-> [!O inștiințare]Voi avea documentul tradus automat în limba dvs. Sper să fie oarecum de înțeles. Dacă nu, nu ezitați să-mi scrieți un mesaj. Apoi încerc să-l îmbunătățesc.
+> [!O notificare]Voi avea documentul tradus automat în limba dvs. Sper să fie oarecum de înțeles. Dacă nu, nu ezitați să-mi scrieți un mesaj. Apoi încerc să-l îmbunătățesc.
 
 ## Poze
 
@@ -12,22 +12,22 @@ Pe AirBnB-ul meu primești o imagine de ansamblu detaliată a tuturor camerelor 
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Configurație cu un pat cu canapea                                                      | Configurație cu două paturi                                                   | Birou                                                                                   |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Bucătărie - ceai                                                                        |
+| Birou cu lumina                                                                        | Bucătărie - aragaz                                                            | Bucătărie - ceai                                                                        |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Birou cu lumina                                                                        | Aragaz de bucătărie                                                           | Bucătărie - ceai                                                                        |
+| Birou cu lumina                                                                        | Bucătărie - aragaz                                                            | Bucătărie - ceai                                                                        |
 
 ## Cheie
 
 Primești două perechi de chei, fiecare cu o cheie pentru partea de jos și una pentru partea de sus. Există, de asemenea, o cheie pe un breloc pe care o puteți folosi pentru a vă încuia camera.
 
-## acces la internet
+## Acces la internet
 
 ```txt
 SSID:     hamburg-bei-nacht
 Passwort: landungsbruecken
 ```
 
-Sau scanați acest cod QR, vă va conecta automat la rețea:
+Sau scanați acest cod QR, acesta vă va conecta automat la rețea:
 
 ![WiFi](_media/wlan.png ":size=200")
 
@@ -37,7 +37,7 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 
 ## Bucătărie
 
-Întrucât de obicei mănânc la parter cu familia mea, bucătăria este foarte spartană. Din păcate, spălatul se poate face doar în chiuveta din baie. Dar există un recipient special pentru spălat.
+Întrucât eu mănânc de obicei la parter cu familia mea, bucătăria este foarte spartană. Din păcate, spălatul se poate face doar în chiuveta din baie. Dar există un recipient special pentru spălat.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -45,20 +45,20 @@ Sau scanați acest cod QR, vă va conecta automat la rețea:
 
 1.  turma
 2.  Fierbător
-3.  Vase tacâmuri
+3.  Vase, tacâmuri
 4.  Frigider
 5.  Cuptor pentru pizza
-6.  Apă minerală
+6.  apă minerală
 7.  Stație de încărcare a telefonului mobil pe raft
-8.  mașină de spălat
+8.  maşină de spălat
 
 ### Întrebări frecvente - Bucătărie
 
-1.  Aragazul nu funcționează? spuneti va rog
+1.  Aragazul nu funcționează? Te rog spune
     > „Computer, banc de lucru și”
-2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
+2.  Unde pot să mă spăl? Acest lucru funcționează doar în baie. Există un recipient special pentru spălarea vaselor.
 
-## Camera dvs
+## Camera ta
 
 Saltelele sunt așezate una peste alta numai în scop de depozitare. Le poți distribui în funcție de nevoile tale. 
 Dacă înlocuiți pernele de pe canapea cu o saltea, aceasta funcționează bine ca un pat.
@@ -80,27 +80,27 @@ Passwort: thebox
 
 O veche zicală germană se aplică tuturor telecomenzilor: „Este mai bine să încerci decât să studiezi”. Nu poți rupe nimic. Apăsați câteva butoane și vedeți ce se întâmplă. Dacă tot vrei să studiezi, iată lectura potrivită pentru tine:
 
-| Ilustrare                                                 | Descriere                                                                                                                                                                                                                                                                        |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Lumini de zâne<br>C: Lampă de birou<br>D:_fişier_<br>Maestrul: Schimbă totul în același timp                                                                                                                                                               |
-| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Înainte de a-l putea folosi, asigurați-vă că întrerupătorul luminii de la intrare este setat pe „pornit”.**<br>Prima linie: luminozitate, pornit/oprit<br>Butoane colorate: puteți folosi acest lucru pentru a schimba culorile<br>Butoane gri: comutați între diferite efecte |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Aceasta este telecomanda pentru computer (iMac)._Pentru a utiliza computerul, apăsați butonul A de pe prima telecomandă. Activează sursa de alimentare pentru computer și cutia Bluetooth._                                                                                      |
+| ilustrare                                                 | Descriere                                                                                                                                                                                                                                                                         |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Lumini de zâne<br>C: Lampă de birou<br>D:_fişier_<br>Maestrul: Schimbă totul în același timp                                                                                                                                                                |
+| ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Înainte de a-l putea folosi, asigurați-vă că întrerupătorul luminii de la intrare este setat pe „pornit”.**<br>Prima linie: luminozitate, pornit/oprit<br>Butoane colorate: Puteți utiliza acest lucru pentru a schimba culorile<br>Butoane gri: comutați între diferite efecte |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Aceasta este telecomanda pentru computer (iMac)._Pentru a utiliza computerul, apăsați butonul A de pe prima telecomandă. Activează sursa de alimentare pentru computer și cutia Bluetooth._                                                                                       |
 
 ### Întrebări frecvente - Camera dvs
 
-1.  Lumina nu se aprinde sau clipește sălbatic Utilizați telecomenzile mici cu butoanele colorate.
+1.  Lumina nu se aprinde sau clipește sălbatic. Utilizați telecomenzile mici cu butoanele colorate.
 
 ### baie
 
 Puteți folosi dușul în timp ce stați în picioare. Nu este o problemă dacă pământul se udă puțin. Dați apa doar 1/3 și atârnă covorașul de baie peste încălzitor pentru a se usuca.
 
-Alexa de pe perete poartă numele „Computer” și redă, de asemenea, muzica sau radioul preferat. De exemplu. "_Computer, joacă Deutschlandfunk Nova_"
+Alexa de pe perete poartă numele „Computer” și redă, de asemenea, muzica sau radioul preferat. de ex. "_Computer, joacă Deutschlandfunk Nova_"
 
-Puteți agăța prosoape pe toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. Unul dintre ei este al tău.
+Puteți agăța prosoape de toate cârligele și puteți pune lucrurile oriunde. În fața ușii băii este un raft. O bucată din ea este a ta.
 
 ### Holul
 
-Ești binevenit să-ți lași pantofii aici. Am și un mic blocnotes pe raft în caz că vrei să-mi spui ceva.
+Ești binevenit să-ți lași pantofii aici. Am și un mic bloc de note pe raft în caz că vrei să-mi spui ceva.
 
 # Diverse
 
@@ -133,7 +133,7 @@ Fie folosești cheia ușii din față, fie ajungi prin poartă și simți butonu
 
 Vă întrebați de ce coșurile de gunoi au culori diferite? Dacă nu sunteți sigur, puneți întotdeauna gunoiul în coșul verde. Deșeurile reziduale ajung acolo. Profesioniștii pun deșeurile de hârtie în coșul albastru, materialele reciclabile în coșul galben și deșeurile organice în coșul maro.
 
-### Cicluri
+### Biciclete
 
 ### Este bicicleta mea în siguranță?
 
@@ -149,7 +149,7 @@ Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratui
 ## Cheie
 
 -   În funcție de ce zi a săptămânii este, ne putem lua rămas bun personal, sau poți pur și simplu să pui cheile pe birou și să închizi ușa în urma ta.
--   Ultima oră pentru checkout este ora 19:00 în ziua plecării.
+-   Ultima oră pentru checkout este 19:00. în ziua plecării.
 
 ## curatenie
 
@@ -163,15 +163,15 @@ Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratui
 
 ?> Unii dintre oaspeții mei stau o lună sau mai mult. Dacă ești unul dintre ei, atunci această secțiune este pentru tine!
 
-## mașină de spălat
+## maşină de spălat
 
 Puteți folosi mașina de spălat fără a fi nevoie să întrebați mai întâi. De asemenea, puteți utiliza suportul de uscare, praful de spălat și balsam de rufe. Dacă vrei lenjerie de pat nouă, vorbește cu mine.
 
-## Perie de mână și paletă de praf
+## Perie de mână și recipient pentru praf
 
 În bucătărie veți găsi o perie de mână și o cutie de praf pe perete. Acest lucru vă va ajuta să scăpați de murdăria mică.
 
-## Sterge
+## Şterge
 
 Puteți găsi agent de curățare verde într-o sticlă cu pulverizare în baie pentru ștergere. Împreună cu hârtia de bucătărie, aceasta poate fi folosită pentru a curăța cu ușurință suprafețele.
 
@@ -186,7 +186,7 @@ porniți-l din nou folosind butonul din partea de sus.
 
 Când este terminat, vă rugăm să îl puneți înapoi în stația de încărcare!
 
-# sfaturi
+# Sfaturi
 
 Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratuite a câte 15 minute fiecare pentru_Nextbikes_.
 Rețineți că costă mai mult dacă nu parcați Raf-ul pe străzile principale (violet pe hartă).
@@ -201,7 +201,7 @@ Dacă vă grăbiți, cel mai bine este să faceți acest lucru prin telefon <a 
 De asemenea, puteți utiliza aplicația de mesagerie preinstalată cu funcționalitate limitată (SMS).
 În rest, am un blocnotes și un pix pe hol.
 
-Vă doresc o ședere plăcută în Leipzig!
+Vă doresc un sejur plăcut în Leipzig!
 Andre
 
 * * *
