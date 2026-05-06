@@ -33,7 +33,7 @@ Eller så skannar du den här QR-koden, den ansluter dig automatiskt till nätve
 
 # Rummen
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## Kök
 
@@ -44,7 +44,7 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 ### Följande saker finns i köket
 
 1.  Besättning
-2.  Wasserkocher
+2.  Vattenkokare
 3.  Fat, bestick
 4.  Kylskåp
 5.  Pizzaugn
@@ -121,7 +121,9 @@ Temperaturen och luftfuktigheten mäts automatiskt via sensorerna. Jag använder
 
 På vår innergård kan du koppla ihop dina cyklar och ta bort ditt skräp.
 
-!\[[./_sketches/map-surrounding.png]]
+\_sketches/map-rooms-details.png
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### Hur öppnas porten?
 
