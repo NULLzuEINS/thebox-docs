@@ -55,7 +55,7 @@ Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pe
 ### KKK – Köök
 
 1.  Ahi ei tööta? Palun ütle
-    > "Arvuti, töölaud ja"
+    > "Computer, Werkbank an"
 2.  Kus ma saan pesta? See toimib ainult vannitoas. Nõude pesemiseks on spetsiaalne anum.
 
 ## Sinu tuba
