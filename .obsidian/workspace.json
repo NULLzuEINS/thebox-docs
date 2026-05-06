@@ -4,19 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2fa790d6211e825d",
+        "id": "4fca616af2abe218",
         "type": "tabs",
         "children": [
           {
-            "id": "ca4319311b2fcdde",
+            "id": "5e556dc1898720cc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "f33fb33b7f900a64",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "_sketches/map-rooms-simple.png"
+                "file": "_sketches/map-surrounding.md"
               },
-              "icon": "lucide-image",
-              "title": "map-rooms-simple"
+              "icon": "excalidraw-icon",
+              "title": "map-surrounding"
             }
           }
         ]
@@ -165,24 +181,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca4319311b2fcdde",
+  "active": "5e556dc1898720cc",
   "lastOpenFiles": [
-    "_sketches/map-rooms-details.md",
-    "_sketches/map-rooms-details.png",
+    "_sketches/map-surrounding.md",
     "README.md",
+    "_sketches/map-rooms-details.png",
+    "_sketches/map-rooms.md",
+    "_sketches/map-rooms.png",
+    "_sketches/map-rooms-details.md",
+    "_sketches/map-rooms-simple.png",
+    "_sketches/map-rooms-simple.md",
+    "_sketches/map-surrounding-key.md",
+    "_sketches/map-surrounding-key.png",
+    "_sketches/map-surrounding.png",
     "icon-512x512.png",
     "_sketches/map-rooms-finazamt.md",
     "_sketches/map-rooms-finazamt.png",
-    "_sketches/map-rooms.excalidraw.md",
-    "_sketches/map-rooms-simple.md",
-    "_sketches/map-rooms-simple.png",
     "_sketches/map-rooms-simple.excalidraw.md",
     "_sketches/map-rooms-simple.excalidraw.png",
-    "_sketches/map-surrounding.excalidraw.png",
-    "_sketches/map-surrounding.excalidraw.md",
-    "_sketches/map-surrounding-key.excalidraw.png",
-    "_sketches/map-surrounding-key.excalidraw.md",
-    "_sketches/map-rooms.excalidraw.png",
     "en/_coverpage.md",
     "_coverpage.md",
     "README.zh-CN.md",

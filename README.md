@@ -34,8 +34,7 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 # Die Zimmer
 
-![Raumplan](_media/thebox-map.png)
-
+![[map-rooms-details.png]]
 ## Küche
 
 Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
@@ -116,13 +115,12 @@ In Deinem Zimmer befinden sich keine Sprachassistenten. In dem Korb in dem Regal
 
 Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. Ich nutze sie zur Vermeidung von Schimmelbildung. Sie sind klein und weiß und liegen meist auf den Türrahmen. Einen Teil der Messdaten kannst Du im Spiegel im Flur ablesen.
 
-?> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Achte dabei auch darauf, dass die Heizung abgestellt ist. Danke 🙏
+?> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Danke 🙏 Die Heizung geht automatisch aus, wenn das Fenster geöffnet wird.
 
 ## Der Hof
 
 In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
-
-![Innenhof](_media/thebox-map-surroundings.png)
+![[map-surrounding.png]]
 
 ### Wie geht das Tor auf?
 
@@ -193,7 +191,7 @@ Mit der [Leipzig MOVE App](https://leipzig-move.de/), bekommst Du 10 Freifahrten
 Beachte, dass es mehr kostet, wenn man das Raf nicht an den großen Straßen (Auf der Karte Lila) abstellt.
 Die E-Scooter dürfen nur an bestimmten Parkplätzen abgestellt werden.
 
-In der App von AirBnB habe ich Reiseführer hinterlegt. Dort findest Du meine Empfehlungen zu Sehenwürdigkeiten, Bars und Kneipen, Einkaufsmöglichkeiten und Restaurants.
+In der App von AirBnB habe ich Reiseführer hinterlegt. Dort findest Du meine Empfehlungen zu Sehenswürdigkeiten, Bars und Kneipen, Einkaufsmöglichkeiten und Restaurants.
 
 # Fragen?
 
