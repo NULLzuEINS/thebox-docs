@@ -33,7 +33,7 @@ Veya bu QR kodunu tararsınız, sizi otomatik olarak ağa bağlayacaktır:
 
 # Odalar
 
-!\[[harita-odalar-detaylar.png]]
+!\[[./_sketches/map-rooms-details.png]]
 
 ## Mutfak
 
@@ -78,7 +78,7 @@ Passwort: thebox
 
 ### Uzaktan kumandalar
 
-Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek çalışmaktan iyidir”. Hiçbir şeyi kıramazsın. Birkaç düğmeye basın ve ne olacağını görün. Hala ders çalışmak istiyorsanız işte size uygun okumalar:
+Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek çalışmaktan iyidir”. Hiçbir şeyi kıramazsınız. Birkaç düğmeye basın ve ne olacağını görün. Hala ders çalışmak istiyorsanız işte size uygun okumalar:
 
 | illüstrasyon                                              | Tanım                                                                                                                                                                                                                                                 |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -117,10 +117,11 @@ Sıcaklık ve nem sensörler aracılığıyla otomatik olarak ölçülür. Küf 
 
 ?> Lütfen düzenli olarak (günde en az bir kez) havalandırmayı unutmayın. Özellikle banyoda. Teşekkürler 🙏 Pencere açıldığında ısıtma otomatik olarak kapanıyor.
 
-## Bahçe
+## Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 Avlumuzda bisikletlerinizi bağlayabilir ve çöplerinizi atabilirsiniz.
-!\[[harita-surrounding.png]]
+
+!\[[./_sketches/map-surrounding.png]]
 
 ### Kapı nasıl açılıyor?
 
@@ -141,7 +142,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 ### Hangi alternatifler var?
 
-ile[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
+ile[Leipzig MOVE Uygulaması](https://leipzig-move.de/)için her biri 15 dakikalık 10 ücretsiz yolculuk kazanırsınız._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
 
 # Çıkış yapmak
 
@@ -154,7 +155,7 @@ ile[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 
 
 -   Üzerinde nevresim bırakabilirsiniz.
 -   Bulaşıkları da yıkıyorum
--   Ben de çöpü dışarı çıkarıyorum.
+-   Çöpü de dışarı çıkarıyorum.
 
 > Kısa versiyon: Anahtarı orada bırakın, kapıyı kapatın, bu kadar. 😀
 
@@ -166,7 +167,7 @@ ile[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 
 
 Çamaşır makinesini sormanıza gerek kalmadan kullanabilirsiniz. Kurutma rafını, çamaşır tozunu ve yumuşatıcıyı da kullanabilirsiniz. Yeni nevresimler istiyorsanız benimle konuşmanız yeterli.
 
-## El fırçası ve toz tavası
+## El fırçası ve faraş
 
 Mutfakta duvarda bir el fırçası ve faraş bulacaksınız. Bu, küçük kirlerden kurtulmanıza yardımcı olacaktır.
 
@@ -187,7 +188,7 @@ Bittiğinde lütfen şarj istasyonuna geri koyun!
 
 # İpuçları
 
-ile[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_.
+ile[Leipzig MOVE Uygulaması](https://leipzig-move.de/)için her biri 15 dakikalık 10 ücretsiz yolculuk kazanırsınız._Sonraki bisikletler_.
 Raf'ı ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın.
 E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
 

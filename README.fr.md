@@ -33,7 +33,7 @@ Ou vous scannez ce QR code, il vous connectera automatiquement au réseau :
 
 # Les chambres
 
-!\[[plan-pièces-details.png]]
+!\[[./_sketches/map-rooms-details.png]]
 
 ## Cuisine
 
@@ -117,10 +117,11 @@ La température et l'humidité sont automatiquement mesurées via les capteurs. 
 
 ?> Merci de veiller à aérer régulièrement (au moins une fois par jour). Surtout dans la salle de bain. Merci 🙏 Le chauffage s'éteint automatiquement à l'ouverture de la fenêtre.
 
-## La cour
+## Le Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 Dans notre cour vous pourrez brancher vos vélos et emporter vos déchets.
-!\[[carte-environnant.png]]
+
+!\[[./_sketches/map-surrounding.png]]
 
 ### Comment s'ouvre le portail ?
 
@@ -166,7 +167,7 @@ Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficie
 
 Vous pouvez utiliser la machine à laver sans avoir à le demander au préalable. Vous pouvez également utiliser l’étendoir, la lessive et l’assouplissant. Si vous souhaitez du nouveau linge de lit, parlez-en-moi.
 
-## Brosse à main et porte-poussière
+## Brosse à main et pelle à poussière
 
 Dans la cuisine, vous trouverez une brosse à main et une pelle à poussière accrochées au mur. Cela vous aidera à vous débarrasser des petites saletés.
 

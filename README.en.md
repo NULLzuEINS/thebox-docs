@@ -33,7 +33,7 @@ Or you scan this QR code, it will automatically connect you to the network:
 
 # The rooms
 
-!\[[map-rooms-details.png]]
+!\[[./_sketches/map-rooms-details.png]]
 
 ## Kitchen
 
@@ -55,7 +55,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 ### FAQ - Kitchen
 
 1.  Stove not working? Please say
-    > "Computer, Werkbank an"
+    > "Computer, Workbench an"
 2.  Where can I wash up? This only works in the bathroom. There is a special container for washing dishes.
 
 ## Your room
@@ -70,7 +70,7 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Folgende Dinge stehen im Zimmer zur Verfügung
+### The following things are available in the room
 
 1.  All furniture and beds
 2.  Computers & Printers
@@ -117,10 +117,11 @@ The temperature and humidity are automatically measured via the sensors. I use t
 
 ?> Please make sure to ventilate regularly (at least once a day). Especially in the bathroom. Thanks 🙏 The heating switches off automatically when the window is opened.
 
-## The yard
+## The Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 In our courtyard you can connect your bikes and take away your rubbish.
-!\[[map-surrounding.png]]
+
+!\[[./_sketches/map-surrounding.png]]
 
 ### How does the gate open?
 
@@ -166,7 +167,7 @@ With the[Leipzig MOVE App](https://leipzig-move.de/), you get 10 free rides of 1
 
 You can use the washing machine without having to ask first. You can also use the drying rack, washing powder and fabric softener. If you would like new bed linen, just talk to me.
 
-## Hand brush and dust pan
+## Hand brush and dustpan
 
 In the kitchen you will find a hand brush and a dustpan on the wall. This will help you get rid of the small dirt.
 

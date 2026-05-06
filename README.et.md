@@ -33,11 +33,11 @@ Või skannite selle QR-koodi, ühendab see teid automaatselt võrku:
 
 # Ruumid
 
-!\[[map-rooms-details.png]]
+!\[[./_sketches/map-rooms-details.png]]
 
-## Köök
+## Küche
 
-Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pesemist saab kahjuks teha vaid vannitoas olevas kraanikausis. Pesemiseks on aga spetsiaalne anum.
+Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pesemist saab kahjuks teha vaid vannitoas olevas kraanikausis. Aga pesemiseks on olemas spetsiaalne anum.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -117,10 +117,11 @@ Temperatuuri ja niiskust mõõdetakse automaatselt andurite kaudu. Kasutan neid 
 
 ?> Palun ventileerige regulaarselt (vähemalt kord päevas). Eriti vannitoas. Aitäh 🙏 Akna avamisel lülitub küte automaatselt välja.
 
-## Õue
+## Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 Meie sisehoovis saate ühendada oma jalgrattad ja viia prügi ära.
-!\[[map-surrounding.png]]
+
+!\[[./_sketches/map-surrounding.png]]
 
 ### Kuidas värav avaneb?
 
@@ -148,7 +149,7 @@ Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, 
 ## Võti
 
 -   Olenevalt sellest, mis nädalapäev parajasti on, saame isiklikult hüvasti jätta või lihtsalt võtmed lauale panna ja ukse enda järel sulgeda.
--   Viimane kassasse jõudmise aeg on kell 19. lahkumise päeval.
+-   Viimane väljamakse aeg on kell 19. lahkumise päeval.
 
 ## puhastamine
 
@@ -166,7 +167,7 @@ Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, 
 
 Saate pesumasinat kasutada, ilma et peaksite seda eelnevalt küsima. Võite kasutada ka kuivatusresti, pesupulbrit ja pesupehmendajat. Kui soovid uut voodipesu, siis räägi minuga.
 
-## Käsihari ja tolmupann
+## Käsihari ja tolmulapp
 
 Köögist leiad käsiharja ja seinalt tolmulapi. See aitab teil vabaneda väikesest mustusest.
 

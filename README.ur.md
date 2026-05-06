@@ -12,7 +12,7 @@
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | صوفے کے ساتھ ایک بستر کی ترتیب                                                         | دو بستروں کی ترتیب                                                            | ڈیسک                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| روشنی کے ساتھ ڈیسک                                                                     | کچن - چولہا۔                                                                  | کچن - چائے                                                                              |
+| روشنی کے ساتھ ڈیسک                                                                     | Küche - Herd                                                                  | کچن - چائے                                                                              |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | روشنی کے ساتھ ڈیسک                                                                     | کچن - چولہا۔                                                                  | کچن - چائے                                                                              |
 
@@ -33,7 +33,7 @@ Passwort: landungsbruecken
 
 # کمرے
 
-!\[[map-rooms-details.png]]
+!\[[./_sketches/map-rooms-details.png]]
 
 ## کچن
 
@@ -46,7 +46,7 @@ Passwort: landungsbruecken
 1.  ریوڑ
 2.  کیتلی
 3.  برتن، کٹلری
-4.  ریفریجریٹر
+4.  Kühlschrank
 5.  پیزا اوون
 6.  معدنی پانی
 7.  شیلف پر سیل فون چارجنگ اسٹیشن
@@ -73,7 +73,7 @@ Passwort: thebox
 ### کمرے میں درج ذیل چیزیں دستیاب ہیں۔
 
 1.  تمام فرنیچر اور بستر
-2.  کمپیوٹرز اور پرنٹرز
+2.  کمپیوٹر اور پرنٹرز
 3.  روشنی اور بجلی کے لیے ریموٹ کنٹرول
 
 ### ریموٹ کنٹرولز
@@ -117,10 +117,11 @@ Passwort: thebox
 
 ؟ خاص طور پر باتھ روم میں۔ شکریہ 🙏 کھڑکی کھلنے پر ہیٹنگ خود بخود بند ہو جاتی ہے۔
 
-## صحن
+## Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 ہمارے صحن میں آپ اپنی بائک کو جوڑ سکتے ہیں اور اپنا کوڑا اٹھا سکتے ہیں۔
-!\[[map-surrounding.png]]
+
+!\[[./_sketches/map-surrounding.png]]
 
 ### گیٹ کیسے کھلتا ہے؟
 
@@ -128,7 +129,7 @@ Passwort: thebox
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
-### پیلا؟ نیلا؟ سبز براؤن۔
+### پیلا؟ نیلا سبز براؤن۔
 
 کیا آپ سوچ رہے ہیں کہ کچرے کے ڈبوں کے رنگ مختلف کیوں ہوتے ہیں؟ اگر آپ کو یقین نہیں ہے تو، کوڑے دان کو ہمیشہ سبز ڈبے میں ڈالیں۔ بقایا فضلہ وہیں ختم ہو جاتا ہے۔ پیشہ ور کاغذی فضلہ کو نیلے بن میں ڈالتے ہیں، دوبارہ استعمال کرنے کے قابل زرد بن میں اور نامیاتی فضلہ کو براؤن بن میں ڈالتے ہیں۔
 
