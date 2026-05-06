@@ -33,7 +33,7 @@ O escaneas este código QR, te conectará automáticamente a la red:
 
 # las habitaciones
 
-![Raumplan](_media/thebox-map.png)
+!\[[mapa-habitaciones-detalles.png]]
 
 ## Cocina
 
@@ -115,13 +115,12 @@ No hay asistentes de voz en tu habitación. La cesta del estante sólo contiene 
 
 La temperatura y la humedad se miden automáticamente a través de los sensores. Los uso para prevenir la formación de moho. Son pequeños y blancos y normalmente se encuentran en los marcos de las puertas. Puedes leer algunos de los datos de medición en el espejo del pasillo.
 
-?> Asegúrese de ventilar regularmente (al menos una vez al día). Especialmente en el baño. Asegúrate también de que la calefacción esté apagada. Gracias 🙏
+?> Asegúrese de ventilar regularmente (al menos una vez al día). Especialmente en el baño. Gracias 🙏 La calefacción se apaga automáticamente cuando se abre la ventana.
 
 ## el patio
 
 En nuestro patio podréis conectar vuestras bicicletas y retirar la basura.
-
-![Innenhof](_media/thebox-map-surroundings.png)
+!\[[mapa-alrededor.png]]
 
 ### ¿Cómo se abre la puerta?
 
