@@ -55,7 +55,7 @@ Ponieważ zazwyczaj jadam z rodziną na dole, kuchnia jest bardzo spartańska. N
 ### Często zadawane pytania - Kuchnia
 
 1.  Piec nie działa? Proszę, powiedz
-    > „Komputer, stół warsztatowy”
+    > "Computer, Werkbank an"
 2.  Gdzie mogę się umyć? To działa tylko w łazience. Jest specjalny pojemnik do mycia naczyń.
 
 ## Twój pokój
