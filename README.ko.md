@@ -1,6 +1,6 @@
 # 더박스에 오신 것을 환영합니다
 
-안녕하세요, “Box”에 오신 것을 환영합니다! 여행할 때 에어비앤비에 머무르는 것도 좋아하는데 때로는 숙소, 체크인, 체크아웃에 관해 필요한 모든 정보가 적힌 종이가 있었으면 좋겠는데 이것이 더 나은 서비스를 제공하려는 시도입니다.
+안녕하세요, “Box”에 오신 것을 환영합니다! 여행할 때 에어비앤비에 머무르는 것도 좋아하는데 때로는 숙박 시설, 체크인, 체크아웃에 대해 필요한 모든 정보가 담긴 종이가 있었으면 좋겠는데 이것이 더 나은 서비스를 제공하려는 시도입니다.
 
 > [!공지사항]해당 문서를 귀하의 언어로 자동 번역해 드리겠습니다. 어느 정도 이해가 되셨으면 좋겠습니다. 그렇지 않은 경우에는 나에게 메시지를 보내 주시기 바랍니다. 그런 다음 개선하려고 노력합니다.
 
@@ -33,7 +33,7 @@ Passwort: landungsbruecken
 
 # 객실
 
-!\[[지도-방-세부정보.png]]
+!\[[./_sketches/map-rooms-details.png]]
 
 ## 주방
 
@@ -84,7 +84,7 @@ Passwort: thebox
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 답: 블루투스박스<br>B: 요정 조명<br>C: 책상 램프<br>디:_파일_<br>마스터: 모든 것을 동시에 전환하세요                                                             |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **사용하시기 전, 입구의 전등 스위치가 '켜짐'으로 설정되어 있는지 확인하세요.**<br>첫 번째 줄: 밝기, 켜기/끄기<br>컬러 버튼: 이 버튼을 사용하여 색상을 변경할 수 있습니다.<br>회색 버튼: 다양한 효과 간 전환 |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | 컴퓨터(iMac)용 리모컨입니다._컴퓨터를 사용하려면 첫 번째 리모콘의 A 버튼을 누르세요. 컴퓨터와 Bluetooth 상자의 전원 공급 장치를 활성화합니다._                                       |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Das ist die Fernbedienung für den Computer (iMac). _컴퓨터를 사용하려면 첫 번째 리모콘의 A 버튼을 누르세요. 컴퓨터와 Bluetooth 상자의 전원 공급 장치를 활성화합니다._      |
 
 ### FAQ - 객실
 
@@ -117,14 +117,15 @@ Passwort: thebox
 
 ?> 정기적으로(최소 하루 1회) 환기를 시켜주세요. 특히 화장실에서요. 감사합니다 🙏 창문이 열리면 난방이 자동으로 꺼집니다.
 
-## 마당
+## Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 안뜰에서는 자전거를 연결하고 쓰레기를 가져갈 수 있습니다.
-!\[[지도 주변-png.]]
+
+!\[[./_sketches/map-surrounding.png]]
 
 ### 문은 어떻게 열리나요?
 
-Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
+현관문 열쇠를 사용하거나, 대문을 통해 손을 뻗어 버튼을 눌러 문을 엽니다. 버튼을 누르고 있는 동안 문을 열 수 있습니다.
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
@@ -166,7 +167,7 @@ Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor un
 
 먼저 묻지 않고도 세탁기를 사용할 수 있습니다. 건조대, 세제, 섬유유연제를 사용하셔도 됩니다. 새 침대 린넨을 원하시면 저에게 말씀해 주세요.
 
-## 핸드 브러시와 먼지통
+## 핸드 브러시와 쓰레받기
 
 주방 벽에는 손솔과 쓰레받기가 있습니다. 이렇게 하면 작은 먼지를 제거하는 데 도움이 됩니다.
 
