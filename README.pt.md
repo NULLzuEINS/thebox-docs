@@ -33,7 +33,7 @@ Ou você escaneia este código QR e ele o conectará automaticamente à rede:
 
 # Os quartos
 
-!\[[map-rooms-details.png]]
+!\[[./_sketches/map-rooms-details.png]]
 
 ## Cozinha
 
@@ -56,7 +56,7 @@ Como costumo comer lá embaixo com minha família, a cozinha é muito espartana.
 
 1.  Fogão não funciona? Por favor diga
     > "Computador, Bancada de trabalho e"
-2.  Onde posso me lavar? Isso só funciona no banheiro. Existe um recipiente especial para lavar louça.
+2.  Wo kann ich abwaschen? Das geht nur im Bad. Es gibt einen speziellen Behälter zum abwaschen.
 
 ## Seu quarto
 
@@ -117,10 +117,11 @@ A temperatura e a umidade são medidas automaticamente através dos sensores. Eu
 
 ?> Certifique-se de ventilar regularmente (pelo menos uma vez por dia). Principalmente no banheiro. Obrigado 🙏 O aquecimento desliga-se automaticamente quando a janela é aberta.
 
-## O quintal
+## O Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 No nosso pátio você pode conectar suas bicicletas e levar seu lixo.
-!\[[mapa-surrounding.png]]
+
+!\[[./_sketches/map-surrounding.png]]
 
 ### Como o portão abre?
 
@@ -166,7 +167,7 @@ Com o[Aplicativo MOVE de Leipzig](https://leipzig-move.de/), você ganha 10 viag
 
 Você pode usar a máquina de lavar sem precisar perguntar primeiro. Você também pode usar escorredor, sabão em pó e amaciante. Se quiser roupa de cama nova, é só falar comigo.
 
-## Escova manual e pá de lixo
+## Escova de mão e pá de lixo
 
 Na cozinha você encontrará uma escova manual e uma pá de lixo na parede. Isso ajudará você a se livrar da pequena sujeira.
 
@@ -195,8 +196,8 @@ Guardei guias de viagem no aplicativo AirBnB. Lá você encontrará minhas recom
 
 # Questões?
 
-Se você tiver alguma dúvida ou precisar de suporte, ficarei feliz em ajudá-lo.
-Se você estiver com pressa, é melhor fazê-lo por telefone <a href="tel:+491707353067">+49 170 73 53 067</a>.
+Wenn Du Fragen hast, oder Unterstützung benötigt, stehe ich dir gern zur Verfügung.
+Wenn es eilig ist, dann besten via Telefon <a href="tel:+491707353067">+49 170 73 53 067</a>.
 Você também pode usar o aplicativo de mensagens pré-instalado com funcionalidade limitada (SMS).
 Caso contrário, tenho um bloco de notas e uma caneta no corredor.
 
