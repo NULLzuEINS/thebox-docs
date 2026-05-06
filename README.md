@@ -124,7 +124,7 @@ In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll w
 
 _sketches/map-rooms-details.png
 
-![Raumplan](_sketches/map-surrounding.png)
+![Außengelände](_sketches/map-surrounding.png)
 
 ### Wie geht das Tor auf?
 
