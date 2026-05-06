@@ -150,7 +150,7 @@ Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 1
 
 ## Nøgle
 
--   Je nach dem welcher Wochentag ist, können wir uns persönlich verabschieden, oder du legst einfach die Schlüssel auf den Schreibtisch und ziehst die Tür hinter Dir zu.
+-   Alt efter hvilken ugedag det er, kan vi sige farvel personligt, eller du kan blot lægge nøglerne på skrivebordet og lukke døren efter dig.
 -   Seneste tidspunkt for udtjekning er kl. på afrejsedagen.
 
 ## rensning
