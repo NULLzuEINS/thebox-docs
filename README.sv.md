@@ -33,7 +33,7 @@ Eller så skannar du den här QR-koden, den ansluter dig automatiskt till nätve
 
 # Rummen
 
-!\[[map-rooms-details.png]]
+!\[[./_sketches/map-rooms-details.png]]
 
 ## Kök
 
@@ -44,7 +44,7 @@ Eftersom jag brukar äta på nedervåningen med min familj är köket väldigt s
 ### Följande saker finns i köket
 
 1.  Besättning
-2.  Vattenkokare
+2.  Wasserkocher
 3.  Fat, bestick
 4.  Kylskåp
 5.  Pizzaugn
@@ -117,10 +117,11 @@ Temperaturen och luftfuktigheten mäts automatiskt via sensorerna. Jag använder
 
 ?> Se till att ventilera regelbundet (minst en gång om dagen). Speciellt i badrummet. Tack 🙏 Värmen stängs av automatiskt när fönstret öppnas.
 
-## Gården
+## The Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 På vår innergård kan du koppla ihop dina cyklar och ta bort ditt skräp.
-!\[[map-surrounding.png]]
+
+!\[[./_sketches/map-surrounding.png]]
 
 ### Hur öppnas porten?
 
@@ -166,7 +167,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 Du kan använda tvättmaskinen utan att behöva fråga först. Du kan också använda torkställning, tvättpulver och sköljmedel. Om du vill ha nya sängkläder är det bara att prata med mig.
 
-## Handborste och dammpanna
+## Handborste och sopskanna
 
 I köket hittar du en handborste och en soptunna på väggen. Detta hjälper dig att bli av med den lilla smutsen.
 
