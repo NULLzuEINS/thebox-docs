@@ -2,7 +2,8 @@
 
 Salutare și bun venit în „Cutie”! Când călătoresc, îmi place și să stau în AirBnB și uneori mi-aș dori să am o foaie de hârtie cu toate informațiile necesare despre cazare, check-in și check-out și aceasta este încercarea mea de a o îmbunătăți.
 
-> [!O notificare]Voi avea documentul tradus automat în limba dvs. Sper să fie oarecum de înțeles. Dacă nu, nu ezitați să-mi scrieți un mesaj. Apoi încerc să-l îmbunătățesc.
+> [!O notificare]
+> Ich lasse das Dokument automatisch in deine Sprache übersetzen. Ich hoffe es ist halbwegs verständlich. Wenn nicht, dann schreib mir gern eine Nachricht. Ich versuche es dann zu verbessern.
 
 ## Poze
 
@@ -14,9 +15,9 @@ Pe AirBnB-ul meu primești o imagine de ansamblu detaliată a tuturor camerelor 
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Birou cu lumina                                                                        | Bucătărie - aragaz                                                            | Bucătărie - ceai                                                                        |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
-| Birou cu lumina                                                                        | Bucătărie - aragaz                                                            | Bucătărie - ceai                                                                        |
+| Birou cu lumina                                                                        | Bucătărie - aragaz                                                            | Küche - Tee                                                                             |
 
-## Schlüssel
+## Cheie
 
 Primești două perechi de chei, fiecare cu o cheie pentru partea de jos și una pentru partea de sus. Există, de asemenea, o cheie pe un breloc pe care o puteți folosi pentru a vă încuia camera.
 
@@ -84,7 +85,7 @@ O veche zicală germană se aplică tuturor telecomenzilor: „Este mai bine să
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Lumini de zâne<br>C: Lampă de birou<br>D:_fişier_<br>Maestrul: Schimbă totul în același timp                                                                                                                                                                |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Înainte de a-l putea folosi, asigurați-vă că întrerupătorul luminii de la intrare este setat pe „pornit”.**<br>Prima linie: luminozitate, pornit/oprit<br>Butoane colorate: Puteți utiliza acest lucru pentru a schimba culorile<br>Butoane gri: comutați între diferite efecte |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Aceasta este telecomanda pentru computer (iMac)._Pentru a utiliza computerul, apăsați butonul A de pe prima telecomandă. Activează sursa de alimentare pentru computer și cutia Bluetooth._                                                                                       |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Das ist die Fernbedienung für den Computer (iMac). _Pentru a utiliza computerul, apăsați butonul A de pe prima telecomandă. Activează sursa de alimentare pentru computer și cutia Bluetooth._                                                                                    |
 
 ### Întrebări frecvente - Camera dvs
 
