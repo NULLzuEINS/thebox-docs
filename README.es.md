@@ -33,7 +33,7 @@ O escaneas este código QR, te conectará automáticamente a la red:
 
 # las habitaciones
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## Cocina
 
@@ -44,7 +44,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 ### Las siguientes cosas están disponibles en la cocina.
 
 1.  Rebaño
-2.  Wasserkocher
+2.  Pava
 3.  platos, cubiertos
 4.  Refrigerador
 5.  horno para pizzas
@@ -121,7 +121,9 @@ La temperatura y la humedad se miden automáticamente a través de los sensores.
 
 En nuestro patio podréis conectar vuestras bicicletas y retirar la basura.
 
-!\[[./_sketches/map-surrounding.png]]
+\_bocetos/mapa-habitaciones-detalles.png
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### ¿Cómo se abre la puerta?
 
@@ -142,7 +144,7 @@ Si nos fijamos en las estadísticas, en Leipzig se roban cada año el mayor núm
 
 ### ¿Qué alternativas hay?
 
-Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para el_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[cityflitzer](https://cityflitzer.de/). Y, por supuesto, hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
+Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para el_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[ciudadflitzer](https://cityflitzer.de/). Y, por supuesto, hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
 
 # Verificar
 
@@ -206,4 +208,4 @@ andré
 
 * * *
 
-_Made with ❤️ by  [docsificar](https://docsify.js.org/)_
+_Hecho con ❤️ por [docsificar](https://docsify.js.org/)_
