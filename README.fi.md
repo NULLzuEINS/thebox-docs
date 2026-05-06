@@ -70,7 +70,7 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Seuraavat asiat ovat saatavilla huoneessa
+### Folgende Dinge stehen im Zimmer zur Verfügung
 
 1.  Kaikki kalusteet ja sängyt
 2.  Tietokoneet ja tulostimet
