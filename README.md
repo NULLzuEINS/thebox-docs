@@ -34,7 +34,7 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 # Die Zimmer
 
-![[_sketches/map-rooms-details.png]]
+![[./_sketches/map-rooms-details.png]]
 ## Küche
 
 Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
@@ -117,10 +117,11 @@ Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. 
 
 ?> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Danke 🙏 Die Heizung geht automatisch aus, wenn das Fenster geöffnet wird.
 
-## Der Hof
+## Der Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
-![[_sketches/map-surrounding.png]]
+
+![[./_sketches/map-surrounding.png]]
 
 ### Wie geht das Tor auf?
 
