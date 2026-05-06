@@ -33,7 +33,7 @@ Lub zeskanuj ten kod QR, automatycznie połączy Cię z siecią:
 
 # Pokoje
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## Kuchnia
 
@@ -121,7 +121,9 @@ Temperatura i wilgotność są mierzone automatycznie za pomocą czujników. Uż
 
 Na naszym dziedzińcu możesz podłączyć rowery i wywieźć śmieci.
 
-!\[[./_sketches/map-surrounding.png]]
+\_sketches/map-rooms-details.png
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### Jak otwiera się brama?
 

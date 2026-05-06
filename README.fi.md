@@ -33,7 +33,7 @@ Tai skannaat tämän QR-koodin, se yhdistää sinut automaattisesti verkkoon:
 
 # Huoneet
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## Keittiö
 
@@ -111,7 +111,7 @@ Voit myös irrottaa sen virtalähteestä.
 
 Huoneessasi ei ole ääniavustajia. Hyllyssä oleva kori sisältää vain reitittimen ja pienen tietokoneen.
 
-## Temperatur und Feuchtigkeit
+## lämpötila ja kosteus
 
 Lämpötila ja kosteus mitataan automaattisesti antureiden kautta. Käytän niitä homeen muodostumisen estämiseen. Ne ovat pieniä ja valkoisia ja yleensä sijaitsevat ovenkarmeilla. Voit lukea osan mittaustiedoista käytävän peilistä.
 
@@ -121,7 +121,9 @@ Lämpötila ja kosteus mitataan automaattisesti antureiden kautta. Käytän niit
 
 Pihallamme voit yhdistää pyöräsi ja viedä roskat.
 
-!\[[./_sketches/map-surrounding.png]]
+\_sketches/map-rooms-details.png
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### Miten ovi aukeaa?
 

@@ -33,7 +33,7 @@ Veya bu QR kodunu tararsınız, sizi otomatik olarak ağa bağlayacaktır:
 
 # Odalar
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## Mutfak
 
@@ -121,7 +121,9 @@ Sıcaklık ve nem sensörler aracılığıyla otomatik olarak ölçülür. Küf 
 
 Avlumuzda bisikletlerinizi bağlayabilir ve çöplerinizi atabilirsiniz.
 
-!\[[./_sketches/map-surrounding.png]]
+\_sketches/harita-oda-detayları.png
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### Kapı nasıl açılıyor?
 

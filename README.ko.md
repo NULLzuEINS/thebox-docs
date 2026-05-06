@@ -33,7 +33,7 @@ Passwort: landungsbruecken
 
 # 객실
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## 주방
 
@@ -88,7 +88,7 @@ Passwort: thebox
 
 ### FAQ - 객실
 
-1.  표시등이 켜지지 않거나 심하게 깜박입니다. 다채로운 버튼이 있는 소형 리모콘을 사용하세요.
+1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
 
 ### 화장실
 
@@ -121,7 +121,9 @@ Passwort: thebox
 
 안뜰에서는 자전거를 연결하고 쓰레기를 가져갈 수 있습니다.
 
-!\[[./_sketches/map-surrounding.png]]
+\_스케치/map-rooms-details.png
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### 문은 어떻게 열리나요?
 

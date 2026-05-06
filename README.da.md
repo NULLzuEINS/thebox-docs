@@ -100,7 +100,7 @@ Du kan hænge håndklæder på alle kroge og sætte dine ting hvor som helst. De
 
 ### Gang
 
-Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
+Du er velkommen til at efterlade dine sko her. Jeg har også en lille notesblok på hylden, hvis du vil fortælle mig noget.
 
 # Diverse
 
@@ -123,7 +123,7 @@ I vores gårdhave kan du tilslutte dine cykler og tage dit affald væk.
 
 \_sketches/map-rooms-details.png
 
-![Raumplan](_sketches/map-surrounding.png)
+![Außengelände](_sketches/map-surrounding.png)
 
 ### Hvordan åbner porten?
 
@@ -150,7 +150,7 @@ Mit der[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratis ture á 1
 
 ## Nøgle
 
--   Alt efter hvilken ugedag det er, kan vi sige farvel personligt, eller du kan blot lægge nøglerne på skrivebordet og lukke døren efter dig.
+-   Je nach dem welcher Wochentag ist, können wir uns persönlich verabschieden, oder du legst einfach die Schlüssel auf den Schreibtisch und ziehst die Tür hinter Dir zu.
 -   Seneste tidspunkt for udtjekning er kl. på afrejsedagen.
 
 ## rensning

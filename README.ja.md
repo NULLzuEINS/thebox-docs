@@ -33,7 +33,7 @@ Passwort: landungsbruecken
 
 # 部屋
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## 台所
 
@@ -55,7 +55,7 @@ Passwort: landungsbruecken
 ### FAQ - キッチン
 
 1.  ストーブが作動していませんか?言ってください
-    > "Computer, Werkbank an"
+    > 「コンピューター、作業台、そして」
 2.  どこで洗えばいいですか？これはバスルームでのみ機能します。食器を洗うための専用の容器があります。
 
 ## あなたの部屋
@@ -121,7 +121,9 @@ Passwort: thebox
 
 中庭では自転車を連結してゴミを持ち帰ることができます。
 
-!\[[./_sketches/map-surrounding.png]]
+\_sketches/map-rooms-details.png
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### ゲートはどうやって開くのですか？
 
@@ -153,7 +155,7 @@ Passwort: thebox
 
 ## クリーニング
 
--   Bettzeug kannst Du drauf lassen.
+-   寝具を置いたままにできます。
 -   食器も洗ってますし、
 -   ゴミも出します。
 

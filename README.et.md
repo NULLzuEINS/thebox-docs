@@ -33,9 +33,9 @@ Või skannite selle QR-koodi, ühendab see teid automaatselt võrku:
 
 # Ruumid
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
-## Küche
+## Köök
 
 Kuna ma söön tavaliselt perega allkorrusel, siis köök on väga spartalik. Pesemist saab kahjuks teha vaid vannitoas olevas kraanikausis. Aga pesemiseks on olemas spetsiaalne anum.
 
@@ -121,7 +121,9 @@ Temperatuuri ja niiskust mõõdetakse automaatselt andurite kaudu. Kasutan neid 
 
 Meie sisehoovis saate ühendada oma jalgrattad ja viia prügi ära.
 
-!\[[./_sketches/map-surrounding.png]]
+\_sketches/map-rooms-details.png
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### Kuidas värav avaneb?
 
