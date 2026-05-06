@@ -10,7 +10,7 @@ På min AirBnB får du en detaljert oversikt over alle rommene og fasilitetene. 
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| En seng konfigurasjon med sofa                                                         | Zwei-Bett-Konfiguration                                                       | Skrivebord                                                                              |
+| En seng konfigurasjon med sofa                                                         | Konfigurasjon med to senger                                                   | Skrivebord                                                                              |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Skrivebord med lys                                                                     | Kjøkken - komfyr                                                              | Kjøkken - te                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -33,7 +33,7 @@ Eller du skanner denne QR-koden, den vil automatisk koble deg til nettverket:
 
 # Rommene
 
-![Raumplan](_media/thebox-map.png)
+!\[[map-rooms-details.png]]
 
 ## Kjøkken
 
@@ -45,7 +45,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 1.  Flokk
 2.  Vannkoker
-3.  Tallerkener, bestikk
+3.  Geschirr, Besteck
 4.  Kjøleskap
 5.  Pizzaovn
 6.  mineralvann
@@ -80,7 +80,7 @@ Passwort: thebox
 
 Et gammelt tysk ordtak gjelder for alle fjernkontroller: «Å prøve er bedre enn å studere». Du kan ikke bryte noe. Trykk på noen få knapper og se hva som skjer. Hvis du fortsatt ønsker å studere, her er den rette lesestoffet for deg:
 
-| Abbildung                                                 | Beskrivelse                                                                                                                                                                                                               |
+| illustrasjon                                              | Beskrivelse                                                                                                                                                                                                               |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | A: Bluetoothbox<br>B: Fairy lights<br>C: Skrivebordslampe<br>D:_fil_<br>Mester: Bytt alt på samme tid                                                                                                                     |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Før du kan bruke den, sørg for at lysbryteren ved inngangen er satt til "på".**<br>Første linje: lysstyrke, på/av<br>Fargede knapper: Du kan bruke denne til å endre fargene<br>Grå knapper: Bytt mellom ulike effekter |
@@ -115,13 +115,12 @@ Det er ingen stemmeassistenter på rommet ditt. Kurven på hyllen inneholder kun
 
 Temperatur og fuktighet måles automatisk via sensorene. Jeg bruker dem for å hindre muggdannelse. De er små og hvite og ligger vanligvis på dørkarmer. Noen av måledataene kan du lese i speilet i gangen.
 
-?> Sørg for å ventilere regelmessig (minst en gang om dagen). Spesielt på badet. Pass også på at varmen er slått av. Takk 🙏
+?> Sørg for å ventilere regelmessig (minst en gang om dagen). Spesielt på badet. Takk 🙏 Varmen slår seg av automatisk når vinduet åpnes.
 
 ## Verftet
 
 På gårdsplassen vår kan du koble sammen syklene og ta bort søppelet ditt.
-
-![Innenhof](_media/thebox-map-surroundings.png)
+!\[[map-surrounding.png]]
 
 ### Hvordan åpnes porten?
 
