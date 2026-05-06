@@ -10,7 +10,7 @@ AirBnB'mde tüm odalara ve olanaklara ilişkin ayrıntılı bir genel bakış bu
 
 | ![Ein-Bett-Konfigutration](_media/rooms/zimmer-one.jpg ":class=img-zoomable")          | ![Zimmer - Schreibtisch](_media/rooms/zimmer-two.jpg ":class=img-zoomable")   | ![Zimmer - Schreibtisch](_media/rooms/zimmer-schreibtisch-01.jpg ":class=img-zoomable") |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Ein-Bett-Konfiguration mit Couch                                                       | İki yataklı konfigürasyon                                                     | Çalışma masası                                                                          |
+| Kanepeli tek yatak konfigürasyonu                                                      | İki yataklı konfigürasyon                                                     | Çalışma masası                                                                          |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
 | Işıklı çalışma masası                                                                  | Mutfak - ocak                                                                 | Mutfak - çay                                                                            |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
@@ -33,7 +33,7 @@ Veya bu QR kodunu tararsınız, sizi otomatik olarak ağa bağlayacaktır:
 
 # Odalar
 
-![Raumplan](_media/thebox-map.png)
+!\[[harita-odalar-detaylar.png]]
 
 ## Mutfak
 
@@ -78,7 +78,7 @@ Passwort: thebox
 
 ### Uzaktan kumandalar
 
-Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek çalışmaktan iyidir”. Hiçbir şeyi kıramazsınız. Birkaç düğmeye basın ve ne olacağını görün. Hala ders çalışmak istiyorsanız işte size uygun okumalar:
+Tüm uzaktan kumandalar için eski bir Alman atasözü geçerlidir: “Denemek çalışmaktan iyidir”. Hiçbir şeyi kıramazsın. Birkaç düğmeye basın ve ne olacağını görün. Hala ders çalışmak istiyorsanız işte size uygun okumalar:
 
 | illüstrasyon                                              | Tanım                                                                                                                                                                                                                                                 |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -115,13 +115,12 @@ Odanızda sesli asistan yok. Raftaki sepette yalnızca yönlendirici ve küçük
 
 Sıcaklık ve nem sensörler aracılığıyla otomatik olarak ölçülür. Küf oluşumunu engellemek için kullanıyorum. Küçük ve beyazdırlar ve genellikle kapı çerçevelerinde bulunurlar. Ölçüm verilerinin bir kısmını koridordaki aynadan okuyabilirsiniz.
 
-?> Lütfen düzenli olarak (günde en az bir kez) havalandırmayı unutmayın. Özellikle banyoda. Ayrıca ısıtmanın kapalı olduğundan emin olun. Teşekkür ederim 🙏
+?> Lütfen düzenli olarak (günde en az bir kez) havalandırmayı unutmayın. Özellikle banyoda. Teşekkürler 🙏 Pencere açıldığında ısıtma otomatik olarak kapanıyor.
 
 ## Bahçe
 
 Avlumuzda bisikletlerinizi bağlayabilir ve çöplerinizi atabilirsiniz.
-
-![Innenhof](_media/thebox-map-surroundings.png)
+!\[[harita-surrounding.png]]
 
 ### Kapı nasıl açılıyor?
 
@@ -142,7 +141,7 @@ Leipzig bisiklet dostu bir şehir. Şehri ikiye bölen büyük şehir parkı say
 
 ### Hangi alternatifler var?
 
-ile[Leipzig MOVE Uygulaması](https://leipzig-move.de/)için her biri 15 dakikalık 10 ücretsiz yolculuk kazanırsınız._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
+ile[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_. Bisikletlerinizi ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın. E-scooter'lar yalnızca belirli park yerlerine park edilebilir. Ayrıca halka açık bir araç paylaşım sistemi de bulunmaktadır. Bunun anlamı bizimle[Şehirflitzer](https://cityflitzer.de/). Ve elbette Leipzig MOVE uygulaması aracılığıyla ödeme yapabileceğiniz otobüsler ve trenler de var.
 
 # Çıkış yapmak
 
@@ -155,7 +154,7 @@ ile[Leipzig MOVE Uygulaması](https://leipzig-move.de/)için her biri 15 dakikal
 
 -   Üzerinde nevresim bırakabilirsiniz.
 -   Bulaşıkları da yıkıyorum
--   Çöpü de dışarı çıkarıyorum.
+-   Ben de çöpü dışarı çıkarıyorum.
 
 > Kısa versiyon: Anahtarı orada bırakın, kapıyı kapatın, bu kadar. 😀
 
@@ -188,7 +187,7 @@ Bittiğinde lütfen şarj istasyonuna geri koyun!
 
 # İpuçları
 
-ile[Leipzig MOVE Uygulaması](https://leipzig-move.de/)için her biri 15 dakikalık 10 ücretsiz yolculuk kazanırsınız._Sonraki bisikletler_.
+ile[Leipzig MOVE Uygulaması](https://leipzig-move.de/), her biri 15 dakikalık 10 ücretsiz sürüşe sahip olursunuz._Sonraki bisikletler_.
 Raf'ı ana caddelere (haritada mor) park etmezseniz daha pahalıya mal olacağını unutmayın.
 E-scooter'lar yalnızca belirli park yerlerine park edilebilir.
 
