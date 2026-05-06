@@ -60,8 +60,8 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 ## Rommet ditt
 
-Die Matratzen liegen nur zu Lagerung übereinander. Du kannst sie nach Deinen Bedürfnissen verteilen. 
-Wenn Du die Kissen auf der Couch durch eine Matratze ersetzt, eignet sie sich gut als Bett.
+Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem etter dine behov. 
+Bytter du ut putene på sofaen med en madrass, fungerer den fint som seng.
 
 ### Påloggingsdetaljene for datamaskinen (iMac) er
 
