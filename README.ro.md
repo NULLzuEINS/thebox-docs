@@ -16,7 +16,7 @@ Pe AirBnB-ul meu primești o imagine de ansamblu detaliată a tuturor camerelor 
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | Birou cu lumina                                                                        | Bucătărie - aragaz                                                            | Bucătărie - ceai                                                                        |
 
-## Cheie
+## Schlüssel
 
 Primești două perechi de chei, fiecare cu o cheie pentru partea de jos și una pentru partea de sus. Există, de asemenea, o cheie pe un breloc pe care o puteți folosi pentru a vă încuia camera.
 
@@ -33,7 +33,7 @@ Sau scanați acest cod QR, acesta vă va conecta automat la rețea:
 
 # Camerele
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## Bucătărie
 
@@ -121,7 +121,9 @@ Temperatura și umiditatea sunt măsurate automat prin intermediul senzorilor. L
 
 În curtea noastră vă puteți conecta bicicletele și vă puteți duce gunoiul.
 
-!\[[./_sketches/map-surrounding.png]]
+\_schițe/hartă-camere-detalii.png
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### Cum se deschide poarta?
 
