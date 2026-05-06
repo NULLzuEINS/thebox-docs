@@ -33,7 +33,7 @@ Tai skannaat tämän QR-koodin, se yhdistää sinut automaattisesti verkkoon:
 
 # Huoneet
 
-!\[[map-rooms-details.png]]
+!\[[./_sketches/map-rooms-details.png]]
 
 ## Keittiö
 
@@ -100,7 +100,7 @@ Voit ripustaa pyyhkeet kaikkiin koukkuihin ja laittaa tavarasi minne tahansa. Ky
 
 ### Käytävä
 
-Olet tervetullut jättämään kengät tänne. Minulla on myös pieni muistilehtiö hyllyssä siltä varalta, että haluat kertoa minulle jotain.
+Olet tervetullut jättämään kenkäsi tänne. Minulla on myös pieni muistilehtiö hyllyssä siltä varalta, että haluat kertoa minulle jotain.
 
 # Sekalaista
 
@@ -111,16 +111,17 @@ Voit myös irrottaa sen virtalähteestä.
 
 Huoneessasi ei ole ääniavustajia. Hyllyssä oleva kori sisältää vain reitittimen ja pienen tietokoneen.
 
-## lämpötila ja kosteus
+## Temperatur und Feuchtigkeit
 
 Lämpötila ja kosteus mitataan automaattisesti antureiden kautta. Käytän niitä homeen muodostumisen estämiseen. Ne ovat pieniä ja valkoisia ja yleensä sijaitsevat ovenkarmeilla. Voit lukea osan mittaustiedoista käytävän peilistä.
 
 ?> Varmista, että tuuletat säännöllisesti (vähintään kerran päivässä). Varsinkin kylpyhuoneessa. Kiitos 🙏 Lämmitys sammuu automaattisesti kun ikkuna avataan.
 
-## Piha
+## Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 Pihallamme voit yhdistää pyöräsi ja viedä roskat.
-!\[[map-surrounding.png]]
+
+!\[[./_sketches/map-surrounding.png]]
 
 ### Miten ovi aukeaa?
 
@@ -166,7 +167,7 @@ kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 mi
 
 Voit käyttää pesukonetta kysymättä ensin. Voit käyttää myös kuivaustelinettä, pesujauhetta ja huuhteluainetta. Jos haluat uudet vuodevaatteet, puhu minulle.
 
-## Käsiharja ja pölypannu
+## Käsiharja ja pölyliina
 
 Keittiöstä löytyy käsiharja ja seinälle sivellin. Tämä auttaa sinua pääsemään eroon pienestä lialta.
 
