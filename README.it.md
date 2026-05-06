@@ -46,7 +46,7 @@ Dato che di solito mangio al piano di sotto con la mia famiglia, la cucina è mo
 1.  Gregge
 2.  Bollitore
 3.  Piatti, posate
-4.  Frigorifero
+4.  Kühlschrank
 5.  Forno per pizze
 6.  acqua minerale
 7.  Stazione di ricarica per cellulare sullo scaffale
@@ -70,7 +70,7 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### Nella stanza sono disponibili le seguenti cose
+### Folgende Dinge stehen im Zimmer zur Verfügung
 
 1.  Tutti i mobili e i letti
 2.  Computer e stampanti
@@ -82,7 +82,7 @@ Per tutti i telecomandi vale un vecchio detto tedesco: “Provare è meglio che 
 
 | illustrazione                                             | Descrizione                                                                                                                                                                                                                                              |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Scatola Bluetooth<br>B: Lucine<br>C: Lampada da scrivania<br>D:_file_<br>Maestro: Cambia tutto allo stesso tempo                                                                                                                                      |
+| ![Lichter](_media/remotes/remote-lights.png ":size=100")  | R: Scatola Bluetooth<br>B: Lucine<br>C: Lampada da scrivania<br>D:_file_<br>Master: Alles gleichzeitig schalten                                                                                                                                          |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **Prima di poterlo utilizzare, assicurati che l'interruttore della luce all'ingresso sia impostato su "on".**<br>Prima riga: luminosità, on/off<br>Pulsanti colorati: puoi usarli per cambiare i colori<br>Pulsanti grigi: passa da un effetto all'altro |
 | ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Questo è il telecomando del computer (iMac)._Per utilizzare il computer, premere il pulsante A sul primo telecomando. Attiva l'alimentazione del computer e del box Bluetooth._                                                                          |
 
@@ -94,7 +94,7 @@ Per tutti i telecomandi vale un vecchio detto tedesco: “Provare è meglio che 
 
 Puoi usare la doccia stando in piedi. Non è un problema se il terreno si bagna un po'. Apri l'acqua solo a 1/3 e appendi il tappetino da bagno sopra il riscaldamento per asciugarlo.
 
-Die Alexa an der Wand hört auf den Namen "Computer" und spielt dir auch Deine Lieblingsmusik oder Radio. Z. B. "_Computer, riproduci Deutschlandfunk Nova_"
+L'Alexa sul muro si chiama "Computer" e riproduce anche la tua musica o radio preferita. Per esempio. "_Computer, riproduci Deutschlandfunk Nova_"
 
 Puoi appendere gli asciugamani a tutti i ganci e riporre le tue cose ovunque. C'è uno scaffale davanti alla porta del bagno. Un pezzo è tuo.
 
