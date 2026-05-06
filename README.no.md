@@ -33,11 +33,11 @@ Eller du skanner denne QR-koden, den vil automatisk koble deg til nettverket:
 
 # Rommene
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## Kjøkken
 
-Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
+Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk. Dessverre kan oppvask kun gjøres i vasken på badet. Men det er en spesiell beholder for oppvask.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -60,8 +60,8 @@ Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abw
 
 ## Rommet ditt
 
-Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem etter dine behov. 
-Bytter du ut putene på sofaen med en madrass, fungerer den fint som seng.
+Die Matratzen liegen nur zu Lagerung übereinander. Du kannst sie nach Deinen Bedürfnissen verteilen. 
+Wenn Du die Kissen auf der Couch durch eine Matratze ersetzt, eignet sie sich gut als Bett.
 
 ### Påloggingsdetaljene for datamaskinen (iMac) er
 
@@ -121,7 +121,9 @@ Temperatur og fuktighet måles automatisk via sensorene. Jeg bruker dem for å h
 
 På gårdsplassen vår kan du koble sammen syklene og ta bort søppelet ditt.
 
-!\[[./_sketches/map-surrounding.png]]
+\_sketches/map-rooms-details.png
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### Hvordan åpnes porten?
 
@@ -153,7 +155,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 ## rengjøring
 
--   Bettzeug kannst Du drauf lassen.
+-   Du kan la sengetøy ligge på den.
 -   Jeg vasker også oppvask og
 -   Jeg tar også ut søppelet.
 
