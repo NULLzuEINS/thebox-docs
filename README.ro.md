@@ -33,7 +33,7 @@ Sau scanați acest cod QR, acesta vă va conecta automat la rețea:
 
 # Camerele
 
-!\[[harta-camere-detalii.png]]
+!\[[./_sketches/map-rooms-details.png]]
 
 ## Bucătărie
 
@@ -117,10 +117,11 @@ Temperatura și umiditatea sunt măsurate automat prin intermediul senzorilor. L
 
 ?> Asigurați-vă că ventilați în mod regulat (cel puțin o dată pe zi). Mai ales în baie. Mulțumesc 🙏 Încălzirea se oprește automat când se deschide fereastra.
 
-## Curtea
+## Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 În curtea noastră vă puteți conecta bicicletele și vă puteți duce gunoiul.
-!\[[map-surrounding.png]]
+
+!\[[./_sketches/map-surrounding.png]]
 
 ### Cum se deschide poarta?
 
@@ -166,7 +167,7 @@ Cu[Aplicația Leipzig MOVE](https://leipzig-move.de/), primești 10 curse gratui
 
 Puteți folosi mașina de spălat fără a fi nevoie să întrebați mai întâi. De asemenea, puteți utiliza suportul de uscare, praful de spălat și balsam de rufe. Dacă vrei lenjerie de pat nouă, vorbește cu mine.
 
-## Perie de mână și recipient pentru praf
+## Perie de mână și paletă de praf
 
 În bucătărie veți găsi o perie de mână și o cutie de praf pe perete. Acest lucru vă va ajuta să scăpați de murdăria mică.
 
@@ -200,7 +201,7 @@ Dacă vă grăbiți, cel mai bine este să faceți acest lucru prin telefon <a 
 De asemenea, puteți utiliza aplicația de mesagerie preinstalată cu funcționalitate limitată (SMS).
 În rest, am un blocnotes și un pix pe hol.
 
-Vă doresc un sejur plăcut în Leipzig!
+Vă doresc o ședere plăcută în Leipzig!
 Andre
 
 * * *
