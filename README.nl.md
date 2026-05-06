@@ -123,7 +123,7 @@ Op onze binnenplaats kunt u uw fietsen aansluiten en uw afval meenemen.
 
 \_sketches/map-rooms-details.png
 
-![Raumplan](_sketches/map-surrounding.png)
+![Außengelände](_sketches/map-surrounding.png)
 
 ### Hoe gaat de poort open?
 
