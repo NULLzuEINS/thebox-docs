@@ -31,9 +31,9 @@ Oppure scansiona questo codice QR, ti collegherà automaticamente alla rete:
 
 ![WiFi](_media/wlan.png ":size=200")
 
-# Die Zimmer
+# Le stanze
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## Cucina
 
@@ -94,7 +94,7 @@ Per tutti i telecomandi vale un vecchio detto tedesco: “Provare è meglio che 
 
 Puoi usare la doccia stando in piedi. Non è un problema se il terreno si bagna un po'. Apri l'acqua solo a 1/3 e appendi il tappetino da bagno sopra il riscaldamento per asciugarlo.
 
-L'Alexa sul muro si chiama "Computer" e riproduce anche la tua musica o radio preferita. Per esempio. "_Computer, riproduci Deutschlandfunk Nova_"
+Die Alexa an der Wand hört auf den Namen "Computer" und spielt dir auch Deine Lieblingsmusik oder Radio. Z. B. "_Computer, riproduci Deutschlandfunk Nova_"
 
 Puoi appendere gli asciugamani a tutti i ganci e riporre le tue cose ovunque. C'è uno scaffale davanti alla porta del bagno. Un pezzo è tuo.
 
@@ -121,7 +121,9 @@ La temperatura e l'umidità vengono misurate automaticamente tramite i sensori. 
 
 Nel nostro cortile puoi collegare le tue biciclette e portare via la tua spazzatura.
 
-!\[[./_sketches/map-surrounding.png]]
+\_sketches/map-rooms-details.png
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### Come si apre il cancello?
 
@@ -159,7 +161,7 @@ Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite d
 
 > Versione breve: lascia lì la chiave, chiudi la porta, tutto qui. 😀
 
-# Längerer Aufenthalt
+# Soggiorno più lungo
 
 ?> Alcuni dei miei ospiti rimangono per un mese o più. Se sei uno di loro, allora questa sezione è per te!
 
