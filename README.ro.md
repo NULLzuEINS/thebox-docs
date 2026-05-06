@@ -33,7 +33,7 @@ Sau scanați acest cod QR, acesta vă va conecta automat la rețea:
 
 # Camerele
 
-![Raumplan](_media/thebox-map.png)
+!\[[harta-camere-detalii.png]]
 
 ## Bucătărie
 
@@ -115,13 +115,12 @@ Nu există asistenți vocali în camera dvs. Coșul de pe raft conține doar rou
 
 Temperatura și umiditatea sunt măsurate automat prin intermediul senzorilor. Le folosesc pentru a preveni formarea mucegaiului. Sunt mici și albe și de obicei se află pe tocurile ușilor. Puteți citi unele dintre datele de măsurare în oglinda de pe hol.
 
-?> Asigurați-vă că ventilați în mod regulat (cel puțin o dată pe zi). Mai ales în baie. De asemenea, asigurați-vă că încălzirea este oprită. Mulțumesc 🙏
+?> Asigurați-vă că ventilați în mod regulat (cel puțin o dată pe zi). Mai ales în baie. Mulțumesc 🙏 Încălzirea se oprește automat când se deschide fereastra.
 
 ## Curtea
 
 În curtea noastră vă puteți conecta bicicletele și vă puteți duce gunoiul.
-
-![Innenhof](_media/thebox-map-surroundings.png)
+!\[[map-surrounding.png]]
 
 ### Cum se deschide poarta?
 
