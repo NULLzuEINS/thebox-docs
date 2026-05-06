@@ -33,11 +33,11 @@ Eller du skanner denne QR-koden, den vil automatisk koble deg til nettverket:
 
 # Rommene
 
-!\[[map-rooms-details.png]]
+!\[[./_sketches/map-rooms-details.png]]
 
 ## Kjøkken
 
-Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk. Dessverre kan oppvask kun gjøres i vasken på badet. Men det er en spesiell beholder for oppvask.
+Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -45,7 +45,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 1.  Flokk
 2.  Vannkoker
-3.  Geschirr, Besteck
+3.  Tallerkener, bestikk
 4.  Kjøleskap
 5.  Pizzaovn
 6.  mineralvann
@@ -60,7 +60,7 @@ Siden jeg vanligvis spiser nede med familien min, er kjøkkenet veldig spartansk
 
 ## Rommet ditt
 
-Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem i henhold til dine behov. 
+Madrassene er plassert oppå hverandre kun for oppbevaring. Du kan distribuere dem etter dine behov. 
 Bytter du ut putene på sofaen med en madrass, fungerer den fint som seng.
 
 ### Påloggingsdetaljene for datamaskinen (iMac) er
@@ -117,10 +117,11 @@ Temperatur og fuktighet måles automatisk via sensorene. Jeg bruker dem for å h
 
 ?> Sørg for å ventilere regelmessig (minst en gang om dagen). Spesielt på badet. Takk 🙏 Varmen slår seg av automatisk når vinduet åpnes.
 
-## Verftet
+## Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 På gårdsplassen vår kan du koble sammen syklene og ta bort søppelet ditt.
-!\[[map-surrounding.png]]
+
+!\[[./_sketches/map-surrounding.png]]
 
 ### Hvordan åpnes porten?
 
@@ -152,7 +153,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 ## rengjøring
 
--   Du kan la sengetøy ligge på den.
+-   Bettzeug kannst Du drauf lassen.
 -   Jeg vasker også oppvask og
 -   Jeg tar også ut søppelet.
 
@@ -166,7 +167,7 @@ Med[Leipzig MOVE App](https://leipzig-move.de/), får du 10 gratisturer på 15 m
 
 Du kan bruke vaskemaskinen uten å måtte spørre først. Du kan også bruke tørkestativet, vaskepulver og tøymykner. Hvis du vil ha nytt sengetøy, bare snakk med meg.
 
-## Håndbørste og støvpanne
+## Håndbørste og støvbrett
 
 På kjøkkenet finner du en håndbørste og en feiebrett på veggen. Dette vil hjelpe deg å bli kvitt den lille skitten.
 
