@@ -33,7 +33,7 @@ Of u scant deze QR-code, deze verbindt u automatisch met het netwerk:
 
 # De kamers
 
-!\[[kaart-kamers-details.png]]
+!\[[./_sketches/map-rooms-details.png]]
 
 ## Keuken
 
@@ -46,7 +46,7 @@ Omdat ik meestal met mijn gezin beneden eet, is de keuken erg spartaans. Afwasse
 1.  Kudde
 2.  Ketel
 3.  Borden, bestek
-4.  Koelkast
+4.  Kühlschrank
 5.  Pizza-oven
 6.  mineraalwater
 7.  Oplaadstation voor mobiele telefoons op de plank
@@ -111,20 +111,21 @@ Je kunt hem ook eenvoudig loskoppelen van de stroom.
 
 Er zijn geen stemassistenten in uw kamer. In de mand op de plank bevinden zich alleen de router en een kleine computer.
 
-## temperatuur en vochtigheid
+## Temperatur und Feuchtigkeit
 
 Via de sensoren worden de temperatuur en luchtvochtigheid automatisch gemeten. Ik gebruik ze om schimmelvorming te voorkomen. Ze zijn klein en wit en liggen meestal op deurkozijnen. Een deel van de meetgegevens kun je aflezen in de spiegel in de gang.
 
 ?> Zorg ervoor dat u regelmatig ventileert (minstens één keer per dag). Vooral in de badkamer. Bedankt 🙏 De verwarming schakelt automatisch uit als het raam geopend wordt.
 
-## De tuin
+## De Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 Op onze binnenplaats kunt u uw fietsen aansluiten en uw afval meenemen.
-!\[[kaart-omringend.png]]
+
+!\[[./_sketches/map-surrounding.png]]
 
 ### Hoe gaat de poort open?
 
-Of je gebruikt de sleutel van de voordeur, of je reikt door het hek en voelt aan de knop om de deur te openen. Terwijl u de knop ingedrukt houdt, kunt u de deur openen.
+Entweder, du benutzt den Haustürschlüssel, oder du greift einmal durchs Tor und erfühlst den Knopf zum Öffnen der Tür. Während Du den Knopf gedrückt hältst, kannst du die Tür öffnen.
 
 ![Der Knopf öffnet Dir](_media/surroundings-button.jpg ":size=144")
 
@@ -136,8 +137,8 @@ Vraag je je af waarom de vuilnisbakken verschillende kleuren hebben? Als u het n
 
 ### Is mijn fiets veilig?
 
-Leipzig is een zeer fietsvriendelijke stad. Via het grote stadspark dat de stad in twee helften verdeelt, kun je op veel plekken komen en meestal door het platteland rijden.
-Als je de statistieken mag geloven, worden in Leipzig jaarlijks de meeste fietsen per hoofd van de bevolking gestolen. (1.539 gestolen fietsen per 100.000 inwoners) In de 15 jaar sinds ik hier aan de Hardenbergstraße woon, is er nog nooit een fiets gestolen en ken ik slechts één buurman wiens fiets uit zijn achtertuin is gestolen. Ik sluit hem altijd rechtstreeks aan op de reling.
+Leipzig ist eine sehr Fahrradfreundliche Stadt. Durch den großen Stadtpark der die Stadt in zwei hälften teilt, gelangt man an viele Orte und fährt dabei meist durchs Grüne.
+Glaubt man der Statistik, dann werden in Leipzig jährlich die meisten Fährräder pro Kopf gestohlen. (1.539 gestohlene Fahrräder pro 100.000 Einwohner) In den 15 Jahren seitdem ich hier in der Hardenbergstraße wohne, wurde mir allerdings noch nie ein Fahrrad gestohlen und ich weiß auch nur von einem Nachbarn, dem das Rad vom Hinterhof gestohlen wurde. Ich schließe es immer direkt am Geländer an.
 
 ### Welke alternatieven zijn er?
 
@@ -152,7 +153,7 @@ Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten va
 
 ## schoonmaak
 
--   Je kunt er beddengoed op laten liggen.
+-   Je kunt beddengoed erop laten liggen.
 -   Ik doe ook de afwas en
 -   Ik zet ook het afval buiten.
 
@@ -166,7 +167,7 @@ Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten va
 
 U kunt de wasmachine gebruiken zonder dat u dit eerst hoeft te vragen. Ook kun je gebruik maken van het droogrek, waspoeder en wasverzachter. Wilt u nieuw beddengoed, neem dan contact met mij op.
 
-## Handborstel en stofblik
+## Handborstel en blik
 
 In de keuken vind je een handveger en een blik aan de muur. Dit zal je helpen om het kleine vuil te verwijderen.
 
