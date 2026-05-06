@@ -33,7 +33,7 @@ Passwort: landungsbruecken
 
 # 房间
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## 厨房
 
@@ -60,8 +60,8 @@ Passwort: landungsbruecken
 
 ## 你的房间
 
-Die Matratzen liegen nur zu Lagerung übereinander. Du kannst sie nach Deinen Bedürfnissen verteilen. 
-Wenn Du die Kissen auf der Couch durch eine Matratze ersetzt, eignet sie sich gut als Bett.
+床垫叠放在一起仅用于存放目的。您可以根据您的需要分发它们。 
+如果你把沙发上的枕头换成床垫，它就可以很好地充当床。
 
 ### 计算机 (iMac) 的登录详细信息是
 
@@ -119,9 +119,11 @@ Passwort: thebox
 
 ## Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe！A
 
-In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
+在我们的庭院里，您可以连接自行车并带走垃圾。
 
-!\[[./_sketches/map-surrounding.png]]
+\_sketches/map-rooms-details.png
+
+![Raumplan](_sketches/map-surrounding.png)
 
 ### 门怎么打开？
 
