@@ -2,7 +2,7 @@
 
 Hej og velkommen til "Boksen"! Når jeg rejser, kan jeg også godt lide at bo i AirBnB's, og nogle gange ville jeg ønske, at jeg havde et stykke papir med alle de nødvendige oplysninger om overnatning, ind- og udtjekning, og dette er mit forsøg på at gøre det bedre.
 
-> [!En meddelelse]Jeg vil få dokumentet automatisk oversat til dit sprog. I hope it's somewhat understandable. If not, feel free to write me a message. I then try to improve it.
+> [!En meddelelse]Jeg vil få dokumentet automatisk oversat til dit sprog. Jeg håber det er lidt forståeligt. Hvis ikke, er du velkommen til at skrive en besked til mig. Så prøver jeg at forbedre det.
 
 ## Billeder
 
@@ -33,7 +33,7 @@ Eller du scanner denne QR-kode, den vil automatisk forbinde dig til netværket:
 
 # Værelserne
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## Køkken
 
@@ -63,7 +63,7 @@ Da jeg normalt spiser nedenunder med min familie, er køkkenet meget spartansk. 
 Madrasserne placeres kun oven på hinanden til opbevaringsformål. Du kan fordele dem efter dine behov. 
 Udskifter du puderne på sofaen med en madras, fungerer den godt som seng.
 
-### Die Zugangsdaten für den Computer (iMac) sind
+### Loginoplysningerne til computeren (iMac) er
 
 ```txt
 Nutzer:   thebox
@@ -92,7 +92,7 @@ Et gammelt tysk ordsprog gælder for alle fjernbetjeninger: "Det er bedre at pr�
 
 ### badeværelse
 
-You can use the shower while standing. Det er ikke noget problem, hvis jorden bliver lidt våd. Tænd kun for vandet 1/3 og hæng bademåtten over varmeren til tørre.
+Du kan bruge bruseren, mens du står. Det er ikke noget problem, hvis jorden bliver lidt våd. Tænd kun for vandet 1/3 og hæng bademåtten over varmeren til tørre.
 
 Alexaen på væggen går under navnet "Computer" og spiller også din yndlingsmusik eller radio. F.eks. "_Computer, spil Deutschlandfunk Nova_"
 
@@ -100,7 +100,7 @@ Du kan hænge håndklæder på alle kroge og sætte dine ting hvor som helst. De
 
 ### Gang
 
-Du er velkommen til at efterlade dine sko her. Jeg har også en lille notesblok på hylden, hvis du vil fortælle mig noget.
+Hier kannst Du gern deine Schuhe stehenlassen. Ich habe auch einen kleinen Notizblock auf dem Regal, falls Du mir etwas mitteilen möchtest.
 
 # Diverse
 
@@ -115,13 +115,15 @@ Der er ingen stemmeassistenter på dit værelse. Kurven på hylden indeholder ku
 
 Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre dannelse af skimmelsvamp. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
 
-?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Especially in the bathroom. Tak 🙏 Varmen slukker automatisk, når vinduet åbnes.
+?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Især på badeværelset. Tak 🙏 Varmen slukker automatisk, når vinduet åbnes.
 
 ## Der Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 I vores gårdhave kan du tilslutte dine cykler og tage dit affald væk.
 
-!\[[./_sketches/map-surrounding.png]]
+\_sketches/map-rooms-details.png
+
+![Raumplan](_sketches/map-surrounding.png)
 
 ### Hvordan åbner porten?
 
