@@ -34,7 +34,8 @@ Oder Du scannst diesen QR code ein, er verbindet dich automatisch mit dem Netz:
 
 # Die Zimmer
 
-![[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
+
 ## Küche
 
 Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
@@ -121,7 +122,9 @@ Die Temperatur und Feuchtigkeit werden automatisch über die Sensoren gemessen. 
 
 In unserem Innenhof kannst Du deine Fährräder anschließen, und deinen Müll wegbringen.
 
-![[./_sketches/map-surrounding.png]]
+_sketches/map-rooms-details.png
+
+![Raumplan](_sketches/map-surrounding.png)
 
 ### Wie geht das Tor auf?
 
