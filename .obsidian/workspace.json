@@ -39,14 +39,12 @@
             "id": "ef763941fc145797",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "_sketches/map-rooms-details.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "map-rooms-details"
             }
           }
         ],
@@ -198,27 +196,27 @@
   },
   "active": "ef763941fc145797",
   "lastOpenFiles": [
+    "_sketches/map-rooms-finanzamt.md",
+    "_sketches/map-rooms-finanzamt.png",
+    "_sketches/map-rooms-simple.png",
+    "_sketches/map-rooms-simple.md",
+    "_sketches/map-surrounding.md",
+    "_sketches/map-surrounding.png",
+    "_sketches/map-surrounding-key.png",
+    "_sketches/map-rooms-details.md",
+    "README.md",
     "README.ru.md",
     "README.fi.md",
     "README.es.md",
-    "README.md",
     "README.fr.md",
     "README.pl.md",
     "_sketches/remotes.md",
     "_sketches/remotes.png",
-    "_sketches/map-surrounding.md",
     "_sketches/map-rooms-details.png",
     "_sketches/map-rooms.md",
     "_sketches/map-rooms.png",
-    "_sketches/map-rooms-details.md",
-    "_sketches/map-rooms-simple.png",
-    "_sketches/map-rooms-simple.md",
     "_sketches/map-surrounding-key.md",
-    "_sketches/map-surrounding-key.png",
-    "_sketches/map-surrounding.png",
     "icon-512x512.png",
-    "_sketches/map-rooms-finazamt.md",
-    "_sketches/map-rooms-finazamt.png",
     "_sketches/map-rooms-simple.excalidraw.md",
     "_sketches/map-rooms-simple.excalidraw.png",
     "en/_coverpage.md",
@@ -233,7 +231,6 @@
     "README.sv.md",
     "README.sr.md",
     "README.pt.md",
-    "README.no.md",
     "Excalidraw",
     "_media/remotes",
     "_sketches",
