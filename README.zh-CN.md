@@ -50,7 +50,7 @@ Passwort: landungsbruecken
 5.  披萨烤箱
 6.  矿泉水
 7.  架子上的手机充电站
-8.  Waschmaschine
+8.  洗衣机
 
 ### 常见问题解答 - 厨房
 
@@ -88,7 +88,7 @@ Passwort: thebox
 
 ### 常见问题 - 您的房间
 
-1.  灯不亮或剧烈闪烁。使用带有彩色按钮的小型遥控器。
+1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
 
 ### 浴室
 
@@ -190,7 +190,7 @@ Passwort: thebox
 
 # 尖端
 
-Mit der [莱比锡 MOVE 应用程序](https://leipzig-move.de/)，您可以免费乘坐 10 次，每次 15 分钟_下一个自行车_。
+随着[莱比锡 MOVE 应用程序](https://leipzig-move.de/)，您可以免费乘坐 10 次，每次 15 分钟_下一个自行车_。
 请注意，如果您不在主要街道（地图上的紫色）上停放 Raf，费用会更高。
 电动滑板车只能停放在某些停车位。
 
