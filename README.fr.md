@@ -90,7 +90,7 @@ Un vieux dicton allemand s’applique à toutes les télécommandes : « Mieux v
 
 1.  La lumière ne s'allume pas ou clignote énormément. Utilisez les petites télécommandes aux boutons colorés.
 
-### Badezimmer
+### salle de bain
 
 Vous pouvez utiliser la douche debout. Ce n'est pas un problème si le sol est un peu mouillé. Ouvrez seulement 1/3 d'eau et suspendez le tapis de bain au-dessus du radiateur pour le faire sécher.
 
@@ -144,7 +144,7 @@ Si l’on en croit les statistiques, c’est à Leipzig que le plus grand nombre
 
 ### Quelles sont les alternatives ?
 
-Mit der [Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficiez de 10 trajets gratuits de 15 minutes chacun pour le_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement. Il existe également un système de covoiturage en free float. Cela veut dire avec nous[Cityflitzer](https://cityflitzer.de/). Et bien sûr, il existe des bus et des trains que vous pouvez également payer via l'application Leipzig MOVE.
+Avec le[Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéficiez de 10 trajets gratuits de 15 minutes chacun pour le_Suivantbikes_. A noter que cela coûte plus cher si vous ne garez pas vos vélos dans les rues principales (en violet sur le plan). Les scooters électriques ne peuvent être garés que sur certaines places de stationnement. Il existe également un système de covoiturage en free float. Cela veut dire avec nous[cityflitzer](https://cityflitzer.de/). Et bien sûr, il existe des bus et des trains que vous pouvez également payer via l'application Leipzig MOVE.
 
 # Vérifier
 
@@ -159,7 +159,7 @@ Mit der [Application MOVE de Leipzig](https://leipzig-move.de/), vous bénéfici
 -   Je fais aussi la vaisselle et
 -   Je sors aussi les poubelles.
 
-> Kurzfassung: Schlüssel da lassen, Tür zuziehen, das wars. 😀
+> Version courte : Laissez la clé là, fermez la porte, c'est tout. 😀
 
 # Séjour plus long
 
