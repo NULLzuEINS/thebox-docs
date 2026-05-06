@@ -33,7 +33,7 @@ Of u scant deze QR-code, deze verbindt u automatisch met het netwerk:
 
 # De kamers
 
-![Raumplan](_media/thebox-map.png)
+!\[[kaart-kamers-details.png]]
 
 ## Keuken
 
@@ -115,13 +115,12 @@ Er zijn geen stemassistenten in uw kamer. In de mand op de plank bevinden zich a
 
 Via de sensoren worden de temperatuur en luchtvochtigheid automatisch gemeten. Ik gebruik ze om schimmelvorming te voorkomen. Ze zijn klein en wit en liggen meestal op deurkozijnen. Een deel van de meetgegevens kun je aflezen in de spiegel in de gang.
 
-?> Zorg ervoor dat u regelmatig ventileert (minstens één keer per dag). Vooral in de badkamer. Zorg er ook voor dat de verwarming uitgeschakeld is. Bedankt 🙏
+?> Zorg ervoor dat u regelmatig ventileert (minstens één keer per dag). Vooral in de badkamer. Bedankt 🙏 De verwarming schakelt automatisch uit als het raam geopend wordt.
 
 ## De tuin
 
 Op onze binnenplaats kunt u uw fietsen aansluiten en uw afval meenemen.
-
-![Innenhof](_media/thebox-map-surroundings.png)
+!\[[kaart-omringend.png]]
 
 ### Hoe gaat de poort open?
 
@@ -153,7 +152,7 @@ Met de[Leipzig MOVE-app](https://leipzig-move.de/), krijg je 10 gratis ritten va
 
 ## schoonmaak
 
--   Je kunt beddengoed erop laten liggen.
+-   Je kunt er beddengoed op laten liggen.
 -   Ik doe ook de afwas en
 -   Ik zet ook het afval buiten.
 
