@@ -33,7 +33,7 @@ Or you scan this QR code, it will automatically connect you to the network:
 
 # The rooms
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## Kitchen
 
@@ -121,7 +121,9 @@ The temperature and humidity are automatically measured via the sensors. I use t
 
 In our courtyard you can connect your bikes and take away your rubbish.
 
-!\[[./_sketches/map-surrounding.png]]
+\_sketches/map-rooms-details.png
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### How does the gate open?
 
