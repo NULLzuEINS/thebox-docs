@@ -12,7 +12,7 @@
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | 소파가 포함된 침대 1개 구성                                                                       | 2베드 구성                                                                        | 책상                                                                                      |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| 조명이 있는 책상                                                                              | 주방 - 스토브                                                                      | 주방 - 차                                                                                  |
+| 조명이 있는 책상                                                                              | Küche - Herd                                                                  | 주방 - 차                                                                                  |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | 조명이 있는 책상                                                                              | 주방 - 스토브                                                                      | 주방 - 차                                                                                  |
 
@@ -84,11 +84,11 @@ Passwort: thebox
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | ![Lichter](_media/remotes/remote-lights.png ":size=100")  | 답: 블루투스박스<br>B: 요정 조명<br>C: 책상 램프<br>디:_파일_<br>마스터: 모든 것을 동시에 전환하세요                                                             |
 | ![Lichter](_media/remotes/remote-ceiling.png ":size=100") | **사용하시기 전, 입구의 전등 스위치가 '켜짐'으로 설정되어 있는지 확인하세요.**<br>첫 번째 줄: 밝기, 켜기/끄기<br>컬러 버튼: 이 버튼을 사용하여 색상을 변경할 수 있습니다.<br>회색 버튼: 다양한 효과 간 전환 |
-| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | Das ist die Fernbedienung für den Computer (iMac). _컴퓨터를 사용하려면 첫 번째 리모콘의 A 버튼을 누르세요. 컴퓨터와 Bluetooth 상자의 전원 공급 장치를 활성화합니다._      |
+| ![Lichter](_media/remotes/remote-imac.png ":size=100")    | 컴퓨터(iMac)용 리모컨입니다._컴퓨터를 사용하려면 첫 번째 리모콘의 A 버튼을 누르세요. 컴퓨터와 Bluetooth 상자의 전원 공급 장치를 활성화합니다._                                       |
 
 ### FAQ - 객실
 
-1.  Das Licht geht nicht an, oder blinkt ganz wild Benutze die kleine Fernbedienungen mit den bunten Tasten.
+1.  표시등이 켜지지 않거나 심하게 깜박입니다. 다채로운 버튼이 있는 소형 리모콘을 사용하세요.
 
 ### 화장실
 
