@@ -33,7 +33,7 @@ Passwort: landungsbruecken
 
 # Τα δωμάτια
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## Κουζίνα
 
@@ -121,7 +121,9 @@ Passwort: thebox
 
 Στην αυλή μας μπορείτε να συνδέσετε τα ποδήλατά σας και να απομακρύνετε τα σκουπίδια σας.
 
-!\[[./_sketches/map-surrounding.png]]
+\_sketches/map-rooms-details.png
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### Πώς ανοίγει η πύλη;
 
