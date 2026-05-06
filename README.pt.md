@@ -33,7 +33,7 @@ Ou você escaneia este código QR e ele o conectará automaticamente à rede:
 
 # Os quartos
 
-![Raumplan](_media/thebox-map.png)
+!\[[map-rooms-details.png]]
 
 ## Cozinha
 
@@ -115,13 +115,12 @@ Não há assistentes de voz em sua sala. A cesta na prateleira contém apenas o 
 
 A temperatura e a umidade são medidas automaticamente através dos sensores. Eu os uso para evitar a formação de mofo. Eles são pequenos e brancos e geralmente ficam nos batentes das portas. Você pode ler alguns dos dados de medição no espelho do corredor.
 
-?> Certifique-se de ventilar regularmente (pelo menos uma vez por dia). Principalmente no banheiro. Certifique-se também de que o aquecimento está desligado. Obrigado 🙏
+?> Certifique-se de ventilar regularmente (pelo menos uma vez por dia). Principalmente no banheiro. Obrigado 🙏 O aquecimento desliga-se automaticamente quando a janela é aberta.
 
 ## O quintal
 
 No nosso pátio você pode conectar suas bicicletas e levar seu lixo.
-
-![Innenhof](_media/thebox-map-surroundings.png)
+!\[[mapa-surrounding.png]]
 
 ### Como o portão abre?
 
