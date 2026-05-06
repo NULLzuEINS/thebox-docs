@@ -33,7 +33,7 @@ Passwort: landungsbruecken
 
 # Номера
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## Кухня
 
@@ -56,7 +56,7 @@ Passwort: landungsbruecken
 
 1.  Не работает печка? Пожалуйста, скажите
     > «Компьютер, верстак и»
-2.  Where can I wash up? Это работает только в ванной. Есть специальный контейнер для мытья посуды.
+2.  Где я могу помыться? Это работает только в ванной. Есть специальный контейнер для мытья посуды.
 
 ## Ваша комната
 
@@ -121,7 +121,9 @@ Alexa на стене называется «Компьютер» и также 
 
 В нашем дворе вы можете подключить свои велосипеды и вынести мусор.
 
-!\[[./_sketches/map-surrounding.png]]
+\_sketches/map-rooms-details.png
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### Как открываются ворота?
 
