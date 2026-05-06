@@ -12,7 +12,7 @@
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | صوفے کے ساتھ ایک بستر کی ترتیب                                                         | دو بستروں کی ترتیب                                                            | ڈیسک                                                                                    |
 | ![Zimmer -Schreibtisch](_media/rooms/zimmer-schreibtisch-02.jpg ":class=img-zoomable") | ![Küche - Herd](_media/rooms/kueche-herd.jpg ":class=img-zoomable")           | ![Küche Tee](_media/rooms/kueche-tee.jpg ":class=img-zoomable")                         |
-| روشنی کے ساتھ ڈیسک                                                                     | Küche - Herd                                                                  | کچن - چائے                                                                              |
+| روشنی کے ساتھ ڈیسک                                                                     | کچن - چولہا۔                                                                  | کچن - چائے                                                                              |
 | ![Zimmer -Couch](_media/rooms/zimmer-one-couch-01.jpg ":class=img-zoomable")           | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-02.jpg ":class=img-zoomable") | ![Zimmer - Couch](_media/rooms/zimmer-one-couch-03.jpg ":class=img-zoomable")           |
 | روشنی کے ساتھ ڈیسک                                                                     | کچن - چولہا۔                                                                  | کچن - چائے                                                                              |
 
@@ -33,7 +33,7 @@ Passwort: landungsbruecken
 
 # کمرے
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## کچن
 
@@ -46,7 +46,7 @@ Passwort: landungsbruecken
 1.  ریوڑ
 2.  کیتلی
 3.  برتن، کٹلری
-4.  Kühlschrank
+4.  ریفریجریٹر
 5.  پیزا اوون
 6.  معدنی پانی
 7.  شیلف پر سیل فون چارجنگ اسٹیشن
@@ -121,7 +121,9 @@ Passwort: thebox
 
 ہمارے صحن میں آپ اپنی بائک کو جوڑ سکتے ہیں اور اپنا کوڑا اٹھا سکتے ہیں۔
 
-!\[[./_sketches/map-surrounding.png]]
+\_sketches/map-rooms-details.png
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### گیٹ کیسے کھلتا ہے؟
 
@@ -142,7 +144,7 @@ Passwort: thebox
 
 ### کیا متبادل ہیں؟
 
-کے ساتھ[لیپزگ موو ایپ](https://leipzig-move.de/)، آپ کو ہر ایک کے لیے 15 منٹ کی 10 مفت سواریاں ملتی ہیں۔_اگلی بائیکس_. نوٹ کریں کہ اگر آپ اپنی بائک کو مرکزی سڑکوں پر پارک نہیں کرتے ہیں تو اس کی قیمت زیادہ ہوتی ہے (نقشے پر ارغوانی)۔ ای سکوٹر صرف پارکنگ کی مخصوص جگہوں پر پارک کیے جا سکتے ہیں۔ ایک فری فلوٹ کار شیئرنگ سسٹم بھی ہے۔ یعنی ہمارے ساتھ[سٹی فلٹزر](https://cityflitzer.de/). اور یقیناً ایسی بسیں اور ٹرینیں ہیں جن کی ادائیگی آپ Leipzig MOVE ایپ کے ذریعے بھی کر سکتے ہیں۔
+کے ساتھ[لیپزگ موو ایپ](https://leipzig-move.de/)، آپ کو ہر ایک کے لیے 15 منٹ کی 10 مفت سواریاں ملتی ہیں۔_Nextbikes_. نوٹ کریں کہ اگر آپ اپنی بائک کو مرکزی سڑکوں پر پارک نہیں کرتے ہیں تو اس کی قیمت زیادہ ہوتی ہے (نقشے پر ارغوانی)۔ ای سکوٹر صرف پارکنگ کی مخصوص جگہوں پر پارک کیے جا سکتے ہیں۔ ایک فری فلوٹ کار شیئرنگ سسٹم بھی ہے۔ یعنی ہمارے ساتھ[سٹی فلٹزر](https://cityflitzer.de/). اور یقیناً ایسی بسیں اور ٹرینیں ہیں جن کی ادائیگی آپ Leipzig MOVE ایپ کے ذریعے بھی کر سکتے ہیں۔
 
 # چیک آؤٹ
 
