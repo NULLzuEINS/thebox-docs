@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1d630cf6cece67f9",
+        "id": "2fa790d6211e825d",
         "type": "tabs",
         "children": [
           {
-            "id": "2c4a3e7b3e56aad6",
+            "id": "ca4319311b2fcdde",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "icon-512x512.png"
+                "file": "_sketches/map-rooms-simple.png"
               },
               "icon": "lucide-image",
-              "title": "icon-512x512"
+              "title": "map-rooms-simple"
             }
           }
         ]
@@ -92,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "icon-512x512.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf icon-512x512"
+              "title": "Rückverweise"
             }
           },
           {
@@ -111,12 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "icon-512x512.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von icon-512x512 öffnen"
+              "title": "Ausgehende Links"
             }
           },
           {
@@ -140,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "icon-512x512.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von icon-512x512"
+              "title": "Gliederung"
             }
           }
         ]
@@ -168,8 +165,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c4a3e7b3e56aad6",
+  "active": "ca4319311b2fcdde",
   "lastOpenFiles": [
+    "_sketches/map-rooms-details.md",
+    "_sketches/map-rooms-details.png",
+    "README.md",
+    "icon-512x512.png",
     "_sketches/map-rooms-finazamt.md",
     "_sketches/map-rooms-finazamt.png",
     "_sketches/map-rooms.excalidraw.md",
@@ -177,8 +178,6 @@
     "_sketches/map-rooms-simple.png",
     "_sketches/map-rooms-simple.excalidraw.md",
     "_sketches/map-rooms-simple.excalidraw.png",
-    "_sketches/map-rooms-details.excalidraw.png",
-    "_sketches/map-rooms-details.excalidraw.md",
     "_sketches/map-surrounding.excalidraw.png",
     "_sketches/map-surrounding.excalidraw.md",
     "_sketches/map-surrounding-key.excalidraw.png",
@@ -186,14 +185,12 @@
     "_sketches/map-rooms.excalidraw.png",
     "en/_coverpage.md",
     "_coverpage.md",
-    "README.md",
     "README.zh-CN.md",
     "README.en.md",
     "README.vi.md",
     "_media/remotes/remote-imac.png",
     "_sketches/remotes.excalidraw.md",
     "_media/surroundings-button.jpeg",
-    "_media/thebox-map-surroundings.png",
     "_media/thebox-map-surroundings.png.md",
     "README.cs.md",
     "README.tr.md",
