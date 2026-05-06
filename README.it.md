@@ -31,9 +31,9 @@ Oppure scansiona questo codice QR, ti collegherà automaticamente alla rete:
 
 ![WiFi](_media/wlan.png ":size=200")
 
-# Le stanze
+# Die Zimmer
 
-!\[[map-rooms-details.png]]
+!\[[./_sketches/map-rooms-details.png]]
 
 ## Cucina
 
@@ -115,12 +115,13 @@ Non ci sono assistenti vocali nella tua stanza. Il cestino sullo scaffale contie
 
 La temperatura e l'umidità vengono misurate automaticamente tramite i sensori. Li uso per prevenire la formazione di muffe. Sono piccoli e bianchi e di solito si trovano sugli stipiti delle porte. Puoi leggere alcuni dati di misurazione nello specchio nel corridoio.
 
-?> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Danke 🙏 Die Heizung geht automatisch aus, wenn das Fenster geöffnet wird.
+?> Assicurati di ventilare regolarmente (almeno una volta al giorno). Soprattutto in bagno. Grazie 🙏 Il riscaldamento si spegne automaticamente quando si apre la finestra.
 
-## Il cortile
+## Il Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 Nel nostro cortile puoi collegare le tue biciclette e portare via la tua spazzatura.
-!\[[mappa-circostante.png]]
+
+!\[[./_sketches/map-surrounding.png]]
 
 ### Come si apre il cancello?
 
@@ -158,7 +159,7 @@ Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite d
 
 > Versione breve: lascia lì la chiave, chiudi la porta, tutto qui. 😀
 
-# Soggiorno più lungo
+# Längerer Aufenthalt
 
 ?> Alcuni dei miei ospiti rimangono per un mese o più. Se sei uno di loro, allora questa sezione è per te!
 
@@ -166,7 +167,7 @@ Con il[App MOVE di Lipsia](https://leipzig-move.de/), ricevi 10 corse gratuite d
 
 È possibile utilizzare la lavatrice senza dover chiedere prima. È possibile utilizzare anche lo stendino, il detersivo e l'ammorbidente. Se desideri una nuova biancheria da letto, parlami.
 
-## Spazzola a mano e paletta per la polvere
+## Spazzola a mano e paletta
 
 In cucina troverete una spazzola a mano e una paletta appesa al muro. Questo ti aiuterà a sbarazzarti del piccolo sporco.
 
