@@ -33,7 +33,7 @@ Passwort: landungsbruecken
 
 # Собе
 
-!\[[./_sketches/map-rooms-details.png]]
+![Raumplan](_sketches/map-rooms-details.png)
 
 ## Кухиња
 
@@ -121,7 +121,9 @@ Passwort: thebox
 
 У нашем дворишту можете спојити своје бицикле и однети своје смеће.
 
-!\[[./_sketches/map-surrounding.png]]
+\_скице/мап-роомс-детаилс.пнг
+
+![Außengelände](_sketches/map-surrounding.png)
 
 ### Како се капија отвара?
 
