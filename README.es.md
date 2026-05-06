@@ -33,7 +33,7 @@ O escaneas este código QR, te conectará automáticamente a la red:
 
 # las habitaciones
 
-!\[[mapa-habitaciones-detalles.png]]
+!\[[./_sketches/map-rooms-details.png]]
 
 ## Cocina
 
@@ -44,7 +44,7 @@ Como suelo comer abajo con mi familia, la cocina es muy espartana. Desafortunada
 ### Las siguientes cosas están disponibles en la cocina.
 
 1.  Rebaño
-2.  Pava
+2.  Wasserkocher
 3.  platos, cubiertos
 4.  Refrigerador
 5.  horno para pizzas
@@ -117,10 +117,11 @@ La temperatura y la humedad se miden automáticamente a través de los sensores.
 
 ?> Asegúrese de ventilar regularmente (al menos una vez al día). Especialmente en el baño. Gracias 🙏 La calefacción se apaga automáticamente cuando se abre la ventana.
 
-## el patio
+## El Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 En nuestro patio podréis conectar vuestras bicicletas y retirar la basura.
-!\[[mapa-alrededor.png]]
+
+!\[[./_sketches/map-surrounding.png]]
 
 ### ¿Cómo se abre la puerta?
 
@@ -141,7 +142,7 @@ Si nos fijamos en las estadísticas, en Leipzig se roban cada año el mayor núm
 
 ### ¿Qué alternativas hay?
 
-Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para el_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[ciudadflitzer](https://cityflitzer.de/). Y, por supuesto, hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
+Con el[Aplicación Leipzig MOVE](https://leipzig-move.de/), obtienes 10 viajes gratis de 15 minutos cada uno para el_Siguientebicicletas_. Tenga en cuenta que cuesta más si no aparca las bicicletas en las calles principales (moradas en el mapa). Los patinetes eléctricos solo se pueden aparcar en determinadas plazas de aparcamiento. También existe un sistema de uso compartido de vehículos free-float. Eso significa con nosotros[cityflitzer](https://cityflitzer.de/). Y, por supuesto, hay autobuses y trenes que también puedes pagar a través de la aplicación Leipzig MOVE.
 
 # Verificar
 
@@ -205,4 +206,4 @@ andré
 
 * * *
 
-_Hecho con ❤️ por [docsificar](https://docsify.js.org/)_
+_Made with ❤️ by  [docsificar](https://docsify.js.org/)_
