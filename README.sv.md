@@ -33,7 +33,7 @@ Eller så skannar du den här QR-koden, den ansluter dig automatiskt till nätve
 
 # Rummen
 
-![Raumplan](_media/thebox-map.png)
+!\[[map-rooms-details.png]]
 
 ## Kök
 
@@ -115,13 +115,12 @@ Det finns inga röstassistenter i ditt rum. Korgen på hyllan innehåller bara r
 
 Temperaturen och luftfuktigheten mäts automatiskt via sensorerna. Jag använder dem för att förhindra mögelbildning. De är små och vita och brukar ligga på dörrkarmar. Du kan läsa en del av mätdata i spegeln i korridoren.
 
-?> Se till att ventilera regelbundet (minst en gång om dagen). Speciellt i badrummet. Se också till att värmen är avstängd. Tack 🙏
+?> Se till att ventilera regelbundet (minst en gång om dagen). Speciellt i badrummet. Tack 🙏 Värmen stängs av automatiskt när fönstret öppnas.
 
 ## Gården
 
 På vår innergård kan du koppla ihop dina cyklar och ta bort ditt skräp.
-
-![Innenhof](_media/thebox-map-surroundings.png)
+!\[[map-surrounding.png]]
 
 ### Hur öppnas porten?
 

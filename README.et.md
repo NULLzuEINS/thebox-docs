@@ -33,7 +33,7 @@ Või skannite selle QR-koodi, ühendab see teid automaatselt võrku:
 
 # Ruumid
 
-![Raumplan](_media/thebox-map.png)
+!\[[map-rooms-details.png]]
 
 ## Köök
 
@@ -115,13 +115,12 @@ Teie toas pole hääleabilisi. Riiulil olevas korvis on ainult ruuter ja väike 
 
 Temperatuuri ja niiskust mõõdetakse automaatselt andurite kaudu. Kasutan neid hallituse tekke vältimiseks. Need on väikesed ja valged ning asuvad tavaliselt ukseraamidel. Osa mõõtmisandmeid saate lugeda koridoris peeglist.
 
-?> Palun ventileerige regulaarselt (vähemalt kord päevas). Eriti vannitoas. Veenduge ka, et küte on välja lülitatud. Aitäh 🙏
+?> Palun ventileerige regulaarselt (vähemalt kord päevas). Eriti vannitoas. Aitäh 🙏 Akna avamisel lülitub küte automaatselt välja.
 
 ## Õue
 
 Meie sisehoovis saate ühendada oma jalgrattad ja viia prügi ära.
-
-![Innenhof](_media/thebox-map-surroundings.png)
+!\[[map-surrounding.png]]
 
 ### Kuidas värav avaneb?
 
@@ -149,7 +148,7 @@ Koos[Leipzigi MOVE rakendus](https://leipzig-move.de/), saate 10 tasuta sõitu, 
 ## Võti
 
 -   Olenevalt sellest, mis nädalapäev parajasti on, saame isiklikult hüvasti jätta või lihtsalt võtmed lauale panna ja ukse enda järel sulgeda.
--   Viimane väljamakse aeg on kell 19. lahkumise päeval.
+-   Viimane kassasse jõudmise aeg on kell 19. lahkumise päeval.
 
 ## puhastamine
 

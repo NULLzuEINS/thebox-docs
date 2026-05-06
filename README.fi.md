@@ -33,7 +33,7 @@ Tai skannaat tämän QR-koodin, se yhdistää sinut automaattisesti verkkoon:
 
 # Huoneet
 
-![Raumplan](_media/thebox-map.png)
+!\[[map-rooms-details.png]]
 
 ## Keittiö
 
@@ -115,13 +115,12 @@ Huoneessasi ei ole ääniavustajia. Hyllyssä oleva kori sisältää vain reitit
 
 Lämpötila ja kosteus mitataan automaattisesti antureiden kautta. Käytän niitä homeen muodostumisen estämiseen. Ne ovat pieniä ja valkoisia ja yleensä sijaitsevat ovenkarmeilla. Voit lukea osan mittaustiedoista käytävän peilistä.
 
-?> Varmista, että tuuletat säännöllisesti (vähintään kerran päivässä). Varsinkin kylpyhuoneessa. Varmista myös, että lämmitys on kytketty pois päältä. Kiitos 🙏
+?> Varmista, että tuuletat säännöllisesti (vähintään kerran päivässä). Varsinkin kylpyhuoneessa. Kiitos 🙏 Lämmitys sammuu automaattisesti kun ikkuna avataan.
 
 ## Piha
 
 Pihallamme voit yhdistää pyöräsi ja viedä roskat.
-
-![Innenhof](_media/thebox-map-surroundings.png)
+!\[[map-surrounding.png]]
 
 ### Miten ovi aukeaa?
 
@@ -138,18 +137,18 @@ Mietitkö, miksi roskakorit ovat erivärisiä? Jos olet epävarma, laita roskat 
 ### Onko pyöräni turvallinen?
 
 Leipzig on erittäin pyöräystävällinen kaupunki. Suuren kaupunkipuiston kautta, joka jakaa kaupungin kahteen osaan, pääsee moniin paikkoihin ja yleensä ajaa maaseudun halki.
-Jos uskot tilastoihin, Leipzigissä varastetaan vuosittain eniten polkupyöriä asukasta kohden. (1 539 varastettua polkupyörää 100 000 asukasta kohti) 15 vuoden aikana, kun olen asunut täällä Hardenbergstraßella, minulla ei ole koskaan varastettu polkupyörää ja tiedän vain yhden naapurin, jonka polkupyörä varastettiin hänen takapihaltaan. Yhdistän sen aina suoraan kaiteeseen.
+Jos uskot tilastoihin, Leipzigissä varastetaan vuosittain eniten polkupyöriä asukasta kohden. (1539 varastettua polkupyörää 100 000 asukasta kohden) 15 vuoden aikana siitä, kun olen asunut täällä Hardenbergstraßella, minulla ei ole koskaan varastettu polkupyörää ja tiedän vain yhden naapurin, jonka polkupyörä varastettiin hänen takapihaltaan. Yhdistän sen aina suoraan kaiteeseen.
 
 ### Mitä vaihtoehtoja on olemassa?
 
 kanssa[Leipzig MOVE -sovellus](https://leipzig-move.de/), saat 10 ilmaista 15 minuutin kyytiä_Seuraavat pyörät_. Huomaa, että se maksaa enemmän, jos et pysäköi polkupyöriäsi pääkaduille (violetti kartalla). E-skootterit saa pysäköidä vain tietyille pysäköintipaikoille. Siellä on myös vapaasti kelluva autonjakojärjestelmä. Se tarkoittaa meidän kanssamme[cityflitzer](https://cityflitzer.de/). Ja tietysti on busseja ja junia, jotka voit maksaa myös Leipzig MOVE -sovelluksen kautta.
 
-# Checkout
+# Kassalle
 
 ## Avain
 
 -   Riippuen siitä, mikä viikonpäivä on, voimme sanoa hyvästit henkilökohtaisesti tai voit laittaa avaimet pöydälle ja sulkea oven perässäsi.
--   Der späteste Zeitpunkt für den Checkout ist am Abreisetag 19 Uhr.
+-   Viimeisin maksuaika on klo 19. lähtöpäivänä.
 
 ## puhdistus
 
@@ -169,7 +168,7 @@ Voit käyttää pesukonetta kysymättä ensin. Voit käyttää myös kuivausteli
 
 ## Käsiharja ja pölypannu
 
-In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Damit bekommst du den kleinen Dreck weg.
+Keittiöstä löytyy käsiharja ja seinälle sivellin. Tämä auttaa sinua pääsemään eroon pienestä lialta.
 
 ## Pyyhi
 

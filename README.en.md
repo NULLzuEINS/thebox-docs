@@ -33,7 +33,7 @@ Or you scan this QR code, it will automatically connect you to the network:
 
 # The rooms
 
-![Raumplan](_media/thebox-map.png)
+!\[[map-rooms-details.png]]
 
 ## Kitchen
 
@@ -55,7 +55,7 @@ Since I usually eat downstairs with my family, the kitchen is very spartan. Unfo
 ### FAQ - Kitchen
 
 1.  Stove not working? Please say
-    > "Computer, Workbench an"
+    > "Computer, Werkbank an"
 2.  Where can I wash up? This only works in the bathroom. There is a special container for washing dishes.
 
 ## Your room
@@ -70,7 +70,7 @@ Nutzer:   thebox
 Passwort: thebox
 ```
 
-### The following things are available in the room
+### Folgende Dinge stehen im Zimmer zur Verfügung
 
 1.  All furniture and beds
 2.  Computers & Printers
@@ -115,13 +115,12 @@ There are no voice assistants in your room. The basket on the shelf only contain
 
 The temperature and humidity are automatically measured via the sensors. I use them to prevent mold formation. They are small and white and usually lie on door frames. You can read some of the measurement data in the mirror in the hallway.
 
-?> Please make sure to ventilate regularly (at least once a day). Especially in the bathroom. Also make sure that the heating is turned off. Thank you 🙏
+?> Please make sure to ventilate regularly (at least once a day). Especially in the bathroom. Thanks 🙏 The heating switches off automatically when the window is opened.
 
 ## The yard
 
 In our courtyard you can connect your bikes and take away your rubbish.
-
-![Innenhof](_media/thebox-map-surroundings.png)
+!\[[map-surrounding.png]]
 
 ### How does the gate open?
 

@@ -33,7 +33,7 @@ Lub zeskanuj ten kod QR, automatycznie połączy Cię z siecią:
 
 # Pokoje
 
-![Raumplan](_media/thebox-map.png)
+!\[[map-rooms-details.png]]
 
 ## Kuchnia
 
@@ -115,13 +115,12 @@ W Twoim pokoju nie ma asystentów głosowych. W koszyku na półce mieści się 
 
 Temperatura i wilgotność są mierzone automatycznie za pomocą czujników. Używam ich, aby zapobiec tworzeniu się pleśni. Są małe i białe i zwykle leżą na ościeżnicach drzwi. Część danych pomiarowych możesz odczytać w lustrze w przedpokoju.
 
-?> Pamiętaj o regularnej wentylacji (przynajmniej raz dziennie). Zwłaszcza w łazience. Upewnij się także, że ogrzewanie jest wyłączone. Dziękuję 🙏
+?> Pamiętaj o regularnej wentylacji (przynajmniej raz dziennie). Zwłaszcza w łazience. Dzięki 🙏 Ogrzewanie wyłącza się automatycznie po otwarciu okna.
 
 ## Podwórko
 
 Na naszym dziedzińcu możesz podłączyć rowery i wywieźć śmieci.
-
-![Innenhof](_media/thebox-map-surroundings.png)
+!\[[map-surrounding.png]]
 
 ### Jak otwiera się brama?
 
@@ -133,7 +132,7 @@ Albo użyjesz klucza do drzwi wejściowych, albo sięgniesz przez bramę i poczu
 
 Zastanawiasz się dlaczego kosze na śmieci mają różne kolory? Jeżeli nie jesteś pewien, zawsze wrzucaj śmieci do zielonego kosza. Tam trafiają resztki odpadów. Profesjonaliści wrzucają odpady papierowe do niebieskiego pojemnika, surowce wtórne do żółtego, a odpady organiczne do brązowego.
 
-### Rowery
+### Fahrräder
 
 ### Czy mój rower jest bezpieczny?
 
@@ -192,7 +191,7 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych prz
 Pamiętaj, że kosztuje to więcej, jeśli nie parkujesz Rafa na głównych ulicach (fioletowy na mapie).
 Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
 
-Przewodniki turystyczne przechowuję w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
+Przechowuję przewodniki turystyczne w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
 
 # Pytania?
 

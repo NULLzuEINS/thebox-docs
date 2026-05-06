@@ -33,7 +33,7 @@ Ou vous scannez ce QR code, il vous connectera automatiquement au réseau :
 
 # Les chambres
 
-![Raumplan](_media/thebox-map.png)
+!\[[plan-pièces-details.png]]
 
 ## Cuisine
 
@@ -115,13 +115,12 @@ Il n'y a pas d'assistant vocal dans votre chambre. Le panier sur l'étagère con
 
 La température et l'humidité sont automatiquement mesurées via les capteurs. Je les utilise pour éviter la formation de moisissures. Ils sont petits et blancs et reposent généralement sur les encadrements de portes. Vous pouvez lire certaines données de mesure dans le miroir du couloir.
 
-?> Merci de veiller à aérer régulièrement (au moins une fois par jour). Surtout dans la salle de bain. Assurez-vous également que le chauffage est éteint. Merci 🙏
+?> Merci de veiller à aérer régulièrement (au moins une fois par jour). Surtout dans la salle de bain. Merci 🙏 Le chauffage s'éteint automatiquement à l'ouverture de la fenêtre.
 
 ## La cour
 
 Dans notre cour vous pourrez brancher vos vélos et emporter vos déchets.
-
-![Innenhof](_media/thebox-map-surroundings.png)
+!\[[carte-environnant.png]]
 
 ### Comment s'ouvre le portail ?
 

@@ -33,7 +33,7 @@ Eller du scanner denne QR-kode, den vil automatisk forbinde dig til netværket:
 
 # Værelserne
 
-![Raumplan](_media/thebox-map.png)
+!\[[map-rooms-details.png]]
 
 ## Køkken
 
@@ -115,13 +115,12 @@ Der er ingen stemmeassistenter på dit værelse. Kurven på hylden indeholder ku
 
 Temperatur og luftfugtighed måles automatisk via sensorerne. Jeg bruger dem til at forhindre dannelse af skimmelsvamp. De er små og hvide og ligger som regel på dørkarme. Du kan aflæse nogle af måledataene i spejlet på gangen.
 
-?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Især på badeværelset. Sørg også for, at varmen er slukket. Tak 🙏
+?> Sørg for at lufte ud regelmæssigt (mindst en gang om dagen). Især på badeværelset. Tak 🙏 Varmen slukker automatisk, når vinduet åbnes.
 
 ## Der Hof
 
 I vores gårdhave kan du tilslutte dine cykler og tage dit affald væk.
-
-![Innenhof](_media/thebox-map-surroundings.png)
+!\[[map-surrounding.png]]
 
 ### Hvordan åbner porten?
 
