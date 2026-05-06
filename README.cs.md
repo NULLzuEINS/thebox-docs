@@ -37,7 +37,7 @@ Nebo naskenujete tento QR kód, automaticky vás připojí k síti:
 
 ## Kuchyně
 
-Vzhledem k tomu, že obvykle jím v přízemí s rodinou, je kuchyně velmi spartánská. Bohužel, mytí lze provádět pouze v umyvadle v koupelně. Existuje však speciální nádoba na mytí nádobí.
+Da ich meist unten bei meiner Familie esse, ist die Küche sehr spartanisch. Abwaschen geht daher leider nur im Waschbecken im Badezimmer. Es gibt aber eine speziellen Behälter zum abwaschen.
 
 ![Küche](_media/rooms/kueche.jpg ":size=200")
 
@@ -171,7 +171,7 @@ Pračku můžete používat, aniž byste se museli nejprve ptát. Využít můž
 
 ## Ruční kartáč a lopatka
 
-V kuchyni najdete na zdi kartáč na ruce a lopatku. To vám pomůže zbavit se drobných nečistot.
+In der Küche findest Du an der Wand einen Handfeger und eine Kehrschaufel. Damit bekommst du den kleinen Dreck weg.
 
 ## Otřete
 
