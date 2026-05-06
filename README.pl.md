@@ -33,7 +33,7 @@ Lub zeskanuj ten kod QR, automatycznie połączy Cię z siecią:
 
 # Pokoje
 
-!\[[map-rooms-details.png]]
+!\[[./_sketches/map-rooms-details.png]]
 
 ## Kuchnia
 
@@ -117,10 +117,11 @@ Temperatura i wilgotność są mierzone automatycznie za pomocą czujników. Uż
 
 ?> Pamiętaj o regularnej wentylacji (przynajmniej raz dziennie). Zwłaszcza w łazience. Dzięki 🙏 Ogrzewanie wyłącza się automatycznie po otwarciu okna.
 
-## Podwórko
+## Hofimpchhrlvkdxedgugppagnzmbgsfkrdmjfbkppbahe!A
 
 Na naszym dziedzińcu możesz podłączyć rowery i wywieźć śmieci.
-!\[[map-surrounding.png]]
+
+!\[[./_sketches/map-surrounding.png]]
 
 ### Jak otwiera się brama?
 
@@ -132,7 +133,7 @@ Albo użyjesz klucza do drzwi wejściowych, albo sięgniesz przez bramę i poczu
 
 Zastanawiasz się dlaczego kosze na śmieci mają różne kolory? Jeżeli nie jesteś pewien, zawsze wrzucaj śmieci do zielonego kosza. Tam trafiają resztki odpadów. Profesjonaliści wrzucają odpady papierowe do niebieskiego pojemnika, surowce wtórne do żółtego, a odpady organiczne do brązowego.
 
-### Fahrräder
+### Rowery
 
 ### Czy mój rower jest bezpieczny?
 
@@ -166,7 +167,7 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych prz
 
 Możesz korzystać z pralki bez konieczności wcześniejszego pytania. Możesz także użyć suszarki, proszku do prania i płynu zmiękczającego do tkanin. Jeśli chcesz nową pościel, po prostu porozmawiaj ze mną.
 
-## Szczotka ręczna i pojemnik na kurz
+## Ręczna szczotka i szufelka
 
 W kuchni znajdziesz ręczną szczotkę i szufelkę na ścianie. Dzięki temu pozbędziesz się drobnych zabrudzeń.
 
@@ -191,7 +192,7 @@ Z[Aplikacja Lipsk MOVE](https://leipzig-move.de/), otrzymasz 10 bezpłatnych prz
 Pamiętaj, że kosztuje to więcej, jeśli nie parkujesz Rafa na głównych ulicach (fioletowy na mapie).
 Hulajnogi elektryczne można parkować wyłącznie na określonych miejscach parkingowych.
 
-Przechowuję przewodniki turystyczne w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
+Przewodniki turystyczne przechowuję w aplikacji AirBnB. Znajdziesz tam moje rekomendacje dotyczące zabytków, barów i pubów, sklepów i restauracji.
 
 # Pytania?
 
