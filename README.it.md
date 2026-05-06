@@ -33,7 +33,7 @@ Oppure scansiona questo codice QR, ti collegherà automaticamente alla rete:
 
 # Le stanze
 
-![Raumplan](_media/thebox-map.png)
+!\[[map-rooms-details.png]]
 
 ## Cucina
 
@@ -115,13 +115,12 @@ Non ci sono assistenti vocali nella tua stanza. Il cestino sullo scaffale contie
 
 La temperatura e l'umidità vengono misurate automaticamente tramite i sensori. Li uso per prevenire la formazione di muffe. Sono piccoli e bianchi e di solito si trovano sugli stipiti delle porte. Puoi leggere alcuni dati di misurazione nello specchio nel corridoio.
 
-?> Assicurati di ventilare regolarmente (almeno una volta al giorno). Soprattutto in bagno. Assicurati anche che il riscaldamento sia spento. Grazie 🙏
+?> Bitte achte darauf, regelmäßig (mindestens einmal am Tag) für zu lüften. Vor allem im Bad. Danke 🙏 Die Heizung geht automatisch aus, wenn das Fenster geöffnet wird.
 
 ## Il cortile
 
 Nel nostro cortile puoi collegare le tue biciclette e portare via la tua spazzatura.
-
-![Innenhof](_media/thebox-map-surroundings.png)
+!\[[mappa-circostante.png]]
 
 ### Come si apre il cancello?
 
